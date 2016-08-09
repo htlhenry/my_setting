@@ -3,13 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1470650171543">
+      <file name="/Dummy.txt" timestamp="1470712395289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/manage.py@superlists" timestamp="1470364102482">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" timestamp="1470705220763">
         <mark key="'" line="55" column="36" />
@@ -38,6 +35,17 @@
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1470709663048">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/.gitignore" timestamp="1470709391324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/views.py" timestamp="1470374054360">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="4" column="4" />
@@ -52,6 +60,8 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="57" column="8" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1470710661925" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/controllers/api/instances.py" timestamp="1470712269766" />
       <file name="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/tests.py" timestamp="1470374625151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -73,6 +83,11 @@
         <mark key="^" line="38" column="11" />
         <mark key="." line="38" column="11" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/controllers/api/__init__.py" timestamp="1470709484578">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/urls.py" timestamp="1470373575893">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="42" />
@@ -84,6 +99,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="24" column="59" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1470709600048">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/settings/common.py" timestamp="1470648663657">
         <mark key="'" line="41" column="14" />
@@ -154,41 +175,41 @@
       <jump line="39" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRhZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcy51cGRhdGUobGltaXQ9MTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcy51cGRhdGUoc3RhdHVzPTIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBsaXN0cyBpbXBvcnQgdmlld3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcy51cGRhdGUobGltaXQ9MTAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIERKQU5HT19TRVRUSU5HX01PRFVMRSA9ICJzdXBlcmxpc3RzLnNldHRpbmdzIgogICAgZm91bmQgPSByZXNvbHZlKCIvIikKICAgIHByaW50KGZvdW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFtcy51cGRhdGUoc3RhdHVzPTIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZvdW5kLmZ1bmMsICBob21lX3BhZ2UpCg==</text>
+        <text encoding="base64">ZnJvbSBsaXN0cyBpbXBvcnQgdmlld3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIERKQU5HT19TRVRUSU5HX01PRFVMRSA9ICJzdXBlcmxpc3RzLnNldHRpbmdzIgogICAgZm91bmQgPSByZXNvbHZlKCIvIikKICAgIHByaW50KGZvdW5kKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
