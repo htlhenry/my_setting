@@ -103,10 +103,10 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470974289176">
+      <file name="/Dummy.txt" timestamp="1470987422134">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/urls.py" timestamp="1470906186312">
         <mark key="[" line="12" column="37" />
@@ -228,11 +228,11 @@
       <jump line="88" column="12" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByaWNlX3N1bSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>hre</text>
