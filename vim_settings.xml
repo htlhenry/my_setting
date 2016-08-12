@@ -9,6 +9,9 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
+      <file name="/a.dummy" timestamp="1470985784661">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" timestamp="1470794224830">
         <mark key="'" line="55" column="36" />
         <mark key="[" line="39" column="0" />
@@ -35,17 +38,6 @@
         <mark key="]" line="6" column="44" />
         <mark key="^" line="6" column="44" />
         <mark key="." line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1470709663048">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="6" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/.gitignore" timestamp="1470722926336">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/__init__.py" timestamp="1470967060428">
         <mark key="[" line="6" column="0" />
@@ -86,17 +78,12 @@
         <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils.py" timestamp="1470967055218" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/controllers/api/__init__.py" timestamp="1470709484578">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1470974132877">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="96" column="73" />
-        <mark key="]" line="96" column="73" />
-        <mark key="." line="96" column="73" />
-        <mark key="^" line="96" column="73" />
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1470985824844">
+        <mark key="'" line="88" column="12" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="64" column="26" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/settings/common.py" timestamp="1470973535552">
         <mark key="[" line="40" column="12" />
@@ -116,10 +103,10 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470823013154">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1470974289176">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/urls.py" timestamp="1470906186312">
         <mark key="[" line="12" column="37" />
@@ -127,11 +114,11 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" timestamp="1470972754197">
-        <mark key="[" line="20" column="140" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" timestamp="1470983782492">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -237,43 +224,48 @@
       <jump line="19" column="7" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="31" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="8" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
+      <jump line="102" column="44" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
+      <jump line="88" column="12" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InslIHN0YXRpYyAiY3NzL2Jvb3RzdHJhcC1kYXRldGltZXBpY2tlci5taW4uY3NzIiAlfSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByaWNlX3N1bSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>hre</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNvZmZsaW5lX2N2bScpLkRhdGFUYWJsZSh7CiAgICAgICAgICAgICAgICAgICAgImxlbmd0aE1lbnUiOiBbWzEwLCAyNSwgNTAsIC0xXSwgWzEwLCAyNSwgNTAsICJhbGwiXV0sCiAgICAgICAgICAgICAgICAgICAgImFqYXgiOiBnZXRfZGF0YV91cmwsCiAgICAgICAgICAgICAgICAgICAgImNvbHVtbnMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsiZGF0YSI6ICJpbnN0YW5jZU5hbWUifSwKICAgICAgICAgICAgICAgICAgICAgICAgeyJkYXRhIjogImxhbklwIn0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsiZGF0YSI6ICJ3YW5JcCJ9LAogICAgICAgICAgICAgICAgICAgICAgICB7ImRhdGEiOiAib2ZmbGluZVRpbWUifSwKICAgICAgICAgICAgICAgICAgICAgICAgeyJkYXRhIjogInByaWNlIn0KICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9InslIHN0YXRpYyAiY3NzL2Jvb3RzdHJhcC1kYXRldGltZXBpY2tlci5taW4uY3NzIiAlfSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByaWNlX3N1bSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAic2VhcmNoaW5nIjogZmFsc2UsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IyAgICAgICAgICAgIDx0Zm9vdD4jfQp7IyAgICAgICAgICAgIDx0cj4jfQp7IyAgICAgICAgICAgICAgICA8dGg+TmFtZTwvdGg+I30KeyMgICAgICAgICAgICAgICAgPHRoPlBvc2l0aW9uPC90aD4jfQp7IyAgICAgICAgICAgICAgICA8dGg+T2ZmaWNlPC90aD4jfQp7IyAgICAgICAgICAgICAgICA8dGg+RXh0bi48L3RoPiN9CnsjICAgICAgICAgICAgICAgIDx0aD5TdGFydCBkYXRlPC90aD4jfQp7IyAgICAgICAgICAgICAgICA8dGg+U2FsYXJ5PC90aD4jfQp7IyAgICAgICAgICAgIDwvdHI+I30KeyMgICAgICAgICAgICA8L3Rmb290PiN9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicGFnaW5nIjogZmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
+        <text encoding="base64">eyMgICAgICAgICAgICAgICAgY29uc29sZS5sb2coanNvbi5kYXRhKTsjfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSnNvblJlc3BvbnNlKHsiY29kZSI6IDUwMCwgIm1lc3NhZ2UiOiAiZXJyb3IgcGFyYW1zIn0pCiAgICBmaW5hbGx5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBqc29uID0gdGFibGUuYWpheC5qc29uKCk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhqc29uLmRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGpzb24uZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5bXlzcWwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzcWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -296,8 +288,10 @@
       <history-cmd>
         <entry>30</entry>
         <entry>7</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry>q</entry>
+        <entry>q!</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>w</entry>
