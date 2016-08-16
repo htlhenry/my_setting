@@ -118,6 +118,14 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.BOLD_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ITALIC_QUOTED_TEXT_HTML_ENTITY">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -3304,6 +3312,14 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_BOLD_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="578252" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_BOLD_ITALIC_QUOTED_TEXT_HTML_ENTITY">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -3399,6 +3415,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_BOLD_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -3583,6 +3607,14 @@
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="776c5d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_ITALIC_QUOTED_TEXT_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="2e4d34" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="578252" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -12485,6 +12517,11 @@
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ff8000" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
