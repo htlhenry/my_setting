@@ -58,12 +58,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1471248086646">
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1471318382565">
         <mark key="'" line="133" column="15" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/db_client.py" timestamp="1470968809196">
         <mark key="'" line="31" column="1" />
@@ -104,6 +104,13 @@
         <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/managers/__init__.py" timestamp="1471317601137" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1471318556356">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1471307463980">
         <mark key="'" line="89" column="12" />
         <mark key="[" line="64" column="20" />
@@ -294,13 +301,15 @@
       <jump line="14" column="9" filename="$USER_HOME$/opt/product_project/authority_management/app.py" />
       <jump line="6" column="33" filename="$USER_HOME$/opt/product_project/auth_manage/manage.py" />
       <jump line="23" column="15" filename="$USER_HOME$/opt/product_project/auth_manage/manage.py" />
+      <jump line="19" column="3" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
+      <jump line="6" column="33" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWFzdGVyCg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWdzIGltcG9ydCBjb25maWcK</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>hre</text>
@@ -309,28 +318,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7lpJbnvZFJUDwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFzdGVyCg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWdzIGltcG9ydCBjb25maWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdzLmNvbmZpZyBpbXBvcnQgQVBQX1BPUlQK</text>
+        <text encoding="base64">bWFzdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWdzLmNvbmZpZyBpbXBvcnQgQVBQX1BPUlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1siU0VDUkVUX0tFWSJdID0gIkFCQzEyMyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
+        <text encoding="base64">YXBwLmNvbmZpZ1siU0VDUkVUX0tFWSJdID0gIkFCQzEyMyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19kZWJ1Z3Rvb2xiYXIgaW1wb3J0IERlYnVnVG9vbGJhckV4dGVuc2lvbgo=</text>
+        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dG9vbGJhciA9IERlYnVnVG9vbGJhckV4dGVuc2lvbihhcHApCg==</text>
+        <text encoding="base64">ZnJvbSBmbGFza19kZWJ1Z3Rvb2xiYXIgaW1wb3J0IERlYnVnVG9vbGJhckV4dGVuc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9vbGJhciA9IERlYnVnVG9vbGJhckV4dGVuc2lvbihhcHApCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,9 +370,9 @@
         <entry>q</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>20</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
