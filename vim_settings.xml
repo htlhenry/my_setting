@@ -130,8 +130,10 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_third_register.py" timestamp="1471424176701">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_third_register.py" timestamp="1471483978315">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/settings/__init__.py" timestamp="1470823059029">
         <mark key="[" line="10" column="0" />
@@ -139,12 +141,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_api_basic.py" timestamp="1471426229323">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_api_basic.py" timestamp="1471483990072">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/app/api/__init__.py" timestamp="1471315872318">
         <mark key="[" line="10" column="19" />
@@ -192,6 +193,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471483868127">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -316,10 +323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>hre</text>
@@ -328,31 +335,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7lpJbnvZFJUDwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2cK</text>
+        <text encoding="base64">ICAgICMgcmVxdWVzdC5hcmdzLmdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2cK</text>
+        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLm9wdGlvbnMoJy9hcGkvJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBpbmRleCgpOgogICAgaW5mb19sb2cuaW5mbygiYXBwLmNvbmZpZzoge30iLmZvcm1hdChhcHAuY29uZmlnKSkKICAgIHJldHVybiAnY29uZmlncy5jb25maWc6IHt9Jy5mb3JtYXQoYXBwLmNvbmZpZykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChydi5nZXRfZGF0YSgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdzIGltcG9ydCBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCJ0ZXN0IG9rISIsIHJ2LmRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChydikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdzLmNvbmZpZyBpbXBvcnQgQVBQX1BPUlQK</text>
+        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oImFwaSB0eXBlIHt9Ii5mb3JtYXQoYXBpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ1siU0VDUkVUX0tFWSJdID0gIkFCQzEyMyIK</text>
+        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBpbmRleCgpOgogICAgaW5mb19sb2cuaW5mbygiYXBwLmNvbmZpZzoge30iLmZvcm1hdChhcHAuY29uZmlnKSkKICAgIHJldHVybiAnY29uZmlncy5jb25maWc6IHt9Jy5mb3JtYXQoYXBwLmNvbmZpZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -375,14 +382,14 @@
       <history-cmd>
         <entry>30</entry>
         <entry>7</entry>
-        <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>q</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>20</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
