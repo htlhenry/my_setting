@@ -35,12 +35,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" timestamp="1471582418082">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" timestamp="1471582941915">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="43" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" timestamp="1468656122202">
         <mark key="'" line="22" column="11" />
@@ -220,13 +220,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471582497882">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471583142794">
         <mark key="p" line="10" column="0" />
         <mark key="'" line="86" column="51" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="55" />
-        <mark key="." line="87" column="55" />
-        <mark key="^" line="87" column="55" />
+        <mark key="[" line="89" column="63" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -370,11 +369,11 @@
       <jump line="32" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>api\/</text>
@@ -383,31 +382,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygic2VsZWN0IHJlc3VsdDoge30iLmZvcm1hdChsZW4ocmVzKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidHdpY2UgdGVzdCBydiBoYXMgYmVlbiBjcmVhdGU6IHt9Ii5mb3JtYXQocnYuZGF0YSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCwgNDAwKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgidHdpY2UgdGVzdCBydiBoYXMgYmVlbiBjcmVhdGU6IHt9Ii5mb3JtYXQocnYuZGF0YSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCwgNDAwKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3BkbC8iLCBkYXRhPWRpY3QocGRsX25hbWU9c2VsZi5wZGxfbmFtZSkpCiAgICAgICAgcHJpbnQoInR3aWNlIHRlc3QgcnYgaGFzIGJlZW4gY3JlYXRlOiB7fSIuZm9ybWF0KHJ2LmRhdGEpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDQwMCkKICAgICAgICByZXMgPSBqc29uLmxvYWRzKHJ2LmRhdGEpCiAgICAgICAgYXNzZXJ0ICJoYXMgYmVlbiBjcmVhdGVkIiBpbiByZXMuZ2V0KCJtZXNzYWdlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3BkbC8iLCBkYXRhPWRpY3QocGRsX25hbWU9c2VsZi5wZGxfbmFtZSkpCiAgICAgICAgcHJpbnQoInR3aWNlIHRlc3QgcnYgaGFzIGJlZW4gY3JlYXRlOiB7fSIuZm9ybWF0KHJ2LmRhdGEpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDQwMCkKICAgICAgICByZXMgPSBqc29uLmxvYWRzKHJ2LmRhdGEpCiAgICAgICAgYXNzZXJ0ICJoYXMgYmVlbiBjcmVhdGVkIiBpbiByZXMuZ2V0KCJtZXNzYWdlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oc3FsKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oc3FsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
