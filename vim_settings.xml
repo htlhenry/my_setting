@@ -9,7 +9,7 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1471500593111">
+      <file name="/a.dummy" timestamp="1471573064490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" timestamp="1470794224830">
@@ -31,6 +31,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" timestamp="1471573271173">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" timestamp="1468656122202">
         <mark key="'" line="22" column="11" />
@@ -203,13 +209,13 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471573024548">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471578165799">
         <mark key="p" line="10" column="0" />
-        <mark key="'" line="11" column="33" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="83" column="50" />
-        <mark key="." line="83" column="50" />
-        <mark key="^" line="83" column="50" />
+        <mark key="'" line="86" column="51" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -346,19 +352,21 @@
       <jump line="40" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_third_register.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_pdl_create.py" />
       <jump line="11" column="33" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="83" column="51" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidHdpY2UgdGVzdCBydiBoYXMgYmVlbiBjcmVhdGU6IHt9Ii5mb3JtYXQocnYuZGF0YSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>thrid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaXhfZGIuZGVsZXRlKCJkZWxldGUgZnJvbSB0aGlyZF9zeXN0ZW1fYXV0aG9yaXR5IHdoZXJlIGF1dGhvcml0eV9uYW1lID0ge30iLmZvcm1hdChzZWxmLmF1dGhvcml0eV9uYW1lXzEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygic2VsZWN0IHJlc3VsdDoge30iLmZvcm1hdChsZW4ocmVzKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgidHdpY2UgdGVzdCBydiBoYXMgYmVlbiBjcmVhdGU6IHt9Ii5mb3JtYXQocnYuZGF0YSkpCg==</text>
