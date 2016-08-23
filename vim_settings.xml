@@ -113,12 +113,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1471579007120">
+      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1471927023119">
         <mark key="'" line="6" column="33" />
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="49" />
         <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="38" />
+        <mark key="." line="22" column="49" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1471307463980">
         <mark key="'" line="89" column="12" />
@@ -213,13 +213,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471600698206">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471929894803">
         <mark key="p" line="10" column="0" />
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="106" column="90" />
-        <mark key="]" line="108" column="15" />
-        <mark key="." line="108" column="15" />
-        <mark key="^" line="108" column="15" />
+        <mark key="[" line="43" column="69" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="45" column="41" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -237,7 +236,6 @@
         <mark key="^" line="56" column="24" />
         <mark key="." line="57" column="8" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/models.py" timestamp="1471599375668" />
       <file name="$USER_HOME$/opt/product_project/auth_manage/configs/config.py" timestamp="1471252444894">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="11" />
@@ -277,11 +275,18 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1471590490566">
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1471928269588">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1471928283148">
+        <mark key="'" line="35" column="45" />
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="45" column="29" />
+        <mark key="." line="45" column="29" />
+        <mark key="^" line="45" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -376,13 +381,15 @@
       <jump line="108" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="21" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="40" column="100" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
+      <jump line="35" column="45" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>server_error</text>
@@ -391,31 +398,128 @@
         <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIiwgZGF0YT1kaWN0KHJvbGVfbmFtZT1zZWxmLnJvbGVfbmFtZSwpKQogICAgICAgIHJlcyA9IGpzb24ubG9hZHMocnYuZGF0YSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXMuZ2V0KCJjb2RlIiksIDQwMCkKICAgICAgICBhc3NlcnQgImludmFsaWQgcGFyYW0iIGluIHJlcy5nZXQoIm1lc3NhZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oInR5cGU6IHt9Ii5mb3JtYXQodHlwZShyb2xlX25hbWVfemgpKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqc29uLmxvYWRzKHJ2LmRhdGEpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1peF9kYi5pbnNlcnQoc3FsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShkaWN0KGNvZGU9NDAwLCBtZXNzYWdlPSJpbnZhbGlkIHBhcmFtcyB7fSIuZm9ybWF0KHJlcXVlc3QuZm9ybSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoImNvbmZpZ3MuZGV2X2NvbmZpZyIpLnRlc3RfY2xpZW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShkaWN0KGNvZGU9NDAwLCBtZXNzYWdlPSJpbnZhbGlkIHBhcmFtcyB7fSIuZm9ybWF0KHJlcXVlc3QuZm9ybSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXMpCg==</text>
+      <register name="6" type="4">
+        <text>@api.route('/system_register/', methods=[&quot;POST&quot;])
+def system_register():
+    info_log.info(&quot;POST params: {}&quot;.format(request.form))
+    system_name = request.form.get(&quot;system_name&quot;, False)
+    authority = re.compile(r'authority_name_\d+')
+    if system_name is not False:
+        try:
+            sql = &quot;SELECT system_name FROM third_system WHERE system_name = %(system_name)s&quot;
+            res = mix_db.query_all(sql, dict(system_name=system_name,))
+            info_log.info(&quot;select result: {}&quot;.format(len(res)))
+            error_log.error(&quot;select result: {}&quot;.format(len(res)))
+            if len(res) == 0:
+                sql = &quot;INSERT INTO third_system(system_name) VALUES(%(system_name)s)&quot;
+                mix_db.insert(sql, dict(system_name=system_name,))
+                code = 200
+                message = &quot;success register&quot;
+            else:
+                return jsonify(dict(code=400, message=&quot;{} has been registered&quot;.format(system_name)))
+
+            for i in request.form:
+                info_log.info(&quot;request form: {}&quot;.format(i))
+                if authority.match(i):
+                    sql = &quot;INSERT INTO third_system_authority(authority_name) VALUES(%(i)s)&quot;
+                    info_log.info(&quot;insert authority sql: {}&quot;.format(sql))
+                    mix_db.insert(sql, dict(i=request.form.get(i),))
+                else:
+                    continue
+            code = 200
+            message = &quot;success message&quot;
+            return jsonify(dict(code=code, message=message))
+        except IntegrityError, e:
+            error_log.error(&quot;insert system_name error: {}&quot;.format(e))
+            return jsonify(dict(code=400, message=&quot;{} has been registered&quot;.format(system_name)))
+        except Exception, e:
+            error_log.error(&quot;{}&quot;.format(e))
+            return  jsonify(dict(code=500, message=&quot;Internal Server Error&quot;))
+    else:
+        return jsonify(param_error)
+
+
+@api.route('/create_pdl/', methods=[&quot;POST&quot;])
+def create_pdl():
+    pdl_name = request.form.get(&quot;pdl_name&quot;, False)
+    if pdl_name is not False:
+        try:
+            sql = &quot;SELECT pdl_name FROM pdl WHERE pdl_name = %(pdl_name)s&quot;
+            res = mix_db.query_all(sql, dict(pdl_name=pdl_name,))
+            info_log.info(&quot;select result: {}&quot;.format(res))
+            if len(res) == 0:
+                sql = &quot;INSERT INTO pdl(pdl_name) VALUES(%(pdl_name)s)&quot;
+                info_log.info(sql)
+                mix_db.insert(sql, dict(pdl_name=pdl_name,))
+                code = 200
+                message = &quot;success create&quot;
+            else:
+                return jsonify(dict(code=400, message=&quot;{} has been created&quot;.format(pdl_name)))
+            return jsonify(dict(code=code, message=message))
+        except IntegrityError, e:
+            error_log.error(&quot;create pdl error: {}&quot;.format(e))
+            return jsonify(dict(code=400, message=&quot;{} has been created&quot;.format(pdl_name)))
+        except Exception, e:
+            error_log.error(&quot;{}&quot;.format(e))
+            return jsonify(dict(code=500, message=&quot;Internal Server Error&quot;))
+    else:
+        return jsonify(param_error)
+
+
+@api.route('/create_role/', methods=[&quot;POST&quot;])
+def create_role():
+    role_name = request.form.get(&quot;role_name&quot;, False)
+    role_name_zh = request.form.get(&quot;role_name_zh&quot;, False)
+    # info_log.info(&quot;type: {}&quot;.format(role_name_zh))
+    if isinstance(role_name_zh, unicode):
+        role_name_zh = role_name_zh.encode(&quot;utf8&quot;)
+    info_log.info(&quot;type: {}&quot;.format(role_name_zh))
+    if role_name is not False and role_name_zh is not False:
+        try:
+            sql = &quot;SELECT * FROM `role` WHERE `role_name` = %(role_name)s&quot;
+            res = mix_db.query_all(sql, dict(role_name=role_name,))
+            if len(res) == 0:
+                # sql = &quot;&quot;&quot;INSERT INTO role(role_name, role_name_zh) VALUES(%(role_name)s, %(role_name_zh)s))&quot;&quot;&quot;
+                # mix_db.insert(sql, dict(role_name=role_name, role_name_zh=role_name_zh))
+                sql = &quot;&quot;&quot;INSERT INTO role(role_name, role_name_zh) VALUES (%s, %s)&quot;&quot;&quot;
+
+                code = 200
+                message = &quot;success create role&quot;
+            else:
+                code = 400
+                message = &quot;{} has been created&quot;.format(role_name)
+            return jsonify(code=code, message=message)
+        except IntegrityError, e:
+            error_log.error(&quot;create role error, {}&quot;.format(e))
+            return jsonify(code=400, message=&quot;{} has been create&quot;.format(role_name))
+        # except Exception, e:
+        #     error_log.error(&quot;create role error, {}&quot;.format(e))
+        #     return jsonify(server_error)
+    else:
+        return jsonify(param_error)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCg==</text>
+        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oInR5cGU6IHt9Ii5mb3JtYXQodHlwZShyb2xlX25hbWVfemgpKSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidHdpY2UgdGVzdCBydiBoYXMgYmVlbiBjcmVhdGU6IHt9Ii5mb3JtYXQocnYuZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1peF9kYi5pbnNlcnQoc3FsKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -447,13 +551,13 @@
         <entry>q!</entry>
         <entry>20</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>wq</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">JzwsJz5zL2FwaVwvL2FwaVwvY3JlYXRlX3JvbGVcLy8=</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz5zL3NlcnZlcl9lcnJvci9wYXJhbV9lcnJvci8=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
