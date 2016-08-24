@@ -96,11 +96,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1472037211606">
-        <mark key="[" line="62" column="45" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="39" />
-        <mark key="^" line="63" column="39" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1472039009236">
+        <mark key="'" line="31" column="10" />
+        <mark key="[" line="67" column="102" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
+        <mark key="^" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qclound_tool/cvm_class.py" timestamp="1470646719841">
         <mark key="'" line="100" column="0" />
@@ -129,18 +130,18 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1471928269588">
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1472038564652">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472024156815">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472038253111">
         <mark key="'" line="35" column="45" />
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="34" />
-        <mark key="." line="50" column="34" />
-        <mark key="^" line="50" column="34" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="/Python Console" timestamp="1471578317883">
         <mark key="[" line="0" column="0" />
@@ -259,12 +260,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472036718664">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472038118761">
         <mark key="p" line="10" column="0" />
-        <mark key="[" line="83" column="42" />
-        <mark key="]" line="85" column="38" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
         <mark key="^" line="85" column="38" />
-        <mark key="." line="85" column="38" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -274,6 +275,12 @@
       </file>
       <file name="/MySQL Fragment (views.py:2151).sql" timestamp="1471571038001">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1472039412848">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/configs/config.py" timestamp="1471252444894">
         <mark key="[" line="16" column="8" />
@@ -395,13 +402,14 @@
       <jump line="40" column="100" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
       <jump line="35" column="45" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
+      <jump line="31" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShjb2RlPTQwMCwgbWVzc2FnZT0icmVsYXRpb25zaGlwIGhhcyBiZWVuIGNyZWF0ZWQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>server_error</text>
@@ -410,31 +418,31 @@
         <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIiwgZGF0YT1kaWN0KHJvbGVfbmFtZT1zZWxmLnJvbGVfbmFtZSwpKQogICAgICAgIHJlcyA9IGpzb24ubG9hZHMocnYuZGF0YSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXMuZ2V0KCJjb2RlIiksIDQwMCkKICAgICAgICBhc3NlcnQgImludmFsaWQgcGFyYW0iIGluIHJlcy5nZXQoIm1lc3NhZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShjb2RlPTQwMCwgbWVzc2FnZT0icmVsYXRpb25zaGlwIGhhcyBiZWVuIGNyZWF0ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHBhcmFtX2Vycm9yKQo=</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgcmV0dXJuIGpzb25pZnkoY29kZT1jb2RlLCBtZXNzYWdlPW1lc3NhZ2UpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oInJlbGF0ZSBhcGkgcmVxdWVzdCBwYXJhbXM6IHt9Ii5mb3JtYXQocmVxdWVzdC5mb3JtKSkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAjIOa1i+ivlemHjeWkjeaPkuWFpeaVsOaNrgogICAgICAgIHJ2ICA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvcmVsYXRlX3N5c3RlbV90YWdfcm9sZS8iLCBkYXRhPWRpY3Qoc3lzdGVtPXNlbGYuc3lzdGVtLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFnX2lkPXNlbGYudGFnX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9sZT1zZWxmLnJvbGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb2xlX25hbWVfemg9c2VsZi5yb2xlX25hbWVfemgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdXRob3JpdHlfMT1zZWxmLmF1dGhvcml0eV8xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzI9c2VsZi5hdXRob3JpdHlfMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dGhvcml0eV8zPXNlbGYuYXV0aG9yaXR5XzMpKQogICAgICAgIGRhdGEgPSBqc29uLmxvYWRzKHJ2LmRhdGEpCiAgICAgICAgIyBwcmludChkYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBwcmludCgiVGVzdENhc2U6IHt9Ii5mb3JtYXQoZGF0YSkpCiAgICAgICAgYXNzZXJ0ICJyZWxhdGlvbnNoaXAgaGFzIGJlZW4gY3JlYXRlZCIgaW4gZGF0YS5nZXQoIm1lc3NhZ2UiKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YS5nZXQoImNvZGUiKSwgNDAwKQogICAgICAgIHNxbCA9ICIiIlNFTEVDVCAqIEZST00gYHRhZ19yb2xlX3N5c3RlbV9yZWxgIFdIRVJFIGB0YWdfaWRgID0gJXMgQU5EIGByb2xlYCA9ICVzIEFORCBgc3lzdGVtYCA9ICVzIiIiCiAgICAgICAgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsIChzZWxmLnRhZ19pZCwgc2VsZi5yb2xlLCBzZWxmLnN5c3RlbSkpCiAgICAgICAgZm9yIGkgaW4gcmVzOgogICAgICAgICAgICAjIHByaW50KGkpCiAgICAgICAgICAgIGFzc2VydCBpLmdldCgiYXV0aG9yaXR5IiwgRmFsc2UpIGluIChzZWxmLmF1dGhvcml0eV8xLCBzZWxmLmF1dGhvcml0eV8yLCBzZWxmLmF1dGhvcml0eV8zKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShjb2RlPTQwMCwgbWVzc2FnZT0icmVsYXRpb25zaGlwIGhhcyBiZWVuIGNyZWF0ZWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMSA9IDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHBhcmFtX2Vycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb24sIGU6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oInJlbGF0ZSBhcGkgcmVxdWVzdCBwYXJhbXM6IHt9Ii5mb3JtYXQocmVxdWVzdC5mb3JtKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShjb2RlPWNvZGUsIG1lc3NhZ2U9bWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -472,9 +480,9 @@
         <entry>W</entry>
         <entry>11</entry>
         <entry>23</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
