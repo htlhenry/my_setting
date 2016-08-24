@@ -68,12 +68,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1471594671993">
-        <mark key="'" line="136" column="15" />
-        <mark key="[" line="120" column="31" />
-        <mark key="]" line="121" column="24" />
-        <mark key="." line="121" column="24" />
-        <mark key="^" line="121" column="24" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1472022942273">
+        <mark key="'" line="135" column="15" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/db_client.py" timestamp="1470968809196">
         <mark key="'" line="31" column="1" />
@@ -213,12 +212,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1471929894803">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472022858263">
         <mark key="p" line="10" column="0" />
-        <mark key="[" line="43" column="69" />
-        <mark key="]" line="45" column="41" />
-        <mark key="." line="45" column="41" />
-        <mark key="^" line="45" column="41" />
+        <mark key="[" line="42" column="77" />
+        <mark key="]" line="42" column="77" />
+        <mark key="." line="42" column="77" />
+        <mark key="^" line="42" column="80" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -281,12 +280,12 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1471928283148">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472022979704">
         <mark key="'" line="35" column="45" />
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="29" />
-        <mark key="^" line="45" column="29" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -385,11 +384,11 @@
       <jump line="35" column="45" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygqYSwgKiprdykK</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>server_error</text>
@@ -398,21 +397,27 @@
         <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIiwgZGF0YT1kaWN0KHJvbGVfbmFtZT1zZWxmLnJvbGVfbmFtZSwpKQogICAgICAgIHJlcyA9IGpzb24ubG9hZHMocnYuZGF0YSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXMuZ2V0KCJjb2RlIiksIDQwMCkKICAgICAgICBhc3NlcnQgImludmFsaWQgcGFyYW0iIGluIHJlcy5nZXQoIm1lc3NhZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqc29uLmxvYWRzKHJ2LmRhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygqYSwgKiprdykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygqYSwgKiprdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqc29uLmxvYWRzKHJ2LmRhdGEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoImNvbmZpZ3MuZGV2X2NvbmZpZyIpLnRlc3RfY2xpZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoIiIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IGNyZWF0ZV9hcHAoImNvbmZpZ3MuZGV2X2NvbmZpZyIpLnRlc3RfY2xpZW50KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>@api.route('/system_register/', methods=[&quot;POST&quot;])
 def system_register():
     info_log.info(&quot;POST params: {}&quot;.format(request.form))
@@ -512,14 +517,8 @@ def create_role():
     else:
         return jsonify(param_error)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oInR5cGU6IHt9Ii5mb3JtYXQodHlwZShyb2xlX25hbWVfemgpKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1peF9kYi5pbnNlcnQoc3FsKQo=</text>
+        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oInR5cGU6IHt9Ii5mb3JtYXQodHlwZShyb2xlX25hbWVfemgpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -556,8 +555,8 @@ def create_role():
         <entry encoding="base64">JzwsJz5zL3NlcnZlcl9lcnJvci9wYXJhbV9lcnJvci8=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
