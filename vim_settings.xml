@@ -116,12 +116,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1472116908968">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1472119280963">
         <mark key="'" line="25" column="7" />
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="36" column="7" />
-        <mark key="^" line="36" column="7" />
-        <mark key="." line="36" column="7" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="53" />
+        <mark key="^" line="49" column="53" />
+        <mark key="." line="49" column="53" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -267,13 +267,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472116798829">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472119006017">
         <mark key="p" line="10" column="0" />
         <mark key="'" line="123" column="34" />
-        <mark key="[" line="123" column="35" />
-        <mark key="]" line="124" column="44" />
-        <mark key="." line="124" column="44" />
-        <mark key="^" line="124" column="44" />
+        <mark key="[" line="123" column="29" />
+        <mark key="]" line="123" column="32" />
+        <mark key="." line="123" column="32" />
+        <mark key="^" line="123" column="32" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -421,10 +421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>excute</text>
@@ -433,31 +433,31 @@
         <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIiwgZGF0YT1kaWN0KHJvbGVfbmFtZT1zZWxmLnJvbGVfbmFtZSwpKQogICAgICAgIHJlcyA9IGpzb24ubG9hZHMocnYuZGF0YSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXMuZ2V0KCJjb2RlIiksIDQwMCkKICAgICAgICBhc3NlcnQgImludmFsaWQgcGFyYW0iIGluIHJlcy5nZXQoIm1lc3NhZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnYgPSBzZWxmLmFwcC5wb3N0KHNlbGYuX3VybCwgZGF0YT1kaWN0KHVzZXI9c2VsZi51c2VyLHJvbGU9c2VsZi5yb2xlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9c2VsZi51c2VyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnYgPSBzZWxmLmFwcC5wb3N0KHNlbGYuX3VybCwgZGF0YT1kaWN0KHVzZXI9c2VsZi51c2VyLHJvbGU9c2VsZi5yb2xlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI9c2VsZi51c2VyKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3FsOiB7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiIHNxbDp7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3FsOiB7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBxdWVyeV9hbGwoc2VsZiwgKmEsICoqa3cpOgogICAgICAgIGxvZy5pbmZvKCIgc3FsOnt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiIHNxbDp7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHIsIGxpc3QpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBxdWVyeV9hbGwoc2VsZiwgKmEsICoqa3cpOgogICAgICAgIGxvZy5pbmZvKCIgc3FsOnt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHIsIGxpc3QpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
