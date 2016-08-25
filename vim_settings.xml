@@ -166,12 +166,12 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1472033613819">
-        <mark key="'" line="136" column="15" />
-        <mark key="[" line="120" column="31" />
-        <mark key="]" line="121" column="41" />
-        <mark key="." line="121" column="41" />
-        <mark key="^" line="121" column="41" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1472111954141">
+        <mark key="'" line="75" column="57" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="81" column="49" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/db_client.py" timestamp="1470968809196">
         <mark key="'" line="31" column="1" />
@@ -260,12 +260,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472110916392">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472111510107">
         <mark key="p" line="10" column="0" />
-        <mark key="[" line="102" column="43" />
-        <mark key="]" line="102" column="63" />
-        <mark key="." line="102" column="63" />
-        <mark key="^" line="102" column="63" />
+        <mark key="[" line="104" column="102" />
+        <mark key="]" line="104" column="105" />
+        <mark key="." line="104" column="105" />
+        <mark key="^" line="104" column="105" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -276,11 +276,11 @@
       <file name="/MySQL Fragment (views.py:2151).sql" timestamp="1471571038001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1472110109644">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1472110979696">
         <mark key="'" line="23" column="33" />
-        <mark key="[" line="24" column="78" />
-        <mark key="]" line="24" column="108" />
-        <mark key="." line="24" column="108" />
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="108" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/configs/config.py" timestamp="1471252444894">
@@ -406,55 +406,56 @@
       <jump line="31" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" />
       <jump line="41" column="44" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" />
       <jump line="23" column="33" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" />
+      <jump line="75" column="57" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>server_error</text>
+        <text>excute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydiA9IHNlbGYuYXBwLnBvc3QoIi9hcGkvY3JlYXRlX3JvbGUvIiwgZGF0YT1kaWN0KHJvbGVfbmFtZT1zZWxmLnJvbGVfbmFtZSwpKQogICAgICAgIHJlcyA9IGpzb24ubG9hZHMocnYuZGF0YSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJ2LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXMuZ2V0KCJjb2RlIiksIDQwMCkKICAgICAgICBhc3NlcnQgImludmFsaWQgcGFyYW0iIGluIHJlcy5nZXQoIm1lc3NhZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHIsIGxpc3QpOgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygic3FsOiB7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcjoK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiIHNxbDp7fSIuZm9ybWF0KCphLCAqKmt3KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaSwgZGljdCk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBxdWVyeV9hbGwoc2VsZiwgKmEsICoqa3cpOgogICAgICAgIGxvZy5pbmZvKCIgc3FsOnt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpLmdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHIsIGxpc3QpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBsZW4ocmVzKSA+PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHJlcykgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaSwgZGljdCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpLmdldCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBsZW4ocmVzKSA+PSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgcmV0dXJuIGpzb25pZnkoY29kZT1jb2RlLCBtZXNzYWdlPW1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHJlcykgPT0gMDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>server_error</last-search>
+      <last-search>excute</last-search>
       <last-offset />
-      <last-pattern>server_error</last-pattern>
+      <last-pattern>excute</last-pattern>
       <last-replace>param_error</last-replace>
       <last-substitute>server_error</last-substitute>
       <last-dir>1</last-dir>
@@ -469,6 +470,7 @@
         <entry>thrid</entry>
         <entry>api\/</entry>
         <entry>server_error</entry>
+        <entry>excute</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -486,6 +488,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>81</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
