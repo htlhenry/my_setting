@@ -116,12 +116,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1472115232293">
-        <mark key="'" line="9" column="41" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="44" />
-        <mark key="^" line="32" column="44" />
-        <mark key="." line="32" column="44" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1472116908968">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="7" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -137,7 +137,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1472038564652">
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1472115868890">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
@@ -267,12 +267,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472115624410">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472116798829">
         <mark key="p" line="10" column="0" />
-        <mark key="[" line="116" column="54" />
-        <mark key="]" line="116" column="64" />
-        <mark key="." line="116" column="64" />
-        <mark key="^" line="116" column="64" />
+        <mark key="'" line="123" column="34" />
+        <mark key="[" line="123" column="35" />
+        <mark key="]" line="124" column="44" />
+        <mark key="." line="124" column="44" />
+        <mark key="^" line="124" column="44" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -414,15 +415,16 @@
       <jump line="41" column="44" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" />
       <jump line="23" column="33" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" />
       <jump line="75" column="57" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" />
-      <jump line="24" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
       <jump line="9" column="41" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
+      <jump line="123" column="34" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="24" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>excute</text>
@@ -458,7 +460,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcjoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -497,8 +499,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>81</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
