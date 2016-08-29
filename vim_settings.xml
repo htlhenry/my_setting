@@ -122,12 +122,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472440608804">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="31" column="45" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472441196192">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -280,13 +280,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472438475480">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472441058861">
         <mark key="p" line="10" column="0" />
-        <mark key="'" line="123" column="34" />
-        <mark key="[" line="144" column="46" />
-        <mark key="]" line="156" column="57" />
-        <mark key="." line="156" column="57" />
-        <mark key="^" line="156" column="57" />
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -331,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="17" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="75" column="11" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="22" column="11" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="4" column="7" filename="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/views.py" />
@@ -431,13 +430,14 @@
       <jump line="31" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
       <jump line="24" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="37" column="30" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="51" column="20" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9saXN0ID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw=</text>
@@ -446,31 +446,31 @@
         <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyhydi5kYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YS5nZXQoImNvZGUiKSwgMjAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGEuZ2V0KCJ1c2VyIiksIHNlbGYudXNlcikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkYXRhLmdldCgidGFnX3JvbGVfc2V0IikpLCAxKQogICAgICAgIHByaW50KCJ0ZXN0X2dldF90YWdfcm9sZToge30iLmZvcm1hdChkYXRhKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9saXN0ID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aG9yaXR5X3N1bSA9IDAK</text>
+        <text encoding="base64">ZnJvbSBweW15c3FsIGltcG9ydCBJbnRlZ3JpdHlFcnJvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdWNjZXNzX2NvZGUgPSAyMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdWNjZXNzX21lc3NhZ2UgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGF1dGhvcml0eV9zdW0gPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikKICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KGRpY3QoY29kZT1jb2RlLCBtZXNzYWdlPW1lc3NhZ2UpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocGFyYW1fZXJyb3IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aG9yaXR5X3N1bSArPSAxCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGNvZGUgPSAyMDAKICAgIG1lc3NhZ2UgPSAic3VjY2VzcyByZWdpc3RlciI=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzdW0gYXV0aG9yaXR5IHBhcmFtcyBudW1iZXIK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml0eV9zdW0gPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiA6Cg==</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBpZiBzeXN0ZW0gaXMgbm90IEZhbHNlOgogICAgICAgICAgICBmb3IgaSBpbiByZXF1ZXN0LmZvcm06CiAgICAgICAgICAgICAgICBpZiBhdXRob3JpdHlfcGF0dGVybi5tYXRjaChpKToKICAgICAgICAgICAgICAgICAgICAjIHN1bSBhdXRob3JpdHkgcGFyYW1zIG51bWJlcgogICAgICAgICAgICAgICAgICAgIGF1dGhvcml0eV9zdW0gKz0gMQogICAgICAgICAgICAgICAgICAgIHNxbCA9ICIiIlNFTEVDVCAqIEZST00gYHN5c3RlbV9yZWxgIFdIRVJFIGBzeXN0ZW1gID0gJXMgYW5kIGBhdXRob3JpdHlgID0gJXMiIiIKICAgICAgICAgICAgICAgICAgICByZXMgPSBtaXhfZGIucXVlcnlfYWxsKHNxbCwgKHN5c3RlbSwgcmVxdWVzdC5mb3JtLmdldChpKSkpCiAgICAgICAgICAgICAgICAgICAgaWYgbGVuKHJlcykgIT0gMDoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgICBzcWwgPSAiIiJJTlNFUlQgSU5UTyBgc3lzdGVtX3JlbGAgKGBzeXN0ZW1gLCBgYXV0aG9yaXR5YCkgVkFMVUVTICglcywgJXMpIiIiCiAgICAgICAgICAgICAgICAgICAgbWl4X2RiLmluc2VydChzcWwsIChzeXN0ZW0sIHJlcXVlc3QuZm9ybS5nZXQoaSkpKQogICAgICAgICAgICBpZiBhdXRob3JpdHlfc3VtID09IDA6CiAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoZGljdChjb2RlPWNvZGUsIG1lc3NhZ2U9bWVzc2FnZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocGFyYW1fZXJyb3IpCiAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3IsIGU6CiAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzeXN0ZW1fcmVnaXN0ZXIgZXJyb3Ise30iLmZvcm1hdChlKSkKICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikKICAgIGV4Y2VwdCBFeGNlcHRpb24sIGU6CiAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzeXN0ZW1fcmVnaXN0ZXIgZXJyb3Ise30iLmZvcm1hdChlKSkKICAgICAgICByZXR1cm4ganNvbmlmeShzZXJ2ZXJfZXJyb3IpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBpIGluICoqa3c6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -512,10 +512,11 @@
         <entry>23</entry>
         <entry>81</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4/PDw=</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>37</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
