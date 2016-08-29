@@ -122,11 +122,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472448473983">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472453060448">
         <mark key="'" line="19" column="30" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="44" />
+        <mark key="." line="81" column="44" />
+        <mark key="^" line="81" column="44" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -279,13 +280,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472448257395">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472452730090">
         <mark key="p" line="10" column="0" />
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="47" />
-        <mark key="." line="34" column="47" />
-        <mark key="^" line="34" column="47" />
+        <mark key="'" line="44" column="7" />
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="92" column="37" />
+        <mark key="." line="92" column="37" />
+        <mark key="^" line="92" column="37" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -330,8 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="7" filename="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/views.py" />
-      <jump line="72" column="22" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
       <jump line="49" column="34" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
       <jump line="55" column="6" filename="$USER_HOME$/data/Qcloud/qcloud/loadBalance.py" />
       <jump line="141" column="84" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
@@ -430,49 +429,51 @@
       <jump line="51" column="20" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="36" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="54" column="15" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
+      <jump line="60" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="44" column="7" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyhydi5kYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YS5nZXQoImNvZGUiKSwgMjAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGEuZ2V0KCJ1c2VyIiksIHNlbGYudXNlcikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkYXRhLmdldCgidGFnX3JvbGVfc2V0IikpLCAxKQogICAgICAgIHByaW50KCJ0ZXN0X2dldF90YWdfcm9sZToge30iLmZvcm1hdChkYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHRhZ191c2VyX3JvbGVfcmVsYCAoYHRhZ19pZGAsIGB1c2VyYCwgYHJvbGVgLCBgcm9sZV9uYW1lX3poYCkgdmFsdWVzICglcywgJXMsICVzLCAlcykiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcWwgPSAiIiJTRUxFQ1QgKiBGUk9NIGBzeXN0ZW1fcmVsYCBXSEVSRSBgc3lzdGVtYCA9ICVzIiIiCiAgICAgICAgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsIChzZWxmLnRlc3Rfc3lzdGVtKSkKICAgICAgICAjIHByaW50KHJlcykKICAgICAgICBmb3IgaSBpbiByZXM6CiAgICAgICAgICAgIGFzc2VydCBpLmdldCgiYXV0aG9yaXR5IikgaW4gKHNlbGYudGVzdF9hdXRob3JpdHlfMywgc2VsZi50ZXN0X2F1dGhvcml0eV8yLCBzZWxmLnRlc3RfYXV0aG9yaXR5XzEpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygidGVzdCBpbmZvIGxvZyByZWdpc3Rlciwgc3lzdGVtOiB7fSwgYXV0aG9yaXR5czoge30iLmZvcm1hdCh0eXBlKHN5c3RlbSksIGlzaW5zdGFuY2UoYXV0aG9yaXR5cywgbGlzdCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZlcl9lcnJvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oInRlc3QgaW5mbyBsb2cgcmVnaXN0ZXIsIHN5c3RlbToge30sIGF1dGhvcml0eXM6IHt9Ii5mb3JtYXQoaXNpbnN0YW5jIGlzaW5zdGFuY2UoYXV0aG9yaXR5cywgbGlzdCkpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCIiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aF9saXN0ID0gCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBweW15c3FsIGltcG9ydCBJbnRlZ3JpdHlFcnJvcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdWNjZXNzX2NvZGUgPSAyMDAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdWNjZXNzX21lc3NhZ2UgPSAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiU0VMRUNUICogRlJPTSBgdGFnX3VzZXJfcm9sZV9yZWxgIFdIRVJFIGB0YWdfaWRgID0gJXMgQU5EIGB1c2VyYCA9ICVzIEFORCBgcm9sZWAgPSAlcyBBTkQgYHJvbGVfbmFtZV96aGAgPSAlcyIiIgogICAgICAgICAgICByID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsICh0YWdfaWQsIHVzZXIsIHJvbGUsIHJvbGVfbmFtZV96aCkpCiAgICAgICAgICAgIGluZm9fbG9nLmRlYnVnKCJ0YWdfdXNlcl9yb2xlOiB7fSIuZm9ybWF0KHIpKQogICAgICAgICAgICBpZiBsZW4ocikgIT0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KGRpY3QoY29kZT00MDAsIG1lc3NhZ2U9ImhhcyBiZWVuIHJlbGF0ZSIpKQogICAgICAgICAgICBzcWwgPSAiIiJJTlNFUlQgSU5UTyBgdGFnX3VzZXJfcm9sZV9yZWxgIChgdGFnX2lkYCwgYHVzZXJgLCBgcm9sZWAsIGByb2xlX25hbWVfemhgKSB2YWx1ZXMgKCVzLCAlcywgJXMsICVzKSIiIgogICAgICAgICAgICBtaXhfZGIuaW5zZXJ0KHNxbCwgKHRhZ19pZCwgdXNlciwgcm9sZSwgcm9sZV9uYW1lX3poKSkKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoZGljdChjb2RlPWNvZGUsbWVzc2FnZT1tZXNzYWdlKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcik=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ocikgIT0gMDoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoZGljdChjb2RlPTQwMCwgbWVzc2FnZT0iaGFzIGJlZW4gcmVsYXRlIikpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgogICAgICAgICAgICBlcnJvcl9sb2cuZXJyb3IoInJlbGVhdGUgc3lzdGVtIHRhZyByb2xlIGVycm9yOiB7fSIuZm9ybWF0KGUpKQogICAgICAgICAgICByZXR1cm4gc2VydmVyX2Vycm9y</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz48</text>
       </register>
     </registers>
     <search>
@@ -511,13 +512,13 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4/PDw=</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>37</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>55</entry>
         <entry>W</entry>
         <entry>71</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
