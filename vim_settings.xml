@@ -122,12 +122,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472453060448">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472455047280">
         <mark key="'" line="19" column="30" />
-        <mark key="[" line="81" column="30" />
-        <mark key="]" line="81" column="44" />
-        <mark key="." line="81" column="44" />
-        <mark key="^" line="81" column="44" />
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="50" column="76" />
+        <mark key="." line="50" column="76" />
+        <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -280,13 +280,13 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472452730090">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1472453518509">
         <mark key="p" line="10" column="0" />
         <mark key="'" line="44" column="7" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="92" column="37" />
-        <mark key="." line="92" column="37" />
-        <mark key="^" line="92" column="37" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="123" column="27" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/celeryd.conf" timestamp="1470821238636">
         <mark key="[" line="28" column="13" />
@@ -433,8 +433,8 @@
       <jump line="44" column="7" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -446,31 +446,40 @@
         <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHRhZ191c2VyX3JvbGVfcmVsYCAoYHRhZ19pZGAsIGB1c2VyYCwgYHJvbGVgLCBgcm9sZV9uYW1lX3poYCkgdmFsdWVzICglcywgJXMsICVzLCAlcykiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIGF1dGhvcml0eSA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZlcl9lcnJvcgo=</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAyMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShkaWN0KGNvZGU9Y29kZSwgdGFnX2lkPXRhZ19pZCwgc3lzdGVtPXN5c3RlbSwgcm9sZT1yb2xlLCBhdXRob3JpdHk9YXV0aG9yaXR5KSkK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiU0VMRUNUICogRlJPTSBgdGFnX3VzZXJfcm9sZV9yZWxgIFdIRVJFIGB0YWdfaWRgID0gJXMgQU5EIGB1c2VyYCA9ICVzIEFORCBgcm9sZWAgPSAlcyBBTkQgYHJvbGVfbmFtZV96aGAgPSAlcyIiIgogICAgICAgICAgICByID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsICh0YWdfaWQsIHVzZXIsIHJvbGUsIHJvbGVfbmFtZV96aCkpCiAgICAgICAgICAgIGluZm9fbG9nLmRlYnVnKCJ0YWdfdXNlcl9yb2xlOiB7fSIuZm9ybWF0KHIpKQogICAgICAgICAgICBpZiBsZW4ocikgIT0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KGRpY3QoY29kZT00MDAsIG1lc3NhZ2U9ImhhcyBiZWVuIHJlbGF0ZSIpKQogICAgICAgICAgICBzcWwgPSAiIiJJTlNFUlQgSU5UTyBgdGFnX3VzZXJfcm9sZV9yZWxgIChgdGFnX2lkYCwgYHVzZXJgLCBgcm9sZWAsIGByb2xlX25hbWVfemhgKSB2YWx1ZXMgKCVzLCAlcywgJXMsICVzKSIiIgogICAgICAgICAgICBtaXhfZGIuaW5zZXJ0KHNxbCwgKHRhZ19pZCwgdXNlciwgcm9sZSwgcm9sZV9uYW1lX3poKSkKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoZGljdChjb2RlPWNvZGUsbWVzc2FnZT1tZXNzYWdlKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcik=</text>
+        <text>sql = &quot;&quot;&quot;SELECT `authority` FROM `tag_role_system_rel` WHERE `tag_id` = %s AND `role` = %s AND `role_name_zh` = %s AND `system` = %s&quot;&quot;&quot;
+            r =  mix_db.query_all(sql, (tag_id, role, role_name_zh, system))
+            if isinstance(r, list):
+                for i in r:
+                    authority.append(i.get(&quot;authority&quot;))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ocikgIT0gMDoK</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAyMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoZGljdChjb2RlPTQwMCwgbWVzc2FnZT0iaGFzIGJlZW4gcmVsYXRlIikpCg==</text>
+        <text encoding="base64">ICAgIHRhZ19yb2xlX3NldCA9IFtdCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>sql = &quot;&quot;&quot;SELECT `tag_id`, `role`, `role_name_zh` FROM `tag_user_role_rel` WHERE `user` = %s&quot;&quot;&quot;
+        r = mix_db.query_all(sql, (user))
+        if isinstance(r, list):
+            for i in r:
+                tag_role_set.append(i)
+        return jsonify(dict(code=code, user=user, tag_role_set=tag_role_set))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgogICAgICAgICAgICBlcnJvcl9sb2cuZXJyb3IoInJlbGVhdGUgc3lzdGVtIHRhZyByb2xlIGVycm9yOiB7fSIuZm9ybWF0KGUpKQogICAgICAgICAgICByZXR1cm4gc2VydmVyX2Vycm9y</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZlcl9lcnJvcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz48</text>
