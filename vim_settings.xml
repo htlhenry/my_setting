@@ -122,11 +122,12 @@
         <mark key="." line="61" column="56" />
         <mark key="^" line="61" column="56" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472438819320">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472440608804">
+        <mark key="'" line="38" column="30" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="45" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
@@ -148,7 +149,7 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472038253111">
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472440597743">
         <mark key="'" line="35" column="45" />
         <mark key="[" line="14" column="20" />
         <mark key="]" line="16" column="13" />
@@ -330,8 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="11" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
-      <jump line="68" column="16" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="71" column="17" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="75" column="11" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
       <jump line="22" column="11" filename="$USER_HOME$/OneAPM/platform/gateway/src/main/java/com/blueocn/platform/gateway/async/ExceptionHandlingAsyncTaskExecutor.java" />
@@ -430,58 +429,60 @@
       <jump line="34" column="36" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
       <jump line="24" column="53" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
       <jump line="31" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
+      <jump line="24" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="37" column="30" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>excute</text>
+        <text encoding="base64">PDw=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2Fkcyhydi5kYXRhKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZGF0YS5nZXQoImNvZGUiKSwgMjAwKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocnYuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRhdGEuZ2V0KCJ1c2VyIiksIHNlbGYudXNlcikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkYXRhLmdldCgidGFnX3JvbGVfc2V0IikpLCAxKQogICAgICAgIHByaW50KCJ0ZXN0X2dldF90YWdfcm9sZToge30iLmZvcm1hdChkYXRhKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRob3JpdHlfcGF0dGVybiA9IHJlLmNvbXBpbGUocidhdXRob3JpdHlfWzEtOTldJykK</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aG9yaXR5X3N1bSA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGF1dGhvcml0eV9zdW0gPT0gMDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikKICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KGRpY3QoY29kZT1jb2RlLCBtZXNzYWdlPW1lc3NhZ2UpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocGFyYW1fZXJyb3IpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aG9yaXR5X3N1bSArPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzdW0gYXV0aG9yaXR5IHBhcmFtcyBudW1iZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KGNvZGU9MjAwLCBtZXNzYWdlPSJoZWxvIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikKICAgIHJldHVybiBqc29uaWZ5KGNvZGU9MjAwLCBtZXNzYWdlPSJoZWxvIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBpIGluICoqa3c6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>excute</last-search>
+      <last-search encoding="base64">PDw=</last-search>
       <last-offset />
-      <last-pattern>excute</last-pattern>
+      <last-pattern encoding="base64">PDw=</last-pattern>
       <last-replace>param_error</last-replace>
       <last-substitute>server_error</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -494,6 +495,7 @@
         <entry>api\/</entry>
         <entry>server_error</entry>
         <entry>excute</entry>
+        <entry encoding="base64">PDw=</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
@@ -511,8 +513,10 @@
         <entry>81</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>w</entry>
+        <entry encoding="base64">JzwsJz4/PDw=</entry>
+        <entry encoding="base64">JzwsJz48PA==</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
