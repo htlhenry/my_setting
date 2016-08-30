@@ -9,6 +9,12 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/r_test.py" timestamp="1472530667430">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1471573064490">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,11 +97,6 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/auth_manage/commons/__init__.py" timestamp="1471250876002">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1472526168695">
         <mark key="'" line="31" column="10" />
         <mark key="[" line="56" column="100" />
@@ -137,11 +138,6 @@
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1471494696163">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1472115868890">
         <mark key="[" line="6" column="62" />
@@ -244,16 +240,6 @@
         <mark key="]" line="10" column="1" />
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/auth_manage/app/api/__init__.py" timestamp="1471315872318">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1471571030567">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/urls.py" timestamp="1470906186312">
         <mark key="[" line="12" column="37" />
@@ -434,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>text)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>text)</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -446,34 +432,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHRhZ191c2VyX3JvbGVfcmVsYCAoYHRhZ19pZGAsIGB1c2VyYCwgYHJvbGVgLCBgcm9sZV9uYW1lX3poYCkgdmFsdWVzICglcywgJXMsICVzLCAlcykiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvZGUgPSAyMDAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAicmVsYXRlIHN1Y2Nlc3MiCg==</text>
+        <text encoding="base64">ICAgIGNvZGUgPSAyMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdF9nZXRfdGFnX3JvbGU6IHt9Ii5mb3JtYXQoZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSAicmVsYXRlIHN1Y2Nlc3MiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdF9nZXRfdGFnX3JvbGU6IHt9Ii5mb3JtYXQoZGF0YSkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzM9c2VsZi50ZXN0X2F1dGhvcml0eV8zLCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzI9c2VsZi50ZXN0X2F1dGhvcml0eV8yLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzM9c2VsZi50ZXN0X2F1dGhvcml0eV8zLCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzE9c2VsZi50ZXN0X2F1dGhvcml0eV8xLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzI9c2VsZi50ZXN0X2F1dGhvcml0eV8yLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByZXF1ZXN0LmZvcm06CiAgICAgICAgICAgIGlmIGF1dGhvcml0eV9wYXR0ZXJuLm1hdGNoKGkpOgogICAgICAgICAgICAgICAgYXV0aF9saXN0LmFwcGVuZChyZXF1ZXN0LmZvcm0uZ2V0KGkpKQogICAgICAgICAgICBpZiBsZW4oYXV0aF9saXN0KSA9PSAwOgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocGFyYW1fZXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5XzE9c2VsZi50ZXN0X2F1dGhvcml0eV8xLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz4+</text>
       </register>
     </registers>
     <search>
@@ -515,10 +501,10 @@
         <entry>37</entry>
         <entry>55</entry>
         <entry>71</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
