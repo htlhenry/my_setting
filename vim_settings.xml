@@ -90,12 +90,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472549692275">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472551465091">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="77" column="3" />
-        <mark key="]" line="74" column="7" />
-        <mark key="^" line="74" column="7" />
-        <mark key="." line="74" column="7" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="8" />
+        <mark key="^" line="77" column="8" />
+        <mark key="." line="74" column="8" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" timestamp="1472547512092">
         <mark key="'" line="67" column="0" />
@@ -111,11 +111,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472548749562">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="25" column="71" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472551170388">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="79" column="82" />
+        <mark key="^" line="79" column="82" />
+        <mark key="." line="79" column="82" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1472526168695">
         <mark key="'" line="31" column="10" />
@@ -166,13 +166,13 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472549879201">
-        <mark key="'" line="73" column="4" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472550075392">
+        <mark key="'" line="81" column="4" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="67" column="42" />
-        <mark key="." line="67" column="42" />
-        <mark key="^" line="67" column="42" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/errors.py" timestamp="1472115868890">
         <mark key="[" line="6" column="62" />
@@ -459,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>@wepiao.com</text>
@@ -471,31 +471,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHRhZ191c2VyX3JvbGVfcmVsYCAoYHRhZ19pZGAsIGB1c2VyYCwgYHJvbGVgLCBgcm9sZV9uYW1lX3poYCkgdmFsdWVzICglcywgJXMsICVzLCAlcykiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGZvciB5IGluIGdyb3Vwcy5nZXQoaSk6Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBncm91cHMuZ2V0KGkpCg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZV9jaGVjaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KCItIiAqIDEwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiLSIgKiAxMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmludCgidGVzdCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGZvciB5IGluIGdyb3Vwcy5nZXQoaSk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBncm91cHMuZ2V0KGkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
