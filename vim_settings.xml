@@ -90,14 +90,14 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472532090137">
-        <mark key="'" line="75" column="18" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="78" column="9" />
-        <mark key="^" line="78" column="9" />
-        <mark key="." line="78" column="9" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472533131321">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" timestamp="1472532798109">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" timestamp="1472533693210">
         <mark key="'" line="10" column="9" />
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="47" />
@@ -117,6 +117,13 @@
         <mark key="]" line="57" column="20" />
         <mark key="." line="57" column="20" />
         <mark key="^" line="57" column="20" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" timestamp="1472535658798">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qclound_tool/cvm_class.py" timestamp="1470646719841">
         <mark key="'" line="100" column="0" />
@@ -331,10 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="14" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
-      <jump line="190" column="12" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/data/Qcloud/qcloud/GetCvmList.py" />
       <jump line="178" column="21" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qclound_tool/cvm_class.py" />
       <jump line="47" column="27" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qclound_tool/cvm_class.py" />
       <jump line="101" column="23" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qclound_tool/cvm_class.py" />
@@ -431,16 +434,20 @@
       <jump line="75" column="18" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="41" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
       <jump line="10" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
+      <jump line="17" column="10" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
+      <jump line="20" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
+      <jump line="26" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
+      <jump line="18" column="10" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sotre_true</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>sotre_true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>@wepiao.com</text>
+        <text encoding="base64">XDxwYXJzZXJfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHRhZ191c2VyX3JvbGVfcmVsYCAoYHRhZ19pZGAsIGB1c2VyYCwgYHJvbGVgLCBgcm9sZV9uYW1lX3poYCkgdmFsdWVzICglcywgJXMsICVzLCAlcykiIiIK</text>
@@ -477,12 +484,12 @@
       </register>
     </registers>
     <search>
-      <last-search>@wepiao.com</last-search>
+      <last-search encoding="base64">XDxwYXJzZXJfZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern>@wepiao.com</last-pattern>
-      <last-replace />
-      <last-substitute>@wepiao.com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxwYXJzZXJfZmlsZVw+</last-pattern>
+      <last-replace>\1,</last-replace>
+      <last-substitute>\(.*\)</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -500,9 +507,10 @@
         <entry>、</entry>
         <entry>[ ]</entry>
         <entry>@wepiao.com</entry>
+        <entry>\(.*\)</entry>
+        <entry encoding="base64">XDxwYXJzZXJfZmlsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlcnZlcl9lcnJvci9wYXJhbV9lcnJvci8=</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>11</entry>
         <entry>23</entry>
@@ -521,6 +529,7 @@
         <entry encoding="base64">JzwsJz5zL+OAgS9cci9n</entry>
         <entry encoding="base64">JzwsJz5zL1sgXS9cci9n</entry>
         <entry encoding="base64">JzwsJz5zL0B3ZXBpYW8uY29tLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1woLipcKS9cMSwv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
