@@ -139,12 +139,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472555348083">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472615415433">
         <mark key="'" line="9" column="43" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="47" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
         <mark key="'" line="22" column="15" />
@@ -219,13 +218,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472561924509">
-        <mark key="'" line="89" column="9" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472614653043">
+        <mark key="'" line="107" column="0" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="133" column="27" />
-        <mark key="." line="133" column="27" />
-        <mark key="^" line="133" column="27" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -239,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="30" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="30" column="41" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/tasks.py" />
       <jump line="92" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="93" column="19" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
@@ -339,13 +337,14 @@
       <jump line="9" column="43" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="47" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="89" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>create_sys_account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>create_sys_account</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>@wepiao.com</text>
@@ -354,31 +353,31 @@
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1zJywgYWN0aW9uPSdzdG9yZV90cnVlJywgaGVscD0nJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbiwgInRlc3QiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHIudGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnQtdHlwZSc6ICJtdWx0aXBhcnQvZm9ybS1kYXRhIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHIgPSBzLnNlYXJjaF9zeXNfYWNjb3VudCh5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbnRlbnQtdHlwZSc6ICdtdWx0aXBhcnQvZm9ybS1kYXRhJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG5zZSBvZiBjcmVhdGUgc3lzdGVtIHVybCB7fSIuZm9ybWF0KHIudXJsKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbiwgInRlc3QiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMuY3JlYXRlX3N5c19hY2NvdW50KG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHIudGV4dCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlX2lwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIgPSBzLnNlYXJjaF9zeXNfYWNjb3VudCh5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiB1bmNyZWF0ZV9pcDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4odW5jcmVhdGVfaXApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
