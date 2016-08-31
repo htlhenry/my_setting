@@ -142,11 +142,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472635984433">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472639305983">
         <mark key="'" line="131" column="81" />
-        <mark key="[" line="123" column="37" />
-        <mark key="]" line="127" column="32" />
-        <mark key="." line="127" column="32" />
+        <mark key="[" line="155" column="57" />
+        <mark key="]" line="155" column="57" />
+        <mark key="." line="155" column="57" />
         <mark key="^" line="127" column="32" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
@@ -225,13 +225,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472637449549">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472639263438">
         <mark key="'" line="0" column="0" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="200" column="12" />
-        <mark key="]" line="201" column="18" />
-        <mark key="^" line="201" column="18" />
-        <mark key="." line="201" column="18" />
+        <mark key="[" line="203" column="38" />
+        <mark key="]" line="203" column="36" />
+        <mark key="." line="203" column="36" />
+        <mark key="^" line="203" column="36" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="7" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="31" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="8" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
       <jump line="102" column="44" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
@@ -344,14 +343,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="197" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="251" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>rel_role</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRlIGlwIHRlc3Q6IHt9Ii5mb3JtYXQoci5yZXF1ZXN0LmJvZHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyIGluIHY6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcl9pZCA9IHMuc2VhcmNoX3JvbGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHVfZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodikK</text>
+        <text encoding="base64">ICAgIG51bSA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSArPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9sZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb2xlLCBsaXN0KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInNlcnZlcl9ncm91cF9uYW1lOiB7fSBzZXJ2ZXJfZ3JvdXBfaWQ6IHt9IHNlcnZlcl9pZDoge30iLmZvcm1hdChrLCBzZXJ2ZXJfZ3JvdXBfaWQsIHNlcnZlcl9pZF9zZXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gcy5zZWFyY2hfcm9sZShyb2xlKQogICAgICAgICAgICByID0ganNvbi5sb2FkcyhyZXMudGV4dCkKICAgICAgICAgICAgcHJpbnQocikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEKICAgICAgICAgICAgcHJpbnQobnVtKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyX2dyb3VwX2lkID0gZ2V0X3NlcnZlcl9ncm91cF9pZChrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEKICAgICAgICAgICAgcHJpbnQobnVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -430,16 +430,16 @@
         <entry encoding="base64">JzwsJz4vQHdlcGlhby5jb20vZ2c=</entry>
         <entry encoding="base64">JzwsJz5zL0B3ZXBpYW8uY29tLy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry>90</entry>
         <entry>94</entry>
         <entry>106</entry>
         <entry>wq</entry>
-        <entry encoding="base64">Pg==</entry>
         <entry>107</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
