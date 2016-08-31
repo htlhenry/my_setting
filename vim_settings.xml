@@ -225,13 +225,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472630499759">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472631838532">
+        <mark key="'" line="148" column="25" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="148" column="16" />
-        <mark key="]" line="148" column="19" />
-        <mark key="." line="148" column="19" />
-        <mark key="^" line="148" column="19" />
+        <mark key="[" line="144" column="46" />
+        <mark key="]" line="143" column="25" />
+        <mark key="." line="143" column="25" />
+        <mark key="^" line="143" column="25" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -245,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="36" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
-      <jump line="39" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/tasks.py" />
-      <jump line="20" column="4" filename="$USER_HOME$/opt/product_project/authority_management/.gitignore" />
       <jump line="27" column="11" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="28" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="13" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
@@ -345,13 +342,16 @@
       <jump line="143" column="27" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="186" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="55" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="144" column="43" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="148" column="25" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJrIHt9Ii5mb3JtYXQoaykpCiAgICAgICAgICAgICAgICBwcmludCgiaV9nIHt9Ii5mb3JtYXQoaV9nKSkK</text>
+        <text encoding="base64">ICAgICAgICBnZXRfc2VydmVyX2lkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>rel_server</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRlIGlwIHRlc3Q6IHt9Ii5mb3JtYXQoci5yZXF1ZXN0LmJvZHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJrIHt9Ii5mb3JtYXQoaykpCiAgICAgICAgICAgICAgICBwcmludCgiaV9nIHt9Ii5mb3JtYXQoaV9nKSkK</text>
+        <text encoding="base64">ICAgICAgICBnZXRfc2VydmVyX2lkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2VydmVyX2lkKCIyLjIuMi4yIikpCg==</text>
+        <text encoding="base64">ICAgICAgIHNlcnZlcl9ncm91cF9pZF9zZXQgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWxfc2VydmVyX3pvbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgIHNlcnZlcl9pZF9zZXQgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWxfc2VydmVyX3pvbmUoKWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInt9IGdldCBzZXJ2ZXIgaWQiLmYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyX2lkX3NldCA9IFtdCiAgICAgICAgICAgIHNlcnZlcl9ncm91cF9pZF9zZXQgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaS5nZXQoImlkIikK</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9pZF9zZXQgPSBbXQogICAgc2VydmVyX2dyb3VwX2lkX3NldCA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByZXMuZ2V0KCJkYXRhIik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VydmVyX2dyb3VwX2lkX3NldC5hcHBlbmQoc19ncm91cF9pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfc2VydmVyX3pvbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc19ncm91cF9pZCA9IGdldF9zZXJ2ZXJfZ3JvdXBfaWQoaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcy5yZWxfc2VydmVyX3pvbmUoc19ncm91cF9pZCwgc2VydmVyX2lkX3NldHM9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -419,7 +419,6 @@
         <entry>rel_server</entry>
       </history-search>
       <history-cmd>
-        <entry>37</entry>
         <entry>55</entry>
         <entry>71</entry>
         <entry encoding="base64">JzwsJz5zL+OAgS9cbi8=</entry>
@@ -431,14 +430,15 @@
         <entry encoding="base64">JzwsJz5zL0B3ZXBpYW8uY29tLy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
         <entry>90</entry>
         <entry>94</entry>
         <entry>106</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">Pg==</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
