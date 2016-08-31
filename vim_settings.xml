@@ -225,12 +225,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472629356794">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472630499759">
+        <mark key="'" line="55" column="0" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="142" column="44" />
-        <mark key="]" line="195" column="24" />
-        <mark key="." line="195" column="24" />
-        <mark key="^" line="195" column="24" />
+        <mark key="[" line="148" column="16" />
+        <mark key="]" line="148" column="19" />
+        <mark key="." line="148" column="19" />
+        <mark key="^" line="148" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -244,10 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="23" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
-      <jump line="44" column="23" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
-      <jump line="49" column="19" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
-      <jump line="52" column="17" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="54" column="36" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="39" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/tasks.py" />
       <jump line="20" column="4" filename="$USER_HOME$/opt/product_project/authority_management/.gitignore" />
@@ -339,63 +336,67 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="133" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="18" column="3" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="120" column="41" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="131" column="81" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="101" column="14" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="160" column="27" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="115" column="33" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="188" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="143" column="27" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="186" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfc2VydmVyX3pvbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJrIHt9Ii5mb3JtYXQoaykpCiAgICAgICAgICAgICAgICBwcmludCgiaV9nIHt9Ii5mb3JtYXQoaV9nKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>@wepiao.com</text>
+        <text>rel_server</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRlIGlwIHRlc3Q6IHt9Ii5mb3JtYXQoci5yZXF1ZXN0LmJvZHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfc2VydmVyX3pvbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJrIHt9Ii5mb3JtYXQoaykpCiAgICAgICAgICAgICAgICBwcmludCgiaV9nIHt9Ii5mb3JtYXQoaV9nKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfc2VydmVyX2lkKCIyLjIuMi4yIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9ncm91cCA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxfc2VydmVyX3pvbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbS5ncm91cCgidXNlciIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxfc2VydmVyX3pvbmUoKWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IHVzZXJfcGF0dGVybi5tYXRjaChncm91cCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInt9IGdldCBzZXJ2ZXIgaWQiLmYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXAgPSBpcF9wYXR0ZXJuLm1hdGNoKGdyb3VwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaS5nZXQoImlkIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByZXMuZ2V0KCJkYXRhIik6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVfc2VydmVyX3pvbmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJfcGF0dGVybiA9IHJlLmNvbXBpbGUocideXFtcdystZ3JvdXBcXSQnKQogICAgZ3JvdXBzID0gcGFyc2VyX2h1bWFuX2lwKCJpcGxpc3QiKQogICAgZm9yIGkgaW4gZ3JvdXBzLmtleXMoKToKICAgICAgICBpZiB1c2VyX3BhdHRlcm4ubWF0Y2goaSkKICAgICAgICAgICAgZm9yIHkgaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@wepiao.com</last-search>
+      <last-search>rel_server</last-search>
       <last-offset />
-      <last-pattern>@wepiao.com</last-pattern>
+      <last-pattern>rel_server</last-pattern>
       <last-replace />
       <last-substitute>@wepiao.com</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -415,9 +416,9 @@
         <entry>\(.*\)</entry>
         <entry encoding="base64">XDxwYXJzZXJfZmlsZVw+</entry>
         <entry>@wepiao.com</entry>
+        <entry>rel_server</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4/PDw=</entry>
         <entry>37</entry>
         <entry>55</entry>
         <entry>71</entry>
@@ -432,10 +433,11 @@
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>90</entry>
         <entry>94</entry>
         <entry>106</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
