@@ -139,12 +139,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472620373512">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472621367467">
         <mark key="'" line="18" column="3" />
-        <mark key="[" line="87" column="67" />
-        <mark key="]" line="87" column="76" />
-        <mark key="." line="87" column="76" />
-        <mark key="^" line="87" column="76" />
+        <mark key="[" line="89" column="51" />
+        <mark key="]" line="89" column="51" />
+        <mark key="." line="89" column="51" />
+        <mark key="^" line="88" column="29" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
         <mark key="'" line="22" column="15" />
@@ -219,13 +219,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472620239019">
-        <mark key="'" line="139" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472621381729">
+        <mark key="'" line="120" column="41" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="28" />
-        <mark key="^" line="137" column="28" />
-        <mark key="." line="137" column="28" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="120" column="41" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -239,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="17" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="98" column="36" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="146" column="60" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/cvm_class.py" />
@@ -339,13 +338,14 @@
       <jump line="133" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="18" column="3" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="143" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="120" column="41" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG9uc2Ugb2YgY3JlYXRlIHN5c3RlbTp7fSIuZm9ybWF0KHIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>@wepiao.com</text>
@@ -354,48 +354,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG5zZSBvZiBjcmVhdGUgc3lzdGVtIHVybCB7fSIuZm9ybWF0KHIudXJsKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG9uc2Ugb2YgY3JlYXRlIHN5c3RlbTp7fSIuZm9ybWF0KHIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JvdXBzID0gcGFyc2VyX2h1bWFuX2lwKCJpcGxpc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG5zZSBvZiBjcmVhdGUgc3lzdGVtIHVybCB7fSIuZm9ybWF0KHIucmVxdWVzdC5ib2R5KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiUmVzcG5zZSBvZiBjcmVhdGUgc3lzdGVtIHVybCB7fSIuZm9ybWF0KHIucmVxdWVzdC5oZWFkZXJzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRvbWFpbiI6IGRvbWFpbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVtYWlsIjogZW1haWwsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImRvbWFpbiI6IGRvbWFpbiwK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>def search_sys_account():
-    s = JumpServer()
-    user_pattern = re.compile(r'^\[\w+-group\]$')
-    groups = parser_human_ip(&quot;iplist&quot;)
-    for i in groups.keys():
-        if user_pattern.match(i):
-            for y in groups.get(i):
-                print(y)
-                r = s.search_sys_account(y)
-                print(r.url)
-                r = json.loads(r.text)
-                print(r)
-                if len(r.get(&quot;data&quot;)) == 0:
-                    r = s.create_sys_account(y)
-                    r = json.loads(r.text)
-                    print(r)
-                    if &quot;succeed&quot; not in r.get(&quot;msg&quot;):
-                        print(&quot;Fatal create user : {} msg: {}&quot;.format(y, r.get(&quot;msg&quot;)))</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlcF9uYW1lID0gaQo=</text>
+        <text encoding="base64">Z3JvdXBzID0gcGFyc2VyX2h1bWFuX2lwKCJpcGxpc3QiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsb2JhbCBkZXBfbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -444,10 +427,10 @@
         <entry encoding="base64">JzwsJz5zL1woLipcKS9cMSwv</entry>
         <entry encoding="base64">JzwsJz4vQHdlcGlhby5jb20vZ2c=</entry>
         <entry encoding="base64">JzwsJz5zL0B3ZXBpYW8uY29tLy9n</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
