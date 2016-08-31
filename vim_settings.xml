@@ -225,13 +225,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472636411445">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472637449549">
+        <mark key="'" line="0" column="0" />
         <mark key="i" line="9" column="0" />
-        <mark key="[" line="188" column="34" />
-        <mark key="]" line="188" column="34" />
-        <mark key="." line="188" column="34" />
-        <mark key="^" line="188" column="34" />
+        <mark key="[" line="200" column="12" />
+        <mark key="]" line="201" column="18" />
+        <mark key="^" line="201" column="18" />
+        <mark key="." line="201" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="1" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/db_client.py" />
       <jump line="19" column="7" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="31" column="25" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/offline_sum/views.py" />
       <jump line="8" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" />
@@ -325,7 +324,6 @@
       <jump line="47" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="89" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="107" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="133" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="18" column="3" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="120" column="41" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -343,45 +341,47 @@
       <jump line="118" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="198" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="181" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="251" column="20" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="3" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="197" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="251" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>create_role</text>
+        <text>rel_role</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRlIGlwIHRlc3Q6IHt9Ii5mb3JtYXQoci5yZXF1ZXN0LmJvZHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyIGluIHY6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gaWQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInNlcnZlcl9ncm91cF9uYW1lOiB7fSBzZXJ2ZXJfZ3JvdXBfaWQ6IHt9IHNlcnZlcl9pZDoge30iLmZvcm1hdChrLCBzZXJ2ZXJfZ3JvdXBfaWQsIHNlcnZlcl9pZF9zZXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWQ6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInNlcnZlcl9ncm91cF9uYW1lOiB7fSBzZXJ2ZXJfZ3JvdXBfaWQ6IHt9IHNlcnZlcl9pZDoge30iLmZvcm1hdChrLCBzZXJ2ZXJfZ3JvdXBfaWQsIHNlcnZlcl9pZF9zZXQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyX2dyb3VwX2lkID0gZ2V0X3NlcnZlcl9ncm91cF9pZChrKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VydmVyX2dyb3VwX2lkID0gZ2V0X3NlcnZlcl9ncm91cF9pZChrKQo=</text>
@@ -391,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create_role</last-search>
+      <last-search>rel_role</last-search>
       <last-offset />
-      <last-pattern>create_role</last-pattern>
+      <last-pattern>rel_role</last-pattern>
       <last-replace />
       <last-substitute>@wepiao.com</last-substitute>
       <last-dir>1</last-dir>
@@ -418,6 +418,7 @@
         <entry>@wepiao.com</entry>
         <entry>rel_server</entry>
         <entry>create_role</entry>
+        <entry>rel_role</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
