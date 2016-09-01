@@ -145,12 +145,12 @@
         <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1472719125236" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472723116559">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472724692464">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="195" column="14" />
-        <mark key="]" line="195" column="18" />
-        <mark key="^" line="195" column="18" />
-        <mark key="." line="195" column="18" />
+        <mark key="[" line="197" column="36" />
+        <mark key="]" line="197" column="36" />
+        <mark key="^" line="197" column="39" />
+        <mark key="." line="197" column="36" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
         <mark key="'" line="22" column="15" />
@@ -224,13 +224,13 @@
         <mark key="^" line="238" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/api.py" timestamp="1472719074578" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472722766462">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472724579458">
         <mark key="'" line="204" column="87" />
         <mark key="i" line="259" column="0" />
         <mark key="[" line="194" column="29" />
-        <mark key="]" line="194" column="29" />
-        <mark key="^" line="194" column="17" />
-        <mark key="." line="194" column="29" />
+        <mark key="]" line="194" column="33" />
+        <mark key="^" line="194" column="33" />
+        <mark key="." line="194" column="33" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -347,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>da</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>da</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -359,31 +359,31 @@
         <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oIlJlbGF0ZSBzeXMgdG8gcm9sZSByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMiA+IDEsICJ0ZXN0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN5c19pZF9zZXQgPSAoInNldHMiLCBbc3RyKHN5c19pZCldKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcyA9ICgoIm9wIiwgb3ApLCBsYW1iZGEgKCJzZXRzIiwgeSk6IGZvciB5IGluIGFjY291bnQpCg==</text>
+        <text encoding="base64">ICAgIHN5c19pZF9zZXQgPSAoInNldHMiLCBbc3RyKHN5c19pZCldKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlcyA9ICgoIm9wIiwgb3ApLCBsYW1iZGEgKCJzZXRzIiwgeSk6IGZvciB5IGluIGFjY291bnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihyZXMuZ2V0KCJkYXRhIikpID09IDA6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIGxlbihyZXMuZ2V0KCJkYXRhIikpID09IDA6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -421,7 +421,6 @@
         <entry>user</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4vQHdlcGlhby5jb20vZ2c=</entry>
         <entry encoding="base64">JzwsJz5zL0B3ZXBpYW8uY29tLy9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz48PA==</entry>
@@ -440,6 +439,7 @@
         <entry>224</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXIvc3lzLw==</entry>
         <entry>W</entry>
+        <entry>223</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
