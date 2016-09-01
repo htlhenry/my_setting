@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/r_test.py" timestamp="1472616640097">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/r_test.py" timestamp="1472726144726">
+        <mark key="[" line="10" column="198" />
+        <mark key="]" line="10" column="198" />
+        <mark key="." line="10" column="198" />
+        <mark key="^" line="19" column="76" />
       </file>
       <file name="/Python Console" timestamp="1472713942059">
         <mark key="[" line="0" column="0" />
@@ -145,7 +145,7 @@
         <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1472719125236" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472724692464">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472725734791">
         <mark key="'" line="27" column="8" />
         <mark key="[" line="197" column="36" />
         <mark key="]" line="197" column="36" />
@@ -224,13 +224,13 @@
         <mark key="^" line="238" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/api.py" timestamp="1472719074578" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472724579458">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472725777122">
         <mark key="'" line="204" column="87" />
         <mark key="i" line="259" column="0" />
-        <mark key="[" line="194" column="29" />
-        <mark key="]" line="194" column="33" />
+        <mark key="[" line="194" column="30" />
+        <mark key="]" line="194" column="30" />
         <mark key="^" line="194" column="33" />
-        <mark key="." line="194" column="33" />
+        <mark key="." line="194" column="30" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -347,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>da</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>da</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -359,28 +359,44 @@
         <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oIlJlbGF0ZSBzeXMgdG8gcm9sZSByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMiA+IDEsICJ0ZXN0Igo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHIgPSBtYWluKCkKICAgICMgcHJpbnQoZGlyKHIpKQogICAgcHJpbnQoci5yZXF1ZXN0LmhlYWRlcnMpCiAgICBwcmludChyLnJlcXVlc3QuYm9keSkKICAgIHByaW50KHIudXJsKQogICAgcHJpbnQoci50ZXh0KQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
+      <register name="2" type="4">
+        <text>import requests
+
+
+def main():
+    url = &quot;https://fortress.intra.wepiao.com:8081/api/account/create/&quot;
+
+    payload = &quot;-----011000010111000001101001\r\nContent-Disposition: form-data; name=\&quot;remote\&quot;\r\n\r\ntest_user\r\n-----011000010111000001101001--&quot;
+    headers = {
+        'content-type': &quot;multipart/form-data; boundary=---011000010111000001101001&quot;,
+        'identity': &quot;20&quot;,
+        'token': &quot;wepiao&quot;,
+        'cache-control': &quot;no-cache&quot;,
+        'postman-token': &quot;713b0d80-ff6d-9767-533f-0c1eb1281175&quot;
+    }
+
+    response = requests.request(&quot;POST&quot;, url, data=payload, headers=headers, verify=False)
+    return response</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN5c19pZF9zZXQgPSAoInNldHMiLCBbc3RyKHN5c19pZCldKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMiA+IDEsICJ0ZXN0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcyA9ICgoIm9wIiwgb3ApLCBsYW1iZGEgKCJzZXRzIiwgeSk6IGZvciB5IGluIGFjY291bnQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
+        <text encoding="base64">ICAgIHN5c19pZF9zZXQgPSAoInNldHMiLCBbc3RyKHN5c19pZCldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlcyA9ICgoIm9wIiwgb3ApLCBsYW1iZGEgKCJzZXRzIiwgeSk6IGZvciB5IGluIGFjY291bnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihyZXMuZ2V0KCJkYXRhIikpID09IDA6Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
