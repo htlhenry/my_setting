@@ -116,11 +116,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472629323986">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472696514312">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" timestamp="1472547512092">
         <mark key="'" line="67" column="0" />
@@ -143,12 +143,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472639305983">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472695077188">
         <mark key="'" line="131" column="81" />
-        <mark key="[" line="155" column="57" />
-        <mark key="]" line="155" column="57" />
-        <mark key="." line="155" column="57" />
-        <mark key="^" line="127" column="32" />
+        <mark key="[" line="87" column="64" />
+        <mark key="]" line="87" column="64" />
+        <mark key="." line="87" column="64" />
+        <mark key="^" line="87" column="64" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
         <mark key="'" line="22" column="15" />
@@ -221,13 +221,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472693701422">
-        <mark key="'" line="41" column="26" />
-        <mark key="i" line="62" column="0" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="39" column="28" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472697594589">
+        <mark key="'" line="15" column="0" />
+        <mark key="i" line="89" column="0" />
+        <mark key="[" line="80" column="19" />
+        <mark key="]" line="80" column="20" />
+        <mark key="." line="80" column="20" />
+        <mark key="^" line="80" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -241,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="$USER_HOME$/opt/product_project/authority_management/controllers/api/instances.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/opt/product_project/authority_management/app.py" />
-      <jump line="6" column="33" filename="$USER_HOME$/opt/product_project/auth_manage/manage.py" />
-      <jump line="23" column="15" filename="$USER_HOME$/opt/product_project/auth_manage/manage.py" />
       <jump line="19" column="3" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
       <jump line="6" column="33" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_basic.py" />
@@ -341,13 +337,17 @@
       <jump line="33" column="16" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="27" column="12" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="41" column="26" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="60" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="12" column="33" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoX2dyb3VwcykK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>rel_role</text>
@@ -356,31 +356,46 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRlIGlwIHRlc3Q6IHt9Ii5mb3JtYXQoci5yZXF1ZXN0LmJvZHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoX2dyb3VwcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJzZXJfZ3JvdXAoYXJncy5pbnZlbnRvcnkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaS5zdGFydHN3aXRoKCJbIikgYW5kIGkuZW5kc3dpdGgoIl0iKToK</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuaW52ZW50b3J5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQoaSkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gaXBfZ3JvdXA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlJlbGF0ZSBzZXJ2ZXIgZXJyb3I6IHt9Ii5mb3JtYXQoZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyIGluIHVfZy52YWx1ZXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB1X2cudmFsdWVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB1X2cK</text>
+      <register name="7" type="4">
+        <text>[dep_name]
+大数据
+
+[test-group]
+test_user
+test_user2
+
+[test-group-ip]
+1.1.1.1
+2.2.2.2
+
+[test2-group]
+abc
+
+[test2-group-ip]
+1.1.1.1</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcl9pZCA9IHMuc2VhcmNoX3JvbGUoKQo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXMuZ2V0KCIiKSApIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHVfZykK</text>
+        <text encoding="base64">ICAgIHJlcyA9IGpzb24ubG9hZHMocmVzLnRleHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -431,11 +446,11 @@
         <entry>106</entry>
         <entry>wq</entry>
         <entry>107</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>Wq</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">JzwsJz48</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
