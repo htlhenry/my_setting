@@ -35,7 +35,6 @@
         <mark key="^" line="71" column="43" />
         <mark key="." line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli_bak.py" timestamp="1472698907186" />
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" timestamp="1471594504966">
         <mark key="'" line="42" column="100" />
         <mark key="[" line="36" column="83" />
@@ -57,7 +56,6 @@
         <mark key="." line="53" column="20" />
         <mark key="^" line="53" column="20" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1472701473851" />
       <file name="$USER_HOME$/opt/virtualenv/django2/app/superlists/lists/views.py" timestamp="1470374054360">
         <mark key="'" line="4" column="7" />
         <mark key="[" line="4" column="4" />
@@ -117,11 +115,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472705008948">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472781410484">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" timestamp="1472547512092">
         <mark key="'" line="67" column="0" />
@@ -144,13 +142,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1472719125236" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472727203160">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1472780533636">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="198" column="36" />
-        <mark key="]" line="198" column="47" />
-        <mark key="^" line="198" column="47" />
-        <mark key="." line="198" column="47" />
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="147" column="18" />
+        <mark key="^" line="195" column="48" />
+        <mark key="." line="147" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/auth_manage/manage.py" timestamp="1471317392052">
         <mark key="'" line="22" column="15" />
@@ -223,14 +220,13 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/env/lib/python2.7/site-packages/requests/api.py" timestamp="1472719074578" />
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472727186113">
-        <mark key="'" line="204" column="87" />
-        <mark key="i" line="259" column="0" />
-        <mark key="[" line="194" column="32" />
-        <mark key="]" line="194" column="33" />
-        <mark key="^" line="194" column="33" />
-        <mark key="." line="194" column="33" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1472781605042">
+        <mark key="'" line="34" column="0" />
+        <mark key="i" line="283" column="0" />
+        <mark key="[" line="270" column="21" />
+        <mark key="]" line="270" column="25" />
+        <mark key="^" line="270" column="25" />
+        <mark key="." line="270" column="25" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1472461201062">
         <mark key="'" line="56" column="15" />
@@ -244,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="21" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="40" column="100" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
       <jump line="35" column="45" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
@@ -344,13 +338,15 @@
       <jump line="18" column="34" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="170" column="15" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="27" column="8" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -359,47 +355,31 @@
         <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oIlJlbGF0ZSBzeXMgdG8gcm9sZSByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHIgPSBtYWluKCkKICAgICMgcHJpbnQoZGlyKHIpKQogICAgcHJpbnQoci5yZXF1ZXN0LmhlYWRlcnMpCiAgICBwcmludChyLnJlcXVlc3QuYm9keSkKICAgIHByaW50KHIudXJsKQogICAgcHJpbnQoci50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICByZWxfc3lzX3RvX3JvbGUocm9sZV9pZCwgc3lzXykK</text>
       </register>
-      <register name="2" type="4">
-        <text>import requests
-
-
-def main():
-    url = &quot;https://fortress.intra.wepiao.com:8081/api/account/create/&quot;
-
-    payload = &quot;-----011000010111000001101001\r\nContent-Disposition: form-data; name=\&quot;remote\&quot;\r\n\r\ntest_user\r\n-----011000010111000001101001--&quot;
-    headers = {
-        'content-type': &quot;multipart/form-data; boundary=---011000010111000001101001&quot;,
-        'identity': &quot;20&quot;,
-        'token': &quot;wepiao&quot;,
-        'cache-control': &quot;no-cache&quot;,
-        'postman-token': &quot;713b0d80-ff6d-9767-533f-0c1eb1281175&quot;
-    }
-
-    response = requests.request(&quot;POST&quot;, url, data=payload, headers=headers, verify=False)
-    return response</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgdXNlciBpbiB1c2VyczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMiA+IDEsICJ0ZXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmVyIGluIHNlcnZlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN5c19pZF9zZXQgPSAoInNldHMiLCBbc3RyKHN5c19pZCldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlcyA9ICgoIm9wIiwgb3ApLCBsYW1iZGEgKCJzZXRzIiwgeSk6IGZvciB5IGluIGFjY291bnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gTXVsdGlwYXJ0RW5jb2RlcihkYXRhLCBib3VuZGFyeT1zZWxmLl9ib3VuZGFyeSkK</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhzdHJlYW09c3lzLnN0ZGVyciwgbGV2ZWw9bG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN5c19pZF9zZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJfaWRfc2V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -450,12 +430,12 @@ def main():
         <entry>104</entry>
         <entry>161</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>244</entry>
         <entry>224</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXIvc3lzLw==</entry>
         <entry>W</entry>
         <entry>223</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
