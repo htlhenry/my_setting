@@ -56,12 +56,10 @@
         <mark key="^" line="64" column="23" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flasky/flasky_custom/flasky_github/app/auth/views.py" timestamp="1473057989266" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473060336305">
-        <mark key="'" line="65" column="60" />
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="68" column="42" />
-        <mark key="." line="68" column="42" />
-        <mark key="^" line="68" column="42" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473063438403">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_pdl_create.py" timestamp="1471572897362">
         <mark key="'" line="0" column="0" />
@@ -123,10 +121,10 @@
       <file name="/PythonRegExp Fragment (cli.py:3205).regexp" timestamp="1472627948954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1473059587451">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1473062245370">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="23" column="18" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" timestamp="1472539411354">
@@ -159,6 +157,12 @@
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473063083401">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+        <mark key="." line="20" column="47" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/security.py" timestamp="1473042776495" />
       <file name="/PythonRegExp Fragment (cli.py:1320).regexp" timestamp="1472554198640">
@@ -235,11 +239,11 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1473051462195">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="20" column="10" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="20" column="10" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1473063716647">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_third_register.py" timestamp="1471512947830">
         <mark key="'" line="40" column="8" />
@@ -279,9 +283,14 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="14" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473064037616">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="41" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
       <jump line="123" column="34" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="24" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
       <jump line="34" column="36" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
@@ -381,13 +390,14 @@
       <jump line="65" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" />
       <jump line="19" column="31" filename="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" />
       <jump line="64" column="60" filename="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" />
+      <jump line="14" column="48" filename="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -396,31 +406,31 @@
         <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oIlJlbGF0ZSBzeXMgdG8gcm9sZSByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZV9wYXNzd29yZF9oYXNoKHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXIuZW1haWwgPSBlbWFpbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXIucGFzc3dvcmQgPSBwYXNzd29yZAo=</text>
+        <text encoding="base64">ZGIgPSBTUUxBbGNoZW15KCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhc3N3b3JkX2hhc2ggPSBnZW5lcmF0ZV9wYXNzd29yZF9oYXNoKHBhc3N3b3JkKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">QGxvZ2luX21hbmFnZXIudXNlcl9sb2FkZXIKZGVmIGxvYWRfdXNlcih1c2VyaWQpOgogICAgc3FsID0gIiIiU0VMRUNUICogZnJvbSBgdXNlcmAgIFdIRVJFIGBpZGAgPSAlcyIiIgogICAgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsIHVzZXJpZCkKICAgIHJldHVybiBVc2VyKCkKCmNsYXNzIFVzZXI6CiAgICAgICAgCiAgICBkZWYgaXNfYXV0aGVudGljYXRlKHNlbGYpOgogICAgICAgIHJldHVybiBhdXRoZW50aWNhdGUoc2VsZi51c2VybmFtZSwgc2VsZi5wYXNzd29yZCkKCiAgICBkZWYgaXNfYW5vbnltb3VzKHNlbGYpOgogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGRlZiBpc19hY3RpdmUoc2VsZik6CiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBkZWYgZ2V0X2lkKHNlbGYpOgogICAgICAgIHRyeToKICAgICAgICAgICAgc3FsID0gIiIiU0VMRUNUIGBpZGAgRlJPTSBgdXNlcmAgV0hFUkUgYHVzZXJuYW1lYCA9ICVzIiIiCiAgICAgICAgICAgIHJlcyA9IG1peF9kYi5xdWVyeV9hbGwoc3FsLCAoc2VsZi51c2VybmFtZSkpCiAgICAgICAgICAgIGlmIGxlbihyZXMpID49IDA6CiAgICAgICAgICAgICAgICBmb3IgaSBpbiByZXM6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5pZCA9IGkuZ2V0KCJpZCIsIE5vbmUpCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuaWQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJGYXRhbDogZ2V0IGlkIHt9Ii5mb3JtYXQoKSkKCgpkZWYgYXV0aGVudGljYXRlKHVzZXJuYW1lLCBwYXNzd29yZCk6CiAgICB0cnk6CiAgICAgICAgc3FsID0gIiIiU0VMRUNUIGBwYXNzd29yZGAgRlJPTSBgdXNlcmAgV0hFUkUgYHVzZXJuYW1lYCA9ICVzIiIiCiAgICAgICAgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsICh1c2VybmFtZSwpKQogICAgICAgIGlmIGxlbihyZXMpICE9IDA6CiAgICAgICAgICAgIGZvciBpIGluIHJlczoKICAgICAgICAgICAgICAgIHBhc3N3b3JkX2hhc2ggPSByZXMuZ2V0KCJwYXNzd29yZCIsIE5vbmUpCiAgICAgICAgICAgICAgICByZXR1cm4gY2hlY2tfcGFzc3dvcmRfaGFzaChwYXNzd29yZF9oYXNoLCBwYXNzd29yZCkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgIGV4Y2VwdCBFeGNlcHRpb24sIGU6CiAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJGYXRhbDogYXV0aGVudGljYXRlIHVzZXIsIHt9Ii5mb3JtYXQoZSkpCiAgICAgICAgcmV0dXJuIEZhbHNlCgoKZGVmIHJlZ2lzdGVyKHVzZXJuYW1lLCBwYXNzd29yZCwgZW1haWw9Tm9uZSk6CiAgICB0cnk6CiAgICAgICAgc3FsID0gIiIiSU5TRVJUIElOVE8gYHVzZXJgIChgdXNlcm5hbWVgLCBgcGFzc3dvcmRgLCBgZW1haWxgKSBWQUxVRVMgKCVzLCAlcywgJXMpIiIiCiAgICAgICAgbWl4X2RiLmluc2VydChzcWwsICh1c2VybmFtZSwgcGFzc3dvcmQsIGVtYWlsKSkKICAgIGV4Y2VwdCBFeGNlcHRpb24sIGU6CiAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJSZWdpc3RlciBlcnJvcjoge30iLmZvcm1hdChlKSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJuYW1lID0gdXNlcm5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1c2VybmFtZSwgcGFzc3dvcmQpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnZlcmlmeV9wYXNzd29yZChwYXNzd29yZCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhc3N3b3JkID0gcGFzc3dvcmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
