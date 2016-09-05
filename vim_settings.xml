@@ -87,6 +87,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/__init__.py" timestamp="1473045774066">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1472112831212">
         <mark key="'" line="6" column="33" />
         <mark key="[" line="24" column="38" />
@@ -100,6 +106,12 @@
         <mark key="]" line="64" column="23" />
         <mark key="." line="64" column="23" />
         <mark key="^" line="64" column="23" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473046013570">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_pdl_create.py" timestamp="1471572897362">
         <mark key="'" line="0" column="0" />
@@ -127,6 +139,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/urls.py" timestamp="1473044457414">
+        <mark key="'" line="706" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_third_register.py" timestamp="1471512947830">
         <mark key="'" line="40" column="8" />
@@ -209,6 +224,7 @@
         <mark key="." line="46" column="29" />
         <mark key="^" line="46" column="29" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1473042919509" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1472463802696">
         <mark key="'" line="19" column="30" />
         <mark key="[" line="91" column="0" />
@@ -219,6 +235,7 @@
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/urls.py" timestamp="1470904627492">
         <mark key="[" line="23" column="47" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/security.py" timestamp="1473042776495" />
       <file name="/PythonRegExp Fragment (cli.py:1320).regexp" timestamp="1472554198640">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="100" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_role.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
       <jump line="35" column="45" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" />
       <jump line="31" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" />
@@ -349,13 +365,14 @@
       <jump line="27" column="8" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="94" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="706" column="0" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlcXVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
