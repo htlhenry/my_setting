@@ -46,11 +46,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473071593061">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473137850959">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1472783215922">
         <mark key="[" line="1" column="0" />
@@ -218,11 +218,11 @@
       <jump line="133" column="21" filename="$USER_HOME$/opt/product_project/authority_management/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -234,28 +234,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBtYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBtYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjaGVja2JveCI+Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICA8bGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgbmFtZT0icmVtZW1iZXJfbWUiIHR5cGU9ImNoZWNrYm94IiB2YWx1ZT0icmVtZW1iZXItbWUiPgogICAgICAgICAgICAgICAgUmVtZW1iZXIgbWUKICAgICAgICAgICAgPC9sYWJlbD4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGRiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
