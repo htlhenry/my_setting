@@ -36,7 +36,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1473314034692">
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1473314828019">
         <mark key="'" line="723" column="0" />
         <mark key="[" line="720" column="76" />
         <mark key="]" line="720" column="75" />
@@ -96,6 +96,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1473317983057">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473150377895">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="71" />
@@ -108,12 +113,12 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473158591315">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473317470777">
         <mark key="'" line="7" column="62" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="23" column="67" />
+        <mark key="]" line="24" column="73" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="24" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -219,44 +224,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBsb2dpbiBzZXNzaW9uIHVwZGF0ZSByZW1lbWJlciBjb29raWUge30iLmZvcm1hdChhcHAuYWZ0ZXJfcmVxdWVzdF9mdW5jcykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nLmluZm8oIlJlbGF0ZSBzeXMgdG8gcm9sZSByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWFhYWF0ZXN0Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBsb2dpbiBzZXNzaW9uIHVwZGF0ZSByZW1lbWJlciBjb29raWUge30iLmZvcm1hdChhcHAuYWZ0ZXJfcmVxdWVzdF9mdW5jcykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWFhYWF0ZXN0Mgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24sICJ0ZXN0IGxvZ2luIHNlc3Npb24gdXBkYXRlIHJlbWVtYmVyIGNvb2tpZSB7fSIuZm9ybWF0KGFwcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24sICJ0ZXN0IHJlbWVtYmVyOiB7fSIuZm9ybWF0KHJlbWVtYmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">YWFhYWF0ZXN0Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">YWFhYWF0ZXN0Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgojIEBtYWluLnJvdXRlKCIvc3RhdGljL2pzLzxwYXRoOnBhdGg+IikKIyBkZWYgc2VuZF9qcyhwYXRoKToKIyAgICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoJ2pzJywgcGF0aCkK</text>
+        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcnZlcj1NQVNURVJfREJfSE9TVCArICI6IiArIHN0cigK</text>
+        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gLm1haW4gaW1wb3J0IG1haW4gYXMgbWFpbl9ibHVlcHJpbnQK</text>
+        <text encoding="base64">CgojIEBtYWluLnJvdXRlKCIvc3RhdGljL2pzLzxwYXRoOnBhdGg+IikKIyBkZWYgc2VuZF9qcyhwYXRoKToKIyAgICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoJ2pzJywgcGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
