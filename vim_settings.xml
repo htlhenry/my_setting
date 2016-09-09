@@ -10,7 +10,6 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/http.py" timestamp="1473306730482" />
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/r_test.py" timestamp="1472726144726">
         <mark key="[" line="10" column="198" />
         <mark key="]" line="10" column="198" />
@@ -23,7 +22,6 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1473303723573" />
       <file name="/a.dummy" timestamp="1473211394676">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,13 +41,11 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/contrib/sessions.py" timestamp="1473301668300" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/app.py" timestamp="1473319771154" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1473329485475">
-        <mark key="[" line="359" column="54" />
-        <mark key="]" line="359" column="68" />
-        <mark key="^" line="359" column="68" />
-        <mark key="." line="359" column="68" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1473385858797">
+        <mark key="'" line="311" column="31" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473150670581">
         <mark key="'" line="19" column="12" />
@@ -79,7 +75,6 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/urls.py" timestamp="1473305358876" />
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1473229353650">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="2" column="0" />
@@ -95,7 +90,6 @@
       <file name="/Dummy.txt" timestamp="1473145296134">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/wrappers.py" timestamp="1473303863300" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1473148288559">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="26" />
@@ -121,12 +115,12 @@
         <mark key="^" line="16" column="71" />
         <mark key="." line="16" column="71" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1473329656965">
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1473387353744">
         <mark key="'" line="300" column="55" />
-        <mark key="[" line="556" column="28" />
-        <mark key="]" line="557" column="50" />
-        <mark key="^" line="557" column="50" />
-        <mark key="." line="557" column="50" />
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="56" />
+        <mark key="." line="349" column="0" />
+        <mark key="^" line="347" column="51" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1473150357180">
         <mark key="[" line="21" column="0" />
@@ -143,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="18" column="10" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" />
       <jump line="55" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="47" column="20" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
@@ -243,10 +236,11 @@
       <jump line="120" column="30" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/local.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" />
       <jump line="300" column="55" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" />
+      <jump line="311" column="31" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBnZXRfc2lnbmF0dXJlIHNpZyA6IHt9Ii5mb3JtYXQoc2lnKSkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -258,31 +252,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBnZXRfc2lnbmF0dXJlIHNpZyA6IHt9Ii5mb3JtYXQoc2lnKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWxnb3JpdGhtIGlzIE5vbmU6IHt9Ii5mb3JtYXQoYWxnb3JpdGhtKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWxnb3JpdGhtIGlzIHRlc3QgOiB7fSIuZm9ybWF0KHNlbGYuYWxnb3JpdGhtKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZHVtcCBzZXNzaW9uIHRlc3QgOiB7fSIuZm9ybWF0KHNlc3Npb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZGlnZXN0IG1ldGhvZCB0ZXN0IGdldCB2YWw6IHt9Ii5mb3JtYXQoc2VsZi5kaWdlc3RfbWV0aG9kKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gdGVzdCBzYXZlIHNlc3Npb246IHt9Ii5mb3JtYXQoX19maWxlX18sIHNlc3Npb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZGlnZXN0IG1ldGhvZCBzdGF0dXM6IHt9Ii5mb3JtYXQoc2VsZi5kaWdlc3RfbWV0aG9kKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIHt9IHJlcXVlc3QuY29va2llczoge30iLmZvcm1hdChfX2ZpbGVfXywgcmVxdWVzdC5jb29raWVzKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwcmludCB0eXBlIG9mIHZhbHVlOiB7fSIuZm9ybWF0KHR5cGUodmFsdWUpKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZHVtcCBwYXlsb2FkIHRlc3Q6IHt9Ii5mb3JtYXQod2FudF9ieXRlcyhzZWxmLnNlcmlhbGl6ZXIuZHVtcHMob2JqKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdCBkdW1wcyBzYWx0OiB7fSIuZm9ybWF0KHNhbHQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZHVtcCBwbGF5bG9hZCB0ZXN0IG9iajoge30iLmZvcm1hdChvYmopKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZHVtcCBzZXNzaW9uIHRlc3QgOiB7fSIuZm9ybWF0KHNlc3Npb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
