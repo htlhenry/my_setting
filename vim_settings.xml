@@ -22,11 +22,11 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1473650846554">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="37" column="114" />
-        <mark key="." line="37" column="114" />
-        <mark key="^" line="37" column="114" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1473652246834">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="12" column="81" />
+        <mark key="." line="12" column="81" />
+        <mark key="^" line="12" column="81" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" timestamp="1473412205419">
         <mark key="[" line="39" column="4" />
@@ -126,6 +126,11 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/auth_manage.html" timestamp="1473652340534">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/login.html" timestamp="1473650366386">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="12" column="72" />
@@ -164,12 +169,12 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473644034261">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473652299126">
         <mark key="'" line="7" column="62" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1473414432078">
         <mark key="[" line="91" column="83" />
@@ -281,11 +286,11 @@
       <jump line="62" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>机</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>机</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -294,31 +299,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
+        <text encoding="base64">aHRtbCBsYW5nPSJlbiI+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiaW5hc2NpaS5iMmFfYmFzZTY0KGhhc2hlZC5kaWdlc3QoKSlbOi0xXSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cjw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9IGFwcC5jb25maWdbIiJdCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoc2VjcmV0X2tleSkK</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmRiX2NsaWVudCBpbXBvcnQgbWl4X2RiCg==</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IHNlbGYuZ2V0X3N5c3RlbV9hdXRob3JpdHlzKHN5c3RlbSkKICAgICAgICAgICAgICAgIGlmIGxlbihyZXMuZ2V0KCJhdXRob3JpdHlzIikpID09IDA6CiAgICAgICAgICAgICAgICAgICAgY29udGludWU=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0IHJlcyBkYXRhOiB7fSIuZm9ybWF0KHJlcykpCg==</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
