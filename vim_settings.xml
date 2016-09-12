@@ -22,11 +22,10 @@
         <mark key="^" line="32" column="31" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1473211394676">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/flask_login_learning.py" timestamp="1473211407715">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1473649422248">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="51" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" timestamp="1473412205419">
         <mark key="[" line="39" column="4" />
@@ -53,12 +52,12 @@
         <mark key="]" line="359" column="0" />
         <mark key="." line="359" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473150670581">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473649468420">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="3" />
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="36" column="3" />
+        <mark key="." line="36" column="3" />
+        <mark key="^" line="36" column="3" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/local.py" timestamp="1473297911137">
         <mark key="'" line="120" column="30" />
@@ -120,10 +119,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473644053357">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473648390497">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/login.html" timestamp="1473210510370">
         <mark key="'" line="0" column="21" />
@@ -280,11 +280,11 @@
       <jump line="62" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiaW5hc2NpaS5iMmFfYmFzZTY0KGhhc2hlZC5kaWdlc3QoKSlbOi0xXSkK</text>
+      <register name="&quot;" type="4">
+        <text>机</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>机</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -293,31 +293,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiaW5hc2NpaS5iMmFfYmFzZTY0KGhhc2hlZC5kaWdlc3QoKSlbOi0xXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9IGFwcC5jb25maWdbIiJdCg==</text>
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoc2VjcmV0X2tleSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiaW5hc2NpaS5iMmFfYmFzZTY0KGhhc2hlZC5kaWdlc3QoKSlbOi0xXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmRiX2NsaWVudCBpbXBvcnQgbWl4X2RiCg==</text>
+        <text encoding="base64">c2VjcmV0X2tleSA9IGFwcC5jb25maWdbIiJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoc2VjcmV0X2tleSkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IHNlbGYuZ2V0X3N5c3RlbV9hdXRob3JpdHlzKHN5c3RlbSkKICAgICAgICAgICAgICAgIGlmIGxlbihyZXMuZ2V0KCJhdXRob3JpdHlzIikpID09IDA6CiAgICAgICAgICAgICAgICAgICAgY29udGludWU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmRiX2NsaWVudCBpbXBvcnQgbWl4X2RiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0IHJlcyBkYXRhOiB7fSIuZm9ybWF0KHJlcykpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcyA9IHNlbGYuZ2V0X3N5c3RlbV9hdXRob3JpdHlzKHN5c3RlbSkKICAgICAgICAgICAgICAgIGlmIGxlbihyZXMuZ2V0KCJhdXRob3JpdHlzIikpID09IDA6CiAgICAgICAgICAgICAgICAgICAgY29udGludWU=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3FsID0gIiIiU0VMRUNUICogRlJPTSBgdGFnX3JvbGVfc3lzdGVtX3JlbGAgV0hFUkUgYHRhZ19pZGAgPSAlcyBBTkQgYHJvbGVgID0gJXMgQU5EIGByb2xlX25hbWVfemhgID0gJXMgQU5EIGBzeXN0ZW1gID0gJXMgQU5EIGBhdXRob3JpdHlgID0gJXMiIiIKICAgICAgICAgICAgICAgICMgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwsICh0YWdfaWQsIHJvbGUsIHJvbGVfbmFtZV96aCwgc3lzdGVtLCBpKSkKICAgICAgICAgICAgICAgICMgaWYgbGVuKHJlcykgIT0gMDoKICAgICAgICAgICAgICAgICMgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0IHJlcyBkYXRhOiB7fSIuZm9ybWF0KHJlcykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
