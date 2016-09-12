@@ -36,11 +36,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" timestamp="1473412205419">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="7" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" timestamp="1473671606900">
+        <mark key="'" line="63" column="23" />
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="41" column="7" />
+        <mark key="^" line="41" column="7" />
+        <mark key="." line="41" column="7" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_user_login.py" timestamp="1473146161990">
         <mark key="[" line="26" column="36" />
@@ -73,6 +74,12 @@
         <mark key="]" line="10" column="19" />
         <mark key="^" line="8" column="51" />
         <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/generate_key.py" timestamp="1473672542143">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1473318920598">
         <mark key="[" line="4" column="0" />
@@ -127,10 +134,11 @@
         <mark key="." line="138" column="23" />
         <mark key="^" line="138" column="23" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473668697554">
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="36" column="46" />
-        <mark key="^" line="36" column="46" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473671469771">
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="33" />
+        <mark key="^" line="53" column="33" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/auth_manage.html" timestamp="1473652340534">
         <mark key="[" line="0" column="0" />
@@ -162,11 +170,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473150377895">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="71" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="16" column="71" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1473396326044">
         <mark key="'" line="300" column="55" />
@@ -174,13 +182,13 @@
         <mark key="]" line="522" column="0" />
         <mark key="." line="522" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1473150357180">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="12" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1473672616032">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473652299126">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473670921132">
         <mark key="'" line="7" column="62" />
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="37" />
@@ -195,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
       <jump line="96" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
       <jump line="8" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
       <jump line="71" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/batch_add_user.py" />
@@ -295,13 +302,14 @@
       <jump line="62" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="124" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="20" column="30" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="61" column="23" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timestamp</text>
+        <text>\xe1P\xd6@\x15\xf6n,!\xa5\xab\xfeHd[\xbaQW 1\x8fN\x96\x80</text>
       </register>
       <register name="-" type="4">
-        <text>timestamp</text>
+        <text>\xe1P\xd6@\x15\xf6n,!\xa5\xab\xfeHd[\xbaQW 1\x8fN\x96\x80</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -310,31 +318,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcGkK</text>
+        <text encoding="base64">U0VDUkVUX0tFWSA9ICdiNTE1MWY0MmRlYjExMzQ5N2ExZGM2NWI4NzQ3MDQyNDI2MWZjNWNhYzBiNDQ2MjAnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2csIGVycm9yX2xvZwo=</text>
+        <text encoding="base64">U0VDUkVUX0tFWSA9ICdiNTE1MWY0MmRlYjExMzQ5N2ExZGM2NWI4NzQ3MDQyNDI2MWZjNWNhYzBiNDQ2MjAnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdCwganNvbmlmeQo=</text>
+        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgaW5mb19sb2csIGVycm9yX2xvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBhcGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmVycm9ycyBpbXBvcnQgc2VydmVyX2Vycm9yLCBwYXJhbV9lcnJvcgo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgcmVxdWVzdCwganNvbmlmeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHJlcXVlc3QuZm9ybVsidG9rZW4iXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBjb21tb25zLnV0aWxzLmVycm9ycyBpbXBvcnQgc2VydmVyX2Vycm9yLCBwYXJhbV9lcnJvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHJlcXVlc3QuZm9ybVsidG9rZW4iXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
