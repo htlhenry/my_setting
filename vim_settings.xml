@@ -64,11 +64,11 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473838247915">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="7" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473843005499">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473650389280">
         <mark key="'" line="19" column="12" />
@@ -182,10 +182,10 @@
         <mark key="." line="106" column="28" />
         <mark key="^" line="106" column="28" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1473839851127">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1473842997406">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
         <mark key="[" line="15" column="12" />
@@ -321,10 +321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>absolute</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -333,31 +333,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0VnlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgIGFsZXJ0KCJ0ZXN0IHRlc3QiKTsKICAgIH0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgxPkhlbGxvIHdvcmxkPC9oMT4K</text>
+        <text encoding="base64">ICAgJCgiI2F1dGgtc2VhcmNoIikuaHRtbCgiPGgxPkhlbGxvPC9oMT4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+SGVsbG93PC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgxPkhISDwvaDE+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2lmcmFtZT4K</text>
+        <text encoding="base64">ICAgICAgICA8aDE+SGVsbG8gd29yZDwvaDE+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aWZyYW1lIHNgYHJjPSJ0ZXN0X2Jhc2UuaHRtbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNTAlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVsbG8gd29ybGQK</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0OiAyMmRkZGQwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IGF1dG87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogYXV0bzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
