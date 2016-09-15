@@ -64,7 +64,7 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473905790089">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473907596267">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -115,6 +115,11 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/settings/common.py" timestamp="1473909865865">
+        <mark key="[" line="136" column="18" />
+        <mark key="]" line="136" column="18" />
+        <mark key="." line="136" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1473229353650">
         <mark key="[" line="1" column="10" />
@@ -337,11 +342,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuc3RyZnRpbWUoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksICIlWS0lTS0lZCAlSDolbTolUyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>退</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>退</text>
       </register>
       <register name="/" type="4">
         <text>rel_tag_user</text>
@@ -377,7 +382,7 @@
         <text encoding="base64">ICAgIHRhYmxlLm9uKCd4aHInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIGpzb24gPSB0YWJsZS5hamF4Lmpzb24oKTsKICAgICAgICB2YXIgcHJpY2Vfc3VtID0ganNvblsicHJpY2Vfc3VtIl07CiAgICAgICAgJCgiI3ByaWNlX3N1bSIpLnRleHQocHJpY2Vfc3VtKTsKICAgICAgICAkKCIjcHJpY2Vfc3VtIikuY3NzKHsnY29sb3InOiAncmVkJ30pOwogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>138</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -429,10 +434,10 @@
         <entry>26</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
         <entry>138</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
