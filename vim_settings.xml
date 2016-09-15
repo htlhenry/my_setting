@@ -64,7 +64,7 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473846028617">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1473905790089">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -110,7 +110,6 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1473855557338" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/models.py" timestamp="1473139257203">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
@@ -151,18 +150,29 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1473845470494">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1473905019254">
         <mark key="'" line="19" column="30" />
-        <mark key="[" line="139" column="60" />
-        <mark key="]" line="138" column="23" />
-        <mark key="." line="138" column="23" />
-        <mark key="^" line="138" column="23" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473751678990">
         <mark key="[" line="40" column="30" />
         <mark key="]" line="40" column="44" />
         <mark key="." line="40" column="44" />
         <mark key="^" line="40" column="44" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1473905418223">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="37" column="62" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1473905100806">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="26" column="129" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/auth_manage.html" timestamp="1473652340534">
         <mark key="[" line="0" column="0" />
@@ -182,12 +192,12 @@
         <mark key="^" line="490" column="54" />
         <mark key="." line="490" column="54" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1473846853167">
-        <mark key="'" line="136" column="21" />
-        <mark key="[" line="136" column="22" />
-        <mark key="]" line="136" column="43" />
-        <mark key="." line="136" column="43" />
-        <mark key="^" line="136" column="43" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1473905619361">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="150" column="56" />
+        <mark key="]" line="150" column="69" />
+        <mark key="." line="150" column="69" />
+        <mark key="^" line="150" column="69" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1473846005867">
         <mark key="[" line="36" column="23" />
@@ -225,10 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="43" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="133" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="120" column="41" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="131" column="81" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" />
       <jump line="101" column="14" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -325,13 +331,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/decorators.py" />
       <jump line="110" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/css/dashboard.css" />
       <jump line="134" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="27" column="26" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" />
+      <jump line="23" column="26" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" />
+      <jump line="137" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuc3RyZnRpbWUoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksICIlWS0lTS0lZCAlSDolbTolUyIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>rel_tag_user</text>
@@ -340,34 +350,34 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0Zm9vdD4KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGg+TmFtZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPlBvc2l0aW9uPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+T2ZmaWNlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+RXh0bi48L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aD5TdGFydCBkYXRlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+U2FsYXJ5PC90aD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3Rmb290Pgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuc3RyZnRpbWUoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksICIlWS0lTS0lZCAlSDolbTolUyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+U3RhcnQgZGF0ZTwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVfdGltZSA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+U2FsYXJ5PC90aD4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZV90aW1lID0gZGF0ZXRpbWUuZGF0ZXRpbWUuc3RyZnRpbWUoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCksICIlWS0lTS0lZCAlSDolbTolUyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHhociBhamF4IGNvbXBsZXRlIGV2ZW50Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV90aW1lID0gcmVxdWVzdC5mb3JtLmdldFsidXBkYXRlX3RpbWUiLCBGYWxzZV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLm9uKCd4aHInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIGpzb24gPSB0YWJsZS5hamF4Lmpzb24oKTsKICAgICAgICB2YXIgcHJpY2Vfc3VtID0ganNvblsicHJpY2Vfc3VtIl07CiAgICAgICAgJCgiI3ByaWNlX3N1bSIpLnRleHQocHJpY2Vfc3VtKTsKICAgICAgICAkKCIjcHJpY2Vfc3VtIikuY3NzKHsnY29sb3InOiAncmVkJ30pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0Zm9vdD4KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGg+TmFtZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoPlBvc2l0aW9uPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+T2ZmaWNlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+RXh0bi48L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aD5TdGFydCBkYXRlPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+U2FsYXJ5PC90aD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3Rmb290Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJkYXRhIjogInByaWNlIn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+U3RhcnQgZGF0ZTwvdGg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCB0VnlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgIGFsZXJ0KCJ0ZXN0IHRlc3QiKTsKICAgIH0pOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+U2FsYXJ5PC90aD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgJCgiI2F1dGgtc2VhcmNoIikuaHRtbCgiPGgxPkhlbGxvPC9oMT4iKTsK</text>
+        <text encoding="base64">ICAgIC8vIHhociBhamF4IGNvbXBsZXRlIGV2ZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgxPkhISDwvaDE+Cg==</text>
+        <text encoding="base64">ICAgIHRhYmxlLm9uKCd4aHInLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIGpzb24gPSB0YWJsZS5hamF4Lmpzb24oKTsKICAgICAgICB2YXIgcHJpY2Vfc3VtID0ganNvblsicHJpY2Vfc3VtIl07CiAgICAgICAgJCgiI3ByaWNlX3N1bSIpLnRleHQocHJpY2Vfc3VtKTsKICAgICAgICAkKCIjcHJpY2Vfc3VtIikuY3NzKHsnY29sb3InOiAncmVkJ30pOwogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>138</text>
       </register>
     </registers>
     <search>
@@ -403,7 +413,6 @@
         <entry>rel_tag_user</entry>
       </history-search>
       <history-cmd>
-        <entry>107</entry>
         <entry encoding="base64">Pg==</entry>
         <entry>104</entry>
         <entry>161</entry>
@@ -419,10 +428,11 @@
         <entry>25</entry>
         <entry>26</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
+        <entry>138</entry>
       </history-cmd>
       <history-expr />
       <history-input />
