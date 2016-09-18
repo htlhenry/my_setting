@@ -144,7 +144,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474190509428">
+      <file name="/Dummy.txt" timestamp="1474198454837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -369,11 +369,11 @@
       <jump line="242" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJldHVybiB3b3JkICd7fSciLmZvcm1hdCh3b3JkKSkK</text>
+      <register name="&quot;" type="4">
+        <text>add &quot;README.MD</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>add &quot;README.MD</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
