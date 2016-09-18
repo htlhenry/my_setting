@@ -40,16 +40,14 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1473660819091">
         <mark key="[" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1473837425241">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="67" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1474161319168">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_user_login.py" timestamp="1473146161990">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_user_login.py" timestamp="1474162495020">
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1473314828019">
         <mark key="'" line="723" column="0" />
@@ -119,6 +117,12 @@
         <mark key="[" line="136" column="18" />
         <mark key="]" line="136" column="18" />
         <mark key="." line="136" column="18" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1474162179109">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1473229353650">
         <mark key="[" line="1" column="10" />
@@ -205,10 +209,11 @@
         <mark key="." line="150" column="69" />
         <mark key="^" line="150" column="69" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1473933637098">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1474161595802">
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
         <mark key="[" line="15" column="12" />
@@ -222,12 +227,12 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1473925502800">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1474162411499">
         <mark key="'" line="11" column="52" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1473414432078">
         <mark key="[" line="91" column="83" />
@@ -340,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>rel_tag_user</text>
@@ -352,31 +357,31 @@
         <text encoding="base64">ICAgIHByaW50KCJ0ZXN0IGxvZ2luX3VzZXI6IHt9Ii5mb3JtYXQoZGlyKF9yZXF1ZXN0X2N0eF9zdGFjay50b3ApKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVzdHJveSI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImN0bl9zZWFyaCI+CiAgICAgICAgPGRpdiBpZD0iYXV0aC1zZWFyY2giPgogICAgICAgICAgICA8dGFibGUgaWQ9InJvbGVfZ2V0IiBjbGFzcz0iZGlzcGxheSIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIxMDAlIj4KICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGg+6IqC54K5PC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+6KeS6ImyPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+55So5oi35ZCNPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGg+5pu05paw5pe26Ze0PC90aD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXJTaWRlOiB0cnVlLGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAiZGVzdHJveSI6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgiL2dldF90YWdfcm9sZS8iKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXJTaWRlOiB0cnVlLGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXJyZW50X3VzZSBpcyBGYWxzZToK</text>
+        <text encoding="base64">QGFwaS5yb3V0ZSgiL2dldF90YWdfcm9sZS8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGFkbWluaXN0cmF0b3JfcmVxdWlyZWQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXJyZW50X3VzZSBpcyBGYWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">QGFkbWluaXN0cmF0b3JfcmVxdWlyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
