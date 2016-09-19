@@ -126,11 +126,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1474198234644">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1474253185037">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/src/QcloudApi/common/sign.py" timestamp="1473666281178">
         <mark key="[" line="20" column="0" />
@@ -149,7 +150,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474198454837">
+      <file name="/Dummy.txt" timestamp="1474253826220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,6 +179,11 @@
         <mark key="]" line="128" column="55" />
         <mark key="." line="128" column="55" />
         <mark key="^" line="128" column="55" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/.gitignore" timestamp="1474253862091">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473925927145">
         <mark key="'" line="10" column="47" />
@@ -272,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="251" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="247" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="269" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -372,13 +377,14 @@
       <jump line="214" column="27" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="131" column="3" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="30" column="45" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="13" column="16" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -387,34 +393,34 @@
         <text encoding="base64">ICAgICAgICBpbmZvX2xvZy53YXJuaW5nKCJXYXJuaW5nIHJlbGF0ZSBzZXJ2ZXIgdG8gcm9sZSBmYWlsZWQsIHt9Ii5mb3JtYXQocmVzLmdldCgibXNnIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiZXhlY3V0ZSBzcWw6IHt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicXVlcnkgYWxsIHNxbDoge30iLmZvcm1hdCgoKmEsICoqa3cpKSkK</text>
+        <text encoding="base64">LmVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkb3RlbnYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3VsdF9kYXRhID0gTm9uZQo=</text>
+        <text encoding="base64">IyBTcHlkZXIgcHJvamVjdCBzZXR0aW5ncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dAo=</text>
+        <text encoding="base64">IyB2aXJ0dWFsZW52Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAieyIK</text>
+        <text encoding="base64">dmVudi8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAieyIKCg==</text>
+        <text encoding="base64">RU5WLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dAo=</text>
+        <text encoding="base64">bGliNjQvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGliLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -468,8 +474,8 @@
         <entry>186</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz48</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
