@@ -67,6 +67,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1474252185898">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="53" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473923400708">
         <mark key="'" line="20" column="12" />
         <mark key="[" line="34" column="19" />
@@ -167,12 +172,12 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1474194014878">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="130" column="28" />
-        <mark key="." line="130" column="28" />
-        <mark key="^" line="130" column="28" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1474251617441">
+        <mark key="'" line="30" column="45" />
+        <mark key="[" line="128" column="56" />
+        <mark key="]" line="128" column="55" />
+        <mark key="." line="128" column="55" />
+        <mark key="^" line="128" column="55" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473925927145">
         <mark key="'" line="10" column="47" />
@@ -216,12 +221,12 @@
         <mark key="^" line="490" column="54" />
         <mark key="." line="490" column="54" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474193773197">
-        <mark key="'" line="226" column="0" />
-        <mark key="[" line="136" column="137" />
-        <mark key="]" line="138" column="68" />
-        <mark key="." line="138" column="68" />
-        <mark key="^" line="138" column="68" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474252283220">
+        <mark key="'" line="228" column="27" />
+        <mark key="[" line="205" column="71" />
+        <mark key="]" line="205" column="71" />
+        <mark key="." line="205" column="71" />
+        <mark key="^" line="198" column="62" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1474191372408">
         <mark key="'" line="21" column="13" />
@@ -267,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="181" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="197" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="251" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="247" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -367,13 +369,16 @@
       <jump line="12" column="10" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="21" column="13" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
       <jump line="242" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="214" column="27" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="131" column="3" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="30" column="45" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add &quot;README.MD</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>add &quot;README.MD</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -382,31 +387,31 @@
         <text encoding="base64">ICAgICAgICBpbmZvX2xvZy53YXJuaW5nKCJXYXJuaW5nIHJlbGF0ZSBzZXJ2ZXIgdG8gcm9sZSBmYWlsZWQsIHt9Ii5mb3JtYXQocmVzLmdldCgibXNnIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJldHVybiB3b3JkICd7fSciLmZvcm1hdCh3b3JkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygiZXhlY3V0ZSBzcWw6IHt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTkyLjE2OC4xLjIJLQl4eHjns7vnu58K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicXVlcnkgYWxsIHNxbDoge30iLmZvcm1hdCgoKmEsICoqa3cpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTkyLjE2OC4xLjEJLQl4eHjmnI3liqEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlcjMJCQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3VsdF9kYXRhID0gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlcjIJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgic2VydmVyIGlkOiAne30nIi5mb3JtYXQoc2VydmVyX2lkKSkK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAieyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJyb2xlIGlkIDp7fSIuZm9ybWF0KHJvbGVfaWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSAieyIKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJ1c2VyIGdldCB7fSIuZm9ybWF0KHVzZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
