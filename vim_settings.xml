@@ -126,12 +126,12 @@
         <mark key="^" line="26" column="129" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474349586017">
-        <mark key="'" line="263" column="52" />
-        <mark key="[" line="239" column="28" />
-        <mark key="]" line="246" column="62" />
-        <mark key="^" line="246" column="62" />
-        <mark key="." line="246" column="62" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474353147070">
+        <mark key="'" line="257" column="18" />
+        <mark key="[" line="266" column="44" />
+        <mark key="]" line="266" column="44" />
+        <mark key="." line="263" column="0" />
+        <mark key="^" line="263" column="39" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
         <mark key="[" line="15" column="12" />
@@ -193,10 +193,10 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1474348800403">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1474350958579">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473923400708">
         <mark key="'" line="20" column="12" />
@@ -284,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="196" column="18" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="33" column="16" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -384,10 +383,11 @@
       <jump line="13" column="16" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="226" column="26" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="244" column="52" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="252" column="18" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlX3N0cmluZyA9ICIiCiAgICAgICAgICAgICAgICBmb3Igd29yZCBpbiBzZWxmLl9jb2x1bW5zOgogICAgICAgICAgICAgICAgICAgIHdoZXJlX3N0cmluZyArPSAiIHt9IGxpa2UgJXMgb3IiLmZvcm1hdCh3b3JkKQogICAgICAgICAgICAgICAgd2hlcmVfc3RyaW5nID0gd2hlcmVfc3RyaW5nWzotMl0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -399,34 +399,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlX3N0cmluZyA9ICIiCiAgICAgICAgICAgICAgICBmb3Igd29yZCBpbiBzZWxmLl9jb2x1bW5zOgogICAgICAgICAgICAgICAgICAgIHdoZXJlX3N0cmluZyArPSAiIHt9IGxpa2UgJXMgb3IiLmZvcm1hdCh3b3JkKQogICAgICAgICAgICAgICAgd2hlcmVfc3RyaW5nID0gd2hlcmVfc3RyaW5nWzotMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJleGVjdXRlIHNxbDoiKQogICAgICAgICAgICAgICAgbG9nLmluZm8oKmEsICoqa3cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciArPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJyZXRyeSAgc3FsOiIpCiAgICAgICAgICAgICAgICBsb2cuaW5mbygqYSwgKiprdykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhZ2luZygpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcl9zdHJpbmcgKz0gIiB7fSBsaWtlICclJXt9JSUnIG9yIi5mb3JtYXQod29yZCwgc2VsZi5zZWFyY2gpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHdvcmQgaW4gc2VsZi5fY29sdW1uczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzID0gbWl4X2RiLnF1ZXJ5X2FsbChzcWwgKyAiIExJTUlUIiAgKyAiICVzLCVzIiArICIgT1JERVIgQlkiICsgIiAlcyIsIChzZWxmLnBhZ2luZygpWyJzdGFydCJdLCBzZWxmLnBhZ2luZygpWyJsZW5ndGgiXSwgc2VsZi5vcmRlcmluZygpLCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmVfc3RyaW5nID0gIiIKICAgICAgICAgICAgZm9yIHdvcmQgaW4gc2VsZi5fY29sdW1uczoKICAgICAgICAgICAgICAgIHdoZXJlX3N0cmluZyArPSAiIHt9IGxpa2UgJXMgb3IiLmZvcm1hdCh3b3JkKQogICAgICAgICAgICB3aGVyZV9zdHJpbmcgPSB3aGVyZV9zdHJpbmdbOi0yXQogICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCJyZWNvcmQgd2hlcmUgc3RyaW5nOiB7fSIuZm9ybWF0KHdoZXJlX3N0cmluZykpCiAgICAgICAgICAgIHNxbCArPSAiIFdIRVJFIiArIHdoZXJlX3N0cmluZyArICIgTElNSVQiICsgIiAlcywlcyIgKyAiIE9SREVSIEJZICIgKyAiICVzIgogICAgICAgICAgICByZXMgPSBtaXhfZGIucXVlcnlfYWxsKHNxbCwgKHNlbGYuZmlsdGVyaW5nKCksIHNlbGYuZmlsdGVyaW5nKCksIHNlbGYuZmlsdGVyaW5nKCksIHNlbGYuZmlsdGVyaW5nKCksIHNlbGYucGFnaW5nKClbInN0YXJ0Il0sIHNlbGYucGFnaW5nKClbImxlbmd0aCJdLCBzZWxmLm9yZGVyaW5nKCksKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygoInRlc3QgY291bnRlcjoge30iLmZvcm1hdChjb3VudGVyKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJwYWdpbmcgbnVtYmVyIDoge30ge30iLmZvcm1hdCh0eXBlKGxpbWl0WyJzdGFydCJdKSwgdHlwZShsaW1pdFsibGVuZ3RoIl0pKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygidGVzdCBjb3VudGVyOiB7fSIuZm9ybWF0KGNvdW50ZXIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuZmlsdGVyaW5nKCk6CiAgICAgICAgICAgICAgICAgICAgY291bnRlciArPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyX3N0cmluZyA9IGZpbHRlcl9zdHJpbmdbOi0zXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJleGVjdXRlIHNxbDoiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz4+</text>
       </register>
     </registers>
     <search>
@@ -474,14 +474,14 @@
         <entry>24</entry>
         <entry>25</entry>
         <entry>26</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry>138</entry>
         <entry encoding="base64">JzwsJz5zL2lEaXNwbGF5U3RhcnQvaURpc3BsYXlMZW5ndGgvZw==</entry>
         <entry>186</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
