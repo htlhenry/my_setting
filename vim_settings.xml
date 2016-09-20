@@ -126,11 +126,12 @@
         <mark key="^" line="26" column="129" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474343728830">
-        <mark key="'" line="249" column="52" />
-        <mark key="[" line="231" column="32" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1474347941714">
+        <mark key="'" line="256" column="52" />
+        <mark key="[" line="272" column="28" />
+        <mark key="]" line="272" column="28" />
+        <mark key="^" line="244" column="74" />
+        <mark key="." line="272" column="28" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
         <mark key="[" line="15" column="12" />
@@ -192,11 +193,11 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1474264477016">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1474347571263">
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="78" column="61" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1473923400708">
         <mark key="'" line="20" column="12" />
@@ -386,44 +387,44 @@
       <jump line="244" column="52" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJwYWdpbmcgbnVtYmVyIDoge30ge30iLmZvcm1hdCh0eXBlKGxpbWl0WyJzdGFydCJdKSwgdHlwZShsaW1pdFsibGVuZ3RoIl0pKSkK</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy53YXJuaW5nKCJXYXJuaW5nIHJlbGF0ZSBzZXJ2ZXIgdG8gcm9sZSBmYWlsZWQsIHt9Ii5mb3JtYXQocmVzLmdldCgibXNnIikpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJyZXRyeSBzcWw6IHt9IHt9Ii5mb3JtYXQoKmEsICoqa3cpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJwYWdpbmcgbnVtYmVyIDoge30ge30iLmZvcm1hdCh0eXBlKGxpbWl0WyJzdGFydCJdKSwgdHlwZShsaW1pdFsibGVuZ3RoIl0pKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcl9zdHJpbmcgKz0gIiB7fSBsaWtlICclJXt9JSUnIG9yIi5mb3JtYXQod29yZCwgc2VsZi5zZWFyY2gpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHdvcmQgaW4gc2VsZi5fY29sdW1uczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyX3N0cmluZyA9IGZpbHRlcl9zdHJpbmdbOi0zXQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4geHJhbmdlKGxlbihzZWxmLl9jb2x1bW5zKSk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcl9zdHJpbmcgKz0gInt9IExJS0UgJyUle30lJScgT1IgIi5mb3JtYXQoc2VsZi5fY29sdW1uc1tpXSwgc2VsZi5zU2VhcmNoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyX3N0cmluZyA9ICJXSEVSRWRkIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSByZXF1ZXN0LmFyZ3MuZ2V0KCd1c2VyJywgRmFsc2UpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJwYWdpbmcgbnVtYmVyIDoge30ge30iLmZvcm1hdCh0eXBlKGxpbWl0WyJzdGFydCJdKSwgdHlwZShsaW1pdFsibGVuZ3RoIl0pKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyX3N0cmluZyA9IGZpbHRlcl9zdHJpbmdbOi0zXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4geHJhbmdlKGxlbihzZWxmLl9jb2x1bW5zKSk6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogZml4ZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcl9zdHJpbmcgKz0gInt9IExJS0UgJyUle30lJScgT1IgIi5mb3JtYXQoc2VsZi5fY29sdW1uc1tpXSwgc2VsZi5zU2VhcmNoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
