@@ -119,7 +119,7 @@
         <mark key="^" line="39" column="38" />
         <mark key="." line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" timestamp="1474624553474">
+      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" timestamp="1474626598427">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="24" column="3" />
         <mark key="]" line="11" column="6" />
@@ -130,6 +130,13 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo8.html" timestamp="1474628065457">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="42" />
+        <mark key="^" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" timestamp="1474536475335">
         <mark key="[" line="14" column="59" />
@@ -196,6 +203,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo7.html" timestamp="1474627668847">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/flask_login_learning.py" timestamp="1473211407715">
         <mark key="[" line="6" column="0" />
       </file>
@@ -258,6 +271,7 @@
         <mark key="." line="71" column="43" />
         <mark key="^" line="71" column="43" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-demos/demo02/index.html" timestamp="1474627181977" />
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1473905418223">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -282,6 +296,12 @@
         <mark key="^" line="490" column="54" />
         <mark key="." line="490" column="54" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo6.html" timestamp="1474627118154">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1474605148688">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="47" column="0" />
@@ -300,8 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="29" column="44" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="108" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="2" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -400,13 +418,15 @@
       <jump line="144" column="21" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="126" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="33" column="6" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" />
+      <jump line="19" column="10" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo6.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo8.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgSGVsbG9NZXNzYWdlID0gUmVhY3QuY3JlYXRlQ2xhc3MoewogICAgcmVuZGVyOiBmdW5jdGlvbiAoKSB7CiAgICAgIHJldHVybiA8aDE+SGVsbG8ge3RoaXMucHJvcHMubmFtZX08L2gxPjsKICAgIH0KICB9KTsKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8SGVsbG9NZXNzYWdlIG5hbWU9IkpvaG4iLz4sCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpCiAgKTsK</text>
+        <text encoding="base64">ICB2YXIgTXlDb21wb25lbnQgPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgICBoYW5kbGVDbGljazogZnVuY3Rpb24gKCkgewogICAgICB0aGlzLnJlZnMubXlUZXh0SW5wdXQuZm9jdXMoKTsKICAgIH0sCiAgICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8ZGl2PgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj0ibXlUZXh0SW5wdXQiLz4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlPSJGb2N1cyB0aGUgdGV4dCBpbnB1dCIgb25DbGljaz17dGhpcy5oYW5kbGVDbGlja30vPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0pOwoKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8TXlDb21wb25lbnQvPiwKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJykKICApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -415,31 +435,31 @@
         <text encoding="base64">ICAgICAgICBlcnJvcl9sb2cuZXJyb3IoIkdldCByb2xlIGlkIGVycm9yOiB7fSIuZm9ybWF0KGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgSGVsbG9NZXNzYWdlID0gUmVhY3QuY3JlYXRlQ2xhc3MoewogICAgcmVuZGVyOiBmdW5jdGlvbiAoKSB7CiAgICAgIHJldHVybiA8aDE+SGVsbG8ge3RoaXMucHJvcHMubmFtZX08L2gxPjsKICAgIH0KICB9KTsKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8SGVsbG9NZXNzYWdlIG5hbWU9IkpvaG4iLz4sCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpCiAgKTsK</text>
+        <text encoding="base64">ICB2YXIgTXlDb21wb25lbnQgPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgICBoYW5kbGVDbGljazogZnVuY3Rpb24gKCkgewogICAgICB0aGlzLnJlZnMubXlUZXh0SW5wdXQuZm9jdXMoKTsKICAgIH0sCiAgICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8ZGl2PgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj0ibXlUZXh0SW5wdXQiLz4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlPSJGb2N1cyB0aGUgdGV4dCBpbnB1dCIgb25DbGljaz17dGhpcy5oYW5kbGVDbGlja30vPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0pOwoKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8TXlDb21wb25lbnQvPiwKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJykKICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">CjwvYm9keT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoIkdldCByb2xlIGlkIGVycm9yOiB7fSIuZm9ybWF0KGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZV9zZXJ2ZXIoc2VydmVyKQogICAgICAgICAgICAgICAgIyBwcmludChzZXJ2ZXIpCg==</text>
+        <text encoding="base64">ICB2YXIgbmFtZXMgPSBbJ0FsaWNlJywgJ0VtaWx5JywgJ0thdGUnXTsKCiAgUmVhY3RET00ucmVuZGVyKAogICAgPGRpdj4KICAgICAgewogICAgICAgIG5hbWVzLm1hcChmdW5jdGlvbiAobmFtZSkgewogICAgICAgICAgcmV0dXJuIDxkaXY+SGVsbG8sIHtuYW1lfSE8L2Rpdj4KICAgICAgICB9KQogICAgICB9CiAgICA8L2Rpdj4sCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpCiAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlhbmd5YW5mZW5nCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY29sdW1uRGVmcyc6IFt7CiAgICAgICAgICAgICJvcmRlcmFibGUiOiBmYWxzZSwKICAgICAgICAgICAgImNsYXNzTmFtZSI6ICJzZWxlY3QtY2hlY2tib3giLAogICAgICAgICAgICAidGFyZ2V0cyI6IDAsCiAgICAgICAgfV0sCg==</text>
+        <text encoding="base64">ICB2YXIgTm90ZUxpc3QgPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8b2w+CiAgICAgICAgICB7CiAgICAgICAgICAgIFJlYWN0LkNoaWxkcmVuLm1hcCh0aGlzLnByb3BzLmNoaWxkcmVuLCBmdW5jdGlvbiAoY2hpbGQpIHsKICAgICAgICAgICAgICByZXR1cm4gPGxpPntjaGlsZH08L2xpPjsKICAgICAgICAgICAgfSkKICAgICAgICAgIH0KICAgICAgICA8L29sPgogICAgICApOwogICAgfQogIH0pOwogIFJlYWN0RE9NLnJlbmRlcigKICAgIDxOb3RlTGlzdD4KICAgICAgPHNwYW4+aGVsbG88L3NwYW4+CiAgICAgIDxzcGFuPndvcmxkPC9zcGFuPgogICAgPC9Ob3RlTGlzdD4sCiAgICBkb2N1bWVudC5ib2R5CiAgKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
