@@ -138,11 +138,11 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" timestamp="1474536475335">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="82" />
-        <mark key="." line="14" column="82" />
-        <mark key="^" line="14" column="82" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/inventory_parser.py" timestamp="1474865492505">
+        <mark key="[" line="14" column="85" />
+        <mark key="]" line="14" column="102" />
+        <mark key="." line="14" column="102" />
+        <mark key="^" line="14" column="102" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_tag_role.py" timestamp="1474179075864">
         <mark key="[" line="24" column="0" />
@@ -162,12 +162,12 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1474717152777">
-        <mark key="'" line="126" column="6" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="112" column="23" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1474865936918">
+        <mark key="'" line="250" column="12" />
+        <mark key="[" line="293" column="39" />
+        <mark key="]" line="294" column="91" />
+        <mark key="^" line="294" column="91" />
+        <mark key="." line="294" column="91" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1473672616032">
         <mark key="[" line="21" column="14" />
@@ -319,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="44" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="2" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="45" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="161" column="61" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -419,46 +417,48 @@
       <jump line="33" column="6" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" />
       <jump line="19" column="10" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo6.html" />
       <jump line="29" column="0" filename="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo8.html" />
+      <jump line="280" column="26" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="250" column="12" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWVfb3JfZmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2cuZXJyb3IoIkdldCByb2xlIGlkIGVycm9yOiB7fSIuZm9ybWF0KGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy53YXJuaW5nKCJXYXJuaW5nIHJlbGF0ZSBzeXMgdG8gcm9sZSBGYWlsZWQsIHt9Ii5mb3JtYXQocmVzLmdldCgibXNnIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWVfb3JfZmFsc2UK</text>
+        <text encoding="base64">ICAgICMgaW5mb19sb2cuaW5mbygiU2VhcmNoIHN5cyBhY2NvdW50IGlkICByZXN1bHQ6IHt9Ii5mb3JtYXQocmVzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWVfb3JfZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgTXlDb21wb25lbnQgPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgICBoYW5kbGVDbGljazogZnVuY3Rpb24gKCkgewogICAgICB0aGlzLnJlZnMubXlUZXh0SW5wdXQuZm9jdXMoKTsKICAgIH0sCiAgICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8ZGl2PgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj0ibXlUZXh0SW5wdXQiLz4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlPSJGb2N1cyB0aGUgdGV4dCBpbnB1dCIgb25DbGljaz17dGhpcy5oYW5kbGVDbGlja30vPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0pOwoKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8TXlDb21wb25lbnQvPiwKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJykKICApOwo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICB2YXIgTXlDb21wb25lbnQgPSBSZWFjdC5jcmVhdGVDbGFzcyh7CiAgICBoYW5kbGVDbGljazogZnVuY3Rpb24gKCkgewogICAgICB0aGlzLnJlZnMubXlUZXh0SW5wdXQuZm9jdXMoKTsKICAgIH0sCiAgICByZW5kZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgcmV0dXJuICgKICAgICAgICA8ZGl2PgogICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj0ibXlUZXh0SW5wdXQiLz4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIHZhbHVlPSJGb2N1cyB0aGUgdGV4dCBpbnB1dCIgb25DbGljaz17dGhpcy5oYW5kbGVDbGlja30vPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0pOwoKICBSZWFjdERPTS5yZW5kZXIoCiAgICA8TXlDb21wb25lbnQvPiwKICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJykKICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjwvYm9keT4K</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjwvYm9keT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgbmFtZXMgPSBbJ0FsaWNlJywgJ0VtaWx5JywgJ0thdGUnXTsKCiAgUmVhY3RET00ucmVuZGVyKAogICAgPGRpdj4KICAgICAgewogICAgICAgIG5hbWVzLm1hcChmdW5jdGlvbiAobmFtZSkgewogICAgICAgICAgcmV0dXJuIDxkaXY+SGVsbG8sIHtuYW1lfSE8L2Rpdj4KICAgICAgICB9KQogICAgICB9CiAgICA8L2Rpdj4sCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpCiAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICB2YXIgbmFtZXMgPSBbJ0FsaWNlJywgJ0VtaWx5JywgJ0thdGUnXTsKCiAgUmVhY3RET00ucmVuZGVyKAogICAgPGRpdj4KICAgICAgewogICAgICAgIG5hbWVzLm1hcChmdW5jdGlvbiAobmFtZSkgewogICAgICAgICAgcmV0dXJuIDxkaXY+SGVsbG8sIHtuYW1lfSE8L2Rpdj4KICAgICAgICB9KQogICAgICB9CiAgICA8L2Rpdj4sCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZXhhbXBsZScpCiAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
