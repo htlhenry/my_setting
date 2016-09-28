@@ -30,10 +30,11 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_user_login.py" timestamp="1474162495020">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1474969777012">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1475030795041">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1474163215393">
         <mark key="[" line="2" column="5" />
@@ -298,11 +299,11 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1474967142549">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1475030382217">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="44" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/README.MD" timestamp="1474190289834">
         <mark key="[" line="0" column="0" />
@@ -418,11 +419,11 @@
       <jump line="183" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>role_get</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -431,43 +432,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7mm7TmlrDml7bpl7Q8L3RoPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhYmwuYnV0dG9uKDApLmFjdGl2ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0b3I6ICd0ZDpmaXJzdC1jaGlsZCcK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU6ICdvcycsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAic2VsZWN0Ijogewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIGVkaXRvcmRkOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRhYmwuYnV0dG9uKDApLmFjdGl2ZSh0cnVlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>10.251.84.149	-	order-center
 10.249.164.89	-	order-center
 10.251.224.121	-	order-center
 10.250.152.40	-	order-center
 10.104.58.96	-	order-center
 10.104.58.208	-	order-center</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>10.104.33.28	-	order-center
-10.104.31.154	-	order-center
-10.104.22.80	-	order-center
-10.104.22.205	-	order-center
-10.104.16.168	-	order-center
-10.104.33.35	-	order-center
-10.104.16.127	-	order-center
-10.104.49.68	-	order-center</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4odW5jcmVhdGVfc2VydmVycykgPT0gMDoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz48</text>
