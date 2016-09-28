@@ -30,11 +30,11 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_user_login.py" timestamp="1474162495020">
         <mark key="[" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1475047040375">
-        <mark key="[" line="22" column="50" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="61" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1475049581833">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+        <mark key="^" line="38" column="72" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1474163215393">
         <mark key="[" line="2" column="5" />
@@ -421,43 +421,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>copyButton</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>copyButton</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7mm7TmlrDml7bpl7Q8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGV4dGVuZDogJ3JlbG9hZCcsIGNsYXNzTmFtZTogJ2J0biBidG4tc20gYnRuLXByaW1hcnknIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7fSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2V4dGVuZDogJ2NvcHknLCBjbGFzc05hbWU6ICdjb3B5QnV0dG9uJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge2V4dGVuZDogJ2NvcHknLCBjbGFzc05hbWU6ICdjb3B5QnV0dG9uJ30sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyAkLmZuLmRhdGFUYWJsZS5CdXR0b25zKCB0YWJsZSwgewogICAgICAgYnV0dG9uczogWwogICAgICAgICAgICdjb3B5JwogICAgICAgXQogICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5ldyAkLmZuLmRhdGFUYWJsZS5CdXR0b25zKCB0YWJsZSwgewogICAgICAgYnV0dG9uczogWwogICAgICAgICAgICdjb3B5JwogICAgICAgXQogICAgfSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmJ1dHRvbnMuY29udGFpbmVyKCkuYXBwZW5kVG8oICQoJy5jb2wtc20tNjplcSgwKScsIHRhYmxlLnRhYmxlKCkuY29udGFpbmVyKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b25zOiBbCiAgICAgICAgICAgICdleGNlbCcsCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIHRhYmxlLmJ1dHRvbnMuY29udGFpbmVyKCkuYXBwZW5kVG8oICQoJy5jb2wtc20tNjplcSgwKScsIHRhYmxlLnRhYmxlKCkuY29udGFpbmVyKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb206ICJCZnJ0aXAiLAo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25zOiBbCiAgICAgICAgICAgICdleGNlbCcsCiAgICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBob3ZlciwK</text>
+        <text encoding="base64">ICAgICAgICBkb206ICJCZnJ0aXAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
