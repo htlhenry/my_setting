@@ -149,11 +149,11 @@
         <mark key="^" line="26" column="129" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1475121290047">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="51" column="25" />
-        <mark key="^" line="51" column="25" />
-        <mark key="." line="51" column="25" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1475124651024">
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1473672627108">
         <mark key="[" line="15" column="12" />
@@ -179,11 +179,11 @@
         <mark key="." line="16" column="157" />
         <mark key="^" line="16" column="157" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1473414432078">
-        <mark key="[" line="91" column="83" />
-        <mark key="]" line="92" column="19" />
-        <mark key="^" line="92" column="19" />
-        <mark key="." line="92" column="19" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_system_register.py" timestamp="1475125084043">
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="105" column="26" />
+        <mark key="^" line="105" column="26" />
+        <mark key="." line="105" column="26" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" timestamp="1473314618072">
         <mark key="'" line="0" column="0" />
@@ -255,12 +255,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1475120889825">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1475125267561">
         <mark key="'" line="29" column="45" />
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-        <mark key="^" line="21" column="50" />
+        <mark key="[" line="73" column="53" />
+        <mark key="]" line="73" column="50" />
+        <mark key="." line="73" column="50" />
+        <mark key="^" line="73" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1473925927145">
         <mark key="'" line="10" column="47" />
@@ -420,11 +420,11 @@
       <jump line="183" column="17" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -433,31 +433,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGV4dGVuZDogJ3JlbG9hZCcsIGNsYXNzTmFtZTogJ2J0biBidG4tc20gYnRuLXByaW1hcnknIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGF1dGhvcml0ZXMpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfc3lzdGVtX2F1dGhvcml0eShzZWxmLCBzeXN0ZW0sIGF1dGhvcml0aWVzKToKICAgICAgICAiIiIKICAgICAgICDmm7TmlrDnrKzkuInmlrnns7vnu5/mnYPpmZDngrnjgIIKICAgICAgICA6cGFyYW0gc3lzdGVtOnN0ciDnrKzkuInmlrnns7vnu5/lkI0KICAgICAgICA6cGFyYW0gYXV0aG9yaXR5czogbGlzdCDnrKzkuInmlrnmnYPpmZDngrnliJfooagKICAgICAgICA6cmV0dXJuOiBkaWN0IOabtOaWsOe7k+aenAogICAgICAgICIiIgogICAgICAgIGNvZGUgPSAyMDAKICAgICAgICBtZXNzYWdlID0gInN1Y2Nlc3MgdXBkYXRlIgogICAgICAgIGluZm9fbG9nLmluZm8oInN5c3RlbSB1cGRhdGUgYXV0aG9yaXRpZXMgcGFyYW0sIHN5c3RlbToge30sIGF1dGhvcml0aWVzOiB7fSIuZm9ybWF0KHN5c3RlbSwgYXV0aG9yaXRpZXMpKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYXV0aG9yaXRpZXMsIGxpc3QpOgogICAgICAgICAgICBmb3IgaSBpbiBhdXRob3JpdGllczoKICAgICAgICAgICAgICAgIHNxbCA9ICIiIgogICAgICAgICAgICAgICAgICAgIFVQREFURSBgc3lzdGVtX3JlbGAgc2V0IGBzeXN0ZW1gID0gCiAgICAgICAgICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpc19hdXRoZW50aWNhdGVkKHNlbGYpOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBpc19hdXRoZW50aWNhdGVkKHNlbGYpOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQuYWpheCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBvc3RtYW4tdG9rZW4iOiAiYWI5MDZhNmUtODNhYi01ODdhLTcyMjctOTQ0YTY0MDliYzhhIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHMgPSB0YWJsZS5yb3dzKHsgc2VsZWN0ZWQ6IHRydWV9KS5kYXRhKClbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQuYWpheCgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -513,8 +513,8 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>148</entry>
-        <entry encoding="base64">JzwsJz4+</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry encoding="base64">JzwsJz4+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
