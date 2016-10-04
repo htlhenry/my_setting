@@ -39,7 +39,6 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/local.py" timestamp="1475396376943" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/__init__.py" timestamp="1473140722556">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
@@ -75,7 +74,6 @@
         <mark key="]" line="136" column="18" />
         <mark key="." line="136" column="18" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/wrappers.py" timestamp="1475398792490" />
       <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo4.html" timestamp="1474624180938">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="31" />
@@ -105,6 +103,9 @@
         <mark key="]" line="29" column="24" />
         <mark key="^" line="29" column="24" />
         <mark key="." line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/wrappers.py" timestamp="1475546229831">
+        <mark key="'" line="161" column="6" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1474960002189">
         <mark key="[" line="20" column="31" />
@@ -161,6 +162,7 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/security.py" timestamp="1475547690032" />
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1474946680273">
         <mark key="[" line="330" column="53" />
         <mark key="]" line="225" column="19" />
@@ -204,7 +206,6 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1176016418/thread.py" timestamp="1475393932392" />
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1475397636873">
         <mark key="'" line="723" column="0" />
         <mark key="[" line="720" column="76" />
@@ -217,7 +218,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1475398781588" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1475219548968">
         <mark key="'" line="20" column="12" />
         <mark key="[" line="22" column="40" />
@@ -266,12 +266,12 @@
         <mark key="." line="131" column="33" />
         <mark key="^" line="131" column="33" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1475135065073">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1475549384321">
         <mark key="'" line="10" column="47" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="39" column="24" />
+        <mark key="[" line="41" column="45" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_tag_user_role.py" timestamp="1473905418223">
         <mark key="[" line="28" column="0" />
@@ -291,7 +291,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1475398428516">
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1475547396469">
         <mark key="[" line="578" column="7" />
         <mark key="]" line="579" column="73" />
         <mark key="." line="579" column="73" />
@@ -310,17 +310,15 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/globals.py" timestamp="1475389889880" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1475379055188">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1475549300621">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="7" column="76" />
+        <mark key="[" line="35" column="1" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="28" filename="$USER_HOME$/opt/product_project/authority_management/app/models.py" />
       <jump line="21" column="39" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="25" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="15" column="16" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
@@ -420,13 +418,14 @@
       <jump line="7" column="16" filename="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" />
       <jump line="64" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" />
       <jump line="81" column="5" filename="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" />
+      <jump line="161" column="6" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/wrappers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY29va2llOiAlcyIgJSBjb29raWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
