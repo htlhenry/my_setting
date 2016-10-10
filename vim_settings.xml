@@ -23,11 +23,12 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476064422656">
-        <mark key="'" line="116" column="23" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476066559640">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="167" column="34" />
+        <mark key="]" line="167" column="36" />
+        <mark key="." line="167" column="36" />
+        <mark key="^" line="167" column="36" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1475998617189">
         <mark key="[" line="331" column="61" />
@@ -121,8 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="38" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
-      <jump line="39" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="19" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/models.py" />
       <jump line="40" column="14" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="7" column="62" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
@@ -221,13 +220,15 @@
       <jump line="741" column="0" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="84" column="32" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="119" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
+      <jump line="163" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>iDisplayStart</text>
@@ -236,31 +237,31 @@
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC1kb20uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgndGVzdGluZycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjwhLS0gQnV0dG9uIC0tPgo8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICA8bGFiZWwgY2xhc3M9ImNvbC1tZC00IGNvbnRyb2wtbGFiZWwiIGZvcj0ic3VibWl0Ij48L2xhYmVsPgogIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgIDxidXR0b24gaWQ9InRlc3QiIG5hbWU9InRlc3QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuaPkOS6pDwvYnV0dG9uPgogIDwvZGl2Pgo8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9zdGF0aWMvanMvcmVhY3QtZG9tLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9icm93c2VyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CjwhLS0gQnV0dG9uIC0tPgo8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICA8bGFiZWwgY2xhc3M9ImNvbC1tZC00IGNvbnRyb2wtbGFiZWwiIGZvcj0ic3VibWl0Ij48L2xhYmVsPgogIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgIDxidXR0b24gaWQ9InRlc3QiIG5hbWU9InRlc3QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuaPkOS6pDwvYnV0dG9uPgogIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9zdGF0aWMvanMvcmVhY3QtZG9tLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9icm93c2VyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICQoImRpdi5EYXRhVGFibGVzLWNyZWF0ZSIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLWNyZWF0ZSIgbmFtZT0iRGF0YVRhYmxlcy1jcmVhdGUiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXN1Y2Nlc3MiPuWIm+W7ujwvYT4nKQogICAgLy8KICAgIC8vICQoImRpdi5EYXRhVGFibGVzLW1vZCIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLW1vZCIgbmFtZT0iRGF0YVRhYmxlcy1tb2QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXByaW1hcnkiPiDkv67mlLk8L2E+JykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vICQoImRpdi5EYXRhVGFibGVzLWNyZWF0ZSIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLWNyZWF0ZSIgbmFtZT0iRGF0YVRhYmxlcy1jcmVhdGUiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXN1Y2Nlc3MiPuWIm+W7ujwvYT4nKQogICAgLy8KICAgIC8vICQoImRpdi5EYXRhVGFibGVzLW1vZCIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLW1vZCIgbmFtZT0iRGF0YVRhYmxlcy1tb2QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXByaW1hcnkiPiDkv67mlLk8L2E+JykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGxlZ2VuZD5Gb3JtIE5hbWU8L2xlZ2VuZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
