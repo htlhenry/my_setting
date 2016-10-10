@@ -23,12 +23,12 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476066559640">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476070637326">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="167" column="34" />
-        <mark key="]" line="167" column="36" />
-        <mark key="." line="167" column="36" />
-        <mark key="^" line="167" column="36" />
+        <mark key="[" line="190" column="45" />
+        <mark key="]" line="190" column="44" />
+        <mark key="." line="190" column="44" />
+        <mark key="^" line="190" column="44" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1475998617189">
         <mark key="[" line="331" column="61" />
@@ -70,12 +70,11 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1475553532614">
-        <mark key="'" line="29" column="45" />
-        <mark key="[" line="183" column="1" />
-        <mark key="]" line="183" column="1" />
-        <mark key="." line="183" column="1" />
-        <mark key="^" line="131" column="33" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476069433257">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -90,7 +89,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1475977165598">
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1476069938432">
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
@@ -107,12 +106,11 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1476003487270">
-        <mark key="'" line="745" column="0" />
-        <mark key="[" line="558" column="37" />
-        <mark key="]" line="558" column="75" />
-        <mark key="." line="558" column="75" />
-        <mark key="^" line="558" column="75" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1476069882341">
+        <mark key="'" line="536" column="22" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1476005220843">
         <mark key="[" line="59" column="15" />
@@ -122,11 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/models.py" />
-      <jump line="40" column="14" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
-      <jump line="7" column="62" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
-      <jump line="723" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" />
-      <jump line="120" column="30" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/local.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" />
       <jump line="300" column="55" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="311" column="31" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" />
@@ -222,55 +215,60 @@
       <jump line="119" column="23" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="163" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="2" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
+      <jump line="114" column="14" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="22" column="37" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="539" column="22" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXJlc3BvbnNlKXsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>iDisplayStart</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC1kb20uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgndGVzdGluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXJlc3BvbnNlKXsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0aW5nIGVuY29kZV9jb29raWUgNTgwOiBwYXlsb2FkfGRpZ2VzdCAlcyIgJSB1J3swfXx7MX0nLmZyb21hdChwYXlsb2FkLCBfY29va2llX2RpZ2VzdChwYXlsb2FkKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjwhLS0gQnV0dG9uIC0tPgo8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICA8bGFiZWwgY2xhc3M9ImNvbC1tZC00IGNvbnRyb2wtbGFiZWwiIGZvcj0ic3VibWl0Ij48L2xhYmVsPgogIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgIDxidXR0b24gaWQ9InRlc3QiIG5hbWU9InRlc3QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPuaPkOS6pDwvYnV0dG9uPgogIDwvZGl2Pgo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgdW5zaWduIHJlc3VsdCA0MjUge30iLmZvcm1hdChyZXN1bHQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9zdGF0aWMvanMvcmVhY3QtZG9tLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9icm93c2VyLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgdW5zaWduIHJldHVlbiAzNzMge30iLmZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyB1bnNpZ24gZ2l2ZW4gc3RyaW5nIHt9Ii5mb3JtYXQoc2lnbmVkX3ZhbHVlKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBUaW1lZFNlcmlhbGl6ZXIgcGF5bG9hZCB7fSIuZm9ybWF0KHBheWxvYWQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICQoImRpdi5EYXRhVGFibGVzLWNyZWF0ZSIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLWNyZWF0ZSIgbmFtZT0iRGF0YVRhYmxlcy1jcmVhdGUiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXN1Y2Nlc3MiPuWIm+W7ujwvYT4nKQogICAgLy8KICAgIC8vICQoImRpdi5EYXRhVGFibGVzLW1vZCIpLmh0bWwoJzxhIGhyZWY9IiMiIGlkPSJEYXRhVGFibGVzLW1vZCIgbmFtZT0iRGF0YVRhYmxlcy1tb2QiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLXByaW1hcnkiPiDkv67mlLk8L2E+JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBUaW1lZFNlcmlhbGl6ZXIgYmFzZTY0IDY1OSB7fSIuZm9ybWF0KGJhc2U2NGQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBUaW1lZFNlcmlhbGl6ZXIgcyB7fSIuZm9ybWF0KHMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBsb2FkcyBzdHJpbmcge30iLmZvcm1hdChzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iDisplayStart</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>iDisplayStart</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>iDisplayLength</last-replace>
       <last-substitute>iDisplayStart</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +284,6 @@
         <entry>server_error</entry>
         <entry>excute</entry>
         <entry encoding="base64">PDw=</entry>
-        <entry>print</entry>
         <entry>、</entry>
         <entry>[ ]</entry>
         <entry>\(.*\)</entry>
@@ -298,6 +295,7 @@
         <entry>user</entry>
         <entry>rel_tag_user</entry>
         <entry>iDisplayStart</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>223</entry>
