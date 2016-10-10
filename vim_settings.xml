@@ -23,12 +23,12 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476074870060">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="194" column="38" />
-        <mark key="]" line="112" column="21" />
-        <mark key="." line="112" column="21" />
-        <mark key="^" line="195" column="90" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476078229435">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="113" column="139" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="112" column="78" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1475998617189">
         <mark key="[" line="331" column="61" />
@@ -120,7 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="31" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" />
       <jump line="62" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="124" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="20" column="30" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
@@ -220,13 +219,14 @@
       <jump line="539" column="22" filename="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="192" column="37" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="1" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
+      <jump line="195" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLTxzdHJvbmc+SG9seSBzaGl0ITwvc3Ryb25nPiBlcnJvciBwYXJhbS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCI+PHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+PHNwYW4gY2xhc3M9InNyLW9ubHkiPkNsb3NlPC9zcGFuPjwvYnV0dG9uPg==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -235,31 +235,31 @@
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC1kb20uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcm9sZSIpCg==</text>
+        <text encoding="base64">PCEtLTxzdHJvbmc+SG9seSBzaGl0ITwvc3Ryb25nPiBlcnJvciBwYXJhbS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkKCIjcm9sZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2VbImNvZGUiXSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlWyJtZXNzYWdlIl0pOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb2RlKTsKICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UubWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHIgPSAkLnBhcnNlSlNPTihyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2VbImNvZGUiXSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlWyJtZXNzYWdlIl0pOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb2RlKTsKICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UubWVzc2FnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVc2VyTmFtZSwgdGFnLCByb2xlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHIgPSAkLnBhcnNlSlNPTihyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXJlc3BvbnNlKXsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVc2VyTmFtZSwgdGFnLCByb2xlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0aW5nIGVuY29kZV9jb29raWUgNTgwOiBwYXlsb2FkfGRpZ2VzdCAlcyIgJSB1J3swfXx7MX0nLmZyb21hdChwYXlsb2FkLCBfY29va2llX2RpZ2VzdChwYXlsb2FkKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXJlc3BvbnNlKXsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgdW5zaWduIHJlc3VsdCA0MjUge30iLmZvcm1hdChyZXN1bHQpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0aW5nIGVuY29kZV9jb29raWUgNTgwOiBwYXlsb2FkfGRpZ2VzdCAlcyIgJSB1J3swfXx7MX0nLmZyb21hdChwYXlsb2FkLCBfY29va2llX2RpZ2VzdChwYXlsb2FkKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgdW5zaWduIHJldHVlbiAzNzMge30iLmZvcm1hdCh2YWx1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgdW5zaWduIHJlc3VsdCA0MjUge30iLmZvcm1hdChyZXN1bHQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
