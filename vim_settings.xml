@@ -30,11 +30,10 @@
         <mark key="." line="195" column="38" />
         <mark key="^" line="195" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1475998617189">
-        <mark key="[" line="331" column="61" />
-        <mark key="]" line="331" column="63" />
-        <mark key="." line="331" column="63" />
-        <mark key="^" line="331" column="63" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1476084692258">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1475219548968">
         <mark key="'" line="20" column="12" />
@@ -53,9 +52,6 @@
       <file name="/Dummy.txt" timestamp="1476002265887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/wrappers.py" timestamp="1475572978487">
-        <mark key="'" line="161" column="6" />
-      </file>
       <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" timestamp="1474626598427">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="24" column="3" />
@@ -70,11 +66,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476069433257">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476085100936">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+        <mark key="[" line="120" column="19" />
+        <mark key="]" line="120" column="18" />
+        <mark key="." line="120" column="18" />
+        <mark key="^" line="104" column="96" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -93,6 +90,12 @@
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476084512807">
+        <mark key="[" line="106" column="71" />
+        <mark key="]" line="140" column="71" />
+        <mark key="^" line="140" column="71" />
+        <mark key="." line="140" column="71" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476064164106">
         <mark key="'" line="33" column="0" />
@@ -222,11 +225,11 @@
       <jump line="195" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -235,34 +238,34 @@
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3N0YXRpYy9qcy9yZWFjdC1kb20uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBUYWdnZW5kSlNPTlNlcmlhbGl6ZXIgbG9hZHMgdmFsdWUge30iLmZvcm1hdCh2YWx1ZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLTxzdHJvbmc+SG9seSBzaGl0ITwvc3Ryb25nPiBlcnJvciBwYXJhbS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBzYXZlX3Nlc3Npb24gdmFsIHt9Ii5mb3JtYXQoZGljdChzZXNzaW9uKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcm9sZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBzYXZlX3Nlc3Npb24ge30iLmZvcm1hdChzZXNzaW9uKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBzYXZlX3Nlc3Npb24gZXhlYyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2VbImNvZGUiXSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlWyJtZXNzYWdlIl0pOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5jb2RlKTsKICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UubWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3Rpbmcgb3Blbl9zZXNzaW9uIDMzMiBkYXRhIHt9Ii5mb3JtYXQodmFsKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHIgPSAkLnBhcnNlSlNPTihyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBvcGVuX3Nlc3Npb24gZ2V0X2Nvb2tpZXMge30iLmZvcm1hdCh2YWwpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVc2VyTmFtZSwgdGFnLCByb2xlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyBvcGVuX3Nlc3Npb24gZ2V0X3NpZ25pbmdfc2VyaWFsaXplciB7fSIuZm9ybWF0KHR5cGUocykpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXJlc3BvbnNlKXsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0ZXN0aW5nIGVuY29kZV9jb29raWUgNTgwOiBwYXlsb2FkfGRpZ2VzdCAlcyIgJSB1J3swfXx7MX0nLmZyb21hdChwYXlsb2FkLCBfY29va2llX2RpZ2VzdChwYXlsb2FkKSkpCg==</text>
+        <text encoding="base64">PCEtLTxzdHJvbmc+SG9seSBzaGl0ITwvc3Ryb25nPiBlcnJvciBwYXJhbS0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -298,8 +301,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>223</entry>
-        <entry>Wq</entry>
         <entry>20$</entry>
         <entry>20</entry>
         <entry>23</entry>
@@ -318,6 +319,8 @@
         <entry>593</entry>
         <entry>447</entry>
         <entry>w</entry>
+        <entry>177</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />
