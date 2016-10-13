@@ -33,12 +33,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476333621468">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476336489197">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="243" column="47" />
-        <mark key="]" line="243" column="50" />
-        <mark key="." line="243" column="50" />
-        <mark key="^" line="243" column="50" />
+        <mark key="[" line="141" column="24" />
+        <mark key="]" line="141" column="33" />
+        <mark key="." line="141" column="33" />
+        <mark key="^" line="141" column="33" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -53,12 +53,12 @@
         <mark key="^" line="720" column="75" />
         <mark key="." line="720" column="75" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476096560762">
-        <mark key="'" line="194" column="13" />
-        <mark key="[" line="200" column="7" />
-        <mark key="]" line="195" column="38" />
-        <mark key="." line="195" column="38" />
-        <mark key="^" line="195" column="38" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476337372879">
+        <mark key="'" line="196" column="13" />
+        <mark key="[" line="104" column="23" />
+        <mark key="]" line="104" column="26" />
+        <mark key="." line="104" column="26" />
+        <mark key="^" line="104" column="26" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1476084692258">
         <mark key="[" line="87" column="0" />
@@ -84,11 +84,12 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476333730480">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="205" column="23" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476337243396">
+        <mark key="'" line="60" column="28" />
+        <mark key="[" line="224" column="97" />
+        <mark key="]" line="224" column="93" />
+        <mark key="^" line="224" column="93" />
+        <mark key="." line="224" column="93" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476064164106">
         <mark key="'" line="33" column="0" />
@@ -129,8 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="22" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="20" column="30" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="61" column="23" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
       <jump line="28" column="40" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" />
@@ -229,13 +228,15 @@
       <jump line="192" column="37" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="1" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
       <jump line="195" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
+      <jump line="219" column="73" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="60" column="28" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb2xlID0gJXMK</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -244,34 +245,34 @@
         <text encoding="base64">ICAoJ3RhZ19pZF9hYmMnLCAnYWRtaW4nLCAn566h55CG5ZGYJywgJ3N5c3RlbV9BQkMnLCAnZGVsZXRlJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb2xlID0gJXMK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgPSBBdXRob3JpdHlNYW5hZ2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyID0gJXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb2xlX25hbWVfemggPSAlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0YWdfaWQgPSAlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb2xlX25hbWVfemggPSAlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyID0gJXMgQU5ECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBgcm9sZWAgPSAlcyBBTkQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0YWdfaWQgPSAlcyBBTkQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBgcm9sZWAgPSAlcyBBTkQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJzZWxlY3QgdXNlciB7fSByb2xlIHJlc3VsdDoge30iLmZvcm1hdCh1c2VyLCByKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZlcl9vawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBgcm9sZV9uYW1lX3poYCA9ICVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gc2VydmVyX29rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBgcm9sZV9uYW1lX3poYCA9ICVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb2xlID0gJXMK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -320,13 +321,13 @@
         <entry>148</entry>
         <entry>593</entry>
         <entry>447</entry>
-        <entry>w</entry>
         <entry>177</entry>
         <entry>119</entry>
-        <entry encoding="base64">Pg==</entry>
         <entry>193</entry>
         <entry encoding="base64">JzwsJz48</entry>
         <entry encoding="base64">JzwsJz4+</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
