@@ -33,12 +33,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476331226039">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476333621468">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="253" column="74" />
-        <mark key="]" line="254" column="25" />
-        <mark key="." line="254" column="25" />
-        <mark key="^" line="254" column="25" />
+        <mark key="[" line="243" column="47" />
+        <mark key="]" line="243" column="50" />
+        <mark key="." line="243" column="50" />
+        <mark key="^" line="243" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -84,10 +84,11 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476332042994">
-        <mark key="[" line="193" column="9" />
-        <mark key="]" line="193" column="8" />
-        <mark key="." line="193" column="8" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476333730480">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="205" column="23" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476064164106">
         <mark key="'" line="33" column="0" />
@@ -230,11 +231,11 @@
       <jump line="195" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByb2xlID0gJXMK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>GET</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -243,31 +244,31 @@
         <text encoding="base64">ICAoJ3RhZ19pZF9hYmMnLCAnYWRtaW4nLCAn566h55CG5ZGYJywgJ3N5c3RlbV9BQkMnLCAnZGVsZXRlJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gc2VydmVyX29rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByb2xlID0gJXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyID0gJXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0YWdfaWQgPSAlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb2xlX25hbWVfemg6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VyID0gJXMgQU5ECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHRhZ19pZCBhbmQgdXNlciBhbmQgcm9sZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0YWdfaWQgPSAlcyBBTkQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJzZWxlY3QgdXNlciB7fSByb2xlIHJlc3VsdDoge30iLmZvcm1hdCh1c2VyLCByKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5kZWJ1ZygidGFnX3VzZXJfcm9sZToge30iLmZvcm1hdChyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZlcl9vawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gc2VydmVyX29rCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4+</text>
