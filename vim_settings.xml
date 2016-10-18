@@ -53,17 +53,18 @@
         <mark key="." line="259" column="2" />
         <mark key="^" line="259" column="2" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1476692040138">
-        <mark key="[" line="42" column="74" />
-        <mark key="]" line="37" column="51" />
-        <mark key="." line="37" column="51" />
-        <mark key="^" line="42" column="80" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1476777816365">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask/sessions.py" timestamp="1476084692258">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1476776292019" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1475219548968">
         <mark key="'" line="20" column="12" />
         <mark key="[" line="22" column="40" />
@@ -112,12 +113,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476772698323">
-        <mark key="'" line="15" column="33" />
-        <mark key="[" line="303" column="29" />
-        <mark key="]" line="306" column="39" />
-        <mark key="." line="306" column="39" />
-        <mark key="^" line="306" column="39" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1476777619370">
+        <mark key="'" line="329" column="8" />
+        <mark key="[" line="123" column="51" />
+        <mark key="]" line="123" column="59" />
+        <mark key="." line="123" column="59" />
+        <mark key="^" line="123" column="59" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -137,12 +138,12 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476773809699">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1476776791179">
         <mark key="'" line="140" column="17" />
-        <mark key="[" line="195" column="4" />
-        <mark key="]" line="196" column="3" />
-        <mark key="." line="196" column="3" />
-        <mark key="^" line="196" column="3" />
+        <mark key="[" line="672" column="58" />
+        <mark key="]" line="673" column="57" />
+        <mark key="^" line="673" column="57" />
+        <mark key="." line="673" column="57" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476425535225">
         <mark key="'" line="31" column="0" />
@@ -168,12 +169,12 @@
         <mark key="." line="35" column="7" />
         <mark key="^" line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1476773113530">
-        <mark key="'" line="163" column="12" />
-        <mark key="[" line="193" column="24" />
-        <mark key="]" line="193" column="24" />
-        <mark key="." line="193" column="24" />
-        <mark key="^" line="211" column="6" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1476778096462">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="112" column="44" />
+        <mark key="]" line="112" column="44" />
+        <mark key="^" line="112" column="42" />
+        <mark key="." line="112" column="44" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1476431501067">
         <mark key="'" line="12" column="17" />
@@ -184,11 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="13" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
-      <jump line="242" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
-      <jump line="214" column="27" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="131" column="3" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="30" column="45" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="13" column="16" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="226" column="26" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="244" column="52" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -284,57 +280,60 @@
       <jump line="147" column="16" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
       <jump line="139" column="17" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="161" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
+      <jump line="216" column="69" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="8" column="10" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="329" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>test_tag_data</text>
+        <text>page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHhocik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD7kuK3mloflkI08L3RoPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnX2lkOiAKICAgICAgICA6cGFyYW0gc3lzdGVtOiAKICAgICAgICA6cGFyYW0gcm9sZTogCiAgICAgICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gcmVuZGVyQWxlcnRIdG1sKG1lc3NhZ2UpIHsKICAgICAgICAgICAgICAgICQoIiNhbGVydC1kaXYgZGl2IikuaHRtbCgiPHN0cm9uZz5FUlJPUjogIDwvc3Ryb25nPiIgKyBtZXNzYWdlKTsKICAgICAgICAgICAgICAgICQoIiNhbGVydC1kaXYiKS5zaG93KCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCLor7fmsYLmiJDlip86IiArIGRhdGEpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNhbGVydC1kaXYiKS5zaG93KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoIiNhbGVydC1kaXYgZGl2IikuaHRtbCgiPHN0cm9uZz5FUlJPUjogPC9zdHJvbmc+IiArIHhoci5zdGF0dXNUZXh0KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICcvYWRtaW4vJzsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-                console.log(xhr);
-                console.log(status);</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEV4Y2VwdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCdkZWxldGUgc3lzdGVtIHRhZyByb2xlIGV4Y2VwdGlvbjoge30nLmZvcm1hdChlKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShwYXJhbV9lcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnX2lkOiAKICAgICAgICA6cGFyYW0gc3lzdGVtOiAKICAgICAgICA6cGFyYW0gcm9sZTogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz48</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test_tag_data</last-search>
+      <last-search>page</last-search>
       <last-offset />
-      <last-pattern>test_tag_data</last-pattern>
+      <last-pattern>page</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>test_tag_data</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hre</entry>
         <entry>thrid</entry>
         <entry>api\/</entry>
         <entry>server_error</entry>
@@ -362,6 +360,7 @@
         <entry>print</entry>
         <entry>val</entry>
         <entry>test_tag_data</entry>
+        <entry>page</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
@@ -380,10 +379,10 @@
         <entry encoding="base64">Pg==</entry>
         <entry>69</entry>
         <entry encoding="base64">JzwsJz4+</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbC9zeXN0ZW1fYXV0aG9yaXR5Lw==</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3RfdGFnX2RhdGEvZGF0YS8=</entry>
         <entry encoding="base64">JzwsJz48</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
