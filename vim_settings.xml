@@ -48,17 +48,17 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477036470793">
-        <mark key="[" line="24" column="50" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477038068918">
+        <mark key="[" line="24" column="52" />
         <mark key="]" line="25" column="34" />
         <mark key="." line="25" column="34" />
         <mark key="^" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1476874702308">
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="54" />
-        <mark key="^" line="37" column="26" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1477038096334">
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+        <mark key="^" line="53" column="4" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" timestamp="1477026372021">
         <mark key="[" line="69" column="0" />
@@ -343,11 +343,11 @@
       <jump line="453" column="37" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmcoJCh0aGlzKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>write_off</text>
@@ -355,32 +355,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygiZGVsZXRlIHN5c3RlbSBlbnRyeSBjb3VudCB7fSIuZm9ybWF0KHIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmcoJCh0aGlzKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>$(document).ready(function(){
+    $(&quot;*[data-envent='nav']&quot;).click(function (e) {
+        console.log(&quot;test active&quot;);
+        $(this).addclass(&quot;active&quot;);
+    });
+})</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmcoJCh0aGlzKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaXhfZGIuZGVsZXRlKGRlbGV0ZV9zeXN0ZW1fdGFnX3NxbCwgKHN5c3RlbSwgaSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCJkZWxldGUgc3lzdGVtX3RhZyA6IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaXhfZGIuZGVsZXRlKGRlbGV0ZV9zeXN0ZW1fdGFnX3NxbCwgKHN5c3RlbSwgaSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyLCBsaXN0KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCJkZWxldGUgc3lzdGVtX3RhZyA6IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aCA9IEF1dGhvcml0eU1hbmFnZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyLCBsaXN0KToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXV0aG9yaXRpZXMsIGxpc3QpLCAie30gbXVzdCBiZSBsaXN0Ii5mb3JtYXQoYXV0aG9yaXRpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aCA9IEF1dGhvcml0eU1hbmFnZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmVxdWVzdC5mb3JtOgogICAgICAgICAgICAgICAgaWYgc2FmZV9zdHIubWF0Y2goaSk6CiAgICAgICAgICAgICAgICAgICAgYXV0aF9saXN0LmFwcGVuZChyZXF1ZXN0LmZvcm0uZ2V0KGkpKQogICAgICAgICAgICBpZiBhdXRoX2xpc3Q6CiAgICAgICAgICAgICAgICByID0gb2ZmX3N5c3RlbS53cml0ZV9vZmZfc3lzdGVtKHN5c3RlbSwgYXV0aF9saXN0KQogICAgICAgICAgICAgICAgaW5mb19sb2cuaW5mbygid3JpdGUgb2Ygc3lzdGVtIGF1dGhyaXRpZXMsIHt9Ii5mb3JtYXQocikpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByID0gb2ZmX3N5c3RlbS53cml0ZV9vZmZfc3lzdGVtKHN5c3RlbSkKICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UoYXV0aG9yaXRpZXMsIGxpc3QpLCAie30gbXVzdCBiZSBsaXN0Ii5mb3JtYXQoYXV0aG9yaXRpZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz48</text>
