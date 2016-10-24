@@ -135,7 +135,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477288939146">
+      <file name="/Dummy.txt" timestamp="1477290077414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -146,7 +146,7 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/index.js" timestamp="1476870467434">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/index.js" timestamp="1477290568896">
         <mark key="[" line="106" column="28" />
         <mark key="]" line="107" column="39" />
         <mark key="." line="107" column="39" />
@@ -166,12 +166,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1477281270760">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="79" column="73" />
-        <mark key="]" line="79" column="72" />
-        <mark key="." line="79" column="72" />
-        <mark key="^" line="79" column="72" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1477292913809">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="115" column="1" />
+        <mark key="]" line="115" column="22" />
+        <mark key="." line="115" column="22" />
+        <mark key="^" line="115" column="22" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -198,12 +198,12 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1477290050570">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1477292823331">
         <mark key="'" line="853" column="15" />
-        <mark key="[" line="504" column="42" />
-        <mark key="]" line="505" column="27" />
-        <mark key="." line="505" column="27" />
-        <mark key="^" line="505" column="27" />
+        <mark key="[" line="249" column="35" />
+        <mark key="]" line="249" column="35" />
+        <mark key="." line="249" column="35" />
+        <mark key="^" line="359" column="63" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476943400403">
         <mark key="[" line="31" column="0" />
@@ -230,7 +230,7 @@
         <mark key="." line="35" column="7" />
         <mark key="^" line="35" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1477273861590">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1477290204817">
         <mark key="[" line="204" column="12" />
         <mark key="]" line="203" column="57" />
         <mark key="." line="203" column="57" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="21" filename="$USER_HOME$/opt/product_project/authority_management/templates/tables.html" />
       <jump line="56" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/tables.html" />
       <jump line="26" column="19" filename="$USER_HOME$/opt/product_project/authority_management/templates/base.html" />
       <jump line="8" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
@@ -351,13 +350,14 @@
       <jump line="453" column="37" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="58" column="47" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" />
       <jump line="853" column="15" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>system</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>write_off</text>
@@ -393,7 +393,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>289</text>
+        <text>287</text>
       </register>
     </registers>
     <search>
@@ -429,8 +429,6 @@
         <entry>write_off</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>148</entry>
         <entry>593</entry>
         <entry>447</entry>
         <entry>177</entry>
@@ -449,6 +447,8 @@
         <entry encoding="base64">JzwsJz48</entry>
         <entry>83</entry>
         <entry>289</entry>
+        <entry>105</entry>
+        <entry>287</entry>
       </history-cmd>
       <history-expr />
       <history-input />
