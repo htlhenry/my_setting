@@ -166,12 +166,12 @@
         <mark key="." line="21" column="42" />
         <mark key="^" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1477292913809">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1477300963390">
         <mark key="'" line="114" column="0" />
-        <mark key="[" line="115" column="1" />
-        <mark key="]" line="115" column="22" />
-        <mark key="." line="115" column="22" />
-        <mark key="^" line="115" column="22" />
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
+        <mark key="^" line="339" column="37" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
@@ -198,12 +198,12 @@
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1477298455695">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1477300845047">
         <mark key="'" line="163" column="13" />
-        <mark key="[" line="165" column="57" />
-        <mark key="]" line="165" column="57" />
-        <mark key="." line="165" column="57" />
-        <mark key="^" line="165" column="58" />
+        <mark key="[" line="167" column="31" />
+        <mark key="]" line="167" column="34" />
+        <mark key="." line="167" column="34" />
+        <mark key="^" line="167" column="34" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1476943400403">
         <mark key="[" line="31" column="0" />
@@ -224,11 +224,10 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/ext_api.py" timestamp="1477298510705">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="44" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/ext_api.py" timestamp="1477299298207">
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test.html" timestamp="1476584921654">
         <mark key="[" line="35" column="30" />
@@ -359,11 +358,11 @@
       <jump line="163" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGluZm9fbG9nLmluZm8oImpzb25pZnkgZGF0YXRhYmxlIHJlc3VsdCB7fSIuZm9ybWF0KGpzb24uZHVtcHMoZGF0YXRhYmxlLnJlc3VsdCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>write_off</text>
@@ -372,34 +371,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygiZGVsZXRlIHN5c3RlbSBlbnRyeSBjb3VudCB7fSIuZm9ybWF0KHIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4ICLpobblsYJ0YWfmnInmnYPpmZDvvIzkuIvpnaLnmoToioLngrnkuZ/mnInnm7jlupTnmoTmnYPpmZAsIOeUqOaIt+S4jeWtmOWcqOi/lOWbnkZhbHNlIgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGluZm9fbG9nLmluZm8oImpzb25pZnkgZGF0YXRhYmxlIHJlc3VsdCB7fSIuZm9ybWF0KGpzb24uZHVtcHMoZGF0YXRhYmxlLnJlc3VsdCkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCJ0b3AgdGFnIHt9Ii5mb3JtYXQodG9wX3RhZykpCg==</text>
+        <text encoding="base64">ICAgICMgaW5mb19sb2cuaW5mbygiYXV0aG9yaXplX3RhZyByZXF1ZXN0OiB7fSIuZm9ybWF0KHJlcXVlc3QuY29udGVudF90eXBlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oIiIpCg==</text>
+        <text encoding="base64">Zml4ICLpobblsYJ0YWfmnInmnYPpmZDvvIzkuIvpnaLnmoToioLngrnkuZ/mnInnm7jlupTnmoTmnYPpmZAsIOeUqOaIt+S4jeWtmOWcqOi/lOWbnkZhbHNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BfdGFnID0gIl8iLmpvaW4odGFnX2lkX3NwbGl0WzA6Y291bnRdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvX2xvZy5pbmZvKCJ0b3AgdGFnIHt9Ii5mb3JtYXQodG9wX3RhZykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGhlbHBlcl9jb25jYXRfbGlzdChvbmVfbGlzdCwgZGVsaW1pdGVyKToKICAgIGZvciB2YWwgaW4gb25lX2xpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3BfdGFnID0gIl8iLmpvaW4odGFnX2lkX3NwbGl0WzA6Y291bnRdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygic2VsZWN0IHVzZXIiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX3RhZ19zcWwgPSAiIiIKICAgICAgICAgICAgICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgICAgICAgICAgICAgdGFnX2lkLCBzeXN0ZW0sIHJvbGUsIGF1dGhvcml0eQogICAgICAgICAgICAgICAgICAgIEZST00KICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBXSEVSRQogICAgICAgICAgICAgICAgICAgICAgICBzeXN0ZW0gPSAlcyBBTkQKICAgICAgICAgICAgICAgICAgICAgICAgdGFnX2lkIElOIChTRUxFQ1QgdGFnX2lkIEZST00gdXNlcl90YWcgV0hFUkUgdXNlciA9ICVzKQogICAgICAgICAgICAgICAgICAgICAgICAiIiIuZm9ybWF0KFRBQkxFUy5nZXQoJ3N5c3RlbScpKQogICAgICAgICAgICByZXMsIGxhc3QgPSBtaXhfZGIucXVlcnlfYWxsKGFsbF90YWdfc3FsLCAoc3lzdGVtLCB1c2VyKSkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGhlbHBlcl9jb25jYXRfbGlzdChvbmVfbGlzdCwgZGVsaW1pdGVyKToKICAgIGZvciB2YWwgaW4gb25lX2xpc3Q6Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2cuaW5mbygic2VsZWN0IHVzZXIiKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>293</text>
+        <text encoding="base64">JzwsJz48</text>
       </register>
     </registers>
     <search>
@@ -449,12 +448,12 @@
         <entry>949</entry>
         <entry>748</entry>
         <entry>599</entry>
-        <entry encoding="base64">JzwsJz48</entry>
         <entry>83</entry>
         <entry>289</entry>
         <entry>105</entry>
         <entry>287</entry>
         <entry>293</entry>
+        <entry encoding="base64">JzwsJz48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
