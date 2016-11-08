@@ -29,6 +29,9 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/extra_api.yaml" timestamp="1478600486185">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1478237757027">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="75" column="5" />
@@ -107,6 +110,13 @@
         <mark key="." line="22" column="43" />
         <mark key="^" line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/product_extra_api.yaml" timestamp="1478600694170">
+        <mark key="'" line="2" column="37" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/sql/test.sql" timestamp="1478144138882">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="5" column="45" />
@@ -160,6 +170,12 @@
         <mark key="]" line="163" column="35" />
         <mark key="." line="163" column="35" />
         <mark key="^" line="163" column="35" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_extra_api.yaml" timestamp="1478600708800">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo5.html" timestamp="1474626598427">
         <mark key="'" line="35" column="6" />
@@ -231,12 +247,12 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/ext_api.py" timestamp="1478599576365">
-        <mark key="'" line="32" column="7" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/ext_api.py" timestamp="1478600842525">
+        <mark key="'" line="31" column="7" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test.html" timestamp="1476584921654">
         <mark key="[" line="35" column="30" />
@@ -271,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
       <jump line="168" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
       <jump line="31" column="15" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="108" column="2" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
@@ -371,10 +386,11 @@
       <jump line="160" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="32" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="160" column="18" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/index.js" />
+      <jump line="1" column="37" filename="$USER_HOME$/opt/product_project/authority_management/configs/product_extra_api.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
@@ -386,31 +402,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09ORklHID0gY3VycmVudF9hcHAuY29uZmlnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09ORl9GSUxFID0gImNvbmZpZ3MvZXh0cmFfYXBpLnlhbWwiCnN0cmVhbSA9IGZpbGUoQ09ORl9GSUxFLCAncicpCmRhdGEgPSBsb2FkKHN0cmVhbT1zdHJlYW0pCmluZm9fbG9nLkRFQlVHKCJsb2FkIGV4dHJhX2FwaS55YW1sIGZpbGUgY29udGVudD0+e30iLmZvcm1hdChkYXRhKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TmV3IGNoYW5nZWxpc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGxhYmVsIGZvcj0idGVzdF90YWdfaWQiPlRlc3Q8L2xhYmVsPi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS08aW5wdXQgY2xhc3M9ImlucHV0LWdyb3VwIiBpZD0idGVzdF90YWdfaWQiIHZhbHVlPSJoZWxsbyB0ZXN0Ii8+LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qLmJpZ2dlcl9jaGVja2JveCB7Ki8KICAgICAgICAvKi13ZWJraXQtYXBwZWFyYW5jZTogbm9uZTsqLwogICAgICAgIC8qYmFja2dyb3VuZDogd2hpdGU7Ki8KICAgICAgICAvKmJvcmRlci1yYWRpdXM6IDVweDsqLwogICAgICAgIC8qISpib3JkZXI6IDJweCBzb2xpZCAjNTU1OyohKi8KICAgIC8qfSovCgogICAgLyppbnB1dFt0eXBlPSdjaGVja2JveCddOmNoZWNrZWQgeyovCiAgICAgICAgLypiYWNrZ3JvdW5kOiAjYWJkOyovCiAgICAvKn0qLwo=</text>
+        <text encoding="base64">Q09ORiA9IENvbmZpZ1BhcnNlci5Db25maWdQYXJzZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
