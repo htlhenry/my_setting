@@ -23,6 +23,7 @@
     <option name="SELECTION_FOREGROUND" value="2b36" />
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="WHITESPACES" value="586e75" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="f2e7d3" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -686,6 +687,12 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -1679,6 +1686,24 @@
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="c3d4d1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="edae8e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ebeb9d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
