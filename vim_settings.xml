@@ -76,6 +76,12 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1478684373797">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1475397636873">
         <mark key="'" line="723" column="0" />
         <mark key="[" line="720" column="76" />
@@ -396,11 +402,11 @@
       <jump line="43" column="22" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>test_tag</text>
