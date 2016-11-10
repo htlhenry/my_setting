@@ -218,18 +218,17 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478756484476">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478757917229">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478756241431">
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478757861287">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1478684384960">
         <mark key="[" line="0" column="0" />
@@ -416,8 +415,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -429,31 +428,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVhckRvd24gaXMgZXhjdXRlPT4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
