@@ -45,12 +45,6 @@
         <mark key="." line="45" column="60" />
         <mark key="^" line="45" column="60" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1478256598318">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" timestamp="1478656282734">
         <mark key="'" line="156" column="8" />
         <mark key="[" line="72" column="0" />
@@ -104,12 +98,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1478253866790">
-        <mark key="'" line="248" column="40" />
-        <mark key="[" line="432" column="61" />
-        <mark key="]" line="438" column="0" />
-        <mark key="." line="438" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1478662983136">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -148,6 +136,7 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1478838544674" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477038068918">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="25" column="34" />
@@ -218,19 +207,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478764754708">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="76" />
-        <mark key="." line="5" column="76" />
-        <mark key="^" line="5" column="76" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478839002089">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478757861287">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1478759572216">
         <mark key="[" line="0" column="0" />
@@ -268,23 +253,12 @@
         <mark key="." line="76" column="63" />
         <mark key="^" line="76" column="63" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1478755924743" />
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/login.html" timestamp="1477978873903">
-        <mark key="'" line="0" column="21" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1478838339108" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1478837433487" />
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1478223290496">
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1478254578909">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/third_system.html" timestamp="1478256588729">
         <mark key="'" line="87" column="0" />
@@ -417,11 +391,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>test_tag</text>
@@ -430,28 +404,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
