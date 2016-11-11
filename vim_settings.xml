@@ -207,12 +207,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478839922286">
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478842926248">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="68" />
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+        <mark key="^" line="11" column="70" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478757861287">
         <mark key="'" line="0" column="0" />
@@ -254,7 +254,7 @@
         <mark key="^" line="76" column="63" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1478839048421" />
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1478837433487" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1478842525239" />
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1478223290496">
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
@@ -392,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>test_tag</text>
@@ -407,28 +407,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoc2VydmVyKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9jbWRiLmludHJhLndlcGlhby5jb20iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjbWRiCkNNREJfRE9NQUlOID0gImh0dHA6Ly9kZXYuY21kYi5pbnRyYS53ZXBpYW8uY29tIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnYpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
