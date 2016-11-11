@@ -136,7 +136,7 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1478844024060" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1478850303297" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477038068918">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="25" column="34" />
@@ -207,19 +207,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478849411094">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="42" />
-        <mark key="^" line="40" column="42" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1478851574709">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="66" column="38" />
+        <mark key="." line="66" column="38" />
+        <mark key="^" line="66" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478849335724">
+      <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1478851588504">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1478845857493">
         <mark key="[" line="0" column="0" />
@@ -398,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>test_tag</text>
@@ -437,7 +437,7 @@
         <text encoding="base64">cHJpbnQoInNlcnZlciBpbmZvIHt9ICIuZm9ybWF0KHNlcnZlci5SZXF1ZXN0SGFuZGxlckNsYXNzKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>474</text>
       </register>
     </registers>
     <search>
@@ -473,9 +473,6 @@
         <entry>test_tag</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL21hcmtlZC1jaGVjay9hZG1pbk1vZGlmeS1tYXJrZWQtY2hlY2sv</entry>
-        <entry encoding="base64">JzwsJz5zL2NoZWNrLWJ1dHRvbi9hZG1pbi1jaGVjay1idXR0b24u</entry>
-        <entry>624</entry>
         <entry encoding="base64">JzwsJz5zLzMvNS8=</entry>
         <entry encoding="base64">JzwsJz5zLzQvNS8=</entry>
         <entry encoding="base64">JzwsJz5zLzUvNi8=</entry>
@@ -493,6 +490,9 @@
         <entry encoding="base64">JzwsJz5zL3Rlc3RfdGFnL2F1dGhfdGFnL2c=</entry>
         <entry>144</entry>
         <entry>w</entry>
+        <entry>705</entry>
+        <entry>298</entry>
+        <entry>474</entry>
       </history-cmd>
       <history-expr />
       <history-input />
