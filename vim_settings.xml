@@ -63,6 +63,12 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcAgent.py" timestamp="1479281163843">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="84" />
+        <mark key="." line="26" column="84" />
+        <mark key="^" line="26" column="84" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1478662983136">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -192,11 +198,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" timestamp="1479278134194">
-        <mark key="[" line="15" column="64" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" timestamp="1479281404162">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test.html" timestamp="1476584921654">
         <mark key="[" line="35" column="30" />
@@ -209,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="28" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
       <jump line="193" column="2" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
       <jump line="205" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
       <jump line="114" column="35" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
@@ -309,63 +315,63 @@
       <jump line="8" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc2VhcmNoJywgZGVzdD0nb25lX2xpbmVfaXAnLCBoZWxwPSfmoLnmja5DVk3nmoRpcOaQnOe0ouWvueW6lOeahOi0n+i9veWdh+ihoeWunuS+i++8jCJlZzogLS1zZWFyY2ggMTAuMS4xLjEiJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>test_tag</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc2VhcmNoJywgZGVzdD0nb25lX2xpbmVfaXAnLCBoZWxwPSfmoLnmja5DVk3nmoRpcOaQnOe0ouWvueW6lOeahOi0n+i9veWdh+ihoeWunuS+i++8jCJlZzogLS1zZWFyY2ggMTAuMS4xLjEiJykK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmVyCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSB4bWxycGNsaWIuU2VydmVyUHJveHkoJ2h0dHBzOi8vd3gud3gud2VwaWFvLmNvbToxMjAwMScsIGNvbnRleHQ9c2VsZi5jb250ZXh0KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnRleHQgPSBzc2wuX2NyZWF0ZV91bnZlcmlmaWVkX2NvbnRleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnRleHQgPSBzc2wuX2NyZWF0ZV91bnZlcmlmaWVkX2NvbnRleHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9wcmludCgpOgojICAgICByZXR1cm4gInRlc3QgcHJpbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</text>
       </register>
     </registers>
     <search>
-      <last-search>test_tag</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>test_tag</last-pattern>
-      <last-replace>auth_tag</last-replace>
-      <last-substitute>test_tag</last-substitute>
+      <last-pattern>context</last-pattern>
+      <last-replace>self.context</last-replace>
+      <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_tag_data</entry>
         <entry>page</entry>
         <entry>write_off</entry>
         <entry>item</entry>
@@ -385,9 +391,9 @@
         <entry>test_top_tag</entry>
         <entry>test_top_auth_tag</entry>
         <entry>test_tag</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzMvNS8=</entry>
         <entry encoding="base64">JzwsJz5zLzQvNS8=</entry>
         <entry encoding="base64">JzwsJz5zLzUvNi8=</entry>
         <entry encoding="base64">JzwsJz5zLzUvNy9n</entry>
@@ -407,6 +413,7 @@
         <entry>298</entry>
         <entry>474</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
