@@ -104,11 +104,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479355008101">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479358063062">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="40" column="1" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -258,7 +259,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478845857493">
+      <file name="/Dummy.txt" timestamp="1479356052467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -350,6 +351,9 @@
       <file name="$USER_HOME$/opt/product_project/rpc-service/config.yml" timestamp="1479267160620">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/hello/trans/init.go" timestamp="1479357030072">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1478598699073">
         <mark key="'" line="50" column="27" />
         <mark key="[" line="30" column="45" />
@@ -359,12 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="2" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
-      <jump line="205" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
-      <jump line="114" column="35" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
-      <jump line="39" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="353" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="44" column="24" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="40" column="6" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
@@ -459,13 +457,19 @@
       <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhciBhIHN0cmluZyA9ICJhYmMiCglmbXQuUHJpbnRsbigiaGVsbG8sIHdvcmxkIikK</text>
+        <text encoding="base64">aW1wb3J0ICJoZWxsby90cmFucyIK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -474,31 +478,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciBhIHN0cmluZyA9ICJhYmMiCglmbXQuUHJpbnRsbigiaGVsbG8sIHdvcmxkIikK</text>
+        <text encoding="base64">aW1wb3J0ICJoZWxsby90cmFucyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgiLXAiLCBkZXN0PSJsYl9wb3J0IiwgZGVmYXVsdD04MCwgaGVscD0i5oyH5a6admlw55qE56uv5Y+jLCDkuI4tLWxi5LiA6LW35L2/55SoLiIpCiAgICAjIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tdmlwIiwgZGVzdD0idmlwIiwgaGVscD0i5qC55o2udmlw5p2l5p+l6K+idmlw5LiL55qE5ZCO56uv5pyN5Yqh5ZmoSVAsIGVnOiAtLXZpcCAxLjEuMS4xLiIpCg==</text>
+        <text encoding="base64">CSJoZWxsby90cmFucyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vImhlbGxvL3N0cmluZ3V0aWwiCgkvLyJtYXRoIgoJLy8iaGVsbG8vdHJhbnMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmVyCg==</text>
+        <text encoding="base64">CSJoZWxsby90cmFucyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSIvdHJhbnMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSB4bWxycGNsaWIuU2VydmVyUHJveHkoJ2h0dHBzOi8vd3gud3gud2VwaWFvLmNvbToxMjAwMScsIGNvbnRleHQ9c2VsZi5jb250ZXh0KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIFBpIGZsb2F0NjQKCmZ1bmMgaW5pdCgpewoJUGkgPSA0ICogbWF0aC5BdGFuKDEpCn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhciBhIHN0cmluZyA9ICJhYmMiCglmbXQuUHJpbnRsbigiaGVsbG8sIHdvcmxkIikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnRleHQgPSBzc2wuX2NyZWF0ZV91bnZlcmlmaWVkX2NvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgiLXAiLCBkZXN0PSJsYl9wb3J0IiwgZGVmYXVsdD04MCwgaGVscD0i5oyH5a6admlw55qE56uv5Y+jLCDkuI4tLWxi5LiA6LW35L2/55SoLiIpCiAgICAjIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tdmlwIiwgZGVzdD0idmlwIiwgaGVscD0i5qC55o2udmlw5p2l5p+l6K+idmlw5LiL55qE5ZCO56uv5pyN5Yqh5ZmoSVAsIGVnOiAtLXZpcCAxLjEuMS4xLiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</text>
