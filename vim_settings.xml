@@ -104,12 +104,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479469624817">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="121" column="77" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="0" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479472179867">
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="446" column="31" />
+        <mark key="]" line="446" column="31" />
+        <mark key="." line="446" column="31" />
+        <mark key="^" line="449" column="45" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -363,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="15" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
       <jump line="42" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="113" column="28" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="104" column="8" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
@@ -463,13 +461,15 @@
       <jump line="336" column="21" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="123" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="133" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="363" column="29" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="421" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
