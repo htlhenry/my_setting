@@ -104,12 +104,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479472179867">
-        <mark key="'" line="421" column="0" />
-        <mark key="[" line="446" column="31" />
-        <mark key="]" line="446" column="31" />
-        <mark key="." line="446" column="31" />
-        <mark key="^" line="449" column="45" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479619188977">
+        <mark key="'" line="127" column="13" />
+        <mark key="[" line="468" column="48" />
+        <mark key="]" line="128" column="17" />
+        <mark key="." line="128" column="17" />
+        <mark key="^" line="128" column="17" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -363,9 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="113" column="28" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="104" column="8" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="43" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="117" column="15" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="52" column="15" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
@@ -463,64 +460,73 @@
       <jump line="133" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="363" column="29" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="421" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="468" column="8" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="467" column="65" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="127" column="13" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>creat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
+        <text encoding="base64">CWZtdC5QcmludGYoInRoZSBvbmUga2V5IGluIG1hcENyZWF0IGlzOiVzXG4iLCBtYXBDcmVhdGVbIm9uZSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuYyBncmVldGluZygpICB7CgkKfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuYyBncmVldGluZygpICB7CgkKfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciB2IGludAoJZm10LlByaW50ZigiJWQiLCB2KQoJdiA9IDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpID0gaSAtIDEK</text>
+        <text encoding="base64">CXZhciB2IGludAoJZm10LlByaW50ZigiJWQiLCB2KQoJdiA9IDUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNhc2UgMTAwOgoJCWZtdC5QcmludGxuKCJUaGlzIGNhc2UgMTAwIGlzICVkIiwgaSkKCQlmYWxsdGhyb3VnaAo=</text>
+        <text encoding="base64">CQlpID0gaSAtIDEK</text>
       </register>
       <register name=":" type="4">
-        <text>179</text>
+        <text encoding="base64">JzwsJz5zL2NyZWF0L0Fzc2lnZWQv</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>creat</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
-      <last-replace>self.context</last-replace>
-      <last-substitute>context</last-substitute>
+      <last-pattern>creat</last-pattern>
+      <last-replace>Assiged</last-replace>
+      <last-substitute>creat</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>one</entry>
+        <entry>creat</entry>
+      </history-search>
       <history-cmd>
         <entry>179</entry>
+        <entry encoding="base64">JzwsJz5zL29uZS90d28=</entry>
+        <entry encoding="base64">JzwsJz5zL29uZS90d28vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NyZWF0L0Fzc2lnZWQv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
