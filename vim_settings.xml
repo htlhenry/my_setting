@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" timestamp="1479700945222">
-        <mark key="[" line="88" column="0" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" timestamp="1479706075411">
+        <mark key="[" line="88" column="8" />
         <mark key="]" line="88" column="7" />
         <mark key="." line="88" column="7" />
         <mark key="^" line="88" column="7" />
@@ -63,6 +63,14 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1479709646241" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/manage.py" timestamp="1479713356227">
+        <mark key="'" line="28" column="27" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="24" column="65" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/cfg-RpcAgent.py" timestamp="1479696250890">
         <mark key="'" line="29" column="3" />
         <mark key="[" line="32" column="59" />
@@ -81,11 +89,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/test_project/test.py" timestamp="1478517947582">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/cfg-RpcClient.py" timestamp="1479696493386">
         <mark key="[" line="31" column="34" />
@@ -119,11 +122,6 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478845857493">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/gunicorn_config.py" timestamp="1477470387872">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -154,6 +152,9 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1479711458896">
+        <mark key="[" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket_client.py" timestamp="1478962127580">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="47" />
@@ -172,16 +173,13 @@
         <mark key="^" line="240" column="21" />
         <mark key="." line="240" column="21" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1478846246832">
-        <mark key="'" line="194" column="17" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/dev_config.yml" timestamp="1479275803615">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1478223290496">
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1479712658708">
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
         <mark key="." line="579" column="0" />
@@ -237,11 +235,9 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1479712922204" />
     </filemarks>
     <jumps>
-      <jump line="205" column="21" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
-      <jump line="114" column="35" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/third_system.js" />
-      <jump line="39" column="12" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="20" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="353" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="44" column="24" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
@@ -339,10 +335,13 @@
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
       <jump line="29" column="3" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/cfg-RpcAgent.py" />
+      <jump line="14" column="10" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
+      <jump line="27" column="27" filename="$USER_HOME$/opt/product_project/authority_management/manage.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5vcGVuKHRhc2tfaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -354,31 +353,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5vcGVuKHRhc2tfaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIwKQo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UgPSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5vcGVuKHRhc2tfaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBCQVNFX0RJUgo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gX21haW5fXyI6CiAgICBwcmludAoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBCQVNFX0RJUgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmZCA9IG9wZW4odGFza19pZCwgJ3InKQo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gX21haW5fXyI6CiAgICBwcmludAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImdldCBzdGF0dXMiCg==</text>
+        <text encoding="base64">ICAgICAgICBmZCA9IG9wZW4odGFza19pZCwgJ3InKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</text>
