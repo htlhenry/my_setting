@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" timestamp="1479700945222">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="7" />
+        <mark key="." line="88" column="7" />
+        <mark key="^" line="88" column="7" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test2.html" timestamp="1476614835522">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="15" column="0" />
@@ -24,7 +30,7 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1479277482064">
+      <file name="/a.dummy" timestamp="1479696600922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477038068918">
@@ -335,11 +341,11 @@
       <jump line="29" column="3" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/cfg-RpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5vcGVuKHRhc2tfaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -348,31 +354,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBzdHlsZT0icGFkZGluZy1yaWdodDogMHB4Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjaGVjay1hbGwtcm93cyI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0ICB0eXBlPSJjaGVja2JveCIgaWQ9ImNoZWNrLWFsbC1yb3dzIiBuYW1lPSJjaGVjay1hbGwtcm93cyI+CiAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5vcGVuKHRhc2tfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBCQVNFX0RJUgo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDIwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gX21haW5fXyI6CiAgICBwcmludAoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBCQVNFX0RJUgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmZCA9IG9wZW4odGFza19pZCwgJ3InKQo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gX21haW5fXyI6CiAgICBwcmludAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImdldCBzdGF0dXMiCg==</text>
+        <text encoding="base64">ICAgICAgICBmZCA9IG9wZW4odGFza19pZCwgJ3InKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gImdldCBzdGF0dXMiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</text>
