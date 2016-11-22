@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479778421721">
-        <mark key="a" line="587" column="22" />
-        <mark key="'" line="693" column="32" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="21" />
-        <mark key="^" line="149" column="21" />
-        <mark key="." line="149" column="21" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479780233464">
+        <mark key="a" line="590" column="22" />
+        <mark key="'" line="739" column="48" />
+        <mark key="[" line="739" column="49" />
+        <mark key="]" line="738" column="29" />
+        <mark key="." line="738" column="29" />
+        <mark key="^" line="738" column="29" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -364,15 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="16" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="167" column="40" filename="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" />
-      <jump line="97" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="103" column="27" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="107" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="111" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="115" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="119" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
-      <jump line="123" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="41" column="27" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
       <jump line="960" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1223" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -457,23 +448,32 @@
       <jump line="25" column="17" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="139" column="19" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="634" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="150" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="638" column="28" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="663" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="678" column="50" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="148" column="22" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="676" column="46" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="693" column="32" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="155" column="11" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="713" column="20" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="150" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="718" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="730" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="165" column="15" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="738" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="189" column="37" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="160" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="739" column="48" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>creat</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGYoInRoZSBvbmUga2V5IGluIG1hcENyZWF0IGlzOiVzXG4iLCBtYXBDcmVhdGVbIm9uZSJdKQo=</text>
@@ -482,39 +482,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
+        <text encoding="base64">ZnVuYyB0ZXN0QXR5cGUoKSAgewoJCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
+        <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBncmVldGluZygpICB7CgkKfQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciB2IGludAoJZm10LlByaW50ZigiJWQiLCB2KQoJdiA9IDUK</text>
+        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpID0gaSAtIDEK</text>
+        <text encoding="base64">ZnVuYyBncmVldGluZygpICB7CgkKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NyZWF0L0Fzc2lnZWQv</text>
+        <text encoding="base64">JzwsJz5zL2ludC9mbG9hdDMyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>creat</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>creat</last-pattern>
-      <last-replace>Assiged</last-replace>
-      <last-substitute>creat</last-substitute>
+      <last-pattern>int</last-pattern>
+      <last-replace>float32</last-replace>
+      <last-substitute>int</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -522,12 +522,14 @@
       <history-search>
         <entry>one</entry>
         <entry>creat</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
         <entry>179</entry>
         <entry encoding="base64">JzwsJz5zL29uZS90d28=</entry>
         <entry encoding="base64">JzwsJz5zL29uZS90d28vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NyZWF0L0Fzc2lnZWQv</entry>
+        <entry encoding="base64">JzwsJz5zL2ludC9mbG9hdDMyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
