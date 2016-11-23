@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" timestamp="1479718596919">
-        <mark key="'" line="89" column="7" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" timestamp="1479890122519">
+        <mark key="'" line="129" column="8" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/sql/auth_manage.sql" timestamp="1477453578081">
@@ -18,6 +18,9 @@
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/extra_api.yaml" timestamp="1478600486185">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/test_deploy.py" timestamp="1479889729886">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479696600922">
         <mark key="[" line="0" column="0" />
@@ -194,7 +197,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479717627997">
+      <file name="/Dummy.txt" timestamp="1479803731583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -216,6 +219,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcClient.py" timestamp="1479890167032">
+        <mark key="'" line="54" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1478669591711">
         <mark key="[" line="293" column="50" />
@@ -279,6 +288,11 @@
         <mark key="." line="146" column="42" />
         <mark key="^" line="146" column="42" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/rpc-service/.gitignore" timestamp="1479889515058">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1479714958428">
         <mark key="[" line="75" column="46" />
         <mark key="]" line="76" column="14" />
@@ -287,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="6" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
-      <jump line="604" column="102" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="80" column="45" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="22" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
       <jump line="356" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" />
@@ -387,55 +398,58 @@
       <jump line="88" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" />
       <jump line="66" column="6" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" />
       <jump line="309" column="53" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
+      <jump line="54" column="31" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcClient.py" />
+      <jump line="12" column="43" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/scripts/CfgRpcAgent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnWC1SZXF1ZXN0ZWQtV2l0aCc6ICdYTUxIdHRwUmVxdWVzdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coci5jb2RlICE9IDIwMCk7Cg==</text>
+        <text encoding="base64">W1NzXWNyaXB0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0X2hlYWRlcj0+e30iLmZvcm1hdChyZXF1ZXN0LmhlYWRlcnMpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coci5jb2RlICE9IDIwMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoclsiY29kZSJdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0X2hlYWRlcj0+e30iLmZvcm1hdChyZXF1ZXN0LmhlYWRlcnMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coci5jb2RlIT0yMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoclsiY29kZSJdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coci5jb2RlIT0yMDApOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc1siY29kZSJdPT09NDAxKXsKICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gcmVzWyJsb2dpbl91cmwiXQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>13</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>self.context</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
         <entry>write_off</entry>
         <entry>item</entry>
         <entry>data</entry>
@@ -463,9 +476,9 @@
         <entry>test_top_auth_tag</entry>
         <entry>test_tag</entry>
         <entry>context</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzUvNi8=</entry>
         <entry encoding="base64">JzwsJz5zLzUvNy9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvOS9n</entry>
@@ -485,6 +498,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbnRleHQvc2VsZi5jb250ZXh0Lw==</entry>
         <entry>333</entry>
         <entry>w</entry>
+        <entry>13</entry>
       </history-cmd>
       <history-expr />
       <history-input />
