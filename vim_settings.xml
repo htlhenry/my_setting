@@ -76,6 +76,7 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1479711458896">
         <mark key="[" line="21" column="48" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" timestamp="1480058405992" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket_client.py" timestamp="1478962127580">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="47" />
@@ -123,11 +124,11 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1480057365369">
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="57" column="38" />
-        <mark key="^" line="57" column="38" />
-        <mark key="." line="57" column="38" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1480059880868">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test2.html" timestamp="1476614835522">
         <mark key="[" line="14" column="34" />
@@ -135,12 +136,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480057730191">
-        <mark key="'" line="116" column="40" />
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="93" column="59" />
-        <mark key="^" line="93" column="59" />
-        <mark key="." line="93" column="59" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480059903345">
+        <mark key="'" line="109" column="40" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1479801369590">
         <mark key="[" line="20" column="0" />
@@ -427,11 +427,11 @@
       <jump line="112" column="40" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhZ2VudF9kYWVtb24uZGVwbG95KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
@@ -440,34 +440,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnWC1SZXF1ZXN0ZWQtV2l0aCc6ICdYTUxIdHRwUmVxdWVzdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3RhdHVzKHNlbGYsIHRhc2tfaWQ9Tm9uZSk6CiAgICAgICAgcmVzID0gc2VsZi5fc2VydmVyLmdldF9zdGF0dXModGFza19pZD10YXNrX2lkKQogICAgICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgICAgICBhZ2VudF9kYWVtb24uZGVwbG95KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrX2lkID0gImFiY2RlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gIjxwcm94eSBjbGFzcyBmcm9tICdTZWN1cmVYTUxSUENTZXJ2ZXInPiIK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHN5bmNfbG9jayA9IEZsb2NrKGZpbGVuYW1lPXRhc2tfaWQpCiAgICAgICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgICAgIGZoID0gb3Blbih0YXNrX2lkLCAidyIpCiAgICAgICAgICAgIGZoLmNsb3NlKCkKICAgICAgICAgICAgc3luY19sb2NrID0gRmxvY2soZmlsZW5hbWU9dGFza19pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZkID0gc2VsZi5maWxlX29iai5maWxlbm8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KEJBU0VfRElSKQo=</text>
+        <text encoding="base64">ICAgIGFnZW50X2RhZW1vb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICMgICAgIHByaW50KCJFeGl0aW5nIikKICAgIGFnZW50X2RhZW1vb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJBU0VfRElSCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgeG1scnBjbGliLkZhdWx0LCBlOgogICAgICAgICAgICBwcmludCgiQSBmYXVsdCBvY2N1cnJlZCIpCiAgICAgICAgICAgIHByaW50KCJGYXVsdCBjb2RlOiB7fSIuZm9ybWF0KGUuZmF1bHRDb2RlKSkKICAgICAgICAgICAgcHJpbnQoIkZhdWx0IGNvZGU6IHt9Ii5mb3JtYXQoZS5mYXVsdFN0cmluZykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMTM1LjE5LjM1LXN0YXRpYy1hcGnmupDnq5kKMTAuMTM1LjQ1LjE2LXN0YXRpYy1hcGnmupDnq5kK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc3RhdHVzKHNlbGYsIHRhc2tfaWQ9Tm9uZSk6CiAgICAgICAgcmVzID0gc2VsZi5fc2VydmVyLmdldF9zdGF0dXModGFza19pZD10YXNrX2lkKQogICAgICAgIHJldHVybiByZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>799</text>
       </register>
     </registers>
     <search>
@@ -503,7 +503,6 @@
         <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzUvNy9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvOC9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvOS9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvMTAvZw==</entry>
@@ -523,6 +522,7 @@
         <entry>333</entry>
         <entry>w</entry>
         <entry>13</entry>
+        <entry>799</entry>
       </history-cmd>
       <history-expr />
       <history-input />
