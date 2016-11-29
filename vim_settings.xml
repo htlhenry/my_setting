@@ -238,7 +238,7 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480412257796">
+      <file name="/Dummy.txt" timestamp="1480412385494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -448,11 +448,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBjbGFzcyBGbG9jayhvYmplY3QpOgojICAgICBkZWYgX19pbml0X18oc2VsZiwgZmlsZW5hbWU9Tm9uZSk6CiMgICAgICAgICBzZWxmLmZpbGVfb2JqID0gZmlsZShmaWxlbmFtZSwgInIiKQojCiMgICAgIGRlZiBsb2NrX2ZpbGUoc2VsZik6CiMgICAgICAgICBmY250bC5mbG9jayhzZWxmLmZpbGVfb2JqLCBmY250bC5MT0NLX0VYKQojICAgICAgICAgIyBwcmludCgi57uZ5paH5Lu25Yqg6ZSBLi4uLiIpCiMgICAgICAgICByZXR1cm4gVHJ1ZQojCiMgICAgIGRlZiB1bmxvY2tfZmlsZShzZWxmKToKIyAgICAgICAgICMgZmNudGwuZmxvY2soc2VsZi5mZCwgZmNudGwuTE9DS19VTikKIyAgICAgICAgIHNlbGYuZmlsZV9vYmouY2xvc2UoKQojICAgICAgICAgcmV0dXJuIFRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
