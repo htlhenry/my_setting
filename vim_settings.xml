@@ -139,11 +139,12 @@
         <mark key="." line="4" column="65" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/yaml/__init__.py" timestamp="1480486963469" />
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1480491512882">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1480492896976">
         <mark key="'" line="10" column="10" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="90" column="58" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="91" column="32" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/test_deploy.py" timestamp="1480490757061">
         <mark key="[" line="22" column="30" />
@@ -451,7 +452,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShsb2dfd29yZCArICdcbicpCg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -463,31 +464,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICAgICAgICAgZm9yIGxpbmUsIHBvc2l0aW9uIGluIGZvbGxvdyhmaWxlX29iaiwgcD1wKToKICAgICAgICAgICAgICAgIHJldHVybiBsaW5lLCBwb3NpdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShsb2dfd29yZCArICdcbicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBtdWx0aV9jYWxsKHNlbGYpOgogICAgICAgIHJldHVybiB4bWxycGNsaWIuTXVsdGlDYWxsKHNlbGYuX3NlcnZlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShsb2dfd29yZCArICdcbicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoIG9wZW4oZmlsZV9zdHIsICJhIikgYXMgZjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSU9FcnJvciwgZToKICAgICAgICAgICAgcHJpbnQoIklPRXJyb3I9Pnt9Ii5mb3JtYXQoZSkpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4xKQogICAgICAgICAgICBmaWxlX29iaiA9IGZpbGUoY29uZmlnLmdldCgiTE9HX0RJUiIpICsgb3Muc2VwICsgdGFza19pZCwgInIiKQogICAgICAgICAgICBmb3IgbGluZSwgcG9zaXRpb24gaW4gZm9sbG93KGZpbGVfb2JqLCBwPXApOgogICAgICAgICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIklPRXJyb3I9Pnt9Ii5mb3JtYXQoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3N0ciA9IGNvbmZpZy5nZXQoInN0YXRlX3BhdGgiKSArIGlwICsgIi50ZXN0Igo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoIklPRXJyb3I6e30iLmZvcm1hdChlKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBtdWx0aV9jYWxsKHNlbGYpOgogICAgICAgIHJldHVybiB4bWxycGNsaWIuTXVsdGlDYWxsKHNlbGYuX3NlcnZlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGltZS5zbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQgSU9FcnJvciwgZToK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSU9FcnJvciwgZToKICAgICAgICAgICAgcHJpbnQoIklPRXJyb3I9Pnt9Ii5mb3JtYXQoZSkpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMC4xKQogICAgICAgICAgICBmaWxlX29iaiA9IGZpbGUoY29uZmlnLmdldCgiTE9HX0RJUiIpICsgb3Muc2VwICsgdGFza19pZCwgInIiKQogICAgICAgICAgICBmb3IgbGluZSwgcG9zaXRpb24gaW4gZm9sbG93KGZpbGVfb2JqLCBwPXApOgogICAgICAgICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>799</text>
