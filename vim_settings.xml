@@ -138,7 +138,6 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/yaml/__init__.py" timestamp="1480486963469" />
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1480493094444">
         <mark key="'" line="10" column="10" />
         <mark key="[" line="80" column="51" />
@@ -202,6 +201,7 @@
         <mark key="^" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1480562068843" />
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/test.py" timestamp="1479974308147">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="14" />
@@ -247,6 +247,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/simple_tcp.py" timestamp="1480575264026">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/gunicorn_config.py" timestamp="1477470387872">
         <mark key="[" line="6" column="0" />
@@ -340,6 +346,12 @@
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1479976694830">
         <mark key="[" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/hello_world.py" timestamp="1480575830176">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1479714958428">
         <mark key="[" line="75" column="46" />
@@ -451,11 +463,11 @@
       <jump line="10" column="10" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShsb2dfd29yZCArICdcbicpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
