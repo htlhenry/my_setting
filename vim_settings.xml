@@ -108,6 +108,7 @@
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1480906518967">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xmlrpclib.py" timestamp="1480919474997" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket_client.py" timestamp="1478962127580">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="47" />
@@ -186,12 +187,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480910776131">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480918221813">
         <mark key="'" line="104" column="42" />
-        <mark key="[" line="95" column="49" />
-        <mark key="]" line="95" column="50" />
-        <mark key="^" line="95" column="50" />
-        <mark key="." line="95" column="50" />
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+        <mark key="." line="48" column="40" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1479801369590">
         <mark key="[" line="20" column="0" />
@@ -580,7 +581,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>98</text>
+        <text>1243</text>
       </register>
     </registers>
     <search>
@@ -616,9 +617,6 @@
         <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry>1931</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlcy9ydi9n</entry>
-        <entry encoding="base64">JzwsJz5zL3Rlc3RfdG9wX2F1dGhfdGFnL3Rlc3RfYWZ0ZXJfYXV0aF90YWcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3RfdG9wX3RhZy90ZXN0X3RhZy9n</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3RfdG9wX2F1dGhfdGFnL3Rlc3RfdGFnL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rlc3RfdGFnL2F1dGhfdGFnL2c=</entry>
@@ -636,6 +634,9 @@
         <entry>89</entry>
         <entry>w</entry>
         <entry>98</entry>
+        <entry>1313</entry>
+        <entry>1234</entry>
+        <entry>1243</entry>
       </history-cmd>
       <history-expr />
       <history-input />
