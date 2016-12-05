@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1479711458896">
         <mark key="[" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1480905163732">
+      <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1480906518967">
         <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket_client.py" timestamp="1478962127580">
@@ -185,12 +185,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480905361792">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="92" column="95" />
-        <mark key="]" line="93" column="77" />
-        <mark key="^" line="93" column="77" />
-        <mark key="." line="93" column="77" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480906935907">
+        <mark key="'" line="98" column="42" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="101" column="47" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1479801369590">
         <mark key="[" line="20" column="0" />
@@ -437,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="27" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="107" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="111" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
       <jump line="115" column="24" filename="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" />
@@ -537,13 +536,14 @@
       <jump line="34" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/poll_client.py" />
       <jump line="93" column="58" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
       <jump line="7" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
+      <jump line="97" column="42" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
@@ -552,31 +552,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICAgICAgICAgZm9yIGxpbmUsIHBvc2l0aW9uIGluIGZvbGxvdyhmaWxlX29iaiwgcD1wKToKICAgICAgICAgICAgICAgIHJldHVybiBsaW5lLCBwb3NpdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5fcGF0aCA9IGNvbmZpZy5nZXQoIkJJTl9QQVRIIikK</text>
+        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXJhbV9zdHIgPSAicHl0aG9uICIgKyBzZWxmLmJpbl9wYXRoICsgb3Muc2VwICsgImNsaW1iLnB5IC1qICd7fSciLmZvcm1hdChwYXJhbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9zdGF0dXMoc2VsZiwgdGFza19pZD1Ob25lLCBwPTApOgogICAgIyAgICAgIiIiCiAgICAjICAgICAgIOWmguaenHRhc2tfaWTmlofku7bkuI3lrZjlnKjvvIzmipvlh7rlvILluLjjgIIKICAgICMgICAgIDpwYXJhbSB0YXNrX2lkOiB0YXNrIGlkCiAgICAjICAgICA6cGFyYW0gcDogZmlsZSBwb3NpdGlvbgogICAgIyAgICAgOnJldHVybjoKICAgICMgICAgICIiIgogICAgIyAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICMgICAgIGZvciBsaW5lLCBwb3NpdGlvbiBpbiBmb2xsb3coZmlsZV9vYmosIHA9cCk6CiAgICAjICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5fcGF0aCA9IGNvbmZpZy5nZXQoIkJJTl9QQVRIIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGdldF9zdGF0dXMoc2VsZiwgdGFza19pZD1Ob25lLCBwPTApOgogICAgIyAgICAgIiIiCiAgICAjICAgICAgIOWmguaenHRhc2tfaWTmlofku7bkuI3lrZjlnKjvvIzmipvlh7rlvILluLjjgIIKICAgICMgICAgIDpwYXJhbSB0YXNrX2lkOiB0YXNrIGlkCiAgICAjICAgICA6cGFyYW0gcDogZmlsZSBwb3NpdGlvbgogICAgIyAgICAgOnJldHVybjoKICAgICMgICAgICIiIgogICAgIyAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICMgICAgIGZvciBsaW5lLCBwb3NpdGlvbiBpbiBmb2xsb3coZmlsZV9vYmosIHA9cCk6CiAgICAjICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGZvbGxvdyh0aGVmaWxlLCBwPTApOgogICAgIiIiCiAgICA6dHlwZSB0aGVmaWxlOiBmaWxlCiAgICAiIiIKICAgIGFzc2VydCB0eXBlKHRoZWZpbGUpIGlzIGZpbGUsICJ0aGVmaWxlIGlzIG11c3QgYmUgZmlsZSBvYmplY3QiCiAgICB0aGVmaWxlLnNlZWsocCwgMCkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgbGluZSA9IHRoZWZpbGUucmVhZGxpbmUoKS5zdHJpcCgpCiAgICAgICAgcG9zaXRpb24gPSB0aGVmaWxlLnRlbGwoKQogICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICB5aWVsZCBsaW5lLCBwb3NpdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJvZHkpCiAgICB0dCA9IFRydWUKICAgIHdoaWxlIHR0OgogICAgICAgIGlmIGJvZHkgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHR0ID0gRmFsc2UKICAgICAgICAgICAgcHJpbnQoYm9keSkK</text>
+        <text encoding="base64">ZGVmIGZvbGxvdyh0aGVmaWxlLCBwPTApOgogICAgIiIiCiAgICA6dHlwZSB0aGVmaWxlOiBmaWxlCiAgICAiIiIKICAgIGFzc2VydCB0eXBlKHRoZWZpbGUpIGlzIGZpbGUsICJ0aGVmaWxlIGlzIG11c3QgYmUgZmlsZSBvYmplY3QiCiAgICB0aGVmaWxlLnNlZWsocCwgMCkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgbGluZSA9IHRoZWZpbGUucmVhZGxpbmUoKS5zdHJpcCgpCiAgICAgICAgcG9zaXRpb24gPSB0aGVmaWxlLnRlbGwoKQogICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICB5aWVsZCBsaW5lLCBwb3NpdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSByZXMuc3RyaXAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
