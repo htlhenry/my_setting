@@ -187,12 +187,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480929860275">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480929908188">
         <mark key="'" line="99" column="42" />
-        <mark key="[" line="95" column="55" />
-        <mark key="]" line="97" column="69" />
-        <mark key="." line="97" column="69" />
-        <mark key="^" line="97" column="69" />
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="103" column="20" />
+        <mark key="." line="103" column="20" />
+        <mark key="^" line="103" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1479801369590">
         <mark key="[" line="20" column="0" />
@@ -308,7 +308,7 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480927190224">
+      <file name="/Dummy.txt" timestamp="1480929863357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -542,11 +542,11 @@
       <jump line="16" column="32" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJtZXNzYWdlX3dvcmQ9Pnt9Ii5mb3JtYXQodHlwZShtZXNzYWdlX3dvcmQpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
