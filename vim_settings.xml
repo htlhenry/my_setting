@@ -173,10 +173,10 @@
         <mark key="." line="96" column="79" />
         <mark key="^" line="96" column="79" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/test_deploy.py" timestamp="1480490757061">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/test_deploy.py" timestamp="1480908044392">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
         <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test2.html" timestamp="1476614835522">
@@ -185,12 +185,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480906935907">
-        <mark key="'" line="98" column="42" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="101" column="47" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480909618661">
+        <mark key="'" line="104" column="42" />
+        <mark key="[" line="95" column="49" />
+        <mark key="]" line="95" column="50" />
+        <mark key="^" line="95" column="50" />
+        <mark key="." line="95" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1479801369590">
         <mark key="[" line="20" column="0" />
@@ -215,7 +215,7 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1480904203541" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1480909840357" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/mouse.js" timestamp="1477038068918">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="25" column="34" />
@@ -306,7 +306,7 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480904627101">
+      <file name="/Dummy.txt" timestamp="1480907495507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -356,7 +356,7 @@
         <mark key="^" line="103" column="24" />
         <mark key="." line="103" column="24" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1480902778505" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1480909622638" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1480902797055" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/dev_config.yml" timestamp="1479275803615">
         <mark key="[" line="0" column="2" />
@@ -539,41 +539,41 @@
       <jump line="97" column="42" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICAgICAgICAgZm9yIGxpbmUsIHBvc2l0aW9uIGluIGZvbGxvdyhmaWxlX29iaiwgcD1wKToKICAgICAgICAgICAgICAgIHJldHVybiBsaW5lLCBwb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgZGVwbG95IGNhbGwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMSA+IDIsICJ0ZXN0IGRlcGxveSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwYXJhbV9zdHIgPSAicHl0aG9uICIgKyBzZWxmLmJpbl9wYXRoICsgb3Muc2VwICsgImNsaW1iLnB5IC1qICd7fSciLmZvcm1hdChwYXJhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3RpbmcgZGVwbG95IGNhbGwiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5fcGF0aCA9IGNvbmZpZy5nZXQoIkJJTl9QQVRIIikK</text>
+        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwYXJhbV9zdHIgPSAicHl0aG9uICIgKyBzZWxmLmJpbl9wYXRoICsgb3Muc2VwICsgImNsaW1iLnB5IC1qICd7fSciLmZvcm1hdChwYXJhbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGdldF9zdGF0dXMoc2VsZiwgdGFza19pZD1Ob25lLCBwPTApOgogICAgIyAgICAgIiIiCiAgICAjICAgICAgIOWmguaenHRhc2tfaWTmlofku7bkuI3lrZjlnKjvvIzmipvlh7rlvILluLjjgIIKICAgICMgICAgIDpwYXJhbSB0YXNrX2lkOiB0YXNrIGlkCiAgICAjICAgICA6cGFyYW0gcDogZmlsZSBwb3NpdGlvbgogICAgIyAgICAgOnJldHVybjoKICAgICMgICAgICIiIgogICAgIyAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICMgICAgIGZvciBsaW5lLCBwb3NpdGlvbiBpbiBmb2xsb3coZmlsZV9vYmosIHA9cCk6CiAgICAjICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5fcGF0aCA9IGNvbmZpZy5nZXQoIkJJTl9QQVRIIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGdldF9zdGF0dXMoc2VsZiwgdGFza19pZD1Ob25lLCBwPTApOgogICAgIyAgICAgIiIiCiAgICAjICAgICAgIOWmguaenHRhc2tfaWTmlofku7bkuI3lrZjlnKjvvIzmipvlh7rlvILluLjjgIIKICAgICMgICAgIDpwYXJhbSB0YXNrX2lkOiB0YXNrIGlkCiAgICAjICAgICA6cGFyYW0gcDogZmlsZSBwb3NpdGlvbgogICAgIyAgICAgOnJldHVybjoKICAgICMgICAgICIiIgogICAgIyAgICAgZmlsZV9vYmogPSBmaWxlKGNvbmZpZy5nZXQoIkxPR19ESVIiKSArIG9zLnNlcCArIHRhc2tfaWQsICJyIikKICAgICMgICAgIGZvciBsaW5lLCBwb3NpdGlvbiBpbiBmb2xsb3coZmlsZV9vYmosIHA9cCk6CiAgICAjICAgICAgICAgcmV0dXJuIGxpbmUsIHBvc2l0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGZvbGxvdyh0aGVmaWxlLCBwPTApOgogICAgIiIiCiAgICA6dHlwZSB0aGVmaWxlOiBmaWxlCiAgICAiIiIKICAgIGFzc2VydCB0eXBlKHRoZWZpbGUpIGlzIGZpbGUsICJ0aGVmaWxlIGlzIG11c3QgYmUgZmlsZSBvYmplY3QiCiAgICB0aGVmaWxlLnNlZWsocCwgMCkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgbGluZSA9IHRoZWZpbGUucmVhZGxpbmUoKS5zdHJpcCgpCiAgICAgICAgcG9zaXRpb24gPSB0aGVmaWxlLnRlbGwoKQogICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICB0aW1lLnNsZWVwKDAuMSkKICAgICAgICAgICAgY29udGludWUKICAgICAgICB5aWVsZCBsaW5lLCBwb3NpdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
