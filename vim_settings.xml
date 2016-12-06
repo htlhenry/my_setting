@@ -166,12 +166,12 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1481008009026">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1481011323280">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="104" column="32" />
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="66" column="34" />
+        <mark key="." line="66" column="34" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/test_deploy.py" timestamp="1480908044392">
         <mark key="[" line="27" column="23" />
@@ -185,7 +185,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1480993894524">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1481010558981">
         <mark key="'" line="95" column="42" />
         <mark key="[" line="98" column="59" />
         <mark key="]" line="98" column="111" />
@@ -536,11 +536,11 @@
       <jump line="16" column="32" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
