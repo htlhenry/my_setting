@@ -22,6 +22,13 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_test.py" timestamp="1481101511753">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/base.html" timestamp="1478845779216">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="20" />
@@ -114,11 +121,11 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/uvloop.py" timestamp="1481099996813">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/uvloop.py" timestamp="1481100318061">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1479801531680">
         <mark key="[" line="25" column="27" />
@@ -251,6 +258,7 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/env/lib/python3.5/site-packages/uvloop/loop.pyx" timestamp="1481100180667" />
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/master_config.yml" timestamp="1480905309011">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="28" />
@@ -268,6 +276,13 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_net.py" timestamp="1481102365222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc_service/config/__init__.py" timestamp="1479975046030">
         <mark key="[" line="12" column="0" />
@@ -372,6 +387,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/env/lib/python3.5/site-packages/uvloop/__init__.py" timestamp="1481100152145" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" timestamp="1479283735192">
         <mark key="[" line="38" column="52" />
         <mark key="]" line="39" column="17" />
@@ -409,6 +425,13 @@
         <mark key="]" line="11" column="88" />
         <mark key="." line="11" column="88" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" timestamp="1481101896206">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1479714958428">
         <mark key="[" line="75" column="46" />
         <mark key="]" line="76" column="14" />
@@ -417,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="960" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="1223" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="1236" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1233" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1080" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1077" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -517,13 +537,16 @@
       <jump line="79" column="8" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="119" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="185" column="9" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_net.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oInRlc3QiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
