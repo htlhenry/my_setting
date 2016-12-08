@@ -104,9 +104,12 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/gethostbyaddr-basic.py" timestamp="1480665589877">
+      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/thread_lock.py" timestamp="1481185665955">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="3" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/async_await.py" timestamp="1481103632148">
         <mark key="'" line="0" column="0" />
@@ -207,10 +210,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/errorrevocer.py" timestamp="1480663423265">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="3" />
-      </file>
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/timeoutserver.py" timestamp="1480666778603">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="73" />
@@ -254,10 +253,6 @@
         <mark key="]" line="21" column="24" />
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
-      </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/socketerrors.py" timestamp="1480659795274">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/test.py" timestamp="1479974308147">
         <mark key="[" line="5" column="0" />
@@ -316,7 +311,7 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481169863987">
+      <file name="/Dummy.txt" timestamp="1481170687675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="15" />
@@ -446,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1080" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1077" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1605" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1689" column="47" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -546,13 +540,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_net.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/async_await.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/thread_lock.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
