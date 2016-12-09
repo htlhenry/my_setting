@@ -260,7 +260,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/env/lib/python3.5/site-packages/uvloop/loop.pyx" timestamp="1481158850721" />
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/master_config.yml" timestamp="1480905309011">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="28" />
@@ -358,6 +357,10 @@
         <mark key="^" line="103" column="24" />
         <mark key="." line="103" column="24" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/echoserver.py" timestamp="1481251436301">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/dev_config.yml" timestamp="1479275803615">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="4" column="17" />
@@ -441,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1077" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1605" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1689" column="47" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1179" column="25" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -541,6 +543,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_net.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/async_await.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/thread_lock.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/echoserver.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
