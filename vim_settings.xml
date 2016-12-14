@@ -17,6 +17,12 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/rcpagent.sh" timestamp="1481697576361">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_test.py" timestamp="1481101511753">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="12" />
@@ -76,23 +82,23 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481616534922">
+      <file name="/Dummy.txt" timestamp="1481697702668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481684349721">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481697624493">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/master_config.yml" timestamp="1481454882191">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/master_config.yml" timestamp="1481697684396">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="31" />
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/utils/logger.py" timestamp="1481684311504" />
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1481531376359">
@@ -157,12 +163,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481695022950">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="143" column="55" />
-        <mark key="]" line="144" column="52" />
-        <mark key="." line="144" column="52" />
-        <mark key="^" line="144" column="52" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481696842244">
+        <mark key="'" line="144" column="9" />
+        <mark key="[" line="146" column="26" />
+        <mark key="]" line="147" column="9" />
+        <mark key="." line="147" column="9" />
+        <mark key="^" line="147" column="9" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" timestamp="1481101896206">
         <mark key="'" line="0" column="0" />
@@ -180,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="134" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="32" column="16" filename="$USER_HOME$/opt/product_project/authority_management/configs/test_config.py" />
       <jump line="75" column="34" filename="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" />
@@ -280,6 +283,9 @@
       <jump line="125" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="21" column="12" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="225" column="28" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="141" column="7" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="33" column="46" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="144" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,31 +301,31 @@
         <text encoding="base64">ICAgICAgICAjIOWIneWni+WMlueKtuaAgeaWh+S7tgogICAgICAgIHNlbGYuc3RhdGVfZmlsZSA9IHNlbGYuc3RhdGVfcGF0aCArIG9zLnNlcCArICJkZXBsb3kudHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVXNlIENvbnRyb2wtQyB0byBleGl0IikK</text>
+        <text encoding="base64">ICAgIHByaW50KCIiIgogICAgICAgIHByb2R1Y3Q6IGNvcHkge30gdG8gY29uZmlnLnltbAogICAgICAgIGRldmVsb3A6IGNvcHkge30gdG8gY29uZmlnLnltbAogICAgIiIiLmZvcm1hdChCQVNFX0RJUiArIG9zLnNlcCArICJtYXN0ZXJfY29uZmlnLnltbCIsCiAgICAgICAgICAgICAgIEJBU0VfRElSICsgb3Muc2VwICsgImRldl9jb25maWcueW1sIikpCiAgICB3aXRoIGRhZW1vbi5EYWVtb25Db250ZXh0KCk6CiAgICAgICAgbWFpbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbygic2hlbGxfc2NyaXB0PT57fSIuZm9ybWF0KHBhcmFtX3N0cikpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5ERUJVRzoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGxvZ2dlcl9tb2R1bGU6CiAgICAgICAgbG9nX2RpciA9ICIlcy8lcy8iICUgKGNvbmZpZy5nZXQoIkFHRU5UX0xPRyIpLCBsb2dnZXJfbW9kdWxlKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVXNlIENvbnRyb2wtQyB0byBleGl0IikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbygic2hlbGxfc2NyaXB0PT57fSIuZm9ybWF0KHBhcmFtX3N0cikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5ERUJVRzoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIKaW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIGlmIGxvZ2dlcl9tb2R1bGU6CiAgICAgICAgbG9nX2RpciA9ICIlcy8lcy8iICUgKGNvbmZpZy5nZXQoIkFHRU5UX0xPRyIpLCBsb2dnZXJfbW9kdWxlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
