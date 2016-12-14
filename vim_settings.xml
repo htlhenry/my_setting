@@ -76,12 +76,12 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481599554777">
+      <file name="/Dummy.txt" timestamp="1481616534922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481454903008">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481684349721">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
@@ -94,6 +94,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/utils/logger.py" timestamp="1481684311504" />
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1481531376359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -156,13 +157,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/__future__.py" timestamp="1481605675130" />
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481534737516">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="24" column="57" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481685536850">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="110" column="54" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" timestamp="1481101896206">
         <mark key="'" line="0" column="0" />
@@ -180,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
-      <jump line="91" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="123" column="8" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="93" column="7" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="142" column="48" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
@@ -273,20 +271,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/thread_lock.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/echoserver.py" />
       <jump line="31" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="82" column="34" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/configs/master_config.yml" />
       <jump line="166" column="43" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="89" column="18" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="11" column="10" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="261" column="27" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="15" column="15" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="82" column="10" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVXNlIENvbnRyb2wtQyB0byBleGl0IikK</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">ICAgICAgICAjIOWIneWni+WMlueKtuaAgeaWh+S7tgogICAgICAgIHNlbGYuc3RhdGVfZmlsZSA9IHNlbGYuc3RhdGVfcGF0aCArIG9zLnNlcCArICJkZXBsb3kudHh0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVXNlIENvbnRyb2wtQyB0byBleGl0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoc3lzLnZlcnNpb25faW5mbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbygic2hlbGxfc2NyaXB0PT57fSIuZm9ybWF0KHBhcmFtX3N0cikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5ERUJVRzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfdGFza19zdGF0ZShzZWxmLCBjb2RlPU5vbmUsIG1zZz1Ob25lKToKICAgICAgICAKICAgICAgICBzZWxmLmRlcGxveV9zdGF0ZVtzZWxmLnRhc2tpZF1bImNvZGUiXSA9IGNvZGUKICAgICAgICBzZWxmLmRlcGxveV9zdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1zZyA9IHsKICAgICAgICAgICAgImlwIjogTm9uZSwKICAgICAgICAgICAgImNvbm5lY3RlZCI6IE5vbmUsCiAgICAgICAgICAgICIiCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxvZ2dlcl9tb2R1bGU6CiAgICAgICAgbG9nX2RpciA9ICIlcy8lcy8iICUgKGNvbmZpZy5nZXQoIkFHRU5UX0xPRyIpLCBsb2dnZXJfbW9kdWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfc3RhdGUoc2VsZiwgZmFjdD1Ob25lLCBzdGF0dXM9Tm9uZSwgbXNnPU5vbmUpOgogICAgICAgIGYgPSBmaWxlKHNlbGYuc3RhdGVfZmlsZSwgInciKQogICAgICAgIHNlbGYuZGVwbG95X3N0YXRlW2ZhY3RdWyJjb2RlIl0gPSBzdGF0dXMKICAgICAgICBzZWxmLmRlcGxveV9zdGF0ZVtmYWN0XVsibXNnIl0gPSBtc2cKICAgICAgICBmLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nLmhhbmRsZXJzIGltcG9ydCBUaW1lZFJvdGF0aW5nRmlsZUhhbmRsZXIKaW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
