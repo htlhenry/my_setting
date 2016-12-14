@@ -39,6 +39,7 @@
         <mark key="." line="28" column="11" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1481701699993" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/daemon/daemon.py" timestamp="1481704633193" />
       <file name="$USER_HOME$/opt/product_project/RpcService/test_follow_read.py" timestamp="1480318072486">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="23" column="28" />
@@ -84,16 +85,16 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481699964146">
+      <file name="/Dummy.txt" timestamp="1481702857568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481699954468">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1481705071778">
         <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="52" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/master_config.yml" timestamp="1481697684396">
         <mark key="'" line="8" column="0" />
@@ -166,12 +167,12 @@
         <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/daemon/__init__.py" timestamp="1481702425459" />
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481702853207">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="142" column="40" />
-        <mark key="]" line="147" column="22" />
-        <mark key="." line="147" column="22" />
-        <mark key="^" line="147" column="22" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481704993958">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="152" column="21" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" timestamp="1481101896206">
         <mark key="'" line="0" column="0" />
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="16" filename="$USER_HOME$/opt/product_project/authority_management/configs/test_config.py" />
       <jump line="75" column="34" filename="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" />
       <jump line="12" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" />
       <jump line="132" column="12" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
@@ -288,47 +288,48 @@
       <jump line="33" column="46" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="144" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="134" column="23" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
-      <jump line="21" column="31" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="158" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="21" column="39" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIOWIneWni+WMlueKtuaAgeaWh+S7tgogICAgICAgIHNlbGYuc3RhdGVfZmlsZSA9IHNlbGYuc3RhdGVfcGF0aCArIG9zLnNlcCArICJkZXBsb3kudHh0Igo=</text>
+        <text encoding="base64">ICAgICAgICBERUJVRyA9IGNvbmZpZy5nZXQoIkRFQlVHIikKICAgICAgICBJUEFERFIgPSBjb25maWcuZ2V0KCJJUEFERFIiKQogICAgICAgIFBPUlQgPSBjb25maWcuZ2V0KCJQT1JUIikKICAgICAgICBhZ2VudCA9IFJwY1NlcnZlcihpcGFkZHI9SVBBRERSLCBwb3J0PVBPUlQsIERFQlVHPURFQlVHKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYWVtb24gPSBydW5uZXIuRGFlbW9uUnVubmVyKGFnZW50KQogICAgICAgIGRhZW1vbi5kb19hY3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiIgogICAgICAgIHByb2R1Y3Q6IGNvcHkge30gdG8gY29uZmlnLnltbAogICAgICAgIGRldmVsb3A6IGNvcHkge30gdG8gY29uZmlnLnltbAogICAgIiIiLmZvcm1hdChCQVNFX0RJUiArIG9zLnNlcCArICJtYXN0ZXJfY29uZmlnLnltbCIsCiAgICAgICAgICAgICAgIEJBU0VfRElSICsgb3Muc2VwICsgImRldl9jb25maWcueW1sIikpCiAgICB3aXRoIGRhZW1vbi5EYWVtb25Db250ZXh0KCk6CiAgICAgICAgbWFpbigpCg==</text>
+        <text encoding="base64">cGlkZmlsZV9wYXRoID0gY29uZmlnLmdldCgiUElEIikKcGlkZmlsZV90aW1lb3V0ID0gY29uZmlnLmdldCgiUElEX1RJTUVPVVQiKQpzdGRvdXRfcGF0aCA9IGNvbmZpZy5nZXQoIlNURF9PVVQiKQpzdGRlcnJfcGF0aCA9IGNvbmZpZy5nZXQoIlNUREVSUl9PVVQiKQpzdGRpbl9wYXRoID0gIi9kZXYvbnVsbCIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVXNlIENvbnRyb2wtQyB0byBleGl0IikK</text>
+        <text encoding="base64">ICAgIHdpdGggRGFlbW9uQ29udGV4dCgpOgogICAgICAgIG1haW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbygic2hlbGxfc2NyaXB0PT57fSIuZm9ybWF0KHBhcmFtX3N0cikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3Rkb3V0X3BhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkZXJyPXN0ZGVycl9wYXRoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZGluPXN0ZGluX3BhdGgpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5ERUJVRzoK</text>
+        <text encoding="base64">ICAgIHdpdGggZGFlbW9uX2NvbnRleHQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
+        <text encoding="base64">cGlkID0gY29uZmlnLmdldCgiUElEIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJpcF9wb3J0PT57fSIuZm9ybWF0KGlwX3BvcnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRhZW1vbl9jb250ZXh0ID0gRGFlbW9uQ29udGV4dChwaWRmaWxlPWFnZW50LnBpZGZpbGVfcGF0aCwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRpbj1hZ2VudC5zdGRpbl9wYXRoLAogICAgICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1hZ2VudC5zdGRvdXRfcGF0aCwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRlcnI9YWdlbnQuc3RkZXJyX3BhdGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>150</text>
