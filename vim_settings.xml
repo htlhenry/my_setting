@@ -10,12 +10,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/rpcagent.sh" timestamp="1481708537271">
-        <mark key="'" line="15" column="3" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="23" column="9" />
-        <mark key="." line="23" column="9" />
-        <mark key="^" line="23" column="9" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/rpcagent.sh" timestamp="1481777980793">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" timestamp="1481087640206">
         <mark key="'" line="100" column="42" />
@@ -24,7 +24,6 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/daemon/runner.py" timestamp="1481701641230" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/rcpagent.sh" timestamp="1481697576361">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="4" column="11" />
@@ -45,8 +44,6 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py" timestamp="1481701699993" />
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/daemon/daemon.py" timestamp="1481704633193" />
       <file name="$USER_HOME$/opt/product_project/RpcService/test_follow_read.py" timestamp="1480318072486">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="23" column="28" />
@@ -110,7 +107,6 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/utils/logger.py" timestamp="1481684311504" />
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/dev_config.yml" timestamp="1481531376359">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -173,7 +169,6 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/daemon/__init__.py" timestamp="1481702425459" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1481708486474">
         <mark key="'" line="135" column="10" />
         <mark key="[" line="21" column="0" />
@@ -300,7 +295,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYWVtb24gaW1wb3J0IERhZW1vbkNvbnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -312,31 +307,31 @@
         <text encoding="base64">ICAgIGtpbGxwcm9nICR7UElEfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYWVtb24gaW1wb3J0IERhZW1vbkNvbnRleHQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAvZGF0YS93d3cvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkgcmVzdGFydAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">UElEID0gJChjYXQgL3Zhci9ydW4vcnBjYWdlbnQucGlkKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBkYWVtb24gaW1wb3J0IERhZW1vbkNvbnRleHQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cGlkZmlsZV9wYXRoID0gY29uZmlnLmdldCgiUElEIikK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhZW1vbl9jb250ZXh0ID0gRGFlbW9uQ29udGV4dCgpCiAgICB3aXRoIGRhZW1vbl9jb250ZXh0Ogo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAvZGF0YS93d3cvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkgcmVzdGFydAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGlkZmlsZV9wYXRoID0gY29uZmlnLmdldCgiUElEIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGlkZmlsZV9wYXRoID0gY29uZmlnLmdldCgiUElEIikKcGlkZmlsZV90aW1lb3V0ID0gY29uZmlnLmdldCgiUElEX1RJTUVPVVQiKQpzdGRvdXRfcGF0aCA9IGNvbmZpZy5nZXQoIlNURF9PVVQiKQpzdGRlcnJfcGF0aCA9IGNvbmZpZy5nZXQoIlNUREVSUl9PVVQiKQpzdGRpbl9wYXRoID0gIi9kZXYvbnVsbCIK</text>
+        <text encoding="base64">ICAgIGRhZW1vbl9jb250ZXh0ID0gRGFlbW9uQ29udGV4dCgpCiAgICB3aXRoIGRhZW1vbl9jb250ZXh0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>150</text>
