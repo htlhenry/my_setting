@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1481874879495">
-        <mark key="a" line="598" column="22" />
-        <mark key="'" line="161" column="1" />
-        <mark key="[" line="159" column="36" />
-        <mark key="]" line="160" column="36" />
-        <mark key="." line="160" column="36" />
-        <mark key="^" line="160" column="36" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1481880648569">
+        <mark key="a" line="599" column="22" />
+        <mark key="'" line="752" column="0" />
+        <mark key="[" line="161" column="1" />
+        <mark key="]" line="161" column="38" />
+        <mark key="." line="161" column="38" />
+        <mark key="^" line="161" column="38" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -277,12 +277,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481874858501">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="119" column="18" />
-        <mark key="^" line="119" column="18" />
-        <mark key="." line="119" column="18" />
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481880597916">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="173" column="81" />
+        <mark key="^" line="173" column="81" />
+        <mark key="." line="173" column="81" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket.py" timestamp="1479039444209">
         <mark key="[" line="38" column="35" />
@@ -380,8 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1236" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="1233" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1080" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1077" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1605" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -480,6 +478,8 @@
       <jump line="726" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="153" column="1" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
+      <jump line="170" column="15" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="751" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -522,7 +522,7 @@
         <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>160</text>
+        <text>100</text>
       </register>
     </registers>
     <search>
@@ -548,6 +548,7 @@
         <entry encoding="base64">JzwsJz5zL2ludC9mbG9hdDMyL2c=</entry>
         <entry>11</entry>
         <entry>160</entry>
+        <entry>100</entry>
       </history-cmd>
       <history-expr />
       <history-input />
