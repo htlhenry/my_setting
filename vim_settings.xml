@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1481884222295">
-        <mark key="a" line="600" column="22" />
-        <mark key="'" line="753" column="0" />
-        <mark key="[" line="161" column="39" />
-        <mark key="]" line="162" column="45" />
-        <mark key="." line="162" column="45" />
-        <mark key="^" line="162" column="45" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1481891372758">
+        <mark key="a" line="604" column="22" />
+        <mark key="'" line="172" column="11" />
+        <mark key="[" line="165" column="36" />
+        <mark key="]" line="166" column="37" />
+        <mark key="." line="166" column="37" />
+        <mark key="^" line="166" column="37" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -277,12 +277,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481887111607">
-        <mark key="'" line="200" column="11" />
-        <mark key="[" line="236" column="10" />
-        <mark key="]" line="236" column="10" />
-        <mark key="^" line="236" column="26" />
-        <mark key="." line="236" column="10" />
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481891349025">
+        <mark key="'" line="215" column="29" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="315" column="20" />
+        <mark key="." line="315" column="20" />
+        <mark key="^" line="315" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket.py" timestamp="1479039444209">
         <mark key="[" line="38" column="35" />
@@ -380,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1077" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1605" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1689" column="47" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1179" column="25" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -477,16 +476,17 @@
       <jump line="726" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="153" column="1" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
-      <jump line="170" column="15" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="751" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="199" column="11" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
+      <jump line="214" column="29" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
+      <jump line="170" column="11" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWZtdC5QcmludGYoIlRoZSB2IHJlZmxlY3QgdmFsdWUgb2YgJVRcbiIsIHYpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -495,34 +495,34 @@
         <text encoding="base64">CWZtdC5QcmludGYoInRoZSBvbmUga2V5IGluIG1hcENyZWF0IGlzOiVzXG4iLCBtYXBDcmVhdGVbIm9uZSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNxMSA6PSBuZXcoaW50ZXJmYWNldGVzdC5TcXVhcmUpCglzcTEuc2lkZSA9IDUKCglhcmVhSW50ZiA6PSBzcTEKCWZtdC5QcmludGYoIlRoZSBzcXVhcmUgaGFzIGFyZWE6ICAlZlxuIiwgYXJlYUludGYuQXJlYSgpKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIlRoZSB2IHJlZmxlY3QgdmFsdWUgb2YgJVRcbiIsIHYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJoZWxsby9pbnRlcmZhY2UiCg==</text>
+        <text encoding="base64">dmFyIG0gTXlJbnQgPSA1Cgp2IDo9IHJlZmxlY3QuVmFsdWVPZihtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGFpIEFic0ludGVyZmFjZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9mdW5jIFNvcnRUZXN0KGRhdGEgU29ydGVyKSB7Ci8vCWZvciBwYXNzIDo9IDE7IHBhc3MgPCBkYXRhLkxlbigpOyBwYXNzKysgewovLwkJaWYgZGF0YS5MZXNzKGkrMSwgaSkgewovLwkJCWRhdGEuU3dhcChpLCBpKzEpCi8vCQl9Ci8vCX0KLy99Cgp0eXBlIFNvcnRlciBpbnRlcmZhY2UgewoJTGVuKCkgaW50CglMZXNzKGksIGogaW50KSBib29sCglTd2FwKGksIGogaW50KQp9CgpmdW5jIEludGVyZmFjZVRlc3RGb3VyKCkgIHsKCWRhdGEgOj0gW11pbnR7NzQsIDU5LCAyMzgsIC03ODQsIDk4NTQsIDk1OSwgOTA1LCA5LCAwLCAwLCA0MiwgNzU4NiwgLTU0Njc5ODQsIDc1ODZ9CglhIDo9IHNvcnQuSW50QXJyYXkoZGF0YSkKCXNvcnQuU29ydChhKQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICJmbXQiCg==</text>
+        <text encoding="base64">CXR5cGUgbmFtZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiAxCg==</text>
+        <text encoding="base64">CXNxMSA6PSBuZXcoaW50ZXJmYWNldGVzdC5TcXVhcmUpCglzcTEuc2lkZSA9IDUKCglhcmVhSW50ZiA6PSBzcTEKCWZtdC5QcmludGYoIlRoZSBzcXVhcmUgaGFzIGFyZWE6ICAlZlxuIiwgYXJlYUludGYuQXJlYSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJoZWxsby9pbnRlcmZhY2UiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyB0ZXN0QXR5cGUoKSAgewoJCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>230</text>
       </register>
     </registers>
     <search>
@@ -550,6 +550,9 @@
         <entry>160</entry>
         <entry>100</entry>
         <entry>w</entry>
+        <entry>223</entry>
+        <entry>6</entry>
+        <entry>230</entry>
       </history-cmd>
       <history-expr />
       <history-input />
