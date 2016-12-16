@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1479780233464">
-        <mark key="a" line="590" column="22" />
-        <mark key="'" line="739" column="48" />
-        <mark key="[" line="739" column="49" />
-        <mark key="]" line="738" column="29" />
-        <mark key="." line="738" column="29" />
-        <mark key="^" line="738" column="29" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1481861001576">
+        <mark key="a" line="594" column="22" />
+        <mark key="'" line="157" column="1" />
+        <mark key="[" line="155" column="29" />
+        <mark key="]" line="156" column="27" />
+        <mark key="." line="156" column="27" />
+        <mark key="^" line="156" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -118,6 +118,12 @@
         <mark key="]" line="635" column="0" />
         <mark key="." line="635" column="0" />
         <mark key="^" line="587" column="28" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1481861054003">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1478233729698">
         <mark key="[" line="39" column="0" />
@@ -364,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="27" filename="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" />
-      <jump line="960" column="13" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1223" column="8" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1236" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="1233" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
@@ -464,13 +468,15 @@
       <jump line="189" column="37" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="160" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="739" column="48" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="726" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="153" column="1" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXJldHVybiAxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -479,34 +485,34 @@
         <text encoding="base64">CWZtdC5QcmludGYoInRoZSBvbmUga2V5IGluIG1hcENyZWF0IGlzOiVzXG4iLCBtYXBDcmVhdGVbIm9uZSJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyB0ZXN0QXR5cGUoKSAgewoJCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
+        <text encoding="base64">ZnVuYyB0ZXN0QXR5cGUoKSAgewoJCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKCJTdW06Iiwgc3VtLCAifCBQcm9kdWN0OiIsIHByb2QsICJ8IERpZmY6IiwgZGlmZikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBncmVldGluZygpICB7CgkKfQo=</text>
+        <text encoding="base64">CXZhciBudW0gaW50ID0gMTAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ludC9mbG9hdDMyL2c=</text>
+        <text>11</text>
       </register>
     </registers>
     <search>
@@ -530,6 +536,7 @@
         <entry encoding="base64">JzwsJz5zL29uZS90d28vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NyZWF0L0Fzc2lnZWQv</entry>
         <entry encoding="base64">JzwsJz5zL2ludC9mbG9hdDMyL2c=</entry>
+        <entry>11</entry>
       </history-cmd>
       <history-expr />
       <history-input />
