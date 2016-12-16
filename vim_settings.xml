@@ -277,12 +277,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481880597916">
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" timestamp="1481881679261">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="159" column="32" />
-        <mark key="]" line="173" column="81" />
+        <mark key="[" line="170" column="30" />
+        <mark key="]" line="170" column="30" />
         <mark key="^" line="173" column="81" />
-        <mark key="." line="173" column="81" />
+        <mark key="." line="170" column="30" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket.py" timestamp="1479039444209">
         <mark key="[" line="38" column="35" />
@@ -482,11 +482,11 @@
       <jump line="751" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXNxMSA6PSBuZXcoaW50ZXJmYWNldGVzdC5TcXVhcmUpCglzcTEuc2lkZSA9IDUKCglhcmVhSW50ZiA6PSBzcTEKCWZtdC5QcmludGYoIlRoZSBzcXVhcmUgaGFzIGFyZWE6ICAlZlxuIiwgYXJlYUludGYuQXJlYSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -522,7 +522,7 @@
         <text encoding="base64">CXR5cGUgVHdvSW50cyBzdHJ1Y3QgewoJCWEgaW50CgkJYiBpbnQKCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>100</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -549,6 +549,7 @@
         <entry>11</entry>
         <entry>160</entry>
         <entry>100</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
