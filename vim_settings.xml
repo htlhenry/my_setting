@@ -64,6 +64,11 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1482216318286">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/configs/master_config.yml" timestamp="1481531392186">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -89,7 +94,7 @@
         <mark key="^" line="46" column="29" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482137945204">
+      <file name="/Dummy.txt" timestamp="1482204399572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="15" />
@@ -185,13 +190,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482137260820">
-        <mark key="'" line="35" column="55" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482137294558">
         <mark key="'" line="46" column="46" />
@@ -304,8 +302,8 @@
       <jump line="32" column="55" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9zdGF0aWMvY3NzL2Rhc2hib2FyZC5jc3MiPi0tPgo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -317,31 +315,31 @@
         <text>:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGVfYWZ0ZXJfZXhjcHRpb24oYXJncy5jb25maWdfZmlsZSkK</text>
+        <text encoding="base64">PCEtLTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9zdGF0aWMvY3NzL2Rhc2hib2FyZC5jc3MiPi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGVfYWZ0ZXJfZXhjcHRpb24oYXJncy5jb25maWdfZmlsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVuZGVwbG95X2xpc3QgPSBjb3B5LmRlZXBjb3B5KHNlbGYuaXBfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR0aW1lPWRhdGV0aW1lLmRhdGV0aW1lLm5vdygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVuZGVwbG95X2xpc3QgPSBjb3B5LmRlZXBjb3B5KHNlbGYuaXBfbGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR0aW1lPWRhdGV0aW1lLmRhdGV0aW1lLm5vdygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgJHtsb2NrX2ZpbGV9ICYmIGV4aXQgMQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlJlc3RhcnRpbmciCiAgICBraWxscHJvZyAke1BJRH0KICAgIG5vaHVwIHB5dGhvbiAvZGF0YS93d3cvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkgPiAvZGF0YS9sb2dzL3JwY2FnZW50Lm91dCAyPiYxICYKICAgIDs7Cg==</text>
+        <text encoding="base64">ICAgJHtsb2NrX2ZpbGV9ICYmIGV4aXQgMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlN0b3BwaW5nIgogICAgIyBTdG9wIHRoZSBkYWVtb24KICAgIGtpbGxwcm9nICR7UElEfQo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIlJlc3RhcnRpbmciCiAgICBraWxscHJvZyAke1BJRH0KICAgIG5vaHVwIHB5dGhvbiAvZGF0YS93d3cvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkgPiAvZGF0YS9sb2dzL3JwY2FnZW50Lm91dCAyPiYxICYKICAgIDs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIlN0YXJ0aW5nIgogICAgIyBTdGFydCB0aGUgZGFlbW9uCiAgICBub2h1cCBweXRob24gL2RhdGEvd3d3L1JwY0FnZW50L0NmZ1JwY0FnZW50LnB5ID4gL2RhdGEvbG9ncy9ycGNhZ2VudC5vdXQgMj4mMSAmCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIlN0b3BwaW5nIgogICAgIyBTdG9wIHRoZSBkYWVtb24KICAgIGtpbGxwcm9nICR7UElEfQo=</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
