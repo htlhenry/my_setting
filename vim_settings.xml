@@ -114,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482321193565">
+      <file name="/Dummy.txt" timestamp="1482321653400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,6 +126,11 @@
         <mark key="^" line="13" column="69" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/jsonrpclib/SimpleJSONRPCServer.py" timestamp="1482290794404" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/requirements.txt" timestamp="1482321683763">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1482291283002" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" timestamp="1482290807988" />
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/absolute_import/import_test.py" timestamp="1481610765417">
@@ -336,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnRlc3RfY29uZmxpY3QKPT09PT09PQplZWUKPj4+Pj4+PiBoYW50ZW5nbGVpCg==</text>
+        <text encoding="base64">dGVzdGNvbmZsaWN0Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -348,31 +353,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iam9iZG93bnBhdGgiIGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7kuIvovb3ot6/lvoQ8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJqb2Jkb3ducGF0aCIgbmFtZT0iam9iZG93bnBhdGgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnRlc3RfY29uZmxpY3QKPT09PT09PQplZWUKPj4+Pj4+PiBoYW50ZW5nbGVpCg==</text>
+        <text encoding="base64">dGVzdGNvbmZsaWN0Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VfbXNnID0gdHJhY2ViYWNrLmZvcm1hdF9leGMoKQo=</text>
+      <register name="2" type="4">
+        <text>解决冲突
+Merge branch 'hantenglei' into dev
+
+# Conflicts:
+#	CfgRpcAgent.py</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdChyZXMpKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECnRlc3RfY29uZmxpY3QKPT09PT09PQplZWUKPj4+Pj4+PiBoYW50ZW5nbGVpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VfbXNnID0gdHJhY2ViYWNrLmZvcm1hdF9leGMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGVfYWZ0ZXJfZXhjcHRpb24oYXJncy5jb25maWdfZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdChyZXMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXBfbG9nLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGVfYWZ0ZXJfZXhjcHRpb24oYXJncy5jb25maWdfZmlsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicmVsZWFzZV9kb3duZmlsZV9wYXRoOiIuZm9ybWF0KHJlbGVhc2VfZG93bmZpbGVfcGF0aCArIGRvd25fZmlsZV9uYW1lKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMSA+IDIsICJ0ZXN0IGRvd25sb2FkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXBfbG9nLmNsb3NlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>135</text>
