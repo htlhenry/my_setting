@@ -114,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482337295860">
+      <file name="/Dummy.txt" timestamp="1482337456089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -209,11 +209,11 @@
         <mark key="^" line="62" column="35" />
         <mark key="." line="62" column="35" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1482337452382">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1482337627297">
         <mark key="'" line="21" column="15" />
-        <mark key="[" line="143" column="54" />
-        <mark key="]" line="143" column="66" />
-        <mark key="." line="143" column="66" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
         <mark key="^" line="143" column="66" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" timestamp="1481101896206">
@@ -229,11 +229,11 @@
         <mark key="^" line="213" column="36" />
         <mark key="." line="164" column="49" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482331276390">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482337714367">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="12" />
-        <mark key="." line="241" column="12" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
         <mark key="^" line="245" column="11" />
       </file>
     </filemarks>
@@ -340,8 +340,8 @@
       <jump line="21" column="15" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRyeToK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -353,35 +353,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iam9iZG93bnBhdGgiIGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7kuIvovb3ot6/lvoQ8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJqb2Jkb3ducGF0aCIgbmFtZT0iam9iZG93bnBhdGgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRyeToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBidWcg5omn6KGM6ISa5pys6ZSZ6K+vLOi/lOWbnueahOS4jeaYr2pzb24s5q2k5aSE5pWR5rS75oqb5Ye65byC5bi477yM5Y+v5Lul5L+u5pS5YWdlbnTnq6/lvILluLjvvIzov5Tlm55qb3Nu5qC85byPLOaYjuWkqWZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImNsaW1iLnB5IGRlcGxveSBlcnJvcj0+e30iLmZvcm1hdChtc2cpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImNsaW1iLnB5IGRlcGxveSBlcnJvcj0+e30iLmZvcm1hdChtc2cpKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBidWcg5omn6KGM6ISa5pys6ZSZ6K+vLOi/lOWbnueahOS4jeaYr2pzb24s5q2k5aSE5pWR5rS75oqb5Ye65byC5bi477yM5Y+v5Lul5L+u5pS5YWdlbnTnq6/lvILluLjvvIzov5Tlm55qb3Nu5qC85byPLOaYjuWkqWZpeAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dGVzdGNvbmZsaWN0Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>解决冲突
 Merge branch 'hantenglei' into dev
 
 # Conflicts:
 #	CfgRpcAgent.py</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECnRlc3RfY29uZmxpY3QKPT09PT09PQplZWUKPj4+Pj4+PiBoYW50ZW5nbGVpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2VfbXNnID0gdHJhY2ViYWNrLmZvcm1hdF9leGMoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdChyZXMpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09PT09PT09PT0+e30iLmZvcm1hdCgpKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECnRlc3RfY29uZmxpY3QKPT09PT09PQplZWUKPj4+Pj4+PiBoYW50ZW5nbGVpCg==</text>
       </register>
       <register name=":" type="4">
         <text>164</text>
