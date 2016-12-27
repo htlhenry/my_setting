@@ -114,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482822297247">
+      <file name="/Dummy.txt" timestamp="1482826102532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -177,31 +177,11 @@
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/absolute_import/sys.py" timestamp="1481605322296">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1482823103361">
-        <mark key="'" line="784" column="26" />
-        <mark key="[" line="1040" column="29" />
-        <mark key="]" line="1039" column="50" />
-        <mark key="." line="1039" column="50" />
-        <mark key="^" line="1039" column="50" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1482225909245">
         <mark key="'" line="307" column="40" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1482390092493">
         <mark key="'" line="31" column="30" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" timestamp="1482311752133">
-        <mark key="'" line="197" column="3" />
-        <mark key="[" line="194" column="40" />
-        <mark key="]" line="194" column="56" />
-        <mark key="." line="194" column="56" />
-        <mark key="^" line="194" column="56" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/database/models.py" timestamp="1482823392724">
-        <mark key="[" line="61" column="54" />
-        <mark key="]" line="62" column="35" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="62" column="35" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1482378857258">
         <mark key="'" line="21" column="15" />
@@ -217,12 +197,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482823493097">
-        <mark key="[" line="461" column="4" />
-        <mark key="]" line="461" column="4" />
-        <mark key="^" line="456" column="0" />
-        <mark key="." line="461" column="4" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482819948278">
         <mark key="'" line="350" column="15" />
         <mark key="[" line="335" column="12" />
@@ -232,9 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="10" column="10" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="100" column="20" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
       <jump line="8" column="16" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
       <jump line="70" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="88" column="11" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
@@ -332,13 +303,16 @@
       <jump line="227" column="22" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="137" column="35" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="350" column="15" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="406" column="51" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="301" column="60" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="454" column="16" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -347,31 +321,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHtkYXRhOiJkZXZpY2VtYXJrIix0aXRsZToi54q25oCBIix3aWR0aDoiMTAlIiwiZm5DcmVhdGVkQ2VsbCI6ZnVuY3Rpb24oblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpewogICAgICAgICAgICAgICAgICAgIGlmIChzRGF0YSA9PSAiMSIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuetieW+heS4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuetieW+heS4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMiIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuWPkeW4g+S4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+S4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMyIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICMxNEQ2NEInPuWPkeW4g+aIkOWKnzwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+aIkOWKnyIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiNCIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNGRjAwMDAnPuWPkeW4g+Wksei0pTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+Wksei0pSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVsZW1lbnQgPSAkKG5UZCkuaHRtbCgiPHNwYW4+5pyq5Y+R5biDPC9zcGFuPiIpOwogICAgICAgICAgICAgICAgICAgICAgICAvL29EYXRhWyJkZXZpY2VtYXJrIl0gPSAi5pyq5Y+R5biDIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH19LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicG9zdG1hbi10b2tlbiI6ICIxYmYxZDE5OS0xZjdiLTYxZjUtN2M5MC1iZmU5ZjUzZjRhMjQiCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZhcgo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ0YXNrIHJ1bm5pbmciKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nvbm5lY3RfYWdlbnQoc2VsZik6CiAgICAgICAgc2VsZi5jb25uZWN0X2FnZW50KHVybD0pCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeSh7InN1Y2Nlc3MiOiBGYWxzZSwgIm1lc3NhZ2UiOiB1IuiOt+WPlueKtuaAgeWksei0pe+8jOWPguaVsOS4jeWvuSJ9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICByZXR1cm4ganNvbmlmeSh7InN1Y2Nlc3MiOiBGYWxzZSwgIm1lc3NhZ2UiOiB1IuivpeWKn+iDveaaguacquW8gOaUviJ9KQogICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb25uZWN0X2FnZW50KHNlbGYsIHVybD1Ob25lKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGFnZW50ID0geG1scnBjbGliLlNlcnZlclByb3h5KHVybCwgY29udGV4dD1zZWxmLmNvbnRleHQpCiAgICAgICAgICAgIHJldHVybiBhZ2VudCwgVHJ1ZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmV4Y2VwdGlvbigiY29ubmVjdCB0byBhZ2VudCB7fSBlcnJvcj0+e30iLmZvcm1hdCh1cmwsIGUpKQogICAgICAgICAgICByZXR1cm4gTm9uZSwgRmFsc2UK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</text>
