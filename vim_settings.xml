@@ -94,8 +94,6 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/mytoastr.js" timestamp="1482740934236" />
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1482741650805" />
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/poll_client.py" timestamp="1480673208441">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="36" column="53" />
@@ -116,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482752050874">
+      <file name="/Dummy.txt" timestamp="1482819998124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,19 +227,15 @@
         <mark key="^" line="213" column="36" />
         <mark key="." line="164" column="49" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482493315140">
-        <mark key="'" line="282" column="10" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482819948278">
+        <mark key="'" line="350" column="15" />
+        <mark key="[" line="335" column="12" />
+        <mark key="]" line="343" column="15" />
+        <mark key="^" line="343" column="15" />
+        <mark key="." line="343" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
-      <jump line="25" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="73" column="22" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="63" column="7" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="86" column="23" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="10" column="10" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="100" column="20" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
@@ -338,63 +332,66 @@
       <jump line="1306" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="407" column="26" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="784" column="26" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="207" column="54" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="227" column="22" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="137" column="35" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="350" column="15" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHtkYXRhOiJkZXZpY2VtYXJrIix0aXRsZToi54q25oCBIix3aWR0aDoiMTAlIiwiZm5DcmVhdGVkQ2VsbCI6ZnVuY3Rpb24oblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpewogICAgICAgICAgICAgICAgICAgIGlmIChzRGF0YSA9PSAiMSIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuetieW+heS4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuetieW+heS4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMiIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuWPkeW4g+S4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+S4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMyIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICMxNEQ2NEInPuWPkeW4g+aIkOWKnzwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+aIkOWKnyIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiNCIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNGRjAwMDAnPuWPkeW4g+Wksei0pTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+Wksei0pSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVsZW1lbnQgPSAkKG5UZCkuaHRtbCgiPHNwYW4+5pyq5Y+R5biDPC9zcGFuPiIpOwogICAgICAgICAgICAgICAgICAgICAgICAvL29EYXRhWyJkZXZpY2VtYXJrIl0gPSAi5pyq5Y+R5biDIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH19LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXR1cz09PTMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nvbm5lY3RfYWdlbnQoc2VsZik6CiAgICAgICAgc2VsZi5jb25uZWN0X2FnZW50KHVybD0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgJChkb2N1bWVudCkub24oJ2NsaWNrJywgJyNUZXN0R2V0JywgZnVuY3Rpb24gKCkgeyN9CnsjICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOyN9CnsjICAgICAgICB2YXIgVGFibGUgPSAkKCIjdGFibGVfcmVsZWFzZV9kZXZpY2UiKS5EYXRhVGFibGUoKTsjfQp7IyAgICAgICAgdmFyIGRhdGEgPSBUYWJsZS5jZWxsKDEsIDEpLmRhdGEoKTsjfQp7IyAgICAgICAgY29uc29sZS5sb2coZGF0YSk7I30KeyMgICAgfSk7I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgIGRlZiBjb25uZWN0X2FnZW50KHNlbGYsIHVybD1Ob25lKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIGFnZW50ID0geG1scnBjbGliLlNlcnZlclByb3h5KHVybCwgY29udGV4dD1zZWxmLmNvbnRleHQpCiAgICAgICAgICAgIHJldHVybiBhZ2VudCwgVHJ1ZQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmV4Y2VwdGlvbigiY29ubmVjdCB0byBhZ2VudCB7fSBlcnJvcj0+e30iLmZvcm1hdCh1cmwsIGUpKQogICAgICAgICAgICByZXR1cm4gTm9uZSwgRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg5bCG6L6T5Ye655qE5L+h5oGv5YaZ5YWl5YiwaXDml6Xlv5cKICAgICAgICAgICAgICAgICMgaXBfbG9nLndyaXRlKG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBrZXlfZmlsZT1kZWZhdWx0X2NhX2NlcnRpZmljYXRpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg6K6w5b2V6YOo572y54q25oCBCg==</text>
+        <text encoding="base64">ICAgICAgICAjIOW/veeVpeacjeWKoeWZqFNTTOivgeS5puOAggogICAgICAgICMgY29udGV4dCA9IHNzbC5fY3JlYXRlX3VudmVyaWZpZWRfY29udGV4dCgpCiAgICAgICAgc2VsZi5jb250ZXh0ID0gc3NsLmNyZWF0ZV9kZWZhdWx0X2NvbnRleHQoKQogICAgICAgIHNlbGYuY29udGV4dC5jaGVja19ob3N0bmFtZSA9IEZhbHNlCiAgICAgICAgc2VsZi5jb250ZXh0LnZlcmlmeV9tb2RlID0gc3NsLkNFUlRfUkVRVUlSRUQKICAgICAgICBzZWxmLmNvbnRleHQubG9hZF9kZWZhdWx0X2NlcnRzKHB1cnBvc2U9c3NsLlB1cnBvc2UuU0VSVkVSX0FVVEgpCiAgICAgICAgc2VsZi5jb250ZXh0LmxvYWRfdmVyaWZ5X2xvY2F0aW9ucyhjYV9maWxlKQogICAgICAgIHNlbGYuY29udGV4dC5sb2FkX2NlcnRfY2hhaW4oY2VydF9maWxlLCBrZXlmaWxlPWtleV9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
-      <last-replace>self.context</last-replace>
-      <last-substitute>context</last-substitute>
+      <last-pattern>client</last-pattern>
+      <last-replace>task</last-replace>
+      <last-substitute>client</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
         <entry>data</entry>
         <entry>null</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
@@ -414,9 +411,9 @@
         <entry>context</entry>
         <entry>info</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
-        <entry>1136</entry>
         <entry>453</entry>
         <entry>99</entry>
         <entry>95</entry>
@@ -436,6 +433,7 @@
         <entry>359</entry>
         <entry>317</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
