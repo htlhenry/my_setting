@@ -44,7 +44,7 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/configs/config.py" timestamp="1482898262511">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/configs/config.py" timestamp="1482898336218">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="67" />
         <mark key="." line="40" column="67" />
@@ -172,7 +172,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1482836572977">
-        <mark key="'" line="1032" column="66" />
+        <mark key="'" line="973" column="66" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1482225909245">
         <mark key="'" line="307" column="40" />
@@ -180,6 +180,7 @@
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1482390092493">
         <mark key="'" line="31" column="30" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" timestamp="1482899537981" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1482378857258">
         <mark key="'" line="21" column="15" />
         <mark key="[" line="124" column="46" />
@@ -194,7 +195,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482898226984" />
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482819948278">
         <mark key="'" line="350" column="15" />
         <mark key="[" line="335" column="12" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/first_section_sync/simple_coroutine.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/socketerrors.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/errorrevocer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/gethostbyaddr-basic.py" />
@@ -304,13 +303,14 @@
       <jump line="163" column="108" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="374" column="5" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="1032" column="66" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="350" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
