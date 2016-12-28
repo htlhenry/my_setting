@@ -114,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482923562119">
+      <file name="/Dummy.txt" timestamp="1482923854136">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,12 +199,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482920390487">
-        <mark key="'" line="525" column="6" />
-        <mark key="[" line="491" column="0" />
-        <mark key="]" line="491" column="0" />
-        <mark key="." line="491" column="0" />
-        <mark key="^" line="501" column="26" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482924456358">
+        <mark key="'" line="38" column="30" />
+        <mark key="[" line="522" column="13" />
+        <mark key="]" line="522" column="14" />
+        <mark key="." line="522" column="14" />
+        <mark key="^" line="522" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482918621351">
         <mark key="'" line="35" column="36" />
@@ -215,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
-      <jump line="97" column="42" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcAgent.py" />
       <jump line="112" column="11" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="16" column="32" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="31" column="30" filename="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" />
@@ -315,6 +313,8 @@
       <jump line="1321" column="29" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="424" column="15" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="525" column="6" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="182" column="22" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="38" column="30" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,7 +357,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>152</text>
+        <text>524</text>
       </register>
     </registers>
     <search>
@@ -393,7 +393,6 @@
         <entry>client</entry>
       </history-search>
       <history-cmd>
-        <entry>99</entry>
         <entry>95</entry>
         <entry>101</entry>
         <entry>113</entry>
@@ -413,6 +412,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</entry>
         <entry>152</entry>
+        <entry>524</entry>
       </history-cmd>
       <history-expr />
       <history-input />
