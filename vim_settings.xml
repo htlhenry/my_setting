@@ -114,7 +114,7 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482928483551">
+      <file name="/Dummy.txt" timestamp="1482993648470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,12 +198,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482993619054">
-        <mark key="'" line="245" column="26" />
-        <mark key="[" line="530" column="64" />
-        <mark key="]" line="530" column="64" />
-        <mark key="." line="530" column="64" />
-        <mark key="^" line="531" column="77" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1482997263095">
+        <mark key="'" line="39" column="61" />
+        <mark key="[" line="532" column="71" />
+        <mark key="]" line="538" column="79" />
+        <mark key="." line="538" column="79" />
+        <mark key="^" line="538" column="79" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1482918621351">
         <mark key="'" line="35" column="36" />
@@ -214,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="119" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_two.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/asyncio_net.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/async_await.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/thread_lock.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/network/echoserver.py" />
       <jump line="31" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/configs/master_config.yml" />
@@ -310,17 +303,24 @@
       <jump line="424" column="15" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="525" column="6" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="182" column="22" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
-      <jump line="38" column="30" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="296" column="55" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="327" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="245" column="26" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="536" column="28" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="535" column="61" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="38" column="41" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="532" column="87" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="524" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="39" column="61" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -329,34 +329,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHtkYXRhOiJkZXZpY2VtYXJrIix0aXRsZToi54q25oCBIix3aWR0aDoiMTAlIiwiZm5DcmVhdGVkQ2VsbCI6ZnVuY3Rpb24oblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpewogICAgICAgICAgICAgICAgICAgIGlmIChzRGF0YSA9PSAiMSIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuetieW+heS4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuetieW+heS4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMiIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNkNmI3MTQnPuWPkeW4g+S4rTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+S4rSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMyIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICMxNEQ2NEInPuWPkeW4g+aIkOWKnzwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+aIkOWKnyIKICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiNCIpewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZWxlbWVudCA9ICQoblRkKS5odG1sKCI8c3BhbiBzdHlsZT0nY29sb3I6ICNGRjAwMDAnPuWPkeW4g+Wksei0pTwvc3Bhbj4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9vRGF0YVsiZGV2aWNlbWFyayJdID0gIuWPkeW4g+Wksei0pSIKICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVsZW1lbnQgPSAkKG5UZCkuaHRtbCgiPHNwYW4+5pyq5Y+R5biDPC9zcGFuPiIpOwogICAgICAgICAgICAgICAgICAgICAgICAvL29EYXRhWyJkZXZpY2VtYXJrIl0gPSAi5pyq5Y+R5biDIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH19LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2luZm8uaW5mbygidGFza19jb25maWdbMF09Pnt9Ii5mb3JtYXQodHlwZSh0YXNrX2NvbmZpZ1swXS50YXNrbmFtZSkpKQo=</text>
+        <text encoding="base64">ICAgIHRhc2tfaWQgPSB0YXNrX2lkLmVuY29kZSgiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGFza25hbWUuZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dpbmZvLmluZm8oInRhc2tfb2JqIG11bHRpcGxlPT57fSIuZm9ybWF0KHRhc2tfb2JqKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiByb2xsYmFja190YXNrKCl7I30KeyMgICAgICAgICAgICAgICAgICAgICAgICAgICAgJC5hamF4KHJvbGxiYWNrX3NldHRpbmdzKS5kb25lKGZ1bmN0aW9uIChyZXNwb25zZSkgeyN9CnsjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7I30KeyMgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkuZmFpbChmdW5jdGlvbiAocmVzcG9uc2UpIHsjfQp7IyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpI30KeyMgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkuYWx3YXlzKGZ1bmN0aW9uIChyZXNwb25zZSkgeyN9CnsjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjfQp7IyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsjfQp7IyAgICAgICAgICAgICAgICAgICAgICAgIH07I30K</text>
+        <text encoding="base64">ICAgIGlmIGxlbih0YXNrX29iaikgPiAxOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhc2tfY29uZmlnID0gZGJfc2Vzc2lvbi5xdWVyeShDZk1hbmFnZVRhc2spLmZpbHRlcigKICAgICAgICAjICAgICBDZk1hbmFnZVRhc2suaWQgPT0gdGFza19pZCkuYWxsKCkK</text>
+        <text encoding="base64">ICAgIGxvZ2luZm8uaW5mbygiZGlyIHRhc2tfY29uZmlnPT57fSIuZm9ybWF0KHR5cGUobmZpZy50YXNrbmFtZSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2luZm8uaW5mbygidGFza19jb25maWc9Pnt9Ii5mb3JtYXQodGFza19jb25maWdbMF0uaWQpKQo=</text>
+        <text encoding="base64">ICAgIHRhc2tfaWQgPSB0YXNrX2lkLmVuY29kZSgidXRmLTgiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRUaW1lID0gdGFza19jb25maWdbMF0udGFza2NyZWF0ZXRpbWUKICAgIGpvYm5hbWUgPSB0YXNrX2NvbmZpZ1swXS50YXNrbmFtZQogICAgVFRpbWVfc3RhbXAgPSAiJWQiICUgdGltZS5ta3RpbWUoVFRpbWUudGltZXR1cGxlKCkpCiAgICB0YXNrX2NvbmZpZ19wYXRoID0gIiVzLyVzXyVzIiAlIChjb25maWcuUkVMRUFTRV9DT05GSUdfUEFUSCwgdGFza19pZCwgVFRpbWVfc3RhbXApCiAgICBjb25fZmlsZV9uYW1lID0gIiVzXyVzXyVzLnlhbWwiICUgKGpvYm5hbWUsIHRhc2tfaWQsIFRUaW1lX3N0YW1wKQogICAgdGFza19jb25maWdfZmlsZW5hbWUgPSAiJXMvJXMiICUgKHRhc2tfY29uZmlnX3BhdGgsIGNvbl9maWxlX25hbWUpCiAgICB3aXRoIG9wZW4odGFza19jb25maWdfZmlsZW5hbWUsICJyIikgYXMgZjoKICAgICAgICBjb25maWdfZGF0YSA9IHlhbWwubG9hZChmKQogICAgICAgIGxvZ2luZm8uaW5mbygicm9sbGJhY2sgZ2V0IGNvbmZpZ19kYXRhPT57fSIuZm9ybWF0KGNvbmZpZ19kYXRhKSkKICAgIHdpdGggb3Blbih0YXNrX2NvbmZpZ19maWxlbmFtZSwgInciKSBhcyBmOgogICAgICAgIGNvbmZpZ19kYXRhLnVwZGF0ZShpcF9saXN0PXJvbGxiYWNrX2xpc3QpCiAgICAgICAgeWFtbC5kdW1wKGNvbmZpZ19kYXRhLCBmLCBhbGxvd191bmljb2RlPVRydWUsIGRlZmF1bHRfZmxvd19zdHlsZT1GYWxzZSkKICAgICAgICBsb2dpbmZvLmluZm8oInJvbGxiYWNrIGdldCBjb25maWdfZGF0YSBhZnRlcj0+e30iLmZvcm1hdChjb25maWdfZGF0YSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRhc2tfaWQpCg==</text>
+        <text encoding="base64">cmVsb2FkKHN5cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbih0YXNrY29uZmkpCg==</text>
+        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygidXRmLTgiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbih0YXNrX2NvbmZpZ19maWxlbmFtZSwgInIiKSBhcyBmOgogICAgICAgIHRhc2tfY29uZmlnID0geWFtbC5sb2FkKGYpCg==</text>
+        <text encoding="base64">dGFza25hbWUgZXJyb3IgZW5jb2RlIOaIkCJ1dGYtOCIK</text>
       </register>
       <register name=":" type="4">
-        <text>524</text>
+        <text>534</text>
       </register>
     </registers>
     <search>
@@ -392,8 +392,6 @@
         <entry>client</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
-        <entry>101</entry>
         <entry>113</entry>
         <entry>139</entry>
         <entry>150</entry>
@@ -412,6 +410,8 @@
         <entry encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</entry>
         <entry>152</entry>
         <entry>524</entry>
+        <entry>499</entry>
+        <entry>534</entry>
       </history-cmd>
       <history-expr />
       <history-input />
