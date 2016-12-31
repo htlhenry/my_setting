@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1483083791959">
-        <mark key="a" line="614" column="22" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1483179853664">
+        <mark key="a" line="615" column="22" />
         <mark key="'" line="174" column="33" />
-        <mark key="[" line="175" column="30" />
-        <mark key="]" line="176" column="43" />
-        <mark key="." line="176" column="43" />
-        <mark key="^" line="176" column="43" />
+        <mark key="[" line="176" column="46" />
+        <mark key="]" line="177" column="35" />
+        <mark key="." line="177" column="35" />
+        <mark key="^" line="177" column="35" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -280,6 +280,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceFive.go" timestamp="1483180074942">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="13" column="54" />
+        <mark key="." line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/gunicorn_config.py" timestamp="1477470387872">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -336,7 +342,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceF.go" timestamp="1483083988363">
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceF.go" timestamp="1483179331312">
         <mark key="[" line="68" column="21" />
         <mark key="]" line="68" column="21" />
         <mark key="^" line="114" column="28" />
@@ -504,10 +510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
