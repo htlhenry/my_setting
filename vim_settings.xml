@@ -104,13 +104,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1483187082311">
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1483190006976">
         <mark key="a" line="619" column="22" />
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="179" column="33" />
-        <mark key="]" line="180" column="29" />
-        <mark key="." line="180" column="29" />
-        <mark key="^" line="180" column="29" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="32" />
+        <mark key="." line="181" column="32" />
+        <mark key="^" line="181" column="32" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -122,11 +122,10 @@
       <file name="$USER_HOME$/GoProject/src/mlib/manager.go" timestamp="1482071468535">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1483188700387">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="12" column="30" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1483189990238">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1478233729698">
         <mark key="[" line="39" column="0" />
@@ -250,11 +249,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/structtest/structO.go" timestamp="1483187097942">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="41" column="18" />
-        <mark key="." line="41" column="18" />
+      <file name="$USER_HOME$/GoProject/src/hello/structtest/structO.go" timestamp="1483190020787">
+        <mark key="[" line="59" column="33" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/test_project/test.py" timestamp="1478517947582">
         <mark key="[" line="2" column="0" />
@@ -515,8 +514,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -528,31 +527,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBIdW1hbiBzdHJ1Y3QgewoJbmFtZSBzdHJpbmcKCWFnZSBpbnQKCXBob25lIHN0cmluZwp9Cgp0eXBlIFN0dWRlbnQgc3RydWN0IHsKCUh1bWFuIC8v5Yy/5ZCN5a2X5q61CglzY2hvb2wgc3RyaW5nCglsb2FuIGZsb2F0MzIKfQoKdHlwZSBFbXBsb3llZSBzdHJ1Y3QgewoJSHVtYW4KCWNvbXBhbnkgc3RyaW5nCgltb25leSBmbG9hdDMyCn0KCi8vSHVtYW7lr7nosaHlrp7njrBTYXloaeaWueazlQpmdW5jIChoICpIdW1hbikgU2F5SGkoKSB7CglmbXQuUHJpbnRmKCJIaSwgaSBhbSAlcyB5b3UgY2FuIGNhbGwgbWUgb24gJXNcbiIsIGgubmFtZSwgaC5waG9uZSkKfQoKLy9IdW1hbuWvueixoeWunueOsOS6hlNpbmfmlrnms5UKZnVuYyAoaCAqSHVtYW4pIFNpbmcobHlyaWNzIHN0cmluZyl7CglmbXQuUHJpbnRsbigiTGEgbGEsIGxhIGxhIGxhLCBsYSBsYSBsYSBsYSBsYSAuLi4uIiwgbHlyaWNzKQp9CgovL0h1bWFu5a+56LGh5a6e546w5LqGR3V6emxl5pa55rOVCmZ1bmMgKGggKkh1bWFuKSBHdXp6bGUoYmVlclN0ZWluICBzdHJpbmcpIHsKCWZtdC5QcmludGxuKCJHdXp6bGUgR3V6emxlIEd1enpsZS4uLiIsIGJlZXJTdGVpbikKfQoKLy9FbXBsb3llZemHjei9vUh1bWFu55qEU2F5aGnmlrnms5UKZnVuYyAoZSAqRW1wbG95ZWUpIFNheUhpKCl7CglmbXQuUHJpbnRmKCJIaSwgSSBhbSAlcywgSSB3b3JrIGF0ICVzLkNhbGwgbWUgb24gJXNcbiIsIGUubmFtZSwKCWUuY29tcGFueSwgZS5waG9uZSkKfQoKLy9TdHVkZW505a6e546w5LqGQm9ycm93TW9uZXnmlrnms5UKZnVuYyAocyAqU3R1ZGVudCkgQm9ycm93TW9uZXkoYW1vdW50IGZsb2F0MzIpewoJcy5sb2FuICs9IGFtb3VudCAvLyBhZ2FpbiBhbmQgYWdhaW4gYW5kIC4uLgp9CgovL0VtcGxveWVl5a6e546w5LqGU3BlbmRTYWxhcnnmlrnms5UKZnVuYyAoZSAqRW1wbG95ZWUpIFNwZW5kU2FsYXJ5KGFtb3VudCBmbG9hdDMyKXsKCWUubW9uZXkgLT0gYW1vdW50IC8vTW9yZSB2b2RrYSBwbGVhc2UhISEgR2V0IG1lIHRocm91Z2ggdGhlIGRheSEKfQoKLy/lrprkuYlpbnRlcmZhY2UKdHlwZSBNZW4gaW50ZXJmYWNlIHsKCVNheUhpKCkKCVNpbmcobHlyaWNzIHN0cmluZykKCUd1enpsZShiZWVyU3RlaW4gc3RyaW5nKQp9Cgp0eXBlIFlvdW5nQ2hhcCBpbnRlcmZhY2UgewoJU2F5SGkoKQoJU2luZyhzb25nIHN0cmluZykKCUJvcnJvd01vbmV5KGFtb3VudCBmbG9hdDMyKQp9Cgp0eXBlIEVsZGVybHlHZW50IGludGVyZmFjZXsKCVNheUhpKCkKCVNpbmcoc29uZyBzdHJpbmcpCglTcGVuZFNhbGFyeShhbW91bnQgZmxvYXQzMikKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBJbnZvcmtNYW4oKSB7CgltaWtlIDo9IFN0dWRlbnR7fQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJoZWxsby9pbnRlcmZhY2V0ZXN0Igo=</text>
+        <text encoding="base64">dHlwZSBMaXN0IFtdIGludAoKZnVuYyAobCBMaXN0KSBMZW4oKSBpbnR7CglyZXR1cm4gbGVuKGwpCn0KCmZ1bmMgKGwgKkxpc3QpIEFwcGVuZCh2YWwgaW50KXsKCSpsID0gYXBwZW5kKCpsLCB2YWwpCn0KCmZ1bmMgVGVzdExpc3RNYWluKCl7Cgl2YXIgbHN0IExpc3QKCglsc3QuQXBwZW5kKDEpCglmbXQuUHJpbnRmKCIldiAobGVuOiAlZCkiLCBsc3QsIGxzdC5MZW4oKSkKCglwbHN0IDo9IG5ldyhMaXN0KQoJcGxzdC5BcHBlbmQoMikKCWZtdC5QcmludGYoIiV2IChsZW46ICVkKSIsIHBsc3QsIHBsc3QuTGVuKCkpCgp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyBtYWluKCkgIHsKCXNxMSA6PSBuZXcoU3F1YXJlVHdvKQoJc3ExLnNpZGUgPSA1CgoJdmFyIGFyZWFJbnRmIFNoYXBlclR3bwoJYXJlYUludGYgPSBzcTEKCWZtdC5QcmludGYoIlRoZSBzcXVhcmUgaGFzIGFyZWE6ICVmXG4iLCBhcmVhSW50Zi5BcmVhKCkpCgp9Cg==</text>
+        <text encoding="base64">dHlwZSBIdW1hbiBzdHJ1Y3QgewoJbmFtZSBzdHJpbmcKCWFnZSBpbnQKCXBob25lIHN0cmluZwp9Cgp0eXBlIFN0dWRlbnQgc3RydWN0IHsKCUh1bWFuIC8v5Yy/5ZCN5a2X5q61CglzY2hvb2wgc3RyaW5nCglsb2FuIGZsb2F0MzIKfQoKdHlwZSBFbXBsb3llZSBzdHJ1Y3QgewoJSHVtYW4KCWNvbXBhbnkgc3RyaW5nCgltb25leSBmbG9hdDMyCn0KCi8vSHVtYW7lr7nosaHlrp7njrBTYXloaeaWueazlQpmdW5jIChoICpIdW1hbikgU2F5SGkoKSB7CglmbXQuUHJpbnRmKCJIaSwgaSBhbSAlcyB5b3UgY2FuIGNhbGwgbWUgb24gJXNcbiIsIGgubmFtZSwgaC5waG9uZSkKfQoKLy9IdW1hbuWvueixoeWunueOsOS6hlNpbmfmlrnms5UKZnVuYyAoaCAqSHVtYW4pIFNpbmcobHlyaWNzIHN0cmluZyl7CglmbXQuUHJpbnRsbigiTGEgbGEsIGxhIGxhIGxhLCBsYSBsYSBsYSBsYSBsYSAuLi4uIiwgbHlyaWNzKQp9CgovL0h1bWFu5a+56LGh5a6e546w5LqGR3V6emxl5pa55rOVCmZ1bmMgKGggKkh1bWFuKSBHdXp6bGUoYmVlclN0ZWluICBzdHJpbmcpIHsKCWZtdC5QcmludGxuKCJHdXp6bGUgR3V6emxlIEd1enpsZS4uLiIsIGJlZXJTdGVpbikKfQoKLy9FbXBsb3llZemHjei9vUh1bWFu55qEU2F5aGnmlrnms5UKZnVuYyAoZSAqRW1wbG95ZWUpIFNheUhpKCl7CglmbXQuUHJpbnRmKCJIaSwgSSBhbSAlcywgSSB3b3JrIGF0ICVzLkNhbGwgbWUgb24gJXNcbiIsIGUubmFtZSwKCWUuY29tcGFueSwgZS5waG9uZSkKfQoKLy9TdHVkZW505a6e546w5LqGQm9ycm93TW9uZXnmlrnms5UKZnVuYyAocyAqU3R1ZGVudCkgQm9ycm93TW9uZXkoYW1vdW50IGZsb2F0MzIpewoJcy5sb2FuICs9IGFtb3VudCAvLyBhZ2FpbiBhbmQgYWdhaW4gYW5kIC4uLgp9CgovL0VtcGxveWVl5a6e546w5LqGU3BlbmRTYWxhcnnmlrnms5UKZnVuYyAoZSAqRW1wbG95ZWUpIFNwZW5kU2FsYXJ5KGFtb3VudCBmbG9hdDMyKXsKCWUubW9uZXkgLT0gYW1vdW50IC8vTW9yZSB2b2RrYSBwbGVhc2UhISEgR2V0IG1lIHRocm91Z2ggdGhlIGRheSEKfQoKLy/lrprkuYlpbnRlcmZhY2UKdHlwZSBNZW4gaW50ZXJmYWNlIHsKCVNheUhpKCkKCVNpbmcobHlyaWNzIHN0cmluZykKCUd1enpsZShiZWVyU3RlaW4gc3RyaW5nKQp9Cgp0eXBlIFlvdW5nQ2hhcCBpbnRlcmZhY2UgewoJU2F5SGkoKQoJU2luZyhzb25nIHN0cmluZykKCUJvcnJvd01vbmV5KGFtb3VudCBmbG9hdDMyKQp9Cgp0eXBlIEVsZGVybHlHZW50IGludGVyZmFjZXsKCVNheUhpKCkKCVNpbmcoc29uZyBzdHJpbmcpCglTcGVuZFNhbGFyeShhbW91bnQgZmxvYXQzMikKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiBzcWwuc2lkZSAqIHNxLnNpZGUK</text>
+        <text encoding="base64">ZnVuYyBJbnZvcmtNYW4oKSB7CgltaWtlIDo9IFN0dWRlbnR7fQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW9uZVsxXSA9ICJhYmMiCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJhcnJheSBvZiB0d28iLCB0d28pCg==</text>
+        <text encoding="base64">CSJoZWxsby9pbnRlcmZhY2V0ZXN0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXR3byA6PSBbMTAwXWludAo=</text>
+        <text encoding="base64">ZnVuYyBtYWluKCkgIHsKCXNxMSA6PSBuZXcoU3F1YXJlVHdvKQoJc3ExLnNpZGUgPSA1CgoJdmFyIGFyZWFJbnRmIFNoYXBlclR3bwoJYXJlYUludGYgPSBzcTEKCWZtdC5QcmludGYoIlRoZSBzcXVhcmUgaGFzIGFyZWE6ICVmXG4iLCBhcmVhSW50Zi5BcmVhKCkpCgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>230</text>
