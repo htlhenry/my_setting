@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1483607425804">
+      <file name="/Dummy.txt" timestamp="1483609072688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1483608358438">
-        <mark key="'" line="175" column="11" />
-        <mark key="[" line="433" column="25" />
-        <mark key="]" line="433" column="39" />
-        <mark key="." line="433" column="39" />
-        <mark key="^" line="433" column="39" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1483609652133">
+        <mark key="'" line="456" column="37" />
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="28" />
+        <mark key="." line="100" column="28" />
+        <mark key="^" line="34" column="13" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1483432681365">
         <mark key="[" line="108" column="0" />
@@ -90,8 +90,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" />
-      <jump line="190" column="6" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" />
       <jump line="25" column="12" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" />
       <jump line="193" column="31" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" />
       <jump line="194" column="3" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" />
@@ -190,16 +188,18 @@
       <jump line="1251" column="43" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="1254" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="1257" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="349" column="27" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
+      <jump line="456" column="37" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>回滚成功</text>
+        <text>info_log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZSBpZihzRGF0YSA9PSAiMjAwMDQiKXsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGVsZW1lbnQgPSAkKG5UZCkuaHRtbCgiPHNwYW4gc3R5bGU9J2NvbG9yOiAjRkYwMDAwJz7lm57mu5rmiJDlip88L3NwYW4+Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vb0RhdGFbImRldmljZW1hcmsiXSA9ICLlm57mu5rmiJDlip8iCg==</text>
@@ -232,21 +232,20 @@
         <text encoding="base64">aW1wb3J0IHhtbHJwY2xpYgppbXBvcnQgc3NsCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL+Wbnua7muaIkOWKny/lm57mu5rlpLHotKUv</text>
+        <text encoding="base64">JzwsJz5zL2luZm9fbG9nL3JvbGxiYWNrX2xvZy8=</text>
       </register>
     </registers>
     <search>
-      <last-search>回滚成功</last-search>
+      <last-search>info_log</last-search>
       <last-offset />
-      <last-pattern>回滚成功</last-pattern>
-      <last-replace>回滚失败</last-replace>
-      <last-substitute>回滚成功</last-substitute>
+      <last-pattern>info_log</last-pattern>
+      <last-replace>rollback_log</last-replace>
+      <last-substitute>info_log</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>system-checkbox</entry>
         <entry>marked-check</entry>
         <entry>check-button</entry>
         <entry>3</entry>
@@ -266,9 +265,9 @@
         <entry>回滚等待中</entry>
         <entry>回滚中</entry>
         <entry>回滚成功</entry>
+        <entry>info_log</entry>
       </history-search>
       <history-cmd>
-        <entry>253</entry>
         <entry>359</entry>
         <entry>317</entry>
         <entry>w</entry>
@@ -288,6 +287,7 @@
         <entry encoding="base64">JzwsJz5zL+Wbnua7muetieW+heS4rS/lm57mu5rkuK0v</entry>
         <entry encoding="base64">JzwsJz5zL+Wbnua7muS4rS/lm57mu5rmiJDlip8v</entry>
         <entry encoding="base64">JzwsJz5zL+Wbnua7muaIkOWKny/lm57mu5rlpLHotKUv</entry>
+        <entry encoding="base64">JzwsJz5zL2luZm9fbG9nL3JvbGxiYWNrX2xvZy8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
