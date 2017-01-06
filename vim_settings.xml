@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1483694218190">
+      <file name="/Dummy.txt" timestamp="1483695337112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -40,8 +40,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1483694216118">
-        <mark key="[" line="1069" column="45" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1483695377875">
+        <mark key="[" line="1070" column="96" />
+        <mark key="]" line="1070" column="103" />
+        <mark key="." line="1070" column="103" />
+        <mark key="^" line="1070" column="103" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1483601947744">
         <mark key="[" line="14" column="0" />
@@ -195,11 +198,11 @@
       <jump line="80" column="35" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/GetDeviceState.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>info_log</text>
@@ -235,7 +238,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2luZm9fbG9nL3JvbGxiYWNrX2xvZy8=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -273,7 +276,6 @@
       <history-cmd>
         <entry>359</entry>
         <entry>317</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2NsaWVudC90YXNrL2c=</entry>
         <entry>152</entry>
         <entry>524</entry>
@@ -291,6 +293,7 @@
         <entry encoding="base64">JzwsJz5zL+Wbnua7muS4rS/lm57mu5rmiJDlip8v</entry>
         <entry encoding="base64">JzwsJz5zL+Wbnua7muaIkOWKny/lm57mu5rlpLHotKUv</entry>
         <entry encoding="base64">JzwsJz5zL2luZm9fbG9nL3JvbGxiYWNrX2xvZy8=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
