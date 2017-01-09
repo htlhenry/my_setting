@@ -252,6 +252,19 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" timestamp="1483980529918">
+        <mark key="'" line="15" column="30" />
+        <mark key="[" line="73" column="34" />
+        <mark key="]" line="73" column="34" />
+        <mark key="^" line="73" column="34" />
+        <mark key="." line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" timestamp="1483980282303">
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="66" />
+        <mark key="." line="58" column="66" />
+        <mark key="^" line="58" column="66" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/product_config.py" timestamp="1478662992683">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -434,8 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2047" column="15" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
-      <jump line="908" column="0" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="44" column="10" filename="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" />
       <jump line="59" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
       <jump line="91" column="10" filename="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" />
@@ -534,13 +545,15 @@
       <jump line="178" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="14" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="182" column="1" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="47" column="0" filename="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" />
+      <jump line="15" column="30" filename="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
