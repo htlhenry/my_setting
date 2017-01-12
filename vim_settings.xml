@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1484196291157">
+      <file name="/Dummy.txt" timestamp="1484196488824">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1484196141274">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1484205586611">
         <mark key="s" line="226" column="12" />
         <mark key="'" line="230" column="47" />
-        <mark key="[" line="232" column="59" />
-        <mark key="]" line="231" column="47" />
-        <mark key="." line="231" column="47" />
-        <mark key="^" line="231" column="47" />
+        <mark key="[" line="366" column="30" />
+        <mark key="]" line="366" column="33" />
+        <mark key="." line="366" column="33" />
+        <mark key="^" line="366" column="33" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1483432681365">
         <mark key="[" line="108" column="0" />
@@ -29,6 +29,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/scripts/GetDeviceState.py" timestamp="1484205281263" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/admin.html" timestamp="1482224177712">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -76,7 +77,7 @@
         <mark key="^" line="84" column="61" />
         <mark key="." line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1484122018989">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1484202319794">
         <mark key="'" line="476" column="33" />
         <mark key="[" line="534" column="20" />
         <mark key="]" line="534" column="58" />
@@ -89,7 +90,7 @@
         <mark key="^" line="123" column="23" />
         <mark key="." line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1484124441801">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1484205517269">
         <mark key="'" line="13" column="46" />
         <mark key="[" line="54" column="45" />
         <mark key="]" line="54" column="45" />
@@ -201,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>deploy</text>
@@ -240,7 +241,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yX2xvZy5lcnJvcigiY29ubmVjdCBhZ2VudCBlcnJvcj0+e30iLmZvcm1hdChhZ2VudCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>33</text>
       </register>
     </registers>
     <search>
@@ -276,7 +277,6 @@
         <entry>deploy</entry>
       </history-search>
       <history-cmd>
-        <entry>524</entry>
         <entry>499</entry>
         <entry>534</entry>
         <entry>500</entry>
@@ -296,6 +296,7 @@
         <entry>244</entry>
         <entry>170</entry>
         <entry>w</entry>
+        <entry>33</entry>
       </history-cmd>
       <history-expr />
       <history-input />
