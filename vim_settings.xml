@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1484298289604">
+      <file name="/Dummy.txt" timestamp="1484299788469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1484299769753">
-        <mark key="'" line="223" column="76" />
-        <mark key="[" line="369" column="31" />
-        <mark key="]" line="370" column="78" />
-        <mark key="^" line="370" column="78" />
-        <mark key="." line="370" column="78" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1484300066956">
+        <mark key="'" line="225" column="57" />
+        <mark key="[" line="370" column="80" />
+        <mark key="]" line="370" column="84" />
+        <mark key="^" line="370" column="84" />
+        <mark key="." line="370" column="84" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1483432681365">
         <mark key="[" line="108" column="0" />
@@ -79,8 +79,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="27" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="35" column="36" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="481" column="16" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="1321" column="29" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="424" column="15" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
@@ -179,6 +177,8 @@
       <jump line="237" column="34" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="339" column="24" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="223" column="76" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
+      <jump line="399" column="52" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
+      <jump line="225" column="57" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
