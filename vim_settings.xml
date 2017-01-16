@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/monitor/lb_bandwidth.html" timestamp="1484552898513" />
-      <file name="/Dummy.txt" timestamp="1484567515225">
+      <file name="/Dummy.txt" timestamp="1484567626081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,7 +38,7 @@
         <mark key="^" line="45" column="58" />
         <mark key="." line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1484567185158">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1484568482787">
         <mark key="'" line="1112" column="0" />
         <mark key="[" line="1078" column="51" />
         <mark key="]" line="1079" column="43" />
@@ -60,11 +60,12 @@
       <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/clint/textui/colored.py" timestamp="1484293895665">
         <mark key="'" line="130" column="37" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484567608830">
-        <mark key="[" line="145" column="22" />
-        <mark key="]" line="145" column="26" />
-        <mark key="." line="145" column="26" />
-        <mark key="^" line="145" column="26" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484568645758">
+        <mark key="'" line="199" column="25" />
+        <mark key="[" line="160" column="65" />
+        <mark key="]" line="160" column="47" />
+        <mark key="." line="160" column="47" />
+        <mark key="^" line="160" column="47" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1484221418813">
         <mark key="[" line="81" column="1" />
@@ -87,10 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1321" column="29" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
-      <jump line="424" column="15" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
-      <jump line="525" column="6" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
-      <jump line="182" column="22" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="296" column="55" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="327" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="245" column="26" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
@@ -187,63 +184,66 @@
       <jump line="399" column="52" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="225" column="57" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="1112" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="26" column="23" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="41" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="199" column="25" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>deploy</text>
+        <text>\$(nTd)\.html(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gUmVsZWFzZU5leHQoKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZGF0YSA9IHt9OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlbGVhc2VUYXNrSWQgPSBHZXREZXBsb3lUYXNrSWQoIiN0YWJsZV9yZWxlYXNlX3Rhc2siKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZWxlYXNlSXBMaXN0ID0gR2V0UmVsZWFzZUlwTGlzdCgiI3RhYmxlX3JlbGVhc2VfZGV2aWNlIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhWyJ0YXNrSWQiXSA9IHJlbGVhc2VUYXNrSWQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhWyJyZWxlYXNlSXBMaXN0Il0gPSByZWxlYXNlSXBMaXN0OwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghZGF0YVsidGFza0lkIl0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b2FzdHIuZXJyb3IoIuS4jeiDveiOt+WPlnRhc2tfaWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhWyJyZWxlYXNlSXBMaXN0Il0pewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvYXN0ci5lcnJvcigi5rKh5pyJ6YCJ5oup5Y+R5biD5py65ZmoIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmVsZWFzZV9zZXR0aW5ncyA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXN5bmMiOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVybCI6ICIvam9iL3JlbGVhc2UvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWV0aG9kIjogIlBPU1QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY29udGVudC10eXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnWC1SZXF1ZXN0ZWQtV2l0aCc6ICdYTUxIdHRwUmVxdWVzdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXRhIjogSlNPTi5zdHJpbmdpZnkoZGF0YSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJC5hamF4KHJlbGVhc2Vfc2V0dGluZ3MpLmRvbmUoZnVuY3Rpb24gKHJlcCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJzdWNjZXNzIHJlcD0+IiwgcmVwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5mYWlsKGZ1bmN0aW9uIChyZXApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZmFpbCByZXA9PiIsIHJlcCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGFbImxhbklwIl0K</text>
+        <text encoding="base64">ICAgIHRhYmxlLnJvd3MoKS5kYXRhKCkubWFwKGZ1bmN0aW9uKCkgewogICAgICAgIAogICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBzZXR0aW5nID0gewogICAgICAgICJhc3luYyI6IHRydWUsCiAgICAgICAgImNyb3NzRG9tYWluIjogdHJ1ZSwKICAgICAgICAidXJsIjogIi8iCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhID0gdGFibGUuc2VhcmNoKHdvcmQpOwogICAgY29uc29sZS5sb2coInRhYmxlIHNlYXJjaCA9PiAiLCBkYXRhKTsKICAgIGNvbnNvbGUubG9nKGRhdGFbImxhbklwIl0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRhdGFbImxhbklwIl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciByZWZyZXNoSWQgPSBzZXRJbnRlcnZhbCh0YWJsZS5hamF4LnJlbG9hZCwgMzAwMCkgLy8gM3MK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdGF0dXMgPSBvYmpbImRldmljZW1hcmsiXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJHZXREZXZpY2VTdGF0dXMgYWpheCB0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygic0RhdGE9PiIgKyBzRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciByZWZyZXNoSWQgPSBzZXRJbnRlcnZhbCh0YWJsZS5hamF4LnJlbG9hZCwgMzAwMCkgLy8gM3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdGF0dXMgPSBvYmpbImRldmljZW1hcmsiXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>39</text>
+        <text encoding="base64">JzwsJz5zL1wkKG5UZClcLmh0bWwoLy8=</text>
       </register>
     </registers>
     <search>
-      <last-search>deploy</last-search>
+      <last-search>\$(nTd)\.html(</last-search>
       <last-offset />
-      <last-pattern>deploy</last-pattern>
-      <last-replace>rollback_log</last-replace>
-      <last-substitute>info_log</last-substitute>
+      <last-pattern>\$(nTd)\.html(</last-pattern>
+      <last-replace />
+      <last-substitute>\$(nTd)\.html(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>check-button</entry>
         <entry>3</entry>
         <entry>4</entry>
         <entry>5</entry>
@@ -263,9 +263,9 @@
         <entry>回滚成功</entry>
         <entry>info_log</entry>
         <entry>deploy</entry>
+        <entry>\$(nTd)\.html(</entry>
       </history-search>
       <history-cmd>
-        <entry>545</entry>
         <entry>321</entry>
         <entry>137</entry>
         <entry>337</entry>
@@ -285,6 +285,7 @@
         <entry>47</entry>
         <entry>48</entry>
         <entry>39</entry>
+        <entry encoding="base64">JzwsJz5zL1wkKG5UZClcLmh0bWwoLy8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
