@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/monitor/lb_bandwidth.html" timestamp="1484552898513" />
-      <file name="/Dummy.txt" timestamp="1484560659525">
+      <file name="/Dummy.txt" timestamp="1484560800014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -60,10 +60,10 @@
       <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/clint/textui/colored.py" timestamp="1484293895665">
         <mark key="'" line="130" column="37" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484560791432">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484560870840">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
         <mark key="^" line="30" column="44" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1484221418813">
@@ -189,11 +189,11 @@
       <jump line="1112" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbnRlbnQtdHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>ge</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>deploy</text>
