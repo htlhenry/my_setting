@@ -37,6 +37,7 @@
         <mark key="^" line="45" column="58" />
         <mark key="." line="45" column="58" />
       </file>
+      <file name="$USER_HOME$/data/Qcloud/qcloud/conf/config.ini" timestamp="1484645568250" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1484569419403">
         <mark key="'" line="1112" column="0" />
         <mark key="[" line="1079" column="35" />
@@ -49,6 +50,12 @@
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1483945677230">
         <mark key="'" line="233" column="9" />
+      </file>
+      <file name="$USER_HOME$/data/Qcloud/qcloud/vpc.py" timestamp="1484645850699">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="15" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1484291989371">
         <mark key="'" line="31" column="30" />
@@ -189,11 +196,11 @@
       <jump line="199" column="25" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkLmRhdGEoImFiYyIpLmRyYXcoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>\$(nTd)\.html(</text>
