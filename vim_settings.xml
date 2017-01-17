@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1484570163422">
-        <mark key="[" line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1484626121821">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -59,11 +59,11 @@
       <file name="$USER_HOME$/opt/product_project/RpcService/env/lib/python2.7/site-packages/clint/textui/colored.py" timestamp="1484293895665">
         <mark key="'" line="130" column="37" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484625916559">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484626128357">
         <mark key="'" line="200" column="25" />
-        <mark key="[" line="166" column="40" />
-        <mark key="]" line="167" column="40" />
-        <mark key="." line="167" column="40" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
         <mark key="^" line="167" column="40" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/iplist" timestamp="1484221418813">
@@ -189,128 +189,8 @@
       <jump line="199" column="25" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add 自动刷新发布状态
-
-# This is the 3rd commit message:
-
-add 自动刷新发布状态3
-
-# This is the 4th commit message:
-
-测试自动刷新1
-
-# This is the 5th commit message:
-
-测试自动刷新2
-
-# This is the 6th commit message:
-
-测试自动刷新3
-
-# This is the 7th commit message:
-
-测试自动刷新4
-
-# This is the 8th commit message:
-
-测试自动刷新5
-
-# This is the 9th commit message:
-
-测试自动刷新6
-
-# This is the 10th commit message:
-
-测试自动刷新7
-
-# This is the 11th commit message:
-
-测试自动刷新8
-
-# This is the 12th commit message:
-
-测试自动刷新9
-
-# This is the 13th commit message:
-
-测试自动刷新10
-
-# This is the 14th commit message:
-
-测试自动刷新11
-
-# This is the 15th commit message:
-
-测试自动刷新12
-
-# This is the 16th commit message:
-
-测试自动刷新13
-
-# This is the 17th commit message:
-
-测试自动刷新14
-
-# This is the 18th commit message:
-
-测试自动刷新14
-
-# This is the 19th commit message:
-
-测试自动刷新15
-
-# This is the 20th commit message:
-
-测试自动刷新15
-
-# This is the 21st commit message:
-
-测试自动刷新15
-
-# This is the 22nd commit message:
-
-测试自动刷新15
-
-# This is the 23rd commit message:
-
-测试自动刷新15
-
-# This is the 24th commit message:
-
-测试自动刷新15
-
-# This is the 25th commit message:
-
-测试自动刷新15
-
-# This is the 26th commit message:
-
-测试自动刷新15
-
-# This is the 27th commit message:
-
-测试自动刷新15
-
-# This is the 28th commit message:
-
-测试自动刷新15
-
-# This is the 29th commit message:
-
-测试自动刷新15
-
-# This is the 30th commit message:
-
-测试自动刷新15
-
-# This is the 31st commit message:
-
-测试自动刷新15
-
-# This is the 32nd commit message:
-
-测试自动刷新1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkLmRhdGEoImFiYyIpLmRyYXcoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -321,7 +201,10 @@ add 自动刷新发布状态3
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gUmVsZWFzZU5leHQoKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgZGF0YSA9IHt9OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlbGVhc2VUYXNrSWQgPSBHZXREZXBsb3lUYXNrSWQoIiN0YWJsZV9yZWxlYXNlX3Rhc2siKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZWxlYXNlSXBMaXN0ID0gR2V0UmVsZWFzZUlwTGlzdCgiI3RhYmxlX3JlbGVhc2VfZGV2aWNlIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhWyJ0YXNrSWQiXSA9IHJlbGVhc2VUYXNrSWQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhWyJyZWxlYXNlSXBMaXN0Il0gPSByZWxlYXNlSXBMaXN0OwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghZGF0YVsidGFza0lkIl0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b2FzdHIuZXJyb3IoIuS4jeiDveiOt+WPlnRhc2tfaWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFkYXRhWyJyZWxlYXNlSXBMaXN0Il0pewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvYXN0ci5lcnJvcigi5rKh5pyJ6YCJ5oup5Y+R5biD5py65ZmoIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmVsZWFzZV9zZXR0aW5ncyA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiYXN5bmMiOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVybCI6ICIvam9iL3JlbGVhc2UvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibWV0aG9kIjogIlBPU1QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY29udGVudC10eXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnWC1SZXF1ZXN0ZWQtV2l0aCc6ICdYTUxIdHRwUmVxdWVzdCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjYWNoZS1jb250cm9sIjogIm5vLWNhY2hlIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJkYXRhIjogSlNPTi5zdHJpbmdpZnkoZGF0YSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJC5hamF4KHJlbGVhc2Vfc2V0dGluZ3MpLmRvbmUoZnVuY3Rpb24gKHJlcCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJzdWNjZXNzIHJlcD0+IiwgcmVwKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5mYWlsKGZ1bmN0aW9uIChyZXApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZmFpbCByZXA9PiIsIHJlcCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkLmRhdGEoImFiYyIpLmRyYXcoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>add 自动刷新发布状态
 
 # This is the 3rd commit message:
@@ -444,29 +327,26 @@ add 自动刷新发布状态3
 
 测试自动刷新1</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkLmRyYXcoKTtkZGRkZGQK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFibGUucm93cygpLmRyYXcoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkWzAsIDJdZGQuZHJhdygpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRhYmxlLnJvd3MoKS5kYXRhKCkubWFwKGZ1bmN0aW9uKCkgewogICAgICAgIAogICAgfSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhciBzZXR0aW5nID0gewogICAgICAgICJhc3luYyI6IHRydWUsCiAgICAgICAgImNyb3NzRG9tYWluIjogdHJ1ZSwKICAgICAgICAidXJsIjogIi8iCiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhciBkYXRhID0gdGFibGUuc2VhcmNoKHdvcmQpOwogICAgY29uc29sZS5sb2coInRhYmxlIHNlYXJjaCA9PiAiLCBkYXRhKTsKICAgIGNvbnNvbGUubG9nKGRhdGFbImxhbklwIl0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGFbImxhbklwIl0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGRhdGFbImxhbklwIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
