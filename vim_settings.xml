@@ -46,6 +46,13 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" timestamp="1484821632760">
+        <mark key="'" line="52" column="17" />
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="41" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/http_test/main.go" timestamp="1484713895843">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="18" />
@@ -69,6 +76,7 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/static/js/vip_bandwidth.js" timestamp="1484819563522" />
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_api_judge_user_authority.py" timestamp="1478656282734">
         <mark key="'" line="156" column="8" />
         <mark key="[" line="72" column="0" />
@@ -325,6 +333,7 @@
         <mark key="." line="45" column="60" />
         <mark key="^" line="45" column="60" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/offline_sum/offline_index.html" timestamp="1484820894939" />
       <file name="$USER_HOME$/GoProject/src/sorter/main.go" timestamp="1483890392937">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -582,9 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
       <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -682,99 +688,65 @@
       <jump line="1361" column="8" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="129" column="115" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="88" column="41" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="40" column="41" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
+      <jump line="33" column="63" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
+      <jump line="52" column="17" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>man(</text>
+        <text>submit_offlineTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTQgY29udHJvbC1sYWJlbCIgZm9yPSJlbmRUaW1lIj7nu5PmnZ/ml6XmnJ88L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJlbmRUaW1lIiBuYW1lPSJlbmRUaW1lIiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LW1kIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGlkPSJlbmRUaW1lLXNwYW4iIGNsYXNzPSJoZWxwLWJsb2NrIj7or7fpgInmi6nnu5PmnZ/ml6XmnJ88L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="4">
-        <text># This is the 2nd commit message:
-
-add table 自动刷新1
-
-# This is the 3rd commit message:
-
-add table 自动刷新2
-
-# This is the 4th commit message:
-
-add table 自动刷新3
-
-# This is the 5th commit message:
-
-add table 自动刷新5
-
-# This is the 6th commit message:
-
-add table 自动刷新6
-
-# This is the 7th commit message:
-
-add table 自动刷新7
-
-# This is the 8th commit message:
-
-add table 自动刷新8
-
-# This is the 9th commit message:
-
-add table 自动刷新9
-
-# This is the 10th commit message:
-
-add table 自动刷新10</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcnZhbCA9IG51bGw7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">eyMgICAgICAgIHRhc2tfdGFibGUuYWpheC5yZWxvYWQoKTsjfQp7IyAgICAgICAgY29uc29sZS5sb2coInRhc2tfdGFibGU9PiIsIHRhc2tfdGFibGUpOyN9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHNldEludGVydmFsKHRhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHNldEludGVydmFsKHRhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiMgVGhpcyBpcyB0aGUgMm5kIGNvbW1pdCBtZXNzYWdlOgoKYWRkIGFjdGlvbiDmk43kvZwyCgojIFRoaXMgaXMgdGhlIDNyZCBjb21taXQgbWVzc2FnZToKCmFkZCBhY3Rpb24g5pON5L2cMwoKIyBUaGlzIGlzIHRoZSA0dGggY29tbWl0IG1lc3NhZ2U6CgphZGQgYWN0aW9uIOaTjeS9nDQ=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC00IGNvbnRyb2wtbGFiZWwiIGZvcj0ic3RhcnRUaW1lIj48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJzdGFydFRpbWUiIG5hbWU9InN0YXJ0VGltZSIgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IiIgY2xhc3M9ImZvcm0tY29udHJvbCBpbnB1dC1tZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSIiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBpZD0ic3RhcnRUaW1lLXNwYW4iIGNsYXNzPSJoZWxwLWJsb2NrIj7or7fpgInmi6nlvIDlp4vml6XmnJ88L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gVGV4dCBpbnB1dC0tPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2xkU3RhdHVzW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLmNoaWxkTm9kZXNbNV0uaW5uZXJIVE1MID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gRm9ybSBOYW1lIC0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3N1Ym1pdF9vZmZsaW5lVGltZS9zdWJtaXRVcGRhdGVCYW5kd2lkdGgvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>man(</last-search>
+      <last-search>submit_offlineTime</last-search>
       <last-offset />
-      <last-pattern>man(</last-pattern>
-      <last-replace>float32</last-replace>
-      <last-substitute>int</last-substitute>
+      <last-pattern>submit_offlineTime</last-pattern>
+      <last-replace>submitUpdateBandwidth</last-replace>
+      <last-substitute>submit_offlineTime</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
-        <entry>4</entry>
-        <entry>5</entry>
         <entry>datatables</entry>
         <entry>res</entry>
         <entry>test_top_tag</entry>
@@ -792,11 +764,11 @@ add table 自动刷新10</text>
         <entry>info_log</entry>
         <entry>deploy</entry>
         <entry>\$(nTd)\.html(</entry>
+        <entry>textarea</entry>
+        <entry>endTime</entry>
+        <entry>submit_offlineTime</entry>
       </history-search>
       <history-cmd>
-        <entry>321</entry>
-        <entry>137</entry>
-        <entry>337</entry>
         <entry>413</entry>
         <entry encoding="base64">JzwsJz5zL+WPkeW4g+Wksei0pS/mnKrlm57mu5ov</entry>
         <entry encoding="base64">JzwsJz5zL+acquWbnua7mi/lm57mu5rnrYnlvoXkuK0v</entry>
@@ -814,6 +786,9 @@ add table 自动刷新10</text>
         <entry>39</entry>
         <entry encoding="base64">JzwsJz5zL1wkKG5UZClcLmh0bWwoLy8=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3RleHRhcmVhL2lwTGlzdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2VuZFRpbWUvYmFuZHdpZHRoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3N1Ym1pdF9vZmZsaW5lVGltZS9zdWJtaXRVcGRhdGVCYW5kd2lkdGgvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
