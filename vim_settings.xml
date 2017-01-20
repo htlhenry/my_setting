@@ -403,7 +403,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484893596879">
+      <file name="/Dummy.txt" timestamp="1484894159431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -647,11 +647,11 @@
       <jump line="119" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciB0YWJsZSA9ICQoIiN0YWJsZV9yZWxlYXNlX2RldmljZSIpLkRhdGFUYWJsZSgpOwogICAgdGFibGUuYWpheC5yZWxvYWQoKTsKICAgIC8vIGludGVydmFsID0gc2V0SW50ZXJ2YWwoUmVsb2FkSW50ZXJ2YWwsIDMwMDApOwogICAgLy8g5Zue5ruaaW50ZXJ2YWwKICAgIHZhciB0YXNrX3RhYmxlID0gJCgiI3RhYmxlX3JlbGVhc2VfdGFzayIpLkRhdGFUYWJsZSgpOwogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrX3RhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>feature_autorefrash</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>feature_autorefrash</text>
       </register>
       <register name="/" type="4">
         <text>submit_offlineTime</text>
