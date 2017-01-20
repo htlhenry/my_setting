@@ -162,13 +162,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484828658577">
-        <mark key="a" line="636" column="22" />
-        <mark key="'" line="197" column="32" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="30" />
-        <mark key="." line="198" column="30" />
-        <mark key="^" line="198" column="30" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484904509177">
+        <mark key="a" line="638" column="22" />
+        <mark key="'" line="199" column="30" />
+        <mark key="[" line="200" column="17" />
+        <mark key="]" line="200" column="27" />
+        <mark key="." line="200" column="27" />
+        <mark key="^" line="200" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -471,6 +471,13 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="20" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/hello/jsonTest/jsonTestOne.go" timestamp="1484904544188">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/master_config.yml" timestamp="1479275813271">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="1" column="0" />
@@ -527,8 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="17" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SimpleXMLRPCServer.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/utils/logger.py" />
       <jump line="39" column="21" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="81" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="4" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
@@ -627,13 +632,15 @@
       <jump line="68" column="26" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
       <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
       <jump line="72" column="36" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
+      <jump line="198" column="30" filename="$USER_HOME$/GoProject/src/hello/main.go" />
+      <jump line="29" column="14" filename="$USER_HOME$/GoProject/src/hello/jsonTest/jsonTestOne.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>G</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -669,7 +676,7 @@
         <text encoding="base64">CQlmbXQuUHJpbnRsbigiUmVhZCB2YWx1ZXM6IiwgdmFsdWVzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>36</text>
       </register>
     </registers>
     <search>
@@ -701,6 +708,8 @@
         <entry>6</entry>
         <entry>230</entry>
         <entry>w</entry>
+        <entry>19</entry>
+        <entry>36</entry>
       </history-cmd>
       <history-expr />
       <history-input />
