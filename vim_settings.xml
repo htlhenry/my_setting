@@ -196,11 +196,10 @@
         <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1484824825863">
-        <mark key="'" line="129" column="115" />
-        <mark key="[" line="1425" column="0" />
-        <mark key="]" line="1425" column="19" />
-        <mark key="." line="1425" column="19" />
-        <mark key="^" line="1425" column="19" />
+        <mark key="[" line="1475" column="0" />
+        <mark key="]" line="1475" column="19" />
+        <mark key="." line="1475" column="19" />
+        <mark key="^" line="1475" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/admin_op.js" timestamp="1484807516858">
         <mark key="'" line="307" column="40" />
@@ -404,7 +403,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484884832829">
+      <file name="/Dummy.txt" timestamp="1484885081474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -648,11 +647,11 @@
       <jump line="52" column="17" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgbGFuSXAgIiwgb2JqWyJsYW5JcCJdKTsKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgZGV2aWNlbWFyayAiLCBvYmpbImRldmljZW1hcmsiXSk7CiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygiMTI3LjAuMC4xIHN0YXR1cyIsIHN0YXR1cyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>feature_autorefrash</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>feature_autorefrash</text>
       </register>
       <register name="/" type="4">
         <text>submit_offlineTime</text>
