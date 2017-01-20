@@ -162,13 +162,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484909638109">
-        <mark key="a" line="640" column="22" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484911906953">
+        <mark key="a" line="641" column="22" />
         <mark key="'" line="199" column="30" />
-        <mark key="[" line="201" column="36" />
-        <mark key="]" line="202" column="35" />
-        <mark key="." line="202" column="35" />
-        <mark key="^" line="202" column="35" />
+        <mark key="[" line="202" column="38" />
+        <mark key="]" line="203" column="35" />
+        <mark key="." line="203" column="35" />
+        <mark key="^" line="203" column="35" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -512,12 +512,12 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484909869367">
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484912028913">
         <mark key="'" line="88" column="0" />
-        <mark key="[" line="97" column="29" />
-        <mark key="]" line="101" column="26" />
-        <mark key="." line="101" column="26" />
-        <mark key="^" line="101" column="26" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="146" column="50" />
+        <mark key="." line="146" column="50" />
+        <mark key="^" line="146" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1478656346344">
         <mark key="'" line="42" column="22" />
@@ -637,8 +637,8 @@
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -650,7 +650,7 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -659,22 +659,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFbMV0gPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFbMF0gPSAgMQo=</text>
+        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdyb3VwIDo9IG1ha2UoVGVzdFBvaW50e25hbWV9KQo=</text>
+        <text encoding="base64">CWFbMV0gPSAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWFbMF0gPSAgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiUmVhZCB2YWx1ZXM6IiwgdmFsdWVzKQo=</text>
+        <text encoding="base64">CWdyb3VwIDo9IG1ha2UoVGVzdFBvaW50e25hbWV9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
