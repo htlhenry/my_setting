@@ -362,12 +362,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484884824325">
-        <mark key="'" line="85" column="41" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="170" column="19" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1484893595534">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="28" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
@@ -403,7 +403,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484885081474">
+      <file name="/Dummy.txt" timestamp="1484893589190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="24" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -645,13 +644,14 @@
       <jump line="40" column="41" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
       <jump line="33" column="63" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
       <jump line="52" column="17" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/templates/common_api/index.html" />
+      <jump line="119" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feature_autorefrash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciB0YWJsZSA9ICQoIiN0YWJsZV9yZWxlYXNlX2RldmljZSIpLkRhdGFUYWJsZSgpOwogICAgdGFibGUuYWpheC5yZWxvYWQoKTsKICAgIC8vIGludGVydmFsID0gc2V0SW50ZXJ2YWwoUmVsb2FkSW50ZXJ2YWwsIDMwMDApOwogICAgLy8g5Zue5ruaaW50ZXJ2YWwKICAgIHZhciB0YXNrX3RhYmxlID0gJCgiI3RhYmxlX3JlbGVhc2VfdGFzayIpLkRhdGFUYWJsZSgpOwogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrX3RhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>feature_autorefrash</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>submit_offlineTime</text>
@@ -660,31 +660,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTQgY29udHJvbC1sYWJlbCIgZm9yPSJlbmRUaW1lIj7nu5PmnZ/ml6XmnJ88L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJlbmRUaW1lIiBuYW1lPSJlbmRUaW1lIiB0eXBlPSJ0ZXh0IiBwbGFjZWhvbGRlcj0iIiBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LW1kIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGlkPSJlbmRUaW1lLXNwYW4iIGNsYXNzPSJoZWxwLWJsb2NrIj7or7fpgInmi6nnu5PmnZ/ml6XmnJ88L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgbGFuSXAgIiwgb2JqWyJsYW5JcCJdKTsKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgZGV2aWNlbWFyayAiLCBvYmpbImRldmljZW1hcmsiXSk7CiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygiMTI3LjAuMC4xIHN0YXR1cyIsIHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0YWJsZSA9ICQoIiN0YWJsZV9yZWxlYXNlX2RldmljZSIpLkRhdGFUYWJsZSgpOwogICAgdGFibGUuYWpheC5yZWxvYWQoKTsKICAgIC8vIGludGVydmFsID0gc2V0SW50ZXJ2YWwoUmVsb2FkSW50ZXJ2YWwsIDMwMDApOwogICAgLy8g5Zue5ruaaW50ZXJ2YWwKICAgIHZhciB0YXNrX3RhYmxlID0gJCgiI3RhYmxlX3JlbGVhc2VfdGFzayIpLkRhdGFUYWJsZSgpOwogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrX3RhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGFnPT09PT09IiArIHRhZyk7Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coInJlbGVhc2VTdGF0ZSA9PiIsIHJlcCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0YXNrX3RhYmxlID0gJCgiI3RhYmxlX3JlbGVhc2VfdGFzayIpLkRhdGFUYWJsZSgpOwogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrX3RhYmxlLmFqYXgucmVsb2FkLCAzMDAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygicmVsb2FkIGludGVydmFsIHN1Y2Nlc3MiLCByZXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgbGFuSXAgIiwgb2JqWyJsYW5JcCJdKTsKICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCIxMjcuMC4wLjEgZGV2aWNlbWFyayAiLCBvYmpbImRldmljZW1hcmsiXSk7CiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygiMTI3LjAuMC4xIHN0YXR1cyIsIHN0YXR1cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFibGUucm93cygpLmRhdGEoKS5tYXAoZnVuY3Rpb24gKGQpIHsKICAgICAgICAgICAgLy8gICAgIGlmIChkWyJsYW5JcCJdPT09b2JqWyJsYW5JcCJdKXsKICAgICAgICAgICAgLy8gICAgICAgICBkWyJkZXZpY2VtYXJrIl0gPSBvYmpbImRldmljZW1hcmsiXTsKICAgICAgICAgICAgLy8gICAgICAgICAvLyBjb25zb2xlLmxvZygidGFibGUgcm93cyBkYXRhIiwgZCk7CiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGFnPT09PT09IiArIHRhZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coInJlbGVhc2VTdGF0ZSA9PiIsIHJlcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygicmVzU3RhdGU9PiIsIHJlc1N0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygicmVsb2FkIGludGVydmFsIHN1Y2Nlc3MiLCByZXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygiaW50ZXJ2YWwgPT4iLCBpbnRlcnZhbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGFibGUucm93cygpLmRhdGEoKS5tYXAoZnVuY3Rpb24gKGQpIHsKICAgICAgICAgICAgLy8gICAgIGlmIChkWyJsYW5JcCJdPT09b2JqWyJsYW5JcCJdKXsKICAgICAgICAgICAgLy8gICAgICAgICBkWyJkZXZpY2VtYXJrIl0gPSBvYmpbImRldmljZW1hcmsiXTsKICAgICAgICAgICAgLy8gICAgICAgICAvLyBjb25zb2xlLmxvZygidGFibGUgcm93cyBkYXRhIiwgZCk7CiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygib2xkU3RhdHVzPT4iLCBvbGRTdGF0dXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N1Ym1pdF9vZmZsaW5lVGltZS9zdWJtaXRVcGRhdGVCYW5kd2lkdGgvZw==</text>
