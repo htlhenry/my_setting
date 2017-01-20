@@ -162,13 +162,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484907596787">
-        <mark key="a" line="639" column="22" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484909638109">
+        <mark key="a" line="640" column="22" />
         <mark key="'" line="199" column="30" />
-        <mark key="[" line="200" column="30" />
-        <mark key="]" line="201" column="33" />
-        <mark key="." line="201" column="33" />
-        <mark key="^" line="201" column="33" />
+        <mark key="[" line="201" column="36" />
+        <mark key="]" line="202" column="35" />
+        <mark key="." line="202" column="35" />
+        <mark key="^" line="202" column="35" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -512,11 +512,12 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484907642952">
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="25" />
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484909869367">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="97" column="29" />
+        <mark key="]" line="101" column="26" />
+        <mark key="." line="101" column="26" />
+        <mark key="^" line="101" column="26" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1478656346344">
         <mark key="'" line="42" column="22" />
@@ -534,9 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
-      <jump line="77" column="20" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="8" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
@@ -634,13 +632,16 @@
       <jump line="198" column="30" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="29" column="14" filename="$USER_HOME$/GoProject/src/hello/jsonTest/jsonTestOne.go" />
       <jump line="46" column="1" filename="$USER_HOME$/GoProject/src/hello/jsonTest/jsonTestOne.go" />
+      <jump line="97" column="30" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
