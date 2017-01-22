@@ -168,13 +168,13 @@
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484911906953">
-        <mark key="a" line="641" column="22" />
-        <mark key="'" line="199" column="30" />
-        <mark key="[" line="202" column="38" />
-        <mark key="]" line="203" column="35" />
-        <mark key="." line="203" column="35" />
-        <mark key="^" line="203" column="35" />
+      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1485075295805">
+        <mark key="a" line="642" column="22" />
+        <mark key="'" line="203" column="35" />
+        <mark key="[" line="203" column="38" />
+        <mark key="]" line="204" column="31" />
+        <mark key="." line="204" column="31" />
+        <mark key="^" line="204" column="31" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -183,12 +183,12 @@
         <mark key="." line="635" column="0" />
         <mark key="^" line="587" column="28" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1484308565854">
+      <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1485075263633">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="45" column="55" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="13" />
+        <mark key="[" line="59" column="35" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/config.py" timestamp="1478233729698">
         <mark key="[" line="39" column="0" />
@@ -541,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
@@ -641,13 +640,14 @@
       <jump line="97" column="30" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="2" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
+      <jump line="203" column="35" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>V</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
