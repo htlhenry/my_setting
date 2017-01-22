@@ -41,6 +41,12 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="56" column="43" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/initpkg_demo/initpkg_demo.go" timestamp="1485068116272">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/change.js" timestamp="1476864361638">
         <mark key="'" line="161" column="13" />
         <mark key="[" line="45" column="60" />
@@ -512,7 +518,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484912028913">
+      <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484912030621">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="146" column="50" />
@@ -637,11 +643,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -650,13 +656,13 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -665,16 +671,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFbMV0gPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFbMF0gPSAgMQo=</text>
+        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdyb3VwIDo9IG1ha2UoVGVzdFBvaW50e25hbWV9KQo=</text>
+        <text encoding="base64">CWFbMV0gPSAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
