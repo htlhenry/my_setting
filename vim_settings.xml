@@ -197,11 +197,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1485082742911">
-        <mark key="[" line="1138" column="32" />
-        <mark key="]" line="1138" column="39" />
-        <mark key="." line="1138" column="39" />
-        <mark key="^" line="1138" column="39" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1485084773925">
+        <mark key="'" line="1358" column="16" />
+        <mark key="[" line="1480" column="0" />
+        <mark key="]" line="1480" column="0" />
+        <mark key="." line="1480" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/simplehttp/simple2.go" timestamp="1484900751969">
         <mark key="[" line="29" column="1" />
@@ -346,6 +346,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485084935143">
+        <mark key="[" line="108" column="42" />
+        <mark key="]" line="108" column="50" />
+        <mark key="^" line="108" column="50" />
+        <mark key="." line="108" column="50" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
@@ -541,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
@@ -641,10 +646,11 @@
       <jump line="97" column="30" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="2" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
+      <jump line="1358" column="16" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KCkK</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -656,16 +662,16 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNvbmZpZ19idXR0b24gPSBgPGJ1dHRvbiBjbGFzcz0nYnRuIGJ0bi1wcmltYXJ5JyBpZD0ncmVsZWFzZV9uZXh0JyBvbmNsaWNrPSJSZWxlYXNlTmV4dCgpIj7lj5HluIM8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSdidG4gYnRuLWRhbmdlcicgaWQ9J3JvbGxiYWNrX3Rhc2snIG9uY2xpY2s9IlJvbGxiYWNrVGFzaygpIj7lm57mu5o8L2J1dHRvbj5gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNvbmZpZ19idXR0b24gPSBgPGJ1dHRvbiBjbGFzcz0nYnRuIGJ0bi1wcmltYXJ5JyBpZD0ncmVsZWFzZV9uZXh0JyBvbmNsaWNrPSJSZWxlYXNlTmV4dCgpIj7lj5HluIM8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSdidG4gYnRuLWRhbmdlcicgaWQ9J3JvbGxiYWNrX3Rhc2snIG9uY2xpY2s9IlJvbGxiYWNrVGFzaygpIj7lm57mu5o8L2J1dHRvbj5gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBUZXN0TGVuZXIgaW50ZXJmYWNlIHsKCUxlbu+8iO+8iSBpbnQKfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -677,10 +683,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFbMV0gPSAyCg==</text>
+        <text encoding="base64">CWFwcGVuZChhLCAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1135</text>
