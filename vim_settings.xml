@@ -348,11 +348,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485156451721">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485156708899">
         <mark key="'" line="160" column="17" />
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="37" column="53" />
-        <mark key="." line="37" column="53" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="48" column="9" />
+        <mark key="." line="43" column="0" />
         <mark key="^" line="37" column="53" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
@@ -394,7 +394,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485156240479">
+      <file name="/Dummy.txt" timestamp="1485156462059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -651,8 +651,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdWRnZSA9PiIsIGp1ZGdlKTsKICAgIGlmKGZhbHNlIGluIGp1ZGdlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -664,31 +664,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdWRnZSA9PiIsIGp1ZGdlKTsKICAgIGlmKGZhbHNlIGluIGp1ZGdlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoVGFza01hcmsoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXR1cz09PTEwMDA0IG9yIHN0YXR1cz09PTEwMDA1Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWZyZXNoVGFza01hcmsoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coInN0YXR1cz09PTEwMDA0IG9yIHN0YXR1cz09PTEwMDA1Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXM7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG9ialsibGFuSXAiXT09PWlwKXsKICAgICAgICAgICAgICAgIHN0YXR1cyA9IG9ialsiZGV2aWNlbWFyayJdOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIHZhciBzZXR0aW5ncyA9IHsKICAgICAgICAKICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBlbmQocmVsZWFzZU5vd0lwLCBmaXJzdF9kZXZpY2VfZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1135</text>
