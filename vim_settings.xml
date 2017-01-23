@@ -347,8 +347,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485084935143">
-        <mark key="[" line="108" column="42" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485151654505">
+        <mark key="'" line="143" column="17" />
+        <mark key="[" line="282" column="1" />
         <mark key="]" line="108" column="50" />
         <mark key="^" line="108" column="50" />
         <mark key="." line="108" column="50" />
@@ -392,7 +393,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479356052467">
+      <file name="/Dummy.txt" timestamp="1485085007389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -547,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="7" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
       <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -647,13 +647,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="1358" column="16" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="143" column="17" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KCkK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
