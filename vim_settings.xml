@@ -394,6 +394,11 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1485164022329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceFive.go" timestamp="1483180742863">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="19" column="1" />
@@ -647,10 +652,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgojIFRoaXMgaXMgdGhlIDE0dGggY29tbWl0IG1lc3NhZ2U6Cgp0ZXN0IGRlcGxveSBhY3Rpb24gMTIKCiMgVGhpcyBpcyB0aGUgMTV0aCBjb21taXQgbWVzc2FnZToKCnRlc3QgZGVwbG95IGFjdGlvbiAxMwoKIyBUaGlzIGlzIHRoZSAxNnRoIGNvbW1pdCBtZXNzYWdlOgoKdGVzdCBkZXBsb3kgYWN0aW9uIDE0</text>
+        <text>feature_autorefrash</text>
       </register>
       <register name="-" type="4">
-        <text>》</text>
+        <text>feature_autorefrash</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
