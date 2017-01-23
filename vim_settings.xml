@@ -348,12 +348,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485156708899">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485156911839">
         <mark key="'" line="160" column="17" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="48" column="9" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="37" column="53" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
@@ -394,7 +394,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485156462059">
+      <file name="/Dummy.txt" timestamp="1485156713015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -651,11 +651,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdWRnZSA9PiIsIGp1ZGdlKTsKICAgIGlmKGZhbHNlIGluIGp1ZGdlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -691,7 +691,7 @@
         <text encoding="base64">ICAgIHZhciBzZXR0aW5ncyA9IHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>1135</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -724,8 +724,8 @@
         <entry>230</entry>
         <entry>19</entry>
         <entry>36</entry>
-        <entry>w</entry>
         <entry>1135</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
