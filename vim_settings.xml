@@ -197,12 +197,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1485157119226">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1485162104877">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1417" column="43" />
-        <mark key="]" line="1417" column="54" />
-        <mark key="^" line="1417" column="54" />
-        <mark key="." line="1417" column="54" />
+        <mark key="[" line="1137" column="40" />
+        <mark key="]" line="1139" column="57" />
+        <mark key="^" line="1139" column="57" />
+        <mark key="." line="1139" column="57" />
       </file>
       <file name="$USER_HOME$/GoProject/src/simplehttp/simple2.go" timestamp="1484900751969">
         <mark key="[" line="29" column="1" />
@@ -348,12 +348,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485160990683">
-        <mark key="'" line="160" column="17" />
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="42" />
-        <mark key="." line="62" column="42" />
-        <mark key="^" line="62" column="42" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1485162027618">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="76" column="91" />
+        <mark key="]" line="76" column="92" />
+        <mark key="." line="76" column="92" />
+        <mark key="^" line="76" column="92" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
@@ -549,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="24" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -649,57 +648,58 @@
       <jump line="143" column="17" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="1417" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="66" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>man(</text>
+        <text>res</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBzZXR0aW5nID0gewogICAgICAgICJhc3luYyI6IGZhbHNlLAogICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgInVybCI6ICIvdGFzay9kZXZpY2UvZ2V0LyIsCiAgICAgICAgIm1ldGhvZCI6ICJHRVQiLAogICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAiY2FjaGUtY29udHJvbCI6ICJuby1jYWNoZSIsCiAgICAgICAgfSwKICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgInRhc2tpZCI6IHRhc2tJZAogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFsc2Ugbm90IGluIGp1ZGdlPyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJsYW5JcCAiLCBvYmpbImxhbklwIl0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFsc2UgaW4ganVkZ2U/Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJpcCAiLCByZWxlYXNlTm93SXBbaXBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCIgaW4ganVkZ2UpIHsKICAgICAgICBjb25zb2xlLmxvZygiZmFsc2UgaW4ganVkZ2U/Iik7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKCJmYWxzZSBub3QgaW4ganVkZ2U/Iik7CiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGV2aWNlbWFyaz0+Iiwgc3RhdHVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygianVkZ2UgPT4iLCBqdWRnZSk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzZXR0aW5nID0gewogICAgICAgICJhc3luYyI6IGZhbHNlLAogICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgInVybCI6ICIvdGFzay9kZXZpY2UvZ2V0LyIsCiAgICAgICAgIm1ldGhvZCI6ICJHRVQiLAogICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAiY2FjaGUtY29udHJvbCI6ICJuby1jYWNoZSIsCiAgICAgICAgfSwKICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgInRhc2tpZCI6IHRhc2tJZAogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihmYWxzZSBpbiBqdWRnZSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFsc2Ugbm90IGluIGp1ZGdlPyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVsZWFzZU5vd0lwICIsIHJlbGVhc2VOb3dJcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFsc2UgaW4ganVkZ2U/Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdWRnZSA9PiIsIGp1ZGdlKTsKICAgIGlmKGZhbHNlIGluIGp1ZGdlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmKCIgaW4ganVkZ2UpIHsKICAgICAgICBjb25zb2xlLmxvZygiZmFsc2UgaW4ganVkZ2U/Iik7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKCJmYWxzZSBub3QgaW4ganVkZ2U/Iik7CiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygianVkZ2UgPT4iLCBqdWRnZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Jlcy9yZXAv</text>
       </register>
     </registers>
     <search>
-      <last-search>man(</last-search>
+      <last-search>res</last-search>
       <last-offset />
-      <last-pattern>man(</last-pattern>
-      <last-replace>float32</last-replace>
-      <last-substitute>int</last-substitute>
+      <last-pattern>res</last-pattern>
+      <last-replace>rep</last-replace>
+      <last-substitute>res</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -709,6 +709,7 @@
         <entry>creat</entry>
         <entry>int</entry>
         <entry>man(</entry>
+        <entry>res</entry>
       </history-search>
       <history-cmd>
         <entry>179</entry>
@@ -726,6 +727,7 @@
         <entry>36</entry>
         <entry>1135</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlcy9yZXAv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
