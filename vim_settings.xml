@@ -317,6 +317,12 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/command_line/test.py" timestamp="1485242682147">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="11" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/test_pkg/pg.go" timestamp="1483961874901">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="8" column="48" />
@@ -658,10 +664,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>feature_autorefrash</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>feature_autorefrash</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -669,10 +675,31 @@
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlmIG5vb24gPT0gIkFNIjoKICAgICAgICBoaCA9IGludChoaCkgLSAxMgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aWYgbm9vbiA9PSAiUE0iOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgbm9vbiA9PSAiQU0iOgogICAgaWYgaGggPT0gIiIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgdGltZVtsZW4odGltZSkgLSAyOl0gPT0gIkFNIjoKICAgIGlmIGhWCiAgICAgICAgb3V0X3B1dCArPSB0aW1lWzoyXSArIDEyIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAhL2Jpbi9weXRob24K</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CgojIFRoaXMgaXMgdGhlIDE0dGggY29tbWl0IG1lc3NhZ2U6Cgp0ZXN0IGRlcGxveSBhY3Rpb24gMTIKCiMgVGhpcyBpcyB0aGUgMTV0aCBjb21taXQgbWVzc2FnZToKCnRlc3QgZGVwbG95IGFjdGlvbiAxMwoKIyBUaGlzIGlzIHRoZSAxNnRoIGNvbW1pdCBtZXNzYWdlOgoKdGVzdCBkZXBsb3kgYWN0aW9uIDE0</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text># This is the 2nd commit message:
 
 test deploy action 1
@@ -720,27 +747,6 @@ test deploy action 10
 # This is the 13th commit message:
 
 test deploy action 11</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IyAgICAgICAgICAgICAgICAgICAgdmFyIHN0YXR1cyA9IEdldEZpcnN0RGV2aWNlU3RhdHVzKCIjdGFibGVfcmVsZWFzZV9kZXZpY2UiKVsiZGV2aWNlbWFyayJdI30K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICAgICAgICB2YXIgY29uZmlnX2J1dHRvbiA9IGA8YnV0dG9uIGNsYXNzPSdidG4gYnRuLXByaW1hcnknIGlkPSdyZWxlYXNlX25leHQnIG9uY2xpY2s9IlJlbGVhc2VOZXh0KCkiPuWPkeW4gzwvYnV0dG9uPiN9CnsjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSdidG4gYnRuLWRhbmdlcicgaWQ9J3JvbGxiYWNrX3Rhc2snIG9uY2xpY2s9IlJvbGxiYWNrVGFzaygpIj7lm57mu5o8L2J1dHRvbj5gOyN9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyIGRldmljZUdldFNldCA9IHsKICAgICJhc3luYyI6IGZhbHNlLAogICAgImNyb3NzRG9tYWluIjogdHJ1ZSwKICAgICJ1cmwiOiAiL3Rhc2svZGV2aWNlL2dldC8iLAogICAgIm1ldGhvZCI6ICJHRVQiLAogICAgImhlYWRlcnMiOiB7CiAgICAgICAgImNhY2hlLWNvbnRyb2wiOiAibm8tY2FjaGUiLAogICAgfSwKICAgICJkYXRhIjogewogICAgICAgICJ0YXNraWQiOiB0YXNrSWQKICAgIH0KfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJsYW5JcCAiLCBvYmpbImxhbklwIl0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJpcCAiLCByZWxlYXNlTm93SXBbaXBdKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGV2aWNlbWFyaz0+Iiwgc3RhdHVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlcy9yZXAv</text>
