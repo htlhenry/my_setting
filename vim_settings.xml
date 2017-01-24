@@ -60,6 +60,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/ranges/ranges.go" timestamp="1485250115864">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager.go" timestamp="1484301627894">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="39" column="9" />
@@ -188,11 +194,11 @@
         <mark key="." line="204" column="31" />
         <mark key="^" line="204" column="31" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/slices/slices.go" timestamp="1485248192493">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/GoProject/src/examples/slices/slices.go" timestamp="1485249413571">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/models.py" timestamp="1478152787189">
         <mark key="'" line="44" column="10" />
@@ -488,6 +494,12 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/maps/maps.go" timestamp="1485249739065">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/third_system.html" timestamp="1478256588729">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="30" column="16" />
@@ -662,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -701,7 +713,7 @@
         <text encoding="base64">CWFbMV0gPSAyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>40</text>
       </register>
     </registers>
     <search>
@@ -736,6 +748,7 @@
         <entry>36</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>40</entry>
       </history-cmd>
       <history-expr />
       <history-input />
