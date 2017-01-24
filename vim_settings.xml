@@ -277,6 +277,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/data/Qcloud/qcloud/src/QcloudApi/common/sign.py" timestamp="1485245724620">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_get_authority.py" timestamp="1476348066381">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="24" />
@@ -317,7 +322,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/command_line/test.py" timestamp="1485243414057">
+      <file name="$USER_HOME$/PycharmProjects/command_line/test.py" timestamp="1485243428783">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
@@ -406,7 +411,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485229501353">
+      <file name="/Dummy.txt" timestamp="1485245643603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -663,8 +668,8 @@
       <jump line="73" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgicGFyYW1zIHZhbHVlOiB7fSIuZm9ybWF0KHBhcmFtcykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -676,77 +681,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIG5vb24gPT0gIkFNIjoKICAgICAgICBoaCA9IGludChoaCkgLSAxMgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicGFyYW1zIHZhbHVlOiB7fSIuZm9ybWF0KHBhcmFtcykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgbm9vbiA9PSAiUE0iOgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vb24gPT0gIkFNIjoKICAgICAgICBoaCA9IGludChoaCkgLSAxMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgbm9vbiA9PSAiQU0iOgogICAgaWYgaGggPT0gIiIK</text>
+        <text encoding="base64">aWYgbm9vbiA9PSAiUE0iOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgdGltZVtsZW4odGltZSkgLSAyOl0gPT0gIkFNIjoKICAgIGlmIGhWCiAgICAgICAgb3V0X3B1dCArPSB0aW1lWzoyXSArIDEyIAo=</text>
+        <text encoding="base64">aWYgbm9vbiA9PSAiQU0iOgogICAgaWYgaGggPT0gIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgdGltZVtsZW4odGltZSkgLSAyOl0gPT0gIkFNIjoKICAgIGlmIGhWCiAgICAgICAgb3V0X3B1dCArPSB0aW1lWzoyXSArIDEyIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyAhL2Jpbi9weXRob24K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgojIFRoaXMgaXMgdGhlIDE0dGggY29tbWl0IG1lc3NhZ2U6Cgp0ZXN0IGRlcGxveSBhY3Rpb24gMTIKCiMgVGhpcyBpcyB0aGUgMTV0aCBjb21taXQgbWVzc2FnZToKCnRlc3QgZGVwbG95IGFjdGlvbiAxMwoKIyBUaGlzIGlzIHRoZSAxNnRoIGNvbW1pdCBtZXNzYWdlOgoKdGVzdCBkZXBsb3kgYWN0aW9uIDE0</text>
-      </register>
       <register name="9" type="4">
-        <text># This is the 2nd commit message:
-
-test deploy action 1
-
-# This is the 3rd commit message:
-
-test deploy action 2
-
-# This is the 4th commit message:
-
-test deploy action 3
-
-# This is the 5th commit message:
-
-test deploy action 4
-
-# This is the 6th commit message:
-
-test deploy action 5
-
-# This is the 7th commit message:
-
-test deploy action 6
-
-# This is the 8th commit message:
-
-test deploy action 7
-
-# This is the 9th commit message:
-
-test deploy action 8
-
-# This is the 10th commit message:
-
-test deploy action 9
-
-# This is the 11th commit message:
-
-test deploy action 9
-
-# This is the 12th commit message:
-
-test deploy action 10
-
-# This is the 13th commit message:
-
-test deploy action 11</text>
+        <text encoding="base64">CgojIFRoaXMgaXMgdGhlIDE0dGggY29tbWl0IG1lc3NhZ2U6Cgp0ZXN0IGRlcGxveSBhY3Rpb24gMTIKCiMgVGhpcyBpcyB0aGUgMTV0aCBjb21taXQgbWVzc2FnZToKCnRlc3QgZGVwbG95IGFjdGlvbiAxMwoKIyBUaGlzIGlzIHRoZSAxNnRoIGNvbW1pdCBtZXNzYWdlOgoKdGVzdCBkZXBsb3kgYWN0aW9uIDE0</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlcy9yZXAv</text>
