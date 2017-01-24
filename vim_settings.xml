@@ -288,6 +288,7 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/data/Qcloud/qcloud/updatebandwidth.py" timestamp="1485246212512" />
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1479269762648">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="18" />
@@ -322,11 +323,11 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/command_line/test.py" timestamp="1485243428783">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/command_line/test.py" timestamp="1485246682675">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/test_pkg/pg.go" timestamp="1483961874901">
         <mark key="[" line="0" column="16" />
@@ -411,7 +412,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485245643603">
+      <file name="/Dummy.txt" timestamp="1485245815789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -566,8 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="24" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="27" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="71" column="8" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="0" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -666,13 +665,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="66" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="73" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/command_line/test.py" />
+      <jump line="28" column="15" filename="$USER_HOME$/PycharmProjects/command_line/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicGFyYW1zIHZhbHVlOiB7fSIuZm9ybWF0KHBhcmFtcykpCg==</text>
+        <text encoding="base64">ZGVmIGFiYyhmdW5jKToKICAgIEB3cmFwcwogICAgZGVmIHBwKGZ1bmMpOgogICAgICAgIHByaW50KCIxMjMiKQogICAgICAgIHJlcyA9IGZ1bmMoKQogICAgICAgIHByaW50KCI0NTYiKQogICAgICAgIHJldHVybiByZXMKCkBhYmMKZGVmIHgoKToKICAgIHJldHVybiAiNDU2IgoKYWJjKHgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -681,31 +682,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicGFyYW1zIHZhbHVlOiB7fSIuZm9ybWF0KHBhcmFtcykpCg==</text>
+        <text encoding="base64">ZGVmIGFiYyhmdW5jKToKICAgIEB3cmFwcwogICAgZGVmIHBwKGZ1bmMpOgogICAgICAgIHByaW50KCIxMjMiKQogICAgICAgIHJlcyA9IGZ1bmMoKQogICAgICAgIHByaW50KCI0NTYiKQogICAgICAgIHJldHVybiByZXMKCkBhYmMKZGVmIHgoKToKICAgIHJldHVybiAiNDU2IgoKYWJjKHgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vb24gPT0gIkFNIjoKICAgICAgICBoaCA9IGludChoaCkgLSAxMgo=</text>
+        <text encoding="base64">ZGVmIGFiYyhmdW5jKToKICAgIHByaW50KCIxMjMiKQogICAgcmVzID0gZnVuYygpCiAgICBwcmludCgiNDU2IikKICAgIHJldHVybiByZXMKCkBhYmMoeCkKZGVmIHgoKToKICAgIHJldHVybiAiNDU2IgoKYWJjKHgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgbm9vbiA9PSAiUE0iOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicGFyYW1zIHZhbHVlOiB7fSIuZm9ybWF0KHBhcmFtcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgbm9vbiA9PSAiQU0iOgogICAgaWYgaGggPT0gIiIK</text>
+        <text encoding="base64">ICAgIGlmIG5vb24gPT0gIkFNIjoKICAgICAgICBoaCA9IGludChoaCkgLSAxMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgdGltZVtsZW4odGltZSkgLSAyOl0gPT0gIkFNIjoKICAgIGlmIGhWCiAgICAgICAgb3V0X3B1dCArPSB0aW1lWzoyXSArIDEyIAo=</text>
+        <text encoding="base64">aWYgbm9vbiA9PSAiUE0iOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgbm9vbiA9PSAiQU0iOgogICAgaWYgaGggPT0gIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgdGltZVtsZW4odGltZSkgLSAyOl0gPT0gIkFNIjoKICAgIGlmIGhWCiAgICAgICAgb3V0X3B1dCArPSB0aW1lWzoyXSArIDEyIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAhL2Jpbi9weXRob24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgojIFRoaXMgaXMgdGhlIDE0dGggY29tbWl0IG1lc3NhZ2U6Cgp0ZXN0IGRlcGxveSBhY3Rpb24gMTIKCiMgVGhpcyBpcyB0aGUgMTV0aCBjb21taXQgbWVzc2FnZToKCnRlc3QgZGVwbG95IGFjdGlvbiAxMwoKIyBUaGlzIGlzIHRoZSAxNnRoIGNvbW1pdCBtZXNzYWdlOgoKdGVzdCBkZXBsb3kgYWN0aW9uIDE0</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlcy9yZXAv</text>
