@@ -351,6 +351,12 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/jump_server.py" timestamp="1486193934389">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="30" />
+        <mark key="^" line="37" column="98" />
+        <mark key="." line="29" column="30" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1476348006172">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="24" />
@@ -375,14 +381,6 @@
         <mark key="]" line="12" column="47" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
-      </file>
-      <file name="$USER_HOME$/GoProject/src/hello/main.go" timestamp="1484911906953">
-        <mark key="a" line="641" column="22" />
-        <mark key="'" line="199" column="30" />
-        <mark key="[" line="202" column="38" />
-        <mark key="]" line="203" column="35" />
-        <mark key="." line="203" column="35" />
-        <mark key="^" line="203" column="35" />
       </file>
       <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1484308565854">
         <mark key="'" line="7" column="0" />
@@ -416,6 +414,19 @@
         <mark key="]" line="26" column="84" />
         <mark key="." line="26" column="84" />
         <mark key="^" line="26" column="84" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" timestamp="1486193955541">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1486193887483">
+        <mark key="'" line="35" column="46" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/test_base.html" timestamp="1476872382513">
         <mark key="'" line="121" column="21" />
@@ -599,14 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="77" column="19" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="169" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="194" column="56" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="174" column="8" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="90" column="18" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="91" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="295" column="11" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="106" column="10" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="232" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="305" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -699,13 +702,21 @@
       <jump line="19" column="0" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/views.py" />
       <jump line="37" column="31" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/utils/cvm.py" />
       <jump line="60" column="3" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/views.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="35" column="46" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="36" column="3" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="6" column="9" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnBhcmFtcykK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -714,31 +725,31 @@
         <text encoding="base64">ICAgIHVybChyJ15sb2dvdXQvJCcsIHZpZXdzLmxvZ291dF9hcGksIG5hbWU9ImxvZ291dCIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnBhcmFtcykK</text>
+        <text encoding="base64">ICAgIHByaW50KCJtc2cgPT4ge30iLmZvcm1hdChqc29uLmxvYWRzKHJlcy50ZXh0KS5nZXQoJ21zZycpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlwU2V0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUocmVxdWVzdC5ib2R5KSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWxsIGZhY3RvciA9Plxue30iLmZvcm1hdChhbGxfZmFjdG9yKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlwU2V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIEV4Y2VwdGlvbigidGVzdCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzb24ubG9hZHMocmVzKQo=</text>
+        <text encoding="base64">ZGVmIHF1ZXJ5X2FsbF9mYWN0KCk6CiAgICBqID0gSnVtcFNlcnZlcigpCiAgICByZXMgPSBqLnNlYXJjaF9mYWN0b3JfYWxsKCkKICAgIHJldHVybiByZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpcCBpbiBpcFNldDoKICAgICAgICBpZiB2YWxpZGF0ZV9pcHY0KGlwKToKICAgICAgICAgICAgZGVzID0gRGVzY3JpYmVJbnN0YW5jZXMoKQogICAgICAgICAgICBkZXMuYXBpX2lwX21vZHVsZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkRlc0luc19sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcignRGVzSW5zX2xvZ2dlcicpCiAgICAgICAgc2VsZi5jb25mID0gQ29uZmlnUGFyc2VyLkNvbmZpZ1BhcnNlcigpCiAgICAgICAgc2VsZi5jb25mLnJlYWQoY29uZmlnKQo=</text>
+        <text encoding="base64">ICAgIGlmIHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlcy9yZXAv</text>
