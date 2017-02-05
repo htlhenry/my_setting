@@ -419,12 +419,12 @@
         <mark key="." line="26" column="84" />
         <mark key="^" line="26" column="84" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" timestamp="1486288466375">
+      <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" timestamp="1486289733382">
         <mark key="'" line="50" column="19" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="58" column="19" />
+        <mark key="." line="58" column="19" />
+        <mark key="^" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" timestamp="1486193887483">
         <mark key="'" line="35" column="46" />
@@ -714,10 +714,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -753,7 +753,7 @@
         <text encoding="base64">ICAgICAgICBudW0gPSAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>76</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -788,10 +788,11 @@
         <entry>19</entry>
         <entry>36</entry>
         <entry>1135</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3Jlcy9yZXAv</entry>
         <entry>:76</entry>
         <entry>76</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
