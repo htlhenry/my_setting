@@ -108,6 +108,12 @@
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/env/lib/python3.5/site-packages/pip/_vendor/requests/__init__.py" timestamp="1486630580462">
         <mark key="'" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/hello_asyncio/aecho.py" timestamp="1486634563203">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="29" column="70" />
+        <mark key="." line="26" column="54" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/react-demo/react-test/src/demo8.html" timestamp="1474628065457">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="9" column="26" />
@@ -828,11 +834,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/hello_asyncio/echo_select.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvb3AyID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2hpKCJib3lzIikpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2dvb2RfYnllKCJib3lzIikpCiAgICBsb29wMi5jbG9zZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
