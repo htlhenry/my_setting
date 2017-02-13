@@ -88,7 +88,6 @@
         <mark key="^" line="104" column="12" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/platform/auto.py" timestamp="1486717397702" />
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager_test.go" timestamp="1484310023773">
         <mark key="[" line="31" column="76" />
         <mark key="]" line="39" column="59" />
@@ -157,7 +156,6 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/log.py" timestamp="1486708436426" />
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" timestamp="1473314618072">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="22" />
@@ -172,7 +170,6 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/ioloop.py" timestamp="1486717278635" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test2.html" timestamp="1476614835522">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="15" column="0" />
@@ -185,7 +182,6 @@
         <mark key="^" line="75" column="5" />
         <mark key="." line="75" column="5" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/util.py" timestamp="1486712588329" />
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/hello_asyncio/echo_select.py" timestamp="1486633223240">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="33" column="27" />
@@ -245,6 +241,13 @@
         <mark key="]" line="91" column="45" />
         <mark key="." line="91" column="45" />
         <mark key="^" line="91" column="45" />
+      </file>
+      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/gen/ioloop_call.py" timestamp="1486966913861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
@@ -391,7 +394,6 @@
         <mark key="." line="45" column="60" />
         <mark key="^" line="45" column="60" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/auth.py" timestamp="1486708973638" />
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/pubclass.py" timestamp="1486202517150">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -610,7 +612,6 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/platform/posix.py" timestamp="1486719576057" />
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mp/play.go" timestamp="1484310938501">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="20" column="20" />
@@ -630,7 +631,6 @@
         <mark key="." line="86" column="29" />
         <mark key="^" line="86" column="29" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/platform/epoll.py" timestamp="1486717190808" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-agent.py" timestamp="1479277411483">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -723,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="29" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
       <jump line="170" column="11" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="167" column="43" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="175" column="33" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -823,13 +822,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/hello_asyncio/two_loop.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/hello_asyncio/echo_select.py" />
       <jump line="599" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/gen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/gen/ioloop_call.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -838,31 +838,31 @@
         <text encoding="base64">ICAgIGxvb3AuY3JlYXRlX3Rhc2soc2F5KCd0aGlyZCBoZWxsbycsIDQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvb3AyID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2hpKCJib3lzIikpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2dvb2RfYnllKCJib3lzIikpCiAgICBsb29wMi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNheV9nb29kX2J5ZSgid29ybGQiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvb3AuY3JlYXRlX3Rhc2soc2F5X2hpKCJ3b3JsZCIpKQogICAgbG9vcC5jcmVhdGVfdGFzayhzYXlfZ29vZF9ieWUoIndvcmxkIikpCg==</text>
+        <text encoding="base64">QGdlbi5jb3JvdXRpbmUKZGVmIGNhbGxfYXN5bmMoKToKICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Tm9uZQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvIGltcG9ydCBBcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5JT0xvb3Auc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIGxvb3AyID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2hpKCJib3lzIikpCiAgICBsb29wMi5ydW5fdW50aWxfY29tcGxldGUoc2F5X2dvb2RfYnllKCJib3lzIikpCiAgICBsb29wMi5jbG9zZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlvbG9vcC5JT0xvb3AuYWRkX2Z1dHVyZShhc3luY19nZXQpCg==</text>
+        <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNheV9nb29kX2J5ZSgid29ybGQiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzeW5jX2dldCgpCg==</text>
+        <text encoding="base64">ICAgIGxvb3AuY3JlYXRlX3Rhc2soc2F5X2hpKCJ3b3JsZCIpKQogICAgbG9vcC5jcmVhdGVfdGFzayhzYXlfZ29vZF9ieWUoIndvcmxkIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLmNvbmN1cnJlbnQgaW1wb3J0IEZ1dHVyZQo=</text>
+        <text encoding="base64">Tm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAwOwogICAgICAgICAgICByaWdodDogMDsKICAgICAgICAgICAgYm90dG9tOiAwOwogICAgICAgICAgICBsZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgIGlvbG9vcC5JT0xvb3Auc3RhcnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>14</text>
