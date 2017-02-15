@@ -489,6 +489,13 @@
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" timestamp="1487161305521">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" timestamp="1485075339234">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="59" column="32" />
@@ -700,7 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
       <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="20" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -800,13 +806,14 @@
       <jump line="203" column="35" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/run_forevery.go" />
       <jump line="22" column="19" filename="$USER_HOME$/GoProject/src/examples/goroutines/channel_block_or_false.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
