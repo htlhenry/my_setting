@@ -85,6 +85,13 @@
         <mark key="^" line="104" column="12" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/channel_block_or_false.go" timestamp="1487157664427">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager_test.go" timestamp="1484310023773">
         <mark key="[" line="31" column="76" />
         <mark key="]" line="39" column="59" />
@@ -342,6 +349,12 @@
         <mark key="." line="35" column="7" />
         <mark key="^" line="35" column="7" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/channel_select.go" timestamp="1487158295273">
+        <mark key="[" line="39" column="1" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" timestamp="1484912030621">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="133" column="0" />
@@ -355,6 +368,12 @@
         <mark key="]" line="30" column="61" />
         <mark key="." line="30" column="61" />
         <mark key="^" line="30" column="61" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/goroutine_blockbook.go" timestamp="1487156744990">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/interfaces/methodset2.go" timestamp="1486112788475">
         <mark key="[" line="34" column="10" />
@@ -681,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" />
       <jump line="21" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="22" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -781,13 +799,14 @@
       <jump line="88" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacetesttwo.go" />
       <jump line="203" column="35" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/run_forevery.go" />
+      <jump line="22" column="19" filename="$USER_HOME$/GoProject/src/examples/goroutines/channel_block_or_false.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -796,31 +815,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXt9Cg==</text>
+        <text encoding="base64">CWNoIDwtICJoZWxsbyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNoMSA8ICIiCg==</text>
+        <text encoding="base64">CXMsIG9rIDo9IDwtY2gKCWZtdC5QcmludGxuKHMsIG9rKQoJLy9iLCBvayA6PSA8LWNoCgkvL2ZtdC5QcmludGxuKCJibG9ja2luZyIsIGIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRpbWUuU2xlZXAoNSAqIHRpbWUuU2Vjb25kKQo=</text>
+        <text encoding="base64">CWNoIDwtICJ3b3JsZCIKCWlmICFvayB7CgkJZm10LlByaW50bG4oImVycm9yIikKCX0KCWZtdC5QcmludGxuKGIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZvciB7Cg==</text>
+        <text encoding="base64">CWNoMSA8ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBjaDEgY2hhbiBzdHJpbmcK</text>
+        <text encoding="base64">CXRpbWUuU2xlZXAoNSAqIHRpbWUuU2Vjb25kKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKDwtY2gpCg==</text>
+        <text encoding="base64">CWZvciB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CXZhciBjaDEgY2hhbiBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
