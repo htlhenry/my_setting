@@ -153,6 +153,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/goroutines1.go" timestamp="1487147351065">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/product_extra_api.yaml" timestamp="1478600694170">
         <mark key="'" line="2" column="37" />
         <mark key="[" line="0" column="0" />
@@ -725,11 +731,11 @@
       <jump line="203" column="35" filename="$USER_HOME$/GoProject/src/hello/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJmbGFnIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>man(</text>
@@ -738,31 +744,31 @@
         <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNxMiA6PSBTcXVhcmV7fQoJZm10LlByaW50ZigidHlwZSBvZiBzcTIgaXMgJVQiLCBzcTIpCgkK</text>
+        <text encoding="base64">aW1wb3J0ICJmbGFnIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoInRoZSB0eXBlIG9mIGFyZWFJbnRmIGlzOiAlVFxuIiwgYXJlYUludGYpCg==</text>
+        <text encoding="base64">ZnVuYyBUZXN0Rmlyc3QoKSB7Cgl2YXIgbnVtQ29yZXMgPSBmbGFnLkludCgibiIsIDIsICJudW1iZXIgb2YgQ1BVIGNvcmVzIHRvIHVzZSIpCgkKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXNxMSA6PSBTcXVhcmV7fQo=</text>
+        <text encoding="base64">CXNxMiA6PSBTcXVhcmV7fQoJZm10LlByaW50ZigidHlwZSBvZiBzcTIgaXMgJVQiLCBzcTIpCgkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBUIGludGVyZmFjZSB7CglHZXQoKSBpbnQKfQoKCmZ1bmMgbWFpbigpIHsKCXZhciB2IFQKCWIsIF8gOj0gdi4oVCkKCWZtdC5QcmludGYoInYgdHlwZSAlVFxuIiwgdikKCWZtdC5QcmludGxuKGIpCn0K</text>
+        <text encoding="base64">CWZtdC5QcmludGYoInRoZSB0eXBlIG9mIGFyZWFJbnRmIGlzOiAlVFxuIiwgYXJlYUludGYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXYgOj0gbmV3KFQpCg==</text>
+        <text encoding="base64">CXNxMSA6PSBTcXVhcmV7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoImMgdHlwZSBpcyAlVFxuIiwgYykK</text>
+        <text encoding="base64">dHlwZSBUIGludGVyZmFjZSB7CglHZXQoKSBpbnQKfQoKCmZ1bmMgbWFpbigpIHsKCXZhciB2IFQKCWIsIF8gOj0gdi4oVCkKCWZtdC5QcmludGYoInYgdHlwZSAlVFxuIiwgdikKCWZtdC5QcmludGxuKGIpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXYgOj0gbmV3KFQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGQpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoImMgdHlwZSBpcyAlVFxuIiwgYykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
