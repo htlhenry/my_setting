@@ -430,10 +430,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/goroutines/lazy_eval.go" timestamp="1487162310463">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/lazy_eval.go" timestamp="1487217256324">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="24" column="36" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/jsons/jsons.go" timestamp="1486105178176">
         <mark key="[" line="78" column="0" />
@@ -814,8 +815,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKGdlbmVyYXRlSW50ZWdlcigpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -824,7 +825,7 @@
         <text>man(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIlRoZSBzcTEgaXM6JWZcbiIsIHNxMSkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGdlbmVyYXRlSW50ZWdlcigpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWNoIDwtICJoZWxsbyIK</text>
