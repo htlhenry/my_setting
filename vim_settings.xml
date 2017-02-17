@@ -294,7 +294,6 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/app.go" timestamp="1487239495778" />
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/goroutines4.go" timestamp="1487152536749">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="4" column="11" />
@@ -346,7 +345,6 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/time/sleep.go" timestamp="1487232440535" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test.html" timestamp="1476584921654">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="7" />
@@ -523,7 +521,6 @@
         <mark key="." line="26" column="84" />
         <mark key="^" line="26" column="84" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/beego_first/conf/app.conf" timestamp="1487233090474" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/test_base.html" timestamp="1476872382513">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="17" column="0" />
@@ -531,7 +528,6 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/router.go" timestamp="1487241995102" />
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort_test.go" timestamp="1484063532215">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="26" column="69" />
@@ -576,6 +572,12 @@
         <mark key="]" line="22" column="43" />
         <mark key="." line="22" column="43" />
         <mark key="^" line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/mutexs/mutexs1.go" timestamp="1487320829699">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/channel_idiom.go" timestamp="1487152688125">
         <mark key="[" line="0" column="8" />
@@ -651,7 +653,6 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/tree.go" timestamp="1487239875171" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/master_config.yml" timestamp="1479275813271">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="1" column="0" />
@@ -789,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
