@@ -482,6 +482,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/sendMail/controllers/sendSMS.go" timestamp="1487667653893">
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/ssl_socket_client.py" timestamp="1478962127580">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="12" column="47" />
@@ -626,11 +632,11 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/sendMail/controllers/sendMail.go" timestamp="1487666508263">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
+      <file name="$USER_HOME$/GoProject/src/sendMail/controllers/sendMail.go" timestamp="1487667254272">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceFive.go" timestamp="1483180742863">
         <mark key="[" line="12" column="8" />
@@ -804,11 +810,11 @@
       <jump line="75" column="18" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
@@ -817,31 +823,31 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJCIGlzICIsIEIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
+        <text encoding="base64">dHlwZSBTZW5kTWFpbENvbnRyb2xsZXIgc3RydWN0IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0aGUgYiBpcyAiLCBiLkdFVCgpKQo=</text>
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBiICpib2IKCWIgPSAmYm9ie30KCWFudCA9IGIKCWIuUE9TVCgpCg==</text>
+        <text encoding="base64">ZnVuYyAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFudCA9IEFudHt9Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0aGUgYiBpcyAiLCBiLkdFVCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBjIFtdaW50Cg==</text>
+        <text encoding="base64">CXZhciBiICpib2IKCWIgPSAmYm9ie30KCWFudCA9IGIKCWIuUE9TVCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJjIGlzICIsIGMpCg==</text>
+        <text encoding="base64">CWFudCA9IEFudHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWMgPSBhcHBlbmQoYywgW11pbnR7MSwgMiwgMywgNCwgNX0uLi4pCg==</text>
+        <text encoding="base64">CXZhciBjIFtdaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGFycikK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJjIGlzICIsIGMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
