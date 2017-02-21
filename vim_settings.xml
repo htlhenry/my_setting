@@ -41,6 +41,12 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/sendSMS/conf/app.conf" timestamp="1487672618299">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/icmptest/icmptest.go" timestamp="1484898263595">
         <mark key="[" line="81" column="25" />
         <mark key="]" line="85" column="33" />
@@ -357,11 +363,11 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/sendSMS/main.go" timestamp="1487671871872">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/GoProject/src/sendSMS/main.go" timestamp="1487672485393">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/test.html" timestamp="1476584921654">
         <mark key="[" line="35" column="30" />
@@ -835,10 +841,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
