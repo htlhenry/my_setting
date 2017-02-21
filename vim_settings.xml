@@ -156,6 +156,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/sendMail/main.go" timestamp="1487665553825">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/css/test2.html" timestamp="1477361533622">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="65" />
@@ -488,6 +494,9 @@
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/sendMail/routers/router.go" timestamp="1487665650206">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" timestamp="1487161305521">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="20" column="35" />
@@ -616,6 +625,12 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/sendMail/controllers/sendMail.go" timestamp="1487666508263">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceFive.go" timestamp="1483180742863">
         <mark key="[" line="12" column="8" />
@@ -789,11 +804,11 @@
       <jump line="75" column="18" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
@@ -802,31 +817,31 @@
         <text encoding="base64">CWZtdC5QcmludGxuKCJCIGlzICIsIEIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0aGUgYiBpcyAiLCBiLkdFVCgpKQo=</text>
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciBiICpib2IKCWIgPSAmYm9ie30KCWFudCA9IGIKCWIuUE9TVCgpCg==</text>
+        <text encoding="base64">ZnVuYyAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWFudCA9IEFudHt9Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0aGUgYiBpcyAiLCBiLkdFVCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBjIFtdaW50Cg==</text>
+        <text encoding="base64">CXZhciBiICpib2IKCWIgPSAmYm9ie30KCWFudCA9IGIKCWIuUE9TVCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJjIGlzICIsIGMpCg==</text>
+        <text encoding="base64">CWFudCA9IEFudHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWMgPSBhcHBlbmQoYywgW11pbnR7MSwgMiwgMywgNCwgNX0uLi4pCg==</text>
+        <text encoding="base64">CXZhciBjIFtdaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGFycikK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJjIGlzICIsIGMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWFwcGVuZChhcnJbMF0sIGludHsxLCAyLCAzLCA0LCA1fSkK</text>
+        <text encoding="base64">CWMgPSBhcHBlbmQoYywgW11pbnR7MSwgMiwgMywgNCwgNX0uLi4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFwcGVuZChhcnJbMV0sICkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGFycikK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
