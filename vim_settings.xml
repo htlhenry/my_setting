@@ -211,11 +211,11 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/sendSMS/controllers/sendSMS.go" timestamp="1487669995987">
-        <mark key="[" line="45" column="56" />
-        <mark key="]" line="49" column="52" />
-        <mark key="." line="49" column="52" />
-        <mark key="^" line="49" column="52" />
+      <file name="$USER_HOME$/GoProject/src/sendSMS/controllers/sendSMS.go" timestamp="1487675928556">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="40" />
+        <mark key="^" line="57" column="40" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/product_extra_api.yaml" timestamp="1478600694170">
         <mark key="'" line="2" column="37" />
@@ -249,6 +249,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/httplib/httplib.go" timestamp="1487674895702" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
         <mark key="[" line="4" column="0" />
@@ -723,6 +724,12 @@
         <mark key="." line="38" column="14" />
         <mark key="^" line="38" column="14" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/oprator/operator.go" timestamp="1487675379520">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/hello/channeltest/channelTest.go" timestamp="1484828392670">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="14" column="19" />
@@ -841,10 +848,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -853,31 +860,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJxdWVyeVNNUyBqc29uIDoiLCBva01zZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzLkN0eC5Xcml0ZQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJlcnIgb2YgcXVlcnlTTVM6ICIsIGVycikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">CW9rTXNnIDo9ICZva01lc3NhZ2V7fQoJZXJyIDo9IHJlcS5Ub0pTT04ob2tNc2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzLkN0eC5Xcml0ZVN0cmluZygibXNnX2tpbmQgaXMgZW1wdHkiKQo=</text>
+        <text encoding="base64">CXJlcS5SZXNwb25zZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgfCBtc2cuY29udGVudCA9PSAiIiB8IG1zZy5tc2dfa2luZCA9PSAiIiB8IG1zZy5jbGllbnRfaWQK</text>
+        <text encoding="base64">CS8vcmVzcCA6PSByZXEuVG9KU09OKCkKCS8vdmFyIGRhdGEgW11ieXRlCgkvL3JlcS5Cb2R5KGRhdGEpCgkvL2ZtdC5QcmludGxuKHJlcSkKCS8vZm10LlByaW50bG4oInJlcSBvZiBxdWVyeVNNUzogIiwgZGF0YSkKCWZtdC5QcmludGxuKCJyZXEgc3RyaW5nIG9mIHF1ZXJ5U01TOiAiLCByZXEuU3RyaW5nKCkpCgkvL2ZtdC5QcmludGxuKCJyZXNwb25zZSBvZiBxdWVyeVNNUzogIiwgcmVzcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXMuU2VydmVKU09OKCkK</text>
+        <text encoding="base64">CXZhciByZXNwIGludGVyZmFjZXt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW9rTWVzc2FnZSA6PSBva01lc3NhZ2V7fQoJcy5EYXRhWyJqc29uIl0gPSAmb2tNZXNzYWdlCg==</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBTZW5kTWFpbENvbnRyb2xsZXIgc3RydWN0IHsK</text>
+        <text encoding="base64">CQlzLkN0eC5Xcml0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bob25lX251bWJlci9jbGllbnRfaWQvZw==</text>
