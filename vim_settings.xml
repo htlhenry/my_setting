@@ -21,11 +21,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/files/slice_read.go" timestamp="1487837756049">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="32" />
+      <file name="$USER_HOME$/GoProject/src/examples/files/slice_read.go" timestamp="1487839192811">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/test_config.py" timestamp="1478233875451">
         <mark key="'" line="27" column="16" />
@@ -70,6 +70,12 @@
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/files/buf_write.go" timestamp="1487840130210">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/GoProject/src/icmptest/icmptest.go" timestamp="1484898263595">
         <mark key="[" line="81" column="25" />
@@ -216,6 +222,7 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
+      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/os/file.go" timestamp="1487839130206" />
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" timestamp="1473314618072">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="22" />
@@ -847,6 +854,7 @@
         <mark key="." line="173" column="42" />
         <mark key="^" line="173" column="42" />
       </file>
+      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/os/file_unix.go" timestamp="1487839113806" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" timestamp="1479282782973">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="36" column="26" />
@@ -978,10 +986,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
