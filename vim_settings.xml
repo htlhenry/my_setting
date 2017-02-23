@@ -102,12 +102,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" timestamp="1487843335310">
+      <file name="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" timestamp="1487844891653">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="14" column="72" />
-        <mark key="." line="14" column="72" />
-        <mark key="^" line="14" column="72" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" timestamp="1484901352466">
         <mark key="'" line="72" column="36" />
@@ -1000,10 +1000,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -1012,31 +1012,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBBZ2U6IDE5LCBBZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
+        <text encoding="base64">CUMgW11zdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBOZ2U6IDE5LCBhZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
+        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBBZ2U6IDE5LCBBZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCX0K</text>
+        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBOZ2U6IDE5LCBhZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
+        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciBfLHYgOj0gcmFuZ2UgKnRiIHsKCQlmbXQuUHJpbnRsbih2KQoJfQo=</text>
+        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
