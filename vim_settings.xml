@@ -34,6 +34,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/oses/echo.go" timestamp="1487833840461">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/bubblesort/bubblesort.go" timestamp="1484061973880">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="17" column="0" />
@@ -71,7 +77,6 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/context/context.go" timestamp="1487735401382" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/utils/logger.py" timestamp="1479277273272">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="26" column="34" />
@@ -294,7 +299,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/httplib/httplib.go" timestamp="1487754893422" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/authorization.html" timestamp="1476006956169">
         <mark key="'" line="56" column="5" />
         <mark key="[" line="4" column="0" />
@@ -421,6 +425,12 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/oses/os_args.go" timestamp="1487833032088">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sendSMS/main.go" timestamp="1487672485393">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="21" column="52" />
@@ -469,13 +479,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
-      </file>
-      <file name="$USER_HOME$/GoProject/src/examples/structs/struct1.go" timestamp="1487750256842">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/interfaces/methodset2.go" timestamp="1487242551492">
         <mark key="[" line="34" column="10" />
@@ -544,6 +547,12 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/files/filecopy.go" timestamp="1487832697525">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/lazy_eval.go" timestamp="1487226500637">
         <mark key="[" line="22" column="13" />
@@ -618,6 +627,9 @@
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/sendMail/routers/router.go" timestamp="1487665650206">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" timestamp="1487161305521">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="20" column="35" />
@@ -663,6 +675,9 @@
         <mark key="." line="26" column="84" />
         <mark key="^" line="26" column="84" />
       </file>
+      <file name="vim_settings.xml" timestamp="1487767125799">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/test_base.html" timestamp="1476872382513">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="17" column="0" />
@@ -694,7 +709,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/fmt/scan.go" timestamp="1487759986545" />
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/logger.py" timestamp="1479269762648">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="18" />
@@ -956,11 +970,11 @@
       <jump line="7" column="16" filename="$USER_HOME$/GoProject/src/examples/files/readinput1.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -969,34 +983,34 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
+        <text encoding="base64">CSJmbXQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZvciBfLHYgOj0gcmFuZ2UgKnRiIHsKCQlmbXQuUHJpbnRsbih2KQoJfQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRiIDo9ICZbXWJ5dGV7fQo=</text>
+        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJlcyA6PSByZXEuU3RyaW5nKCkK</text>
+        <text encoding="base64">CWZvciBfLHYgOj0gcmFuZ2UgKnRiIHsKCQlmbXQuUHJpbnRsbih2KQoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
+        <text encoding="base64">CXRiIDo9ICZbXWJ5dGV7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWJlZWdvLlJ1bigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
+        <text encoding="base64">CXJlcyA6PSByZXEuU3RyaW5nKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Bob25lX251bWJlci9jbGllbnRfaWQvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1028,7 +1042,6 @@
         <entry>36</entry>
         <entry>wq</entry>
         <entry>40</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0EvQi8=</entry>
         <entry encoding="base64">JzwsJz5zL0IvRS9n</entry>
         <entry encoding="base64">JzwsJz5zL0IvRi9n</entry>
@@ -1039,6 +1052,7 @@
         <entry encoding="base64">JzwsJz5zL3Bob25lX251bWJlci9jb250ZW50L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Bob25lX251bWJlci9tc2dfa2luZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3Bob25lX251bWJlci9jbGllbnRfaWQvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
