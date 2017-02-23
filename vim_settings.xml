@@ -102,6 +102,13 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" timestamp="1487843335310">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="14" column="72" />
+        <mark key="." line="14" column="72" />
+        <mark key="^" line="14" column="72" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" timestamp="1484901352466">
         <mark key="'" line="72" column="36" />
         <mark key="[" line="66" column="30" />
@@ -574,6 +581,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/jsons/json2.go" timestamp="1487841876198">
+        <mark key="[" line="30" column="73" />
+        <mark key="]" line="30" column="75" />
+        <mark key="." line="30" column="75" />
+        <mark key="^" line="30" column="75" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/__init__.py" timestamp="1479270660734">
         <mark key="[" line="9" column="51" />
         <mark key="]" line="9" column="51" />
@@ -830,6 +843,7 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
+      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/encoding/json/decode.go" timestamp="1487842374791" />
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/bubblesort/bubblesort_test.go" timestamp="1484062595459">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="26" column="72" />
@@ -883,8 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="94" column="18" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="320" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="333" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="18" column="19" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -983,13 +995,15 @@
       <jump line="17" column="0" filename="$USER_HOME$/GoProject/src/examples/structs/struct1.go" />
       <jump line="16" column="28" filename="$USER_HOME$/GoProject/src/examples/structs/struct_tag.go" />
       <jump line="7" column="16" filename="$USER_HOME$/GoProject/src/examples/files/readinput1.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -998,31 +1012,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBBZ2U6IDE5LCBBZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
+        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBOZ2U6IDE5LCBhZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZvciBfLHYgOj0gcmFuZ2UgKnRiIHsKCQlmbXQuUHJpbnRsbih2KQoJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXRiIDo9ICZbXWJ5dGV7fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSJmbXQiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlcyA6PSByZXEuU3RyaW5nKCkK</text>
+        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
+        <text encoding="base64">CWZvciBfLHYgOj0gcmFuZ2UgKnRiIHsKCQlmbXQuUHJpbnRsbih2KQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
