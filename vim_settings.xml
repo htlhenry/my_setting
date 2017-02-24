@@ -83,6 +83,12 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="33" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/grayInfo/routers/router.go" timestamp="1487917774987">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/http_test/main.go" timestamp="1484713895843">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="18" />
@@ -229,7 +235,6 @@
         <mark key="." line="32" column="14" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/os/file.go" timestamp="1487839130206" />
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" timestamp="1473314618072">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="22" />
@@ -249,6 +254,12 @@
         <mark key="]" line="23" column="41" />
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/grayInfo/main.go" timestamp="1487917615280">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1478237757027">
         <mark key="[" line="50" column="0" />
@@ -350,6 +361,13 @@
         <mark key="]" line="76" column="17" />
         <mark key="." line="76" column="17" />
         <mark key="^" line="76" column="17" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" timestamp="1487918551199">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/gunicorn_config.py" timestamp="1477470387872">
         <mark key="[" line="6" column="0" />
@@ -843,7 +861,6 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/encoding/json/decode.go" timestamp="1487842374791" />
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/bubblesort/bubblesort_test.go" timestamp="1484062595459">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="26" column="72" />
@@ -868,7 +885,6 @@
         <mark key="." line="173" column="42" />
         <mark key="^" line="173" column="42" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/os/file_unix.go" timestamp="1487839113806" />
       <file name="$USER_HOME$/opt/product_project/rpc-service/cfg-RpcClient.py" timestamp="1479282782973">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="36" column="26" />
@@ -897,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="333" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="18" column="19" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="335" column="13" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -997,13 +1012,14 @@
       <jump line="7" column="16" filename="$USER_HOME$/GoProject/src/examples/files/readinput1.go" />
       <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" />
       <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/examples/jsons/json_unmarshal.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -1012,31 +1028,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUMgW11zdHJpbmcK</text>
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBBZ2U6IDE5LCBBZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWhhbiA6PSBQZXJzb257TmFtZTogInRlbmdsZWloYW4iLCBOZ2U6IDE5LCBhZGRyZXNzOiAiMTIzNDU2NzgiLCBjOltdc3RyaW5neyJSZWQiLCAiR3JlZW4iLCAiQmx1ZSJ9fQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCX0K</text>
+        <text encoding="base64">dGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">aW1wb3J0ICJnaXRodWIuY29tL2FzdGF4aWUvYmVlZ28iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihpKQo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludChlcnIpCg==</text>
+        <text encoding="base64">dHlwZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBtYWkKfQo=</text>
+        <text encoding="base64">PSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
