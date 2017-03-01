@@ -183,7 +183,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/src/QcloudApi/qcloudapi.py" timestamp="1487314177817" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/common.js" timestamp="1478237757027">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="75" column="5" />
@@ -432,6 +431,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/RpcService/.editorconfig" timestamp="1488341014069">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/qcloud_webtool/settings/common.py" timestamp="1486454909057">
         <mark key="[" line="28" column="19" />
@@ -768,7 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="30" filename="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" />
       <jump line="11" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="18" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="2" column="9" filename="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort.go" />
@@ -868,10 +873,11 @@
       <jump line="8" column="60" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
       <jump line="13" column="24" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
       <jump line="12" column="61" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
+      <jump line="2" column="9" filename="$USER_HOME$/opt/product_project/RpcService/.editorconfig" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0LkdldCA9Pnt9Ii5mb3JtYXQocmVxdWVzdC5HRVQpKQo=</text>
+        <text encoding="base64">IyBUYWIgaW5kZW50YXRpb24gKG5vIHNpemUgc3BlY2lmaWVkKQpbTWFrZWZpbGVdCmluZGVudF9zdHlsZSA9IHRhYgo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -883,31 +889,31 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgIDxhIGhyZWY9Ii9tb25pdG9yL3ZpcF9tb25pdG9yLyIgY2xhc3M9ImJ0biBidG4tbGcgYnRuLXByaW1hcnkiPnZpcOWFrOe9keWHuua1gemHjzwvYT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0LkdldCA9Pnt9Ii5mb3JtYXQocmVxdWVzdC5HRVQpKQo=</text>
+        <text encoding="base64">IyBUYWIgaW5kZW50YXRpb24gKG5vIHNpemUgc3BlY2lmaWVkKQpbTWFrZWZpbGVdCmluZGVudF9zdHlsZSA9IHRhYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbnZiZyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0LkdldCA9Pnt9Ii5mb3JtYXQocmVxdWVzdC5HRVQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGVsbG8gdGVzdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbnZiZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8YSBocmVmPSIvbW9uaXRvci9jdm1fbW9uaXRvci8iIGNsYXNzPSJidG4gYnRuLWxnIGJ0bi1wcmltYXJ5Ij5jdm3lhaznvZHlh7rmtYHph488L2E+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGVsbG8gdGVzdCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8YSBocmVmPSIvbW9uaXRvci9jdm1fbW9uaXRvci8iIGNsYXNzPSJidG4gYnRuLWxnIGJ0bi1wcmltYXJ5Ij5jdm3lhaznvZHlh7rmtYHph488L2E+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg6L2s5YyW5Y2V5L2NYnBz5Li6TWJwcy4K</text>
+        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMg6L2s5YyW5Y2V5L2NYnBz5Li6TWJwcy4K</text>
       </register>
       <register name=":" type="4">
         <text>14</text>
