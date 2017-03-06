@@ -163,6 +163,7 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1488790949490" />
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_getattr.py" timestamp="1473314618072">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="22" />
@@ -411,6 +412,13 @@
         <mark key="]" line="45" column="60" />
         <mark key="." line="45" column="60" />
         <mark key="^" line="45" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/command_line/ansible-ip.py" timestamp="1488792184769">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/js/static/js/cvm_bandwidth.js" timestamp="1487318318164">
         <mark key="'" line="120" column="30" />
@@ -774,7 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="18" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="2" column="9" filename="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort.go" />
       <jump line="72" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
@@ -874,13 +881,14 @@
       <jump line="13" column="24" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
       <jump line="12" column="61" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
       <jump line="2" column="9" filename="$USER_HOME$/opt/product_project/RpcService/.editorconfig" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/ansible-ip.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBUYWIgaW5kZW50YXRpb24gKG5vIHNpemUgc3BlY2lmaWVkKQpbTWFrZWZpbGVdCmluZGVudF9zdHlsZSA9IHRhYgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBpcF9maWxlLCAi5pyq5oyH5a6aSVDmlofku7YiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -889,31 +897,31 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgIDxhIGhyZWY9Ii9tb25pdG9yL3ZpcF9tb25pdG9yLyIgY2xhc3M9ImJ0biBidG4tbGcgYnRuLXByaW1hcnkiPnZpcOWFrOe9keWHuua1gemHjzwvYT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUYWIgaW5kZW50YXRpb24gKG5vIHNpemUgc3BlY2lmaWVkKQpbTWFrZWZpbGVdCmluZGVudF9zdHlsZSA9IHRhYgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBpcF9maWxlLCAi5pyq5oyH5a6aSVDmlofku7YiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJyZXF1ZXN0LkdldCA9Pnt9Ii5mb3JtYXQocmVxdWVzdC5HRVQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbnZiZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmLnJlYWRsaW5lKCkpCiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiaGVsbG8gdGVzdCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8YSBocmVmPSIvbW9uaXRvci9jdm1fbW9uaXRvci8iIGNsYXNzPSJidG4gYnRuLWxnIGJ0bi1wcmltYXJ5Ij5jdm3lhaznvZHlh7rmtYHph488L2E+CiAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi12IiwgYWN0aW9uPSJzdG9yZV90cnVlIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0i5omT5Y2w6K+m57uG6L6T5Ye6IikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi1hIiwgZGVzdD0iYWN0aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0i5oyH5a6a6YOo572y5Yqo5L2cIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGFyZ3MuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg6L2s5YyW5Y2V5L2NYnBz5Li6TWJwcy4K</text>
+        <text encoding="base64">YXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>14</text>
