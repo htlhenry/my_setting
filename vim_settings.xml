@@ -824,11 +824,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/files/command_line_input.go" timestamp="1489488356188">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/GoProject/src/examples/files/command_line_input.go" timestamp="1489489622888">
+        <mark key="'" line="47" column="37" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="44" column="46" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/channel_idiom.go" timestamp="1487152688125">
         <mark key="[" line="0" column="8" />
@@ -956,7 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="21" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="123" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="133" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="363" column="29" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -1056,13 +1056,14 @@
       <jump line="40" column="29" filename="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" />
       <jump line="44" column="0" filename="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" />
       <jump line="17" column="0" filename="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" />
+      <jump line="47" column="37" filename="$USER_HOME$/GoProject/src/examples/files/command_line_input.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJlbmNvZGluZy9iaW5hcnkiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -1071,31 +1072,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJlbmNvZGluZy9iaW5hcnkiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vInN0cmNvbnYiCg==</text>
+        <text encoding="base64">CQl0eHQgPSBiaW5hcnkuQmlnRW5kaWFuLlVpbnQ2NCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZ3MuVHJpbSh0eHQsICJcbiIpKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiV2IiwgaSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoIiV0IiwgdHh0KQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnVubW9kZSA9ICIiCg==</text>
+        <text encoding="base64">CS8vInN0cmNvbnYiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuYyAoYyAqRXJyb3JDb250cm9sbGVyKSBFcnJvcjQwMCgpIHsKCWMuQ3R4LldyaXRlU3RyaW5nKCIiKQp9Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZ3MuVHJpbSh0eHQsICJcbiIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigib3BlbmlkIGVycm9yIikK</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiV0IiwgdHh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmMgKHMgKlNlYXJjaE9wZW5JZCkgR2V0KCkgewo=</text>
+        <text encoding="base64">cnVubW9kZSA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnVuYyAoYyAqRXJyb3JDb250cm9sbGVyKSBFcnJvcjQwMCgpIHsKCWMuQ3R4LldyaXRlU3RyaW5nKCIiKQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
