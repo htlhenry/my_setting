@@ -30,7 +30,6 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/garyburd/redigo/redis/conn.go" timestamp="1487921075987" />
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/test_config.py" timestamp="1478233875451">
         <mark key="'" line="27" column="16" />
         <mark key="[" line="39" column="17" />
@@ -215,7 +214,6 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="/usr/local/Cellar/go/1.7.3/libexec/src/net/net.go" timestamp="1487920495053" />
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/sieve1.go" timestamp="1487153448216">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="27" column="23" />
@@ -735,8 +733,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/hooks.go" timestamp="1487930904448" />
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/beego.go" timestamp="1487930930128" />
       <file name="$USER_HOME$/GoProject/src/simplehttp/simple2.go" timestamp="1484900751969">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="28" column="16" />
@@ -828,6 +824,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/files/command_line_input.go" timestamp="1489486518531">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/channel_idiom.go" timestamp="1487152688125">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="25" column="31" />
@@ -884,7 +886,6 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="42" column="35" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/github.com/astaxie/beego/controller.go" timestamp="1487923235113" />
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" timestamp="1475981626414">
         <mark key="[" line="213" column="11" />
         <mark key="]" line="240" column="21" />
@@ -1057,11 +1058,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/GoProject/src/grayInfo/controllers/api/api.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cnVubW9kZSA9ICIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -1070,31 +1071,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cnVubW9kZSA9ICIiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiV0IiwgdHh0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyAoYyAqRXJyb3JDb250cm9sbGVyKSBFcnJvcjQwMCgpIHsKCWMuQ3R4LldyaXRlU3RyaW5nKCIiKQp9Cg==</text>
+        <text encoding="base64">cnVubW9kZSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigib3BlbmlkIGVycm9yIikK</text>
+        <text encoding="base64">ZnVuYyAoYyAqRXJyb3JDb250cm9sbGVyKSBFcnJvcjQwMCgpIHsKCWMuQ3R4LldyaXRlU3RyaW5nKCIiKQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZ1bmMgKHMgKlNlYXJjaE9wZW5JZCkgR2V0KCkgewo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigib3BlbmlkIGVycm9yIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CmZ1bmMgKHMgKlNlYXJjaE9wZW5JZCkgR2V0KCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyYW1fZXJyb3IgOj0gZXJyb3JzLk5ldygicGFyYW0gZXJyb3JzIikK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIG9wZW5JZCA9PSBuaWwgewoJCXBhbmljKCkKCX0K</text>
+        <text encoding="base64">cGFyYW1fZXJyb3IgOj0gZXJyb3JzLk5ldygicGFyYW0gZXJyb3JzIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWlmIG9wZW5JZCA9PSBuaWwgewoJCXBhbmljKCkKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRhdGFbImRhdGEiXSA9IHRydWUK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
