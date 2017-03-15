@@ -332,6 +332,11 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/types/types_bytes.go" timestamp="1489560979812">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" timestamp="1483980544981">
         <mark key="'" line="15" column="30" />
         <mark key="[" line="73" column="29" />
@@ -1060,10 +1065,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKG1heF9pbnB1dCkK</text>
+        <text encoding="base64">CWJbM10gPSAyNDQK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>phone_number</text>
@@ -1072,31 +1077,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKG1heF9pbnB1dCkK</text>
+        <text encoding="base64">CWJbM10gPSAyNDQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgaSA6PSAwOyBpIDwgbGVuKHR4dCk7IGkrK3sKCQkJdHh0W2ldID0gaW50NjQodHh0W2ldKQoJCX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKG1heF9pbnB1dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbW1hbmRfbGlzdCA6PSBzdHJpbmdzLlNwbGl0KG1heF9pbnB1dCwgCg==</text>
+        <text encoding="base64">CQlmb3IgaSA6PSAwOyBpIDwgbGVuKHR4dCk7IGkrK3sKCQkJdHh0W2ldID0gaW50NjQodHh0W2ldKQoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKCJlcnJvciBzdHJjb252IikKCQlmbXQuUHJpbnRsbihlcnIpCgl9Cg==</text>
+        <text encoding="base64">CWNvbW1hbmRfbGlzdCA6PSBzdHJpbmdzLlNwbGl0KG1heF9pbnB1dCwgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZ3MuVHJpbShpbnB1dCwgIlxuIikpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKCJlcnJvciBzdHJjb252IikKCQlmbXQuUHJpbnRsbihlcnIpCgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJzcGxpdCBieXRlOiAiLCBzdHJpbmdzLlNwbGl0KHN0cmluZ3MuVHJpbShpbnB1dCwgIlxuIiksICIgIikpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZ3MuVHJpbShpbnB1dCwgIlxuIikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1heF9pbnB1dCwgZXJyIDo9IHN0cmNvbnYuQXRvaShzdHJpbmdzLlRyaW0odHh0LCAiXG4iKSkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJzcGxpdCBieXRlOiAiLCBzdHJpbmdzLlNwbGl0KHN0cmluZ3MuVHJpbShpbnB1dCwgIlxuIiksICIgIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJlbmNvZGluZy9iaW5hcnkiCg==</text>
+        <text encoding="base64">CW1heF9pbnB1dCwgZXJyIDo9IHN0cmNvbnYuQXRvaShzdHJpbmdzLlRyaW0odHh0LCAiXG4iKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0eHQgPSBiaW5hcnkuQmlnRW5kaWFuLlVpbnQ2NCgpCg==</text>
+        <text encoding="base64">CSJlbmNvZGluZy9iaW5hcnkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
