@@ -268,7 +268,7 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490007552128">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490007854634">
         <mark key="'" line="697" column="0" />
         <mark key="[" line="449" column="18" />
         <mark key="]" line="451" column="73" />
@@ -811,6 +811,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/database/models.py" timestamp="1490008886522">
+        <mark key="[" line="218" column="27" />
+        <mark key="]" line="222" column="41" />
+        <mark key="^" line="222" column="41" />
+        <mark key="." line="222" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="196" column="32" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -915,11 +921,11 @@
       <jump line="332" column="9" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
