@@ -65,12 +65,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490001585671">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490003417818">
         <mark key="'" line="328" column="18" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="272" column="74" />
+        <mark key="[" line="668" column="63" />
+        <mark key="]" line="668" column="67" />
+        <mark key="." line="668" column="67" />
+        <mark key="^" line="668" column="67" />
       </file>
       <file name="$USER_HOME$/GoProject/src/http_test/main.go" timestamp="1484713895843">
         <mark key="[" line="19" column="12" />
@@ -268,7 +268,7 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490002112724">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490002943130">
         <mark key="'" line="697" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="21" />
@@ -559,12 +559,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1490001988673">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1389" column="0" />
-        <mark key="]" line="1390" column="60" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1490003361838">
+        <mark key="'" line="1271" column="90" />
+        <mark key="[" line="1450" column="0" />
+        <mark key="]" line="1450" column="0" />
         <mark key="^" line="1115" column="65" />
-        <mark key="." line="595" column="0" />
+        <mark key="." line="1450" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/simplehttp/simple2.go" timestamp="1484900751969">
         <mark key="[" line="29" column="1" />
@@ -706,7 +706,7 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490001592041">
+      <file name="/Dummy.txt" timestamp="1490002121760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/hello/interfacetest/interfaceFive.go" timestamp="1483180742863">
@@ -813,7 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2736" column="8" filename="/usr/local/Cellar/go/1.7.3/libexec/src/net/http/server.go" />
       <jump line="50" column="12" filename="$USER_HOME$/GoProject/src/hello/structtest/structO.go" />
       <jump line="25" column="16" filename="/usr/local/Cellar/go/1.7.3/libexec/src/net/http/server.go" />
       <jump line="196" column="32" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -913,10 +912,11 @@
       <jump line="152" column="2" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
       <jump line="74" column="38" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="697" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
+      <jump line="1271" column="90" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmOCIgc3JjPSIvc3RhdGljL2pzL2NvbW1vbl90YWJsZS5qcyI+PC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">ICAgIHZhciBpbnRlcnZhbCA9IG51bGw7CiAgICB2YXIgcmVsZWFzZU5vd0lwID0gW107Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -928,31 +928,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgdGFza190YWJsZSA9ICQoIiN0YWJsZV9yZWxlYXNlX3Rhc2siKS5EYXRhVGFibGUoKTsKICAgICAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKHRhc2tfdGFibGUuYWpheC5yZWxvYWQsIDMwMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmOCIgc3JjPSIvc3RhdGljL2pzL2NvbW1vbl90YWJsZS5qcyI+PC9zY3JpcHQ+I30K</text>
+        <text encoding="base64">ICAgIHZhciBpbnRlcnZhbCA9IG51bGw7CiAgICB2YXIgcmVsZWFzZU5vd0lwID0gW107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXV0b19yZWZyZXNoX3N0YXJ0KCkK</text>
+        <text encoding="base64">eyM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmOCIgc3JjPSIvc3RhdGljL2pzL2NvbW1vbl90YWJsZS5qcyI+PC9zY3JpcHQ+I30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNldEludGVydgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXV0b19yZWZyZXNoX3N0YXJ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldEludGVydgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c190eXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBzX3R5cGUgPSB7CiAgICAgICAgIjEiOiAi5Yid5aeL5YyWIiwKICAgICAgICAiMiI6ICLnlJ/miJDphY3nva7mlofku7blpLHotKUiLAogICAgICAgICIzIjogIueUn+aIkOmFjee9ruaWh+S7tuaIkOWKnyIsCiAgICAgICAgIjQiOiAiZ2l05LiL6L295paH5Lu25aSx6LSlIiwKICAgICAgICAiNSI6ICJnaXTkuIvovb3mlofku7bmiJDlip8iLAogICAgICAgICI2IjogIue8luivkeaWh+S7tuWksei0pSIsCiAgICAgICAgIjciOiAi57yW6K+R5paH5Lu25oiQ5YqfIiwKICAgICAgICAiOCI6ICLmlofku7bmiZPljIXlpLHotKUiLAogICAgICAgICI5IjogIuaWh+S7tuaJk+WMheaIkOWKnyIsCiAgICAgICAgIjEwIjogIuWPkeW4g+S4rSIsCiAgICAgICAgIjExIjogIuWPkeW4g+Wksei0pSIsCiAgICAgICAgIjEyIjogIuWPkeW4g+aIkOWKnyIsCiAgICAgICAgIjEzIjogIuWPkeW4g+WujOaIkO+8jOWtmOWcqOWksei0pSIsCiAgICAgICAgIjE0IjogIuiwg+eUqOWPkeW4g+iEmuacrOWksei0pSIsCiAgICAgICAgIjE1IjogIuWPkeW4g+aKpemUmSIsCiAgICAgICAgIjE2IjogImRlcGxveS55YW1s5paH5Lu25qC85byP5LiN5a+55oiW6ICF5LiN5a2Y5ZyoIiwKICAgICAgICAiMTciOiAi5Lu75Yqh57uI5q2iIiwKICAgICAgICAiMTgiOiAi5Zue5rua5LitIiwKICAgICAgICAiMTkiOiAi5Zue5rua5aSx6LSlIiwKICAgICAgICAiMjAiOiAi5Zue5rua5oiQ5YqfIiwKICAgICAgICAiMjEiOiAi5Zue5rua5a6M5oiQ77yM5a2Y5Zyo5aSx6LSlIgogICAgfTsK</text>
+        <text encoding="base64">c190eXBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsjICAgICAgICAgICAgICAgICAgICBlbGVtZW50LmFwcGVuZChjb25maWdfYnV0dG9uKTsjfQo=</text>
+        <text encoding="base64">ICAgIHZhciBzX3R5cGUgPSB7CiAgICAgICAgIjEiOiAi5Yid5aeL5YyWIiwKICAgICAgICAiMiI6ICLnlJ/miJDphY3nva7mlofku7blpLHotKUiLAogICAgICAgICIzIjogIueUn+aIkOmFjee9ruaWh+S7tuaIkOWKnyIsCiAgICAgICAgIjQiOiAiZ2l05LiL6L295paH5Lu25aSx6LSlIiwKICAgICAgICAiNSI6ICJnaXTkuIvovb3mlofku7bmiJDlip8iLAogICAgICAgICI2IjogIue8luivkeaWh+S7tuWksei0pSIsCiAgICAgICAgIjciOiAi57yW6K+R5paH5Lu25oiQ5YqfIiwKICAgICAgICAiOCI6ICLmlofku7bmiZPljIXlpLHotKUiLAogICAgICAgICI5IjogIuaWh+S7tuaJk+WMheaIkOWKnyIsCiAgICAgICAgIjEwIjogIuWPkeW4g+S4rSIsCiAgICAgICAgIjExIjogIuWPkeW4g+Wksei0pSIsCiAgICAgICAgIjEyIjogIuWPkeW4g+aIkOWKnyIsCiAgICAgICAgIjEzIjogIuWPkeW4g+WujOaIkO+8jOWtmOWcqOWksei0pSIsCiAgICAgICAgIjE0IjogIuiwg+eUqOWPkeW4g+iEmuacrOWksei0pSIsCiAgICAgICAgIjE1IjogIuWPkeW4g+aKpemUmSIsCiAgICAgICAgIjE2IjogImRlcGxveS55YW1s5paH5Lu25qC85byP5LiN5a+55oiW6ICF5LiN5a2Y5ZyoIiwKICAgICAgICAiMTciOiAi5Lu75Yqh57uI5q2iIiwKICAgICAgICAiMTgiOiAi5Zue5rua5LitIiwKICAgICAgICAiMTkiOiAi5Zue5rua5aSx6LSlIiwKICAgICAgICAiMjAiOiAi5Zue5rua5oiQ5YqfIiwKICAgICAgICAiMjEiOiAi5Zue5rua5a6M5oiQ77yM5a2Y5Zyo5aSx6LSlIgogICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgICJzUHJvY2Vzc2luZyI6ICI8aW1nIHNyYz0nL3N0YXRpYy9pbWcvZGF0YXRhYmxlX2xvYWRpbmcuZ2lmJz4iLCN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsjICAgICAgICAgICAgICAgICAgICBlbGVtZW50LmFwcGVuZChjb25maWdfYnV0dG9uKTsjfQo=</text>
       </register>
       <register name=":" type="4">
         <text>667</text>
