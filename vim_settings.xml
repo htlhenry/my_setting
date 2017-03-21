@@ -266,7 +266,7 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490082343990">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490083554266">
         <mark key="'" line="426" column="9" />
         <mark key="[" line="517" column="0" />
         <mark key="]" line="517" column="0" />
@@ -290,7 +290,7 @@
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/gen.py" timestamp="1486643589426">
         <mark key="'" line="599" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1490013570534">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1490083995269">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="217" column="65" />
         <mark key="]" line="218" column="19" />
@@ -388,6 +388,7 @@
         <mark key="." line="146" column="50" />
         <mark key="^" line="146" column="50" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490083938900" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1478598699073">
         <mark key="'" line="50" column="27" />
         <mark key="[" line="30" column="45" />
@@ -597,6 +598,7 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/env/lib/python2.7/site-packages/sqlalchemy/orm/session.py" timestamp="1490083976895" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/test_base.html" timestamp="1476872382513">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="17" column="0" />
@@ -817,12 +819,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/database/models.py" timestamp="1490012511671">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/database/models.py" timestamp="1490084808106">
         <mark key="'" line="222" column="12" />
-        <mark key="[" line="215" column="4" />
-        <mark key="]" line="217" column="11" />
-        <mark key="^" line="217" column="11" />
-        <mark key="." line="217" column="11" />
+        <mark key="[" line="214" column="4" />
+        <mark key="]" line="222" column="57" />
+        <mark key="^" line="222" column="57" />
+        <mark key="." line="222" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -928,11 +930,11 @@
       <jump line="426" column="9" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOiAiMTQlIiwK</text>
+      <register name="&quot;" type="4">
+        <text>jobname</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jobname</text>
       </register>
       <register name="/" type="4">
         <text>table_release</text>
