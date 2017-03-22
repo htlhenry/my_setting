@@ -15,7 +15,7 @@
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1489482919558">
+      <file name="/a.dummy" timestamp="1490174172533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/test_config.py" timestamp="1478233875451">
@@ -65,12 +65,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490170270086">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490174900204">
         <mark key="'" line="226" column="110" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="^" line="405" column="40" />
-        <mark key="." line="406" column="0" />
+        <mark key="[" line="401" column="63" />
+        <mark key="]" line="401" column="76" />
+        <mark key="^" line="401" column="76" />
+        <mark key="." line="401" column="76" />
       </file>
       <file name="$USER_HOME$/GoProject/src/http_test/main.go" timestamp="1484713895843">
         <mark key="[" line="19" column="12" />
@@ -267,12 +267,11 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490170519965">
-        <mark key="'" line="426" column="9" />
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="517" column="0" />
-        <mark key="." line="517" column="0" />
-        <mark key="^" line="555" column="23" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490174711166">
+        <mark key="'" line="447" column="9" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/gen/ioloop_call.py" timestamp="1486966913861">
         <mark key="'" line="0" column="0" />
@@ -291,12 +290,11 @@
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/gen.py" timestamp="1486643589426">
         <mark key="'" line="599" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1490172704289">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1490174673685">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="240" column="61" />
-        <mark key="^" line="220" column="11" />
-        <mark key="." line="220" column="11" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/rpc-server.py" timestamp="1479277292016">
         <mark key="'" line="6" column="0" />
@@ -389,11 +387,11 @@
         <mark key="." line="146" column="50" />
         <mark key="^" line="146" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490170787201">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="36" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490175177153">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490088437774">
         <mark key="[" line="9" column="114" />
@@ -607,6 +605,12 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1490174556705">
+        <mark key="[" line="543" column="27" />
+        <mark key="]" line="543" column="27" />
+        <mark key="^" line="543" column="27" />
+        <mark key="." line="543" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/test_base.html" timestamp="1476872382513">
         <mark key="'" line="121" column="21" />
@@ -946,11 +950,11 @@
       <jump line="226" column="110" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>table_release</text>
@@ -959,31 +963,31 @@
         <text encoding="base64">ICAgIGpvYm5hbWUgPSByZXF1ZXN0LnZhbHVlcy5nZXQoImpvYm5hbWUiKQogICAgdGFza2lkID0gcmVxdWVzdC52YWx1ZXMuZ2V0KCJ0YXNraWQiKQogICAgaWYgbm90IGpvYm5hbWU6CiAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogNDAwMDQsICJtc2ciOiAi5Y+C5pWw6ZSZ6K+vOiDnvLrlsJFqb2JuYW1lIn0pCiAgICBpZiBub3QgdGFza2lkOgogICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDQwMDA0LCAibXNnIjogIuWPguaVsOmUmeivrzog57y65bCRdGFza2lkIn0pCiAgICB3aXRoIG1ha2VfZGIoKSBhcyBkYl9zZXNzaW9uOgogICAgICAgIGpvYm9iaiA9IGRiX3Nlc3Npb24ucXVlcnkoQ2ZNYW5hZ2VKb2IpLmZpbHRlcl9ieShqb2JuYW1lPWpvYm5hbWUpLmZpcnN0KCkKICAgICAgICBpZiBqb2JvYmo6CiAgICAgICAgICAgIHJvbGxiYWNrX2pvYiA9IGRiX3Nlc3Npb24ucXVlcnkoQ2ZNYW5hZ2VSb2xsYmFja0pvYikuZmlsdGVyX2J5KGpvYmlkPWpvYm9iai5pZCkuZmlyc3QoKQogICAgICAgICAgICByb2xsYmFja19qb2IudGFza2lkID0gdGFza2lkCiAgICAgICAgICAgIGRiX3Nlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogMjAwMDAsICJtc2ciOiAi5Zue5rua54q25oCB5pu05paw5oiQ5YqfIn0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogNTAwMDAsICJtc2ciOiAi5Zue5rua54q25oCB5pu05paw5aSx6LSlIn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gJCgiPGJ1dHRvbiBjbGFzcz0nYnRuIGJ0bi1zdWNjZXNzJz7ph43mlrDlj5HluIM8L2J1dHRvbj4iKS5vbigiY2xpY2siLCBmdW5jdGlvbigpeyN9CnsjICAgICAgICAgICAgICAgICAgICAgICAgdG9hc3RyLndhcm5pbmcoIuivpeWKn+iDveaaguaXtuacquWunueOsCIpOyN9CnsjICAgICAgICAgICAgICAgICAgICB9KTsjfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnVuY3Rpb24ganVkZ2VSb2xsYlZhY2soKSB7CiAgICAKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gKCkgewogICAgCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgam9ib2JqOgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBqb2JuYW1lOgogICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDQwMDA0LCAibXNnIjogIuWPguaVsOmUmeivrzog57y65bCRam9ibmFtZSJ9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDUwMDAwLCAibXNnIjogIuWbnua7mueKtuaAgeabtOaWsOWksei0pSJ9KQo=</text>
+        <text encoding="base64">ICAgIGpvYm5hbWUgPSByZXF1ZXN0LnZhbHVlcy5nZXQoImpvYm5hbWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9sbGJhY2tfam9iLnRhc2tpZCA9IHRhc2tpZAo=</text>
+        <text encoding="base64">ICAgICAgICBqb2JvYmogPSBkYl9zZXNzaW9uLnF1ZXJ5KENmTWFuYWdlSm9iKS5maWx0ZXJfYnkoam9ibmFtZT1qb2JuYW1lKS5maXJzdCgpCiAgICAgICAgaWYgam9ib2JqOgogICAgICAgICAgICByb2xsYmFja19qb2IgPSBkYl9zZXNzaW9uLnF1ZXJ5KENmTWFuYWdlUm9sbGJhY2tKb2IpLmZpbHRlcl9ieShqb2JpZD1qb2JvYmouaWQpLmZpcnN0KCkKICAgICAgICAgICAgcm9sbGJhY2tfam9iLnRhc2tpZCA9IHRhc2tpZAogICAgICAgICAgICBkYl9zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDIwMDAwLCAibXNnIjogIuWbnua7mueKtuaAgeabtOaWsOaIkOWKnyJ9KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDUwMDAwLCAibXNnIjogIuWbnua7mueKtuaAgeabtOaWsOWksei0pSJ9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogNTAwMDAsICJtc2ciOiAi5Zue5rua54q25oCB5pu05paw5aSx6LSlIn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2pvYmlkL3Rhc2tpZC9n</text>
