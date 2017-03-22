@@ -262,12 +262,12 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490184305980">
-        <mark key="'" line="458" column="9" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="169" column="33" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490186323117">
+        <mark key="'" line="219" column="8" />
+        <mark key="[" line="219" column="29" />
+        <mark key="]" line="219" column="41" />
+        <mark key="." line="219" column="41" />
+        <mark key="^" line="219" column="41" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/gen/ioloop_call.py" timestamp="1486966913861">
         <mark key="'" line="0" column="0" />
@@ -921,7 +921,6 @@
       <jump line="176" column="42" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="177" column="43" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="206" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
-      <jump line="219" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="220" column="35" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="323" column="32" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="337" column="32" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
@@ -949,16 +948,17 @@
       <jump line="520" column="33" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="22" column="40" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="122" column="97" filename="$USER_HOME$/opt/product_project/cfmanage/database/models.py" />
+      <jump line="219" column="8" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2luZm8uaW5mbygiY2FuaWQ9Pnt9IHRhc2tpZD0+e30iLmZvcm1hdCh0eXBlKGNhbl9pZCksIHR5cGUodGFza19pZCkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>table_release</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpvYm5hbWUgPSByZXF1ZXN0LnZhbHVlcy5nZXQoImpvYm5hbWUiKQogICAgdGFza2lkID0gcmVxdWVzdC52YWx1ZXMuZ2V0KCJ0YXNraWQiKQogICAgaWYgbm90IGpvYm5hbWU6CiAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogNDAwMDQsICJtc2ciOiAi5Y+C5pWw6ZSZ6K+vOiDnvLrlsJFqb2JuYW1lIn0pCiAgICBpZiBub3QgdGFza2lkOgogICAgICAgIHJldHVybiBqc29uaWZ5KHsiY29kZSI6IDQwMDA0LCAibXNnIjogIuWPguaVsOmUmeivrzog57y65bCRdGFza2lkIn0pCiAgICB3aXRoIG1ha2VfZGIoKSBhcyBkYl9zZXNzaW9uOgogICAgICAgIGpvYm9iaiA9IGRiX3Nlc3Npb24ucXVlcnkoQ2ZNYW5hZ2VKb2IpLmZpbHRlcl9ieShqb2JuYW1lPWpvYm5hbWUpLmZpcnN0KCkKICAgICAgICBpZiBqb2JvYmo6CiAgICAgICAgICAgIHJvbGxiYWNrX2pvYiA9IGRiX3Nlc3Npb24ucXVlcnkoQ2ZNYW5hZ2VSb2xsYmFja0pvYikuZmlsdGVyX2J5KGpvYmlkPWpvYm9iai5pZCkuZmlyc3QoKQogICAgICAgICAgICByb2xsYmFja19qb2IudGFza2lkID0gdGFza2lkCiAgICAgICAgICAgIGRiX3Nlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogMjAwMDAsICJtc2ciOiAi5Zue5rua54q25oCB5pu05paw5oiQ5YqfIn0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoeyJjb2RlIjogNTAwMDAsICJtc2ciOiAi5Zue5rua54q25oCB5pu05paw5aSx6LSlIn0pCg==</text>
@@ -995,12 +995,12 @@
       </register>
     </registers>
     <search>
-      <last-search>table_release</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>table_release</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>taskid</last-replace>
       <last-substitute>jobid</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1013,6 +1013,7 @@
         <entry>jobid</entry>
         <entry>release_obj</entry>
         <entry>table_release</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
