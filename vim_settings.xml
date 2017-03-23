@@ -380,11 +380,11 @@
         <mark key="." line="146" column="50" />
         <mark key="^" line="146" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490258000713">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="39" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490258524657">
+        <mark key="'" line="27" column="5" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/methods.py" timestamp="1490179099933">
         <mark key="[" line="9" column="31" />
@@ -855,7 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="45" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
       <jump line="135" column="15" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
       <jump line="112" column="7" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
       <jump line="12" column="0" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
@@ -955,57 +954,58 @@
       <jump line="424" column="100" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="17" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" />
       <jump line="244" column="5" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
+      <jump line="27" column="5" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqb2JOYW1lIiwgam9iTmFtZSk7CiAgICBjb25zb2xlLmxvZygidGFza2lkIiwgdGFza0lkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdW1wYmVmb3JSb2xsYmFjayBjaGVjayAiLCBjaGVjayk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>buttonDom</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>rollbackTask</text>
+        <text>let</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGNoYXJzZXQ9InV0ZjgiIHNyYz0iL3N0YXRpYy9qcy9qb2ItY29tbW9uLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqb2JOYW1lIiwgam9iTmFtZSk7CiAgICBjb25zb2xlLmxvZygidGFza2lkIiwgdGFza0lkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqdW1wYmVmb3JSb2xsYmFjayBjaGVjayAiLCBjaGVjayk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqb2JOYW1lIiwgam9iTmFtZSk7CiAgICBjb25zb2xlLmxvZygidGFza2lkIiwgdGFza0lkKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24ganVkZ2VUYXNrTWF5Um9sbGJhY2soam9ibmFtZSkgewogICAgbGV0IHNldHRpbmdzID0gewogICAgICAgICJhc3luYyI6IGZhbHNlLAogICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgInVybCI6ICIvdGFzay9nZXRfcm9sbGJhY2tfdGFzayIsCiAgICAgICAgIm1ldGhvZCI6ICJHRVQiLAogICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAiY2FjaGUtY29udHJvbCI6ICJuby1jYWNoZSIsCiAgICAgICAgfSwKICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgImpvYm5hbWUiOiBqb2JuYW1lLAogICAgICAgIH0KICAgIH0KCiAgICB2YXIgdGFza0lkID0gZmFsc2U7CgogICAgJC5hamF4KHNldHRpbmdzKS5kb25lKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgICBpZiAocmVzcG9uc2UuY29kZT09PTIwMDAwKSB7CiAgICAgICAgICAgIHRhc2tJZCA9IHJlc3BvbnNlLmRhdGEudGFza0lkOwogICAgICAgIH0KICAgIH0pCiAgICByZXR1cm4gdGFza0lkCn0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdEJ1dHRvbihwYXJhbSkgewogICAgY29uc29sZS5sb2coJCh0aGlzKS5jbG9zZXN0KCd0cicpKTsKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IiBpZD0idGVzdEJhc2UiIG9uY2xpY2s9InRlc3RCdXR0b24odGhpcykiPua1i+ivleaMiemSrjwvYnV0dG9uPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2Vycm9yLmVycm9yKCJqb2JvYmo9Pnt9Ii5mb3JtYXQoam9ib2JqKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqb2JOYW1lIiwgam9iTmFtZSk7CiAgICBjb25zb2xlLmxvZygidGFza2lkIiwgdGFza0lkKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuY3Rpb24ganVkZ2VUYXNrTWF5Um9sbGJhY2soam9ibmFtZSkgewogICAgbGV0IHNldHRpbmdzID0gewogICAgICAgICJhc3luYyI6IGZhbHNlLAogICAgICAgICJjcm9zc0RvbWFpbiI6IHRydWUsCiAgICAgICAgInVybCI6ICIvdGFzay9nZXRfcm9sbGJhY2tfdGFzayIsCiAgICAgICAgIm1ldGhvZCI6ICJHRVQiLAogICAgICAgICJoZWFkZXJzIjogewogICAgICAgICAgICAiY2FjaGUtY29udHJvbCI6ICJuby1jYWNoZSIsCiAgICAgICAgfSwKICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgImpvYm5hbWUiOiBqb2JuYW1lLAogICAgICAgIH0KICAgIH0KCiAgICB2YXIgdGFza0lkID0gZmFsc2U7CgogICAgJC5hamF4KHNldHRpbmdzKS5kb25lKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgICAgICBpZiAocmVzcG9uc2UuY29kZT09PTIwMDAwKSB7CiAgICAgICAgICAgIHRhc2tJZCA9IHJlc3BvbnNlLmRhdGEudGFza0lkOwogICAgICAgIH0KICAgIH0pCiAgICByZXR1cm4gdGFza0lkCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdEJ1dHRvbihwYXJhbSkgewogICAgY29uc29sZS5sb2coJCh0aGlzKS5jbG9zZXN0KCd0cicpKTsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IiBpZD0idGVzdEJhc2UiIG9uY2xpY2s9InRlc3RCdXR0b24odGhpcykiPua1i+ivleaMiemSrjwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2Vycm9yLmVycm9yKCJqb2JvYmo9Pnt9Ii5mb3JtYXQoam9ib2JqKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJqb2JOYW1lIiwgam9iTmFtZSk7CiAgICBjb25zb2xlLmxvZygidGFza2lkIiwgdGFza0lkKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL2xldC92YXIv</text>
       </register>
     </registers>
     <search>
-      <last-search>rollbackTask</last-search>
+      <last-search>let</last-search>
       <last-offset />
-      <last-pattern>rollbackTask</last-pattern>
-      <last-replace>checkBeforeRollback</last-replace>
-      <last-substitute>rollbackTask</last-substitute>
+      <last-pattern>let</last-pattern>
+      <last-replace>var</last-replace>
+      <last-substitute>let</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1022,9 +1022,9 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>param</entry>
         <entry>rollbackTask</entry>
+        <entry>let</entry>
       </history-search>
       <history-cmd>
-        <entry>223</entry>
         <entry>6</entry>
         <entry>230</entry>
         <entry>19</entry>
@@ -1044,6 +1044,7 @@
         <entry encoding="base64">JzwsJz5zL3BhcmFtL3Rhc2tPYmplY3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JvbGxiYWNrVGFzay9jaGVja0JlZm9yZVJvbGxiYWNrL2c=</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2xldC92YXIv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
