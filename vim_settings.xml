@@ -261,12 +261,12 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490241649901">
-        <mark key="'" line="244" column="20" />
-        <mark key="[" line="799" column="16" />
-        <mark key="]" line="799" column="31" />
-        <mark key="." line="799" column="31" />
-        <mark key="^" line="799" column="31" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490250108103">
+        <mark key="'" line="342" column="27" />
+        <mark key="[" line="799" column="20" />
+        <mark key="]" line="799" column="20" />
+        <mark key="." line="799" column="20" />
+        <mark key="^" line="96" column="91" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/tornado_learning/scripts/gen/ioloop_call.py" timestamp="1486966913861">
         <mark key="'" line="0" column="0" />
@@ -392,7 +392,7 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490088437774">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490249920591">
         <mark key="[" line="9" column="114" />
         <mark key="]" line="9" column="123" />
         <mark key="^" line="9" column="123" />
@@ -850,7 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/scripts/yield_from.py" />
       <jump line="60" column="10" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
       <jump line="27" column="61" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/clear_offline.py" />
       <jump line="171" column="19" filename="$USER_HOME$/opt/product_project/jumps-server/scripts/cli.py" />
@@ -950,13 +949,14 @@
       <jump line="219" column="8" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="244" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="1019" column="12" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="342" column="27" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
