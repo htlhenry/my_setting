@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490704163447">
+      <file name="/Dummy.txt" timestamp="1490704222064">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/commands.py" timestamp="1490692449166" />
       <file name="/a.dummy" timestamp="1490617245977">
@@ -218,11 +218,11 @@
       <jump line="120" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yLCBlOgogICAgICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJhZ2VudCB1cGRhdGUgZmFpbGVkIi5mb3JtYXQoZS5vdXRwdXQpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>\(.*\)</text>
