@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490770134277">
+      <file name="/Dummy.txt" timestamp="1490770322658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -22,6 +22,13 @@
         <mark key="]" line="182" column="51" />
         <mark key="^" line="182" column="51" />
         <mark key="." line="182" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/command_line/fork_test/fork_child.py" timestamp="1490785064350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/command_line/selfRestart.py" timestamp="1490692905002">
         <mark key="'" line="0" column="0" />
@@ -98,12 +105,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490770296251">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490785129846">
         <mark key="'" line="103" column="56" />
-        <mark key="[" line="59" column="47" />
-        <mark key="]" line="59" column="49" />
-        <mark key="." line="59" column="49" />
-        <mark key="^" line="59" column="49" />
+        <mark key="[" line="121" column="20" />
+        <mark key="]" line="121" column="19" />
+        <mark key="." line="121" column="19" />
+        <mark key="^" line="121" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490703948937">
         <mark key="[" line="365" column="24" />
@@ -113,7 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/ansible-ip.py" />
       <jump line="1547" column="38" filename="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="171" column="32" filename="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/ioloop.py" />
       <jump line="9" column="10" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
@@ -213,13 +219,14 @@
       <jump line="120" column="16" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="13" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="103" column="56" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/fork_test/fork_child.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
