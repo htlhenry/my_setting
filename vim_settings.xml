@@ -8,11 +8,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/commands.py" timestamp="1490692449166" />
       <file name="/a.dummy" timestamp="1490617245977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/configs/config.py" timestamp="1490694004493" />
       <file name="$USER_HOME$/opt/product_project/RpcService/requirements.txt" timestamp="1490699254961">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -80,7 +78,6 @@
         <mark key="." line="194" column="34" />
         <mark key="^" line="194" column="34" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/scripts/DownBulidTar.py" timestamp="1490692107268" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490672842918">
         <mark key="'" line="44" column="5" />
         <mark key="[" line="44" column="0" />
@@ -101,12 +98,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490703915118">
-        <mark key="'" line="121" column="19" />
-        <mark key="[" line="126" column="33" />
-        <mark key="]" line="127" column="11" />
-        <mark key="^" line="127" column="11" />
-        <mark key="." line="127" column="11" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490769783292">
+        <mark key="'" line="103" column="56" />
+        <mark key="[" line="121" column="60" />
+        <mark key="]" line="123" column="17" />
+        <mark key="." line="123" column="17" />
+        <mark key="^" line="123" column="17" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490703948937">
         <mark key="[" line="365" column="24" />
@@ -116,8 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="61" filename="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/monitor/views.py" />
-      <jump line="2" column="9" filename="$USER_HOME$/opt/product_project/RpcService/.editorconfig" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/ansible-ip.py" />
       <jump line="1547" column="38" filename="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="171" column="32" filename="$USER_HOME$/opt/virtualenv/tornado_learning/env/lib/python2.7/site-packages/tornado/ioloop.py" />
@@ -215,44 +210,46 @@
       <jump line="130" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common.js" />
       <jump line="122" column="1" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/selfRestart.py" />
-      <jump line="120" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="120" column="16" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="103" column="56" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgidXBkYXRlIikK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>\(.*\)</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXBbImRhdGEiXS5tYXAoZnVuY3Rpb24gKG9iaikgewogICAgICAgICAgICB2YXIgc3RhdHVzID0gb2JqWyJkZXZpY2VtYXJrIl07CiAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCJkZXZpY2VtYXJrICIsIHN0YXR1cyk7CiAgICAgICAgICAgIGp1ZGdlLnB1c2goc3RhdHVzKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yLCBlOgogICAgICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJhZ2VudCB1cGRhdGUgZmFpbGVkIi5mb3JtYXQoZS5vdXRwdXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidXBkYXRlIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBwcmludCgidXBkYXRlIGJlZm9yZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dG9ybmFkbz09NC40LjIKdG9ybmFkb3JwYz09MC4xLjEK</text>
+        <text encoding="base64">ICAgICAgICBwaWQgPSBvcy5mb3JrKCkKICAgICAgICBpZiBwaWQgPT0gMDoKICAgICAgICAgICAgc3VicHJvY2Vzcy5jaGVja19vdXRwdXQoc2hsZXguc3BsaXQoInNoIHJwY2FnZW50LnNoIHJlc3RhcnQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hlbGw9RmFsc2UsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCkKICAgICAgICAgICAgcHJpbnQoInVwZGF0ZSBpbiBmb3JrIikKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcmludCgidXBkYXRlIGFmdGVyIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygiYWx3YXlzIHJlc3BvbnNlPT4iLCByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yLCBlOgogICAgICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJhZ2VudCB1cGRhdGUgZmFpbGVkIi5mb3JtYXQoZS5vdXRwdXQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFpbCByZXNwb25zZT0+IiwgcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9ybmFkbz09NC40LjIKdG9ybmFkb3JwYz09MC4xLjEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygiYWx3YXlzIHJlc3BvbnNlPT4iLCByZXNwb25zZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmFpbCByZXNwb25zZT0+IiwgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -262,12 +259,12 @@
       </register>
     </registers>
     <search>
-      <last-search>\(.*\)</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>\(.*\)</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>\1,</last-replace>
       <last-substitute>\(.*\)</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -287,6 +284,7 @@
         <entry>index</entry>
         <entry>=</entry>
         <entry>\(.*\)</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlcy9yZXAv</entry>
