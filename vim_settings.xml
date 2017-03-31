@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/rpcagent.sh" timestamp="1490952198526">
+        <mark key="[" line="14" column="77" />
+        <mark key="]" line="14" column="77" />
+        <mark key="." line="14" column="77" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1490949120621">
         <mark key="'" line="71" column="18" />
         <mark key="[" line="71" column="9" />
@@ -89,11 +94,11 @@
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1490949033579">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1490949184588">
+        <mark key="[" line="10" column="108" />
+        <mark key="]" line="10" column="108" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="10" column="108" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490672842918">
         <mark key="'" line="44" column="5" />
@@ -115,12 +120,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490857678320">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="121" column="16" />
-        <mark key="]" line="123" column="25" />
-        <mark key="." line="123" column="25" />
-        <mark key="^" line="123" column="25" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1490952462760">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490942734946">
         <mark key="'" line="132" column="29" />
@@ -229,11 +234,11 @@
       <jump line="71" column="18" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>info_log</text>
@@ -245,28 +250,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5mb19sb2cgPSBnZXRfbG9nZ2VyKCJpbmZvIiwgImNvbW1vbiIsIGV4dHJhPXt9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW5mb19sb2cgPSBnZXRfbG9nZ2VyKCJpbmZvIiwgImNvbW1vbiIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGxvZ2dlcl9mb3JtYXQpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ2dlcl9mb3JtYXQgPSAnWyUoYXNjdGltZSlzXVslKHRocmVhZClkXVslKGxldmVsbmFtZSlzXVslKGZpbGVuYW1lKXNdW2xpbmU6JShsaW5lbm8pZF1bZnVuYzolKGZ1bmNOYW1lKXNdICAtIG1zZzolKG1lc3NhZ2UpcycKICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGxvZ2dlcl9mb3JtYXQpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW5mb19sb2cgPSBnZXRfbG9nZ2VyKCJpbmZvIiwgImNvbW1vbiIsIGV4dHJhPXt9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5mb19sb2cgPSBnZXRfbG9nZ2VyKCJpbmZvIiwgImNvbW1vbiIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyX2Zvcm1hdCA9ICdbJShhc2N0aW1lKXNdWyUodGhyZWFkKWRdWyUobGV2ZWxuYW1lKXNdWyUoZmlsZW5hbWUpc11bbGluZTolKGxpbmVubylkXVtmdW5jOiUoZnVuY05hbWUpc10gIC0gbXNnOiUobWVzc2FnZSlzJwpmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcihsb2dnZXJfZm9ybWF0KQo=</text>
+        <text encoding="base64">ICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGxvZ2dlcl9mb3JtYXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJ3cml0ZV9zdGF0ZV9maWxlIHRlc3QiKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlcl9mb3JtYXQgPSAnWyUoYXNjdGltZSlzXVslKHRocmVhZClkXVslKGxldmVsbmFtZSlzXVslKGZpbGVuYW1lKXNdW2xpbmU6JShsaW5lbm8pZF1bZnVuYzolKGZ1bmNOYW1lKXNdICAtIG1zZzolKG1lc3NhZ2UpcycKICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKGxvZ2dlcl9mb3JtYXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1woLipcKS9cMSwv</text>
