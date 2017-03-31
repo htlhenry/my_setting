@@ -3,7 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490932594473">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1490943102825">
+        <mark key="[" line="377" column="71" />
+        <mark key="]" line="377" column="73" />
+        <mark key="^" line="377" column="73" />
+        <mark key="." line="377" column="73" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
+        <mark key="[" line="126" column="51" />
+        <mark key="]" line="126" column="50" />
+        <mark key="^" line="126" column="50" />
+        <mark key="." line="126" column="50" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1490599321729">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490606755451">
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="^" line="106" column="51" />
+        <mark key="." line="315" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490695338152">
+        <mark key="'" line="105" column="19" />
+        <mark key="[" line="194" column="25" />
+        <mark key="]" line="194" column="34" />
+        <mark key="." line="194" column="34" />
+        <mark key="^" line="194" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490943117497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -27,12 +58,6 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
-        <mark key="[" line="126" column="51" />
-        <mark key="]" line="126" column="50" />
-        <mark key="^" line="126" column="50" />
-        <mark key="." line="126" column="50" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/command_line/selfRestart.py" timestamp="1490692905002">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="20" />
@@ -47,12 +72,6 @@
         <mark key="." line="121" column="6" />
         <mark key="^" line="130" column="1" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1490599321729">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="38" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/rollback.py" timestamp="1490616896251">
         <mark key="'" line="47" column="12" />
         <mark key="[" line="7" column="0" />
@@ -65,19 +84,6 @@
         <mark key="]" line="123" column="53" />
         <mark key="^" line="123" column="53" />
         <mark key="." line="123" column="53" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490606755451">
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="^" line="106" column="51" />
-        <mark key="." line="315" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1490695338152">
-        <mark key="'" line="105" column="19" />
-        <mark key="[" line="194" column="25" />
-        <mark key="]" line="194" column="34" />
-        <mark key="." line="194" column="34" />
-        <mark key="^" line="194" column="34" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" timestamp="1490672842918">
         <mark key="'" line="44" column="5" />
@@ -106,16 +112,11 @@
         <mark key="." line="123" column="25" />
         <mark key="^" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490932417770">
-        <mark key="'" line="271" column="0" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490942734946">
+        <mark key="'" line="132" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
       <jump line="10" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
       <jump line="238" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
       <jump line="213" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common_table.js" />
@@ -215,6 +216,7 @@
       <jump line="103" column="56" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="115" column="8" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="272" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="132" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
