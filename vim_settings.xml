@@ -29,6 +29,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/requests/api.py" timestamp="1491037050129" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
         <mark key="[" line="126" column="51" />
         <mark key="]" line="126" column="50" />
@@ -59,7 +60,7 @@
       <file name="$USER_HOME$/opt/virtualenv/django/produdct/qcloud_webtool/common_api/qcloud_tool/updatebandwidth.py" timestamp="1490962148279">
         <mark key="'" line="166" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491033230923">
+      <file name="/Dummy.txt" timestamp="1491038079227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491033052241">
@@ -118,19 +119,18 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491033355234">
-        <mark key="'" line="142" column="7" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="14" />
-        <mark key="^" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491038012779">
+        <mark key="'" line="163" column="38" />
+        <mark key="[" line="168" column="30" />
+        <mark key="]" line="168" column="46" />
+        <mark key="." line="168" column="46" />
+        <mark key="^" line="168" column="46" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1490942734946">
         <mark key="'" line="132" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="155" column="25" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="173" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="176" column="42" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
@@ -203,7 +203,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/command_line/fork_test/fork_child.py" />
       <jump line="120" column="16" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="11" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
-      <jump line="164" column="4" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="103" column="56" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="115" column="8" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="272" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
@@ -230,57 +229,59 @@
       <jump line="125" column="24" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="141" column="7" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="15" column="14" filename="$USER_HOME$/opt/product_project/RpcAgent/requirements.txt" />
+      <jump line="61" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="164" column="38" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dG9ybmFkb3JwYz09MC4xLjEK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>50001</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXBbImRhdGEiXS5tYXAoZnVuY3Rpb24gKG9iaikgewogICAgICAgICAgICB2YXIgc3RhdHVzID0gb2JqWyJkZXZpY2VtYXJrIl07CiAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCJkZXZpY2VtYXJrICIsIHN0YXR1cyk7CiAgICAgICAgICAgIGp1ZGdlLnB1c2goc3RhdHVzKTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9ybmFkb3JwYz09MC4xLjEK</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSBjb25maWcuZ2V0KCJTRVJWRVJfVVJMIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9ybmFkbz09NC40LjIK</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSBjb25maWcuZ2V0KCJTRVJWRVJfVVJMIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHl0aG9uLWRhZW1vbj09Mi4xLjIK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZGlyZWN0b3J5ICsgZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">anNvbnJwY2xpYj09MC4xLjcK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZGlyZWN0b3J5ICsgZmlsZV9uYW1lLCAidyIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUocmVzcG9uc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SmluamEyPT0yLjgK</text>
+        <text encoding="base64">ICAgIGltcG9ydCB1cmxsaWIyCiAgICB1ID0gdXJsbGliMi51cmxvcGVuKHVybCkKICAgIGYgPSBvcGVuKGZpbGVuYW1lLCAidyIpCiAgICBibG9ja19zeiA9IDgxOTIKICAgIHdoaWxlIFRydWU6CiAgICAgICAgYnVmZmVyID0gdS5yZWFkKGJsb2NrX3N6KQogICAgICAgIGlmIG5vdCBidWZmZXI6CiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZi53cml0ZShidWZmZXIpCiAgICBmLmNsb3NlKCkKICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aXB5dGhvbj09NS4xLjAKaXB5dGhvbi1nZW51dGlscz09MC4xLjAK</text>
+        <text encoding="base64">dG9ybmFkb3JwYz09MC4xLjEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W0RFRkFVTFRdCg==</text>
+        <text encoding="base64">dG9ybmFkbz09NC40LjIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUdFTlRfTkFNRSA9ICJScGNBZ2VudCIK</text>
+        <text encoding="base64">cHl0aG9uLWRhZW1vbj09Mi4xLjIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCB1cmwsICJuIgo=</text>
+        <text encoding="base64">anNvbnJwY2xpYj09MC4xLjcK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NldHVwL3ZlcnNpb24vZw==</text>
+        <text encoding="base64">JzwsJz5zLzUwMDAxLzUwMTAwL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>50001</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
-      <last-replace>version</last-replace>
-      <last-substitute>setup</last-substitute>
+      <last-pattern>50001</last-pattern>
+      <last-replace>50100</last-replace>
+      <last-substitute>50001</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -304,10 +305,10 @@
         <entry>update</entry>
         <entry>info_log</entry>
         <entry>setup</entry>
+        <entry>50100</entry>
+        <entry>50001</entry>
       </history-search>
       <history-cmd>
-        <entry>:76</entry>
-        <entry>76</entry>
         <entry>w</entry>
         <entry>14</entry>
         <entry>1971</entry>
@@ -326,6 +327,8 @@
         <entry encoding="base64">JzwsJz5zL1woLipcKS9cMVwsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woLipcKS9cMSwv</entry>
         <entry encoding="base64">JzwsJz5zL3NldHVwL3ZlcnNpb24vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzUwMTAw</entry>
+        <entry encoding="base64">JzwsJz5zLzUwMDAxLzUwMTAwL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
