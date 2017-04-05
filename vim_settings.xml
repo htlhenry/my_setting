@@ -63,7 +63,7 @@
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491380469652" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491376254801" />
-      <file name="/Dummy.txt" timestamp="1491380869714">
+      <file name="/Dummy.txt" timestamp="1491381346827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
@@ -126,12 +126,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491380857257">
-        <mark key="'" line="154" column="19" />
-        <mark key="[" line="206" column="47" />
-        <mark key="]" line="207" column="25" />
-        <mark key="." line="207" column="25" />
-        <mark key="^" line="207" column="25" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491381506383">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="79" column="14" />
+        <mark key="]" line="79" column="18" />
+        <mark key="." line="79" column="18" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491038892914">
         <mark key="'" line="527" column="37" />
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="9" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="1084" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="1109" column="40" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="265" column="38" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
@@ -245,10 +244,11 @@
       <jump line="83" column="20" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="110" column="11" filename="$USER_HOME$/opt/product_project/RpcAgent/deploy.py" />
       <jump line="147" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="278" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -260,33 +260,33 @@
         <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfdGVtcF9jb2RlKCIuZGVwbG95X3RtcC8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5MihzcmMsIGRlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UFJPSkVDVF9QQVRIID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5MihzcmMsIGRlc3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">UFJPSkVDVF9QQVRIID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV9jaHVuaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5ta2RpcihkaXJlY3RvcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9jaHVuaygpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5ta2RpcihkaXJlY3RvcnkpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>server_url + file_name
         rt = download_code(download_url, filename=file_name)
         if</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
