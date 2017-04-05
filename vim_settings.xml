@@ -63,7 +63,7 @@
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491380469652" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491376254801" />
-      <file name="/Dummy.txt" timestamp="1491382950649">
+      <file name="/Dummy.txt" timestamp="1491383482823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
@@ -126,12 +126,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491383479454">
-        <mark key="'" line="210" column="27" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491383768259">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="96" column="27" />
+        <mark key="." line="96" column="27" />
+        <mark key="^" line="96" column="27" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491038892914">
         <mark key="'" line="527" column="37" />
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1109" column="40" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="265" column="38" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
       <jump line="44" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" />
       <jump line="253" column="29" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
@@ -245,13 +244,14 @@
       <jump line="147" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="278" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="210" column="27" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIHJldHVybiBUcnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>50001</text>
