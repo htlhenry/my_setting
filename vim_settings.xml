@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py" timestamp="1491032026314" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/agent/__init__.py" timestamp="1491038831286">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="29" />
@@ -24,7 +23,6 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/rpcAgent.sh" timestamp="1491038211906" />
       <file name="/a.dummy" timestamp="1491049669585">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,7 +32,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/env/lib/python2.7/site-packages/requests/api.py" timestamp="1491037050129" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py" timestamp="1491373042813" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
         <mark key="[" line="126" column="51" />
         <mark key="]" line="126" column="50" />
@@ -63,7 +61,7 @@
         <mark key="^" line="106" column="51" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491038092505">
+      <file name="/Dummy.txt" timestamp="1491375225157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491033052241">
@@ -78,7 +76,6 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ConfigParser.py" timestamp="1491018658948" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/requirements.txt" timestamp="1491033434786">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="30" column="0" />
@@ -121,12 +118,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491050388291">
-        <mark key="'" line="84" column="20" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="10" />
-        <mark key="." line="57" column="10" />
-        <mark key="^" line="57" column="10" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491374994183">
+        <mark key="'" line="153" column="19" />
+        <mark key="[" line="196" column="34" />
+        <mark key="]" line="196" column="45" />
+        <mark key="." line="196" column="45" />
+        <mark key="^" line="196" column="45" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491038892914">
         <mark key="'" line="527" column="37" />
@@ -140,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="25" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="426" column="9" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="1084" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="1109" column="40" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
@@ -240,13 +236,14 @@
       <jump line="12" column="12" filename="$USER_HOME$/opt/product_project/RpcAgent/deploy.py" />
       <jump line="83" column="20" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="110" column="11" filename="$USER_HOME$/opt/product_project/RpcAgent/deploy.py" />
+      <jump line="147" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+      <register name="&quot;" type="4">
+        <text>extra_name =</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>extra_name =</text>
       </register>
       <register name="/" type="4">
         <text>50001</text>
@@ -255,31 +252,33 @@
         <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfdGVtcF9jb2RlKCIuZGVwbG95X3RtcC8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNsZWFyX3RlbXBfY29kZShBR0VOVCkK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZV9jaHVuaygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJydW5uaW5nPyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5ta2RpcihkaXJlY3RvcnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKGUpCiAgICAgICAgICAgIGNsZWFyX3RlbXBfY29kZShBR0VOVCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoK</text>
+      <register name="5" type="4">
+        <text>server_url + file_name
+        rt = download_code(download_url, filename=file_name)
+        if</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEVYQ0xVREVfRklMRVMgPSBbIi5weWMiXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNsZWFyX3RlbXBfY29kZShBR0VOVCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KCJ0YXIgemNmIHt9LnRhci5neiB7fSAtLWV4Y2x1ZGUgXCoucHljIi5mb3JtYXQoQUdFTlQgKyAiLSIgKyB2ZXJzaW9uLCBkZXBsb3lfdG1wKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJydW5uaW5nPyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uLCBlOgogICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKGUpCiAgICAgICAgICAgIGNsZWFyX3RlbXBfY29kZShBR0VOVCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzUwMDAxLzUwMTAwL2c=</text>
