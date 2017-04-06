@@ -48,21 +48,21 @@
         <mark key="." line="35" column="38" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/mytoastr.js" timestamp="1491393511093" />
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491474548629">
-        <mark key="[" line="179" column="19" />
-        <mark key="]" line="179" column="25" />
-        <mark key="^" line="179" column="25" />
-        <mark key="." line="179" column="25" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491475115490">
+        <mark key="[" line="249" column="19" />
+        <mark key="]" line="249" column="25" />
+        <mark key="^" line="249" column="25" />
+        <mark key="." line="249" column="25" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py" timestamp="1491465050348" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491459123766">
         <mark key="'" line="165" column="35" />
         <mark key="[" line="21" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491473595303">
+      <file name="/Dummy.txt" timestamp="1491474851671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="11" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -263,10 +263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
