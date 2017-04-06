@@ -70,21 +70,21 @@
         <mark key="^" line="106" column="51" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491393517436">
-        <mark key="'" line="912" column="0" />
-        <mark key="[" line="361" column="24" />
-        <mark key="]" line="191" column="31" />
-        <mark key="." line="191" column="31" />
-        <mark key="^" line="191" column="31" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491459655893">
+        <mark key="'" line="524" column="13" />
+        <mark key="[" line="393" column="6" />
+        <mark key="]" line="394" column="23" />
+        <mark key="." line="394" column="23" />
+        <mark key="^" line="394" column="23" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491388617947">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491459123766">
         <mark key="'" line="162" column="35" />
         <mark key="[" line="21" column="13" />
-        <mark key="]" line="95" column="9" />
-        <mark key="^" line="95" column="9" />
-        <mark key="." line="95" column="9" />
+        <mark key="]" line="94" column="26" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="94" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491393284138">
+      <file name="/Dummy.txt" timestamp="1491459224367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
       <jump line="234" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
       <jump line="1" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
@@ -288,13 +287,14 @@
       <jump line="9" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="27" column="19" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="577" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
+      <jump line="524" column="13" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>器</text>
+        <text>回</text>
       </register>
       <register name="-" type="4">
-        <text>器</text>
+        <text>回</text>
       </register>
       <register name="/" type="4">
         <text>50001</text>
