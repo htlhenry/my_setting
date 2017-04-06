@@ -9,19 +9,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1490949120621">
-        <mark key="'" line="71" column="18" />
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="62" column="48" />
-        <mark key="^" line="62" column="48" />
-        <mark key="." line="62" column="48" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/t.py" timestamp="1491027293525">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1491469301917">
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="4" />
+        <mark key="^" line="107" column="4" />
+        <mark key="." line="107" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1491466996839">
         <mark key="[" line="0" column="0" />
@@ -77,9 +69,10 @@
         <mark key="^" line="94" column="26" />
         <mark key="." line="94" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491468748457">
+      <file name="/Dummy.txt" timestamp="1491469185412">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -94,13 +87,6 @@
         <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491466131396" />
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/requirements.txt" timestamp="1491381338136">
-        <mark key="'" line="15" column="14" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1491465951892">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="58" />
@@ -180,13 +166,6 @@
         <mark key="]" line="585" column="7" />
         <mark key="." line="585" column="7" />
         <mark key="^" line="584" column="56" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/cfmanage.py" timestamp="1491039818580">
-        <mark key="'" line="54" column="28" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="72" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -293,7 +272,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text># This is the commit message #2:
+
+add 后端接口检查逻辑
+
+# This is the commit message #3:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #4:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #5:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #6:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #7:
+
+修改前端轮询逻辑
+
+# This is the commit message #8:
+
+fix 查询数据库返回结果调用错误
+
+# This is the commit message #9:
+
+fix 选中发布失败的机器可以发布，发布成功的机器不能发布
+
+# This is the commit message #10:
+
+fix 选中发布失败的机器可以发布，发布成功的机器不能发布
+
+# This is the commit message #1:
+
+修改前端发布自动刷新
+
+# This is the commit message #2:
+
+fix 后端回滚代码错误
+
+# This is the commit message #3:
+
+fix 后端回滚代码错误
+
+# This is the commit message #4:
+
+fix 前端回滚按钮错误显示</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -304,32 +333,82 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfdGVtcF9jb2RlKCIuZGVwbG95X3RtcC8iKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaVswXSBpbiAoZGV2aWNlX3N0YXR1cy51bl9kZXBsb3ksIGRldmljZV9zdGF0dXMud2FpdGluZywKICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3N0YXR1cy5yb2xsYmFja2luZywgZGV2aWNlX3N0YXR1cy5yb2xsYmFja19mYWlsZWQsCiAgICAgICAgICAgICAgICAgICAgIGRldmljZV9zdGF0dXMucm9sbGJhY2tfd2FpdGluZyk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+      <register name="1" type="4">
+        <text># This is the commit message #2:
+
+add 后端接口检查逻辑
+
+# This is the commit message #3:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #4:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #5:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #6:
+
+add 后端接口检查逻辑 debug
+
+# This is the commit message #7:
+
+修改前端轮询逻辑
+
+# This is the commit message #8:
+
+fix 查询数据库返回结果调用错误
+
+# This is the commit message #9:
+
+fix 选中发布失败的机器可以发布，发布成功的机器不能发布
+
+# This is the commit message #10:
+
+fix 选中发布失败的机器可以发布，发布成功的机器不能发布
+
+# This is the commit message #1:
+
+修改前端发布自动刷新
+
+# This is the commit message #2:
+
+fix 后端回滚代码错误
+
+# This is the commit message #3:
+
+fix 后端回滚代码错误
+
+# This is the commit message #4:
+
+fix 前端回滚按钮错误显示</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaVswXSBpbiAoZGV2aWNlX3N0YXR1cy51bl9kZXBsb3ksIGRldmljZV9zdGF0dXMud2FpdGluZywKICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3N0YXR1cy5yb2xsYmFja2luZywgZGV2aWNlX3N0YXR1cy5yb2xsYmFja19mYWlsZWQsCiAgICAgICAgICAgICAgICAgICAgIGRldmljZV9zdGF0dXMucm9sbGJhY2tfd2FpdGluZyk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gY3JlYXRlQWN0aW9uQnV0dG9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gY3JlYXRlQWN0aW9uQnV0dG9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBvcl8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JfKAogICAgICAgICAgICBDZk1hbmFnZURldmljZS50YXNrX2lkID09IHRhc2tfaWQKICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBvcl8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JfKAogICAgICAgICAgICBDZk1hbmFnZURldmljZS50YXNrX2lkID09IHRhc2tfaWQKICAgICAgICAgICAgKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBydDoKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJjb2RlIjogNDAwMDEsCiAgICAgICAgICAgICJtc2ciOiAi6K+l5Lu75Yqh5LiN5YWB6K645Y+R5biDIgogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
