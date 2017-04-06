@@ -40,11 +40,6 @@
         <mark key="^" line="126" column="50" />
         <mark key="." line="126" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/setup.py" timestamp="1491032249868">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491462132597">
         <mark key="'" line="58" column="14" />
         <mark key="[" line="5" column="0" />
@@ -57,11 +52,6 @@
         <mark key="]" line="35" column="38" />
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/deploy.py" timestamp="1491047058742">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/mytoastr.js" timestamp="1491393511093" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1490606755451">
@@ -77,6 +67,7 @@
         <mark key="." line="375" column="0" />
         <mark key="^" line="371" column="35" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py" timestamp="1491465050348" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491459123766">
         <mark key="'" line="162" column="35" />
         <mark key="[" line="21" column="13" />
@@ -84,9 +75,9 @@
         <mark key="^" line="94" column="26" />
         <mark key="." line="94" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491463575936">
+      <file name="/Dummy.txt" timestamp="1491465915550">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="9" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -100,6 +91,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491465009827" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/requirements.txt" timestamp="1491381338136">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="31" column="14" />
@@ -107,17 +99,18 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1491465951892">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/build.sh" timestamp="1490960892426">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1491381194244">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/subprocess.py" timestamp="1491465066596" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/agent/controllers/agent_views.py" timestamp="1491376654500">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="24" />
@@ -297,11 +290,11 @@
       <jump line="58" column="14" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>50001</text>
