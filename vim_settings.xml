@@ -59,7 +59,7 @@
         <mark key="'" line="165" column="35" />
         <mark key="[" line="21" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491475117548">
+      <file name="/Dummy.txt" timestamp="1491475753402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,11 +107,11 @@
         <mark key="^" line="123" column="53" />
         <mark key="." line="123" column="53" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491049788946">
-        <mark key="[" line="85" column="47" />
-        <mark key="]" line="85" column="47" />
-        <mark key="^" line="85" column="47" />
-        <mark key="." line="85" column="47" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491476571110">
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491471368955">
         <mark key="[" line="26" column="0" />
@@ -262,11 +262,11 @@
       <jump line="613" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
@@ -275,18 +275,30 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlcGxveV9zaCA9ICJycGNBZ2VudC5zaCIKICAgIHJlcSA9ICJyZXF1aXJlbWVudHMudHh0IgogICAgdmVyID0gIi52ZXJzaW9uIgogICAga2V5cyA9ICJrZXlzIgogICAgY29uZmlncyA9ICJjb25maWdzIgogICAgYWdlbnRfcHkgPSAiQ2ZnUnBjQWdlbnQucHkiCiAgICBmaWxlcyA9IFtkZXBsb3lfc2gsIHJlcSwgdmVyLCBrZXlzLCBjb25maWdzLCBhZ2VudF9weV0KICAgIGZvciBpIGluIGZpbGVzOgogICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KCJjcCAtZnIge30ge30iLmZvcm1hdChpLCBkZXBsb3lfdG1wKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hlbGw9RmFsc2UpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9zLm1rZGlyKGRlcGxveV90bXApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb3B5X2NvbmZpZyhlbnYpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhc2tUYWJsZSA9ICQoKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>Merge branch 'dev' of gitlab.intra.wepiao.com:wpas/cfmanage into feature_hantenglei
 
 # Conflicts:
 #	static/js/job-common.js</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text># This is the commit message #2:
 
 add 后端接口检查逻辑
@@ -339,20 +351,8 @@ fix 后端回滚代码错误
 
 fix 前端回滚按钮错误显示</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaVswXSBpbiAoZGV2aWNlX3N0YXR1cy51bl9kZXBsb3ksIGRldmljZV9zdGF0dXMud2FpdGluZywKICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3N0YXR1cy5yb2xsYmFja2luZywgZGV2aWNlX3N0YXR1cy5yb2xsYmFja19mYWlsZWQsCiAgICAgICAgICAgICAgICAgICAgIGRldmljZV9zdGF0dXMucm9sbGJhY2tfd2FpdGluZyk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gY3JlYXRlQWN0aW9uQnV0dG9uKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaVswXSBpbiAoZGV2aWNlX3N0YXR1cy51bl9kZXBsb3ksIGRldmljZV9zdGF0dXMud2FpdGluZywKICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3N0YXR1cy5yb2xsYmFja2luZywgZGV2aWNlX3N0YXR1cy5yb2xsYmFja19mYWlsZWQsCiAgICAgICAgICAgICAgICAgICAgIGRldmljZV9zdGF0dXMucm9sbGJhY2tfd2FpdGluZyk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
