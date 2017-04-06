@@ -47,6 +47,7 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/serving.py" timestamp="1491478489197" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/mytoastr.js" timestamp="1491393511093" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491475150915">
         <mark key="[" line="249" column="19" />
@@ -54,12 +55,12 @@
         <mark key="^" line="249" column="25" />
         <mark key="." line="249" column="25" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py" timestamp="1491465050348" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py" timestamp="1491478175781" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491459123766">
         <mark key="'" line="165" column="35" />
         <mark key="[" line="21" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491475753402">
+      <file name="/Dummy.txt" timestamp="1491478705224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -76,7 +77,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491466131396" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491478526302" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/api/decorators.py" timestamp="1491465951892">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="58" />
@@ -88,7 +89,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/subprocess.py" timestamp="1491465066596" />
+      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/subprocess.py" timestamp="1491478124199" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/agent/controllers/agent_views.py" timestamp="1491376654500">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="24" />
@@ -107,7 +108,7 @@
         <mark key="^" line="123" column="53" />
         <mark key="." line="123" column="53" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491476571110">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491476597809">
         <mark key="[" line="83" column="1" />
         <mark key="]" line="83" column="0" />
         <mark key="^" line="83" column="0" />
@@ -144,12 +145,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491384742277">
-        <mark key="'" line="94" column="3" />
-        <mark key="[" line="204" column="26" />
-        <mark key="]" line="204" column="25" />
-        <mark key="." line="204" column="25" />
-        <mark key="^" line="204" column="25" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491478744129">
+        <mark key="'" line="93" column="3" />
+        <mark key="[" line="208" column="56" />
+        <mark key="]" line="211" column="37" />
+        <mark key="." line="211" column="37" />
+        <mark key="^" line="211" column="37" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491474530371">
         <mark key="'" line="613" column="7" />
@@ -263,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2VudmlyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
@@ -275,84 +276,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X2VudmlyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGxveV9zaCA9ICJycGNBZ2VudC5zaCIKICAgIHJlcSA9ICJyZXF1aXJlbWVudHMudHh0IgogICAgdmVyID0gIi52ZXJzaW9uIgogICAga2V5cyA9ICJrZXlzIgogICAgY29uZmlncyA9ICJjb25maWdzIgogICAgYWdlbnRfcHkgPSAiQ2ZnUnBjQWdlbnQucHkiCiAgICBmaWxlcyA9IFtkZXBsb3lfc2gsIHJlcSwgdmVyLCBrZXlzLCBjb25maWdzLCBhZ2VudF9weV0KICAgIGZvciBpIGluIGZpbGVzOgogICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KCJjcCAtZnIge30ge30iLmZvcm1hdChpLCBkZXBsb3lfdG1wKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hlbGw9RmFsc2UpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9zLm1rZGlyKGRlcGxveV90bXApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5X2NvbmZpZyhlbnYpCg==</text>
+        <text encoding="base64">ICAgIGRlcGxveV9zaCA9ICJycGNBZ2VudC5zaCIKICAgIHJlcSA9ICJyZXF1aXJlbWVudHMudHh0IgogICAgdmVyID0gIi52ZXJzaW9uIgogICAga2V5cyA9ICJrZXlzIgogICAgY29uZmlncyA9ICJjb25maWdzIgogICAgYWdlbnRfcHkgPSAiQ2ZnUnBjQWdlbnQucHkiCiAgICBmaWxlcyA9IFtkZXBsb3lfc2gsIHJlcSwgdmVyLCBrZXlzLCBjb25maWdzLCBhZ2VudF9weV0KICAgIGZvciBpIGluIGZpbGVzOgogICAgICAgIHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KCJjcCAtZnIge30ge30iLmZvcm1hdChpLCBkZXBsb3lfdG1wKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hlbGw9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgIG9zLm1rZGlyKGRlcGxveV90bXApCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb3B5X2NvbmZpZyhlbnYpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhc2tUYWJsZSA9ICQoKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Merge branch 'dev' of gitlab.intra.wepiao.com:wpas/cfmanage into feature_hantenglei
 
 # Conflicts:
 #	static/js/job-common.js</text>
-      </register>
-      <register name="8" type="4">
-        <text># This is the commit message #2:
-
-add 后端接口检查逻辑
-
-# This is the commit message #3:
-
-add 后端接口检查逻辑 debug
-
-# This is the commit message #4:
-
-add 后端接口检查逻辑 debug
-
-# This is the commit message #5:
-
-add 后端接口检查逻辑 debug
-
-# This is the commit message #6:
-
-add 后端接口检查逻辑 debug
-
-# This is the commit message #7:
-
-修改前端轮询逻辑
-
-# This is the commit message #8:
-
-fix 查询数据库返回结果调用错误
-
-# This is the commit message #9:
-
-fix 选中发布失败的机器可以发布，发布成功的机器不能发布
-
-# This is the commit message #10:
-
-fix 选中发布失败的机器可以发布，发布成功的机器不能发布
-
-# This is the commit message #1:
-
-修改前端发布自动刷新
-
-# This is the commit message #2:
-
-fix 后端回滚代码错误
-
-# This is the commit message #3:
-
-fix 后端回滚代码错误
-
-# This is the commit message #4:
-
-fix 前端回滚按钮错误显示</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaVswXSBpbiAoZGV2aWNlX3N0YXR1cy51bl9kZXBsb3ksIGRldmljZV9zdGF0dXMud2FpdGluZywKICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX3N0YXR1cy5yb2xsYmFja2luZywgZGV2aWNlX3N0YXR1cy5yb2xsYmFja19mYWlsZWQsCiAgICAgICAgICAgICAgICAgICAgIGRldmljZV9zdGF0dXMucm9sbGJhY2tfd2FpdGluZyk6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
