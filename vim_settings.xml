@@ -23,8 +23,10 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1491388623965">
+      <file name="/a.dummy" timestamp="1491466996839">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/.version" timestamp="1491033168273">
         <mark key="[" line="0" column="0" />
@@ -40,12 +42,12 @@
         <mark key="^" line="126" column="50" />
         <mark key="." line="126" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491466203872">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491467486222">
         <mark key="'" line="58" column="14" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="23" column="7" />
-        <mark key="^" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="75" column="14" />
+        <mark key="^" line="75" column="14" />
+        <mark key="." line="75" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1491387489869">
         <mark key="[" line="35" column="0" />
@@ -60,7 +62,7 @@
         <mark key="^" line="106" column="51" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491466197987">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491467088347">
         <mark key="'" line="524" column="13" />
         <mark key="[" line="374" column="9" />
         <mark key="]" line="375" column="7" />
@@ -291,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>table_release_task_objn</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>table_release_task_objn</text>
       </register>
       <register name="/" type="4">
         <text>50001</text>
@@ -303,34 +305,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY2xlYXJfdGVtcF9jb2RlKCIuZGVwbG95X3RtcC8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gY3JlYXRlQWN0aW9uQnV0dG9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCh0YXNrVGFibGUuYWpheC5yZWxvYWQsIDMwMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb25maWdfYnV0dG9uID0gY3JlYXRlQWN0aW9uQnV0dG9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBvcl8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JfKAogICAgICAgICAgICBDZk1hbmFnZURldmljZS50YXNrX2lkID09IHRhc2tfaWQKICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBvcl8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3JfKAogICAgICAgICAgICBDZk1hbmFnZURldmljZS50YXNrX2lkID09IHRhc2tfaWQKICAgICAgICAgICAgKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBydDoKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJjb2RlIjogNDAwMDEsCiAgICAgICAgICAgICJtc2ciOiAi6K+l5Lu75Yqh5LiN5YWB6K645Y+R5biDIgogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBydDoKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJjb2RlIjogNDAwMDEsCiAgICAgICAgICAgICJtc2ciOiAi6K+l5Lu75Yqh5LiN5YWB6K645Y+R5biDIgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBydDoKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJjb2RlIjogNDAwMDEsCiAgICAgICAgICAgICJtc2ciOiAi6K+l5Lu75Yqh5LiN5YWB6K645Y+R5biDIgogICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBydDoKICAgICAgICByZXR1cm4ganNvbmlmeSh7CiAgICAgICAgICAgICJjb2RlIjogNDAwMDEsCiAgICAgICAgICAgICJtc2ciOiAi6K+l5Lu75Yqh5LiN5YWB6K645Y+R5biDIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>77</text>
       </register>
     </registers>
     <search>
@@ -366,7 +368,6 @@
         <entry>50001</entry>
       </history-search>
       <history-cmd>
-        <entry>1971</entry>
         <entry>1545</entry>
         <entry>664</entry>
         <entry>667</entry>
@@ -386,6 +387,7 @@
         <entry>wq</entry>
         <entry>707</entry>
         <entry>w</entry>
+        <entry>77</entry>
       </history-cmd>
       <history-expr />
       <history-input />
