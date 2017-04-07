@@ -16,7 +16,7 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1491565778888">
+      <file name="/Python Console" timestamp="1491565836961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1491556362979">
@@ -53,9 +53,9 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/serving.py" timestamp="1491549953476" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/serving.py" timestamp="1491566095056" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/rfc822.py" timestamp="1491550611355" />
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/app.py" timestamp="1491548983633" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/app.py" timestamp="1491566062912" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491564327485">
         <mark key="'" line="639" column="119" />
         <mark key="[" line="249" column="19" />
@@ -82,8 +82,8 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491565817230">
-        <mark key="'" line="157" column="31" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491566247724">
+        <mark key="'" line="191" column="31" />
         <mark key="[" line="245" column="15" />
         <mark key="]" line="245" column="37" />
         <mark key="." line="245" column="37" />
@@ -107,7 +107,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1491551063967" />
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/hello.py" timestamp="1491565569192">
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/hello.py" timestamp="1491566045118">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="26" />
         <mark key="]" line="17" column="9" />
@@ -146,6 +146,13 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/t.py" timestamp="1491566658225">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1490949184588">
         <mark key="[" line="10" column="108" />
         <mark key="]" line="10" column="108" />
@@ -179,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1019" column="12" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
-      <jump line="342" column="27" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
-      <jump line="724" column="22" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="796" column="1" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="229" column="30" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="182" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
@@ -279,10 +283,13 @@
       <jump line="44" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/rpcAgent.sh" />
       <jump line="639" column="119" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="157" column="31" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
+      <jump line="191" column="31" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/t.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/t.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJ1biBjb250aW51ZSBvbmU/IikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>excuteable</text>
@@ -294,31 +301,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJ1biBjb250aW51ZSBvbmU/IikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJ1biB0aGVyZT8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJ1biBjb250aW51ZSBvbmU/IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIndoYXQgY2FuIGkgZG8/IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInJ1biB0aGVyZT8iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgib2xkX3RpbWUgaXMgbm9uZT8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIndoYXQgY2FuIGkgZG8/IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgib2xkX3RpbWUgaXMgbm9uZT8iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YSBhbmQgZGF0YVswXSA9PSAiMTAiOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcC4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YSBhbmQgZGF0YVswXSA9PSAiMTAiOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZWNobyAic3RhcnRpbmcgIGFnZW50Igo=</text>
+        <text encoding="base64">ICAgIGFwcC4oCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBBY3RpdmF0ZSB0aGUgcHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQK</text>
+        <text encoding="base64">ICAgZWNobyAic3RhcnRpbmcgIGFnZW50Igo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
