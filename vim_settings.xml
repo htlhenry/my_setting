@@ -16,7 +16,10 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1491556350093">
+      <file name="/Python Console" timestamp="1491557570390">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1491556362979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1491482209885">
@@ -44,13 +47,6 @@
         <mark key="^" line="126" column="50" />
         <mark key="." line="126" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491471631637">
-        <mark key="'" line="58" column="14" />
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="84" column="36" />
-        <mark key="^" line="84" column="36" />
-        <mark key="." line="84" column="36" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1491387489869">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="38" />
@@ -67,6 +63,7 @@
         <mark key="." line="249" column="25" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/datastructures.py" timestamp="1491548796924" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" timestamp="1491560232338" />
       <file name="/Dummy.txt" timestamp="1491555980037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -108,7 +105,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1491551063967" />
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/hello.py" timestamp="1491556356708">
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/hello.py" timestamp="1491558347341">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="24" />
@@ -121,11 +118,11 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/helpers.py" timestamp="1491392382553">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="20" column="24" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/helpers.py" timestamp="1491560547183">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/mimetools.py" timestamp="1491551123634" />
       <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1491552355875" />
@@ -164,20 +161,6 @@
         <mark key="]" line="34" column="12" />
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491478744129">
-        <mark key="'" line="93" column="3" />
-        <mark key="[" line="208" column="56" />
-        <mark key="]" line="211" column="37" />
-        <mark key="." line="211" column="37" />
-        <mark key="^" line="211" column="37" />
-      </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491474530371">
-        <mark key="'" line="613" column="7" />
-        <mark key="[" line="617" column="31" />
-        <mark key="]" line="617" column="31" />
-        <mark key="^" line="617" column="31" />
-        <mark key="." line="617" column="31" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490602359903">
         <mark key="[" line="9" column="120" />
@@ -290,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcC4oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
@@ -302,31 +285,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcC4oCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgZWNobyAic3RhcnRpbmcgIGFnZW50Igo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBBY3RpdmF0ZSB0aGUgcHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LiAvZGF0YS9vcHMvUnBjQWdlbnQvZW52L2Jpbi9hY3RpdmF0ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LiAvZXRjL2luaXQuZC9mdW5jdGlvbnMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YSBhbmQgZGF0YVswXSA9PSAiMTAiOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFwcC4oCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgZWNobyAic3RhcnRpbmcgIGFnZW50Igo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBBY3RpdmF0ZSB0aGUgcHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LiAvZGF0YS9vcHMvUnBjQWdlbnQvZW52L2Jpbi9hY3RpdmF0ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kID0gIlwwMzNbMG0iCg==</text>
+        <text encoding="base64">LiAvZXRjL2luaXQuZC9mdW5jdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC1lICJcMDMzWzMzbSDpu4ToibLlrZcgXDAzM1swbSIKZWNobyAtZSAiXDAzM1szNG0g6JOd6Imy5a2XIFwwMzNbMG0iCmVjaG8gLWUgIlwwMzNbMzVtIOe0q+iJsuWtlyBcMDMzWzBtIgplY2hvIC1lICJcMDMzWzM2bSDlpKnok53lrZcgXDAzM1swbSIKZWNobyAtZSAiXDAzM1szN20g55m96Imy5a2XIFwwMzNbMG0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IlwwMzNbMzBtIOm7keiJsuWtlyBcMDMzWzBtIgo=</text>
+        <text encoding="base64">ZW5kID0gIlwwMzNbMG0iCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
