@@ -162,6 +162,13 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491563950683">
+        <mark key="'" line="93" column="3" />
+        <mark key="[" line="205" column="24" />
+        <mark key="]" line="205" column="33" />
+        <mark key="." line="205" column="33" />
+        <mark key="^" line="205" column="33" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490602359903">
         <mark key="[" line="9" column="120" />
         <mark key="]" line="9" column="124" />
@@ -272,11 +279,11 @@
       <jump line="44" column="9" filename="$USER_HOME$/opt/product_project/RpcAgent/rpcAgent.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>excuteable</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>excuteable</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
