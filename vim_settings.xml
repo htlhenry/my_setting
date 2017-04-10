@@ -67,8 +67,8 @@
         <mark key="^" line="335" column="5" />
         <mark key="." line="335" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491805847449">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1491808135979">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -174,12 +174,12 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491804874132">
-        <mark key="'" line="264" column="11" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491808164308">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="261" column="22" />
+        <mark key="]" line="261" column="22" />
+        <mark key="." line="261" column="22" />
+        <mark key="^" line="278" column="22" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491474530371">
         <mark key="'" line="613" column="7" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="100" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="424" column="100" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="17" column="4" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/task_common.js" />
@@ -296,13 +295,14 @@
       <jump line="75" column="26" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="105" column="22" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
       <jump line="263" column="11" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>不能发布时结束循环</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>不能发布时结束循环</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
@@ -311,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrVGFibGUuYWpheC5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAxOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaWRmaWxlX3BhdGggPSBjb25maWcuZ2V0KCJQSUQiKQogICAgICAgIHBpZCA9IG9zLmdldHBpZCgpCiAgICAgICAgd2l0aCBvcGVuKHBpZGZpbGVfcGF0aCwgIncrdCIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoc3RyKHBpZCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciB0YXNrVGFibGUgPSAkKCIjIikuRGF0YVRhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaWRmaWxlX3BhdGggPSBjb25maWcuZ2V0KCJQSUQiKQogICAgICAgIHBpZCA9IG9zLmdldHBpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuYWpheC5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrVGFibGUuYWpheC5yZWxvYWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuYWpheC5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwbm9wZT09MC4xLjAKYmFja3BvcnRzLWFiYz09MC41CmJhY2twb3J0cy5zaHV0aWwtZ2V0LXRlcm1pbmFsLXNpemU9PTEuMC4wCmNlcnRpZmk9PTIwMTYuOS4yNgpjZmZpPT0xLjguMwpjbGljaz09Ni42CmNyeXB0b2dyYXBoeT09MS41LjMKZGVjb3JhdG9yPT00LjAuMTAKZG9jdXRpbHM9PTAuMTMuMQplbnVtMzQ9PTEuMS42CmlkbmE9PTIuMQppcGFkZHJlc3M9PTEuMC4xNwppdHNkYW5nZXJvdXM9PTAuMjQKbG9ja2ZpbGU9PTAuMTIuMgpNYXJrdXBTYWZlPT0wLjIzCnBhdGhsaWIyPT0yLjEuMApwZXhwZWN0PT00LjIuMQpwaWNrbGVzaGFyZT09MC43LjQKcHJvbXB0LXRvb2xraXQ9PTEuMC45CnB0eXByb2Nlc3M9PTAuNS4xCnB5YXNuMT09MC4xLjkKcHljcGFyc2VyPT0yLjE3ClB5Z21lbnRzPT0yLjEuMwpweU9wZW5TU0w9PTE2LjIuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdHM9PTIuMTMuMApzZXR1cGZpbGVzPT0wLjAuMTMKc2ltcGxlZ2VuZXJpYz09MC44LjEKc2luZ2xlZGlzcGF0Y2g9PTMuNC4wLjMKc2l4PT0xLjEwLjAKdHJhaXRsZXRzPT00LjMuMQp3Y3dpZHRoPT0wLjEuNwo=</text>
+        <text encoding="base64">ICAgIHZhciB0YXNrVGFibGUgPSAkKCIjIikuRGF0YVRhYmxlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24uZHVtcHMoewogICAgICAgICAgICAgICAgImNvZGUiOiAyMDAwMCwKICAgICAgICAgICAgICAgICJleGl0X2NvZGUiOiBleGl0X2NvZGUKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGUuYWpheC5yZWxvYWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
