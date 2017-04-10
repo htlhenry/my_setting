@@ -45,12 +45,12 @@
         <mark key="^" line="126" column="50" />
         <mark key="." line="126" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491471631637">
-        <mark key="'" line="58" column="14" />
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="84" column="36" />
-        <mark key="^" line="84" column="36" />
-        <mark key="." line="84" column="36" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1491823280287">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="103" column="36" />
+        <mark key="^" line="103" column="36" />
+        <mark key="." line="103" column="36" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1491387489869">
         <mark key="[" line="35" column="0" />
@@ -59,7 +59,7 @@
         <mark key="." line="35" column="38" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/serving.py" timestamp="1491813446268" />
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/app.py" timestamp="1491813647857" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/app.py" timestamp="1491813697187" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491805832796">
         <mark key="'" line="641" column="119" />
         <mark key="[" line="271" column="31" />
@@ -140,11 +140,11 @@
         <mark key="^" line="123" column="53" />
         <mark key="." line="123" column="53" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491471368955">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491476597809">
         <mark key="[" line="83" column="1" />
@@ -177,6 +177,7 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/database/models.py" timestamp="1491822778281" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1491811383785">
         <mark key="'" line="21" column="10" />
         <mark key="[" line="206" column="30" />
@@ -184,12 +185,12 @@
         <mark key="." line="207" column="44" />
         <mark key="^" line="207" column="44" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491474530371">
-        <mark key="'" line="613" column="7" />
-        <mark key="[" line="617" column="31" />
-        <mark key="]" line="617" column="31" />
-        <mark key="^" line="617" column="31" />
-        <mark key="." line="617" column="31" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" timestamp="1491823442099">
+        <mark key="'" line="591" column="3" />
+        <mark key="[" line="591" column="4" />
+        <mark key="]" line="595" column="31" />
+        <mark key="^" line="595" column="31" />
+        <mark key="." line="595" column="31" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490602359903">
         <mark key="[" line="9" column="120" />
@@ -199,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="14" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/common.js" />
-      <jump line="401" column="50" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
       <jump line="304" column="115" filename="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" />
       <jump line="44" column="12" filename="$USER_HOME$/opt/product_project/cfmanage/classes/rollback.py" />
       <jump line="110" column="43" filename="$USER_HOME$/opt/product_project/cfmanage/scripts/GetDeviceState.py" />
@@ -273,7 +271,6 @@
       <jump line="16" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="553" column="17" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="28" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="27" column="19" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="577" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="524" column="13" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
@@ -299,13 +296,17 @@
       <jump line="117" column="36" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
       <jump line="1567" column="0" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
       <jump line="1572" column="14" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
+      <jump line="8" column="60" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
+      <jump line="112" column="29" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
+      <jump line="9" column="21" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
+      <jump line="591" column="3" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
@@ -314,31 +315,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtzeXMuZXhlY3V0YWJsZV0gKyBzeXMuYXJndgogICAgICAgICAgICBuZXdfZW52aXJvbiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgICAgIHN5cy5leGl0KHN1YnByb2Nlc3MuY2FsbChhcmdzLCBlbnY9bmV3X2Vudmlyb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZV9mZHM9RmFsc2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN1Y2Nlc3MgPSAiMjEwMDEiCiAgICAgICAgc2VsZi5mYWlsZWQgPSAiMjEwMDIiCiAgICAgICAgc2VsZi5zdG9wID0gIjIxMDAzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtzeXMuZXhlY3V0YWJsZV0gKyBzeXMuYXJndgogICAgICAgICAgICBuZXdfZW52aXJvbiA9IG9zLmVudmlyb24uY29weSgpCiAgICAgICAgICAgIHN5cy5leGl0KHN1YnByb2Nlc3MuY2FsbChhcmdzLCBlbnY9bmV3X2Vudmlyb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZV9mZHM9RmFsc2UpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVsb2RlciA9IFJlbG9hZGVyTG9vcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgc3RhcnQ/IHt9Ii5mb3JtYXQob3MuZ2V0cGlkKCkpKQo=</text>
+        <text encoding="base64">cmVsb2RlciA9IFJlbG9hZGVyTG9vcCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgid2hhdCBoYXBwZW5kPz8iKQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBLZXlib2FyZEludGVycnVwdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RhcnQ/IikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgc3RhcnQ/IHt9Ii5mb3JtYXQob3MuZ2V0cGlkKCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgid2hhdCBoYXBwZW5kPz8iKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</text>
