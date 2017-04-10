@@ -67,10 +67,10 @@
         <mark key="^" line="335" column="5" />
         <mark key="." line="335" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491805678131">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1491805847449">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -298,11 +298,11 @@
       <jump line="263" column="11" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrVGFibGUuYWpheC5yZWxvYWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>不能发布时结束循环</text>
       </register>
       <register name="-" type="4">
-        <text>table_release_task</text>
+        <text>不能发布时结束循环</text>
       </register>
       <register name="/" type="4">
         <text>response</text>
