@@ -103,7 +103,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491997152884">
+      <file name="/Dummy.txt" timestamp="1491997524734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -127,11 +127,11 @@
         <mark key="." line="245" column="37" />
         <mark key="^" line="245" column="37" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/tasks/main.yml" timestamp="1491997101141">
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="61" />
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/tasks/main.yml" timestamp="1491997517783">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
       </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/files/update.sh" timestamp="1491992575945">
         <mark key="[" line="0" column="19" />
@@ -365,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>fix command 语法错误，没有被引号包</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>fix command 语法错误，没有被引号包</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
