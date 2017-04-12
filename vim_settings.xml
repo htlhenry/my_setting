@@ -9,6 +9,13 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/vars/main.yml" timestamp="1491994816236">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1491989850170">
         <mark key="'" line="225" column="11" />
         <mark key="[" line="222" column="28" />
@@ -28,12 +35,6 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1491813642787">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1491556362979">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1491482209885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -44,6 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/README.md" timestamp="1491995188924">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
         <mark key="[" line="126" column="51" />
@@ -64,6 +71,12 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/tasks/main.yml" timestamp="1491994604579">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1491805832796">
         <mark key="'" line="641" column="119" />
         <mark key="[" line="271" column="31" />
@@ -71,10 +84,22 @@
         <mark key="^" line="335" column="5" />
         <mark key="." line="335" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491989859986">
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/.gitignore" timestamp="1491995017999">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/.gitignore" timestamp="1491995436960">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="4" />
+        <mark key="^" line="92" column="4" />
+        <mark key="." line="92" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491995253686">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -94,6 +119,12 @@
         <mark key="]" line="245" column="37" />
         <mark key="." line="245" column="37" />
         <mark key="^" line="245" column="37" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/files/update.sh" timestamp="1491992575945">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/index.js" timestamp="1491552966599">
         <mark key="[" line="167" column="0" />
@@ -218,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="0" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="132" column="29" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
       <jump line="474" column="53" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="67" column="13" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="450" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
@@ -318,81 +347,64 @@
       <jump line="199" column="44" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="251" column="21" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="222" column="11" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
+      <jump line="29" column="2" filename="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/vars/main.yml" />
+      <jump line="83" column="4" filename="$USER_HOME$/opt/product_project/ansible-playbook/deploy/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">L2RhdGEvc29mdC9weXRob24K</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>update_agent</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2RhdGEvc29mdC9weXRob24K</text>
+        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS8KcnBjQWdlbnQvZmlsZXMvCnJwY0FnZW50L3RlbXBsYXRlcy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGFyZ3MuYWN0aW9uID09ICJ1cGRhdGUiOgogICAgICAgICAgICBhZ2VudCA9IFJwY0NsaWVudCgpCg==</text>
+        <text encoding="base64">CnB5dGhvbl9yZXBvOiAiaHR0cDovL2dpdGxhYi5vcGRldi53ZXBpYW8uY29tL29wcy9weXRob24uZ2l0IgoKY2xpbWJfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvY2xpbWIuZ2l0IgoKYWdlbnRfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvUnBjQWdlbnQuZ2l0IgoKcHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIKCmFnZW50X3BhdGg6ICIvZGF0YS9vcHMvUnBjQWdlbnQiCgpjbGltYl9wYXRoOiAiL2RhdGEvb3BzL2NsaW1iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGJfbG9nID0gZ2V0X2xvZ2dlcigiZGIiLCAiZGIiKQo=</text>
+        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbgogIGZpbGU6IHBhdGg9e3sgaXRlbSB9fSBzdGF0ZT1kaXJlY3RvcnkgbW9kZT0wNzU1CiAgd2l0aF9pdGVtczoKICAgICJ7eyBvcHNfcGF0aCB9fSIKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGxvZ2dlcl9tb2R1bGU6CiAgICAgICAgbG9nX2RpciA9ICIlcy8lcy8iICUgKGNvbmZpZy5nZXQoIkxPR19ESVIiKSwgbG9nZ2VyX21vZHVsZSkK</text>
+        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgcHl0aG9uX3BhdGggfX0gfCB3YyAtbAogIHJlZ2lzdGVyOiBweV9udW0KCi0gbmFtZTogY29uZmlybSBjbGltYiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgY2xpbWJfcGF0aCB9fSB8IHdjIC1sCiAgcmVnaXN0cnk6IGNsaW1iX251bQoKLSBuYW1lOiBjb25maXJtIGFnZW50IGVtcHR5CiAgc2hlbGw6IGxzIC1saCB7eyBhZ2VudF9wYXRoIH19IHwgd2MgLWwKICByZWdpc3RyeTogYWdlbnRfbnVtCgotIG5hbWU6IGNsb25lIHB5dGhvbgogIHNoZWxsOiBnaXQgY2xvbmUge3sgcHl0aG9uX3JlcG8gfX0ge3sgcHl0aG9uX3BhdGggfX0KICB3aGVuOiBweV9udW0gPT0gMAoKLSBuYW1lOiBjbG9uZSBjbGltYgogIHNoZWxsOiBnaXQgY2xvbmUge3sgY2xpbWJfcmVwbyB9fSB7eyBjbGltYl9wYXRoIH19CiAgd2hlbjogY2xpbWJfbnVtID09IDAKCi0gbmFtZTogY2xvbmUgYWdlbnQKICBzaGVsbDogZ2l0IGNsb25lIHt7IGFnZW50X3JlcG8gfX0ge3sgYWdlbnRfcGF0aCB9fQogIHdoZW46IGFnZW50X251bSA9PSAwCiAgCi0gbmFtZTogZ2l0IHB1bGwKICBzaGVsbDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfYWdlbnQK</text>
+        <text encoding="base64">b3BzX3BhdGg6CiAgLSB7CiAgICAiL2RhdGEvb3BzL2NsaW1iIgogIH0KCiAgLSB7CiAgICAiL2RhdGEvb3BzL1JwY0FnZW50IgogIH0KICAKICAtIHsKICAgICIvZGF0YS9zb2Z0L3B5dGhvbiIKICB9Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text># This is the commit message #2:
-
-debug 进程退出
-
-# This is the commit message #3:
-
-debug 进程退出
-
-# This is the commit message #4:
-
-debug 进程退出
-
-# This is the commit message #5:
-
-debug 进程退出
-
-# This is the commit message #6:
-
-debug 进程退出</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">cHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgU3lzdGVtRXhpdDoK</text>
+        <text encoding="base64">Y2xpbWJfcGF0aDogIi9kYXRhL29wcy9jbGltYiIKCmFnZW50X3BhdGg6ICJkYXRhL29wcy9ScGNBZ2VudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IFtvcy5dCg==</text>
+        <text encoding="base64">L2RhdGEvc29mdC9weXRob24K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>update_agent</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>update_agent</last-pattern>
-      <last-replace>rep</last-replace>
-      <last-substitute>response</last-substitute>
+      <last-pattern>path</last-pattern>
+      <last-replace>dest</last-replace>
+      <last-substitute>path</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>int</entry>
         <entry>man(</entry>
         <entry>res</entry>
         <entry>jobid</entry>
@@ -412,9 +424,9 @@ debug 进程退出</text>
         <entry>50001</entry>
         <entry>response</entry>
         <entry>update_agent</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
-        <entry>667</entry>
         <entry encoding="base64">JzwsJz5zL2pvYmlkL3Rhc2tpZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhcmFtL3Rhc2tPYmplY3Qv</entry>
         <entry encoding="base64">JzwsJz5zL3BhcmFtL3Rhc2tPYmplY3QvZw==</entry>
@@ -434,6 +446,7 @@ debug 进程退出</text>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</entry>
         <entry>177</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
