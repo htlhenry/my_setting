@@ -105,10 +105,10 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492075405246">
+      <file name="/Dummy.txt" timestamp="1492076402873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="32" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -209,12 +209,12 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492076390481">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="68" column="39" />
-        <mark key="]" line="68" column="37" />
-        <mark key="." line="68" column="37" />
-        <mark key="^" line="68" column="37" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492076597770">
+        <mark key="'" line="16" column="56" />
+        <mark key="[" line="74" column="9" />
+        <mark key="]" line="75" column="55" />
+        <mark key="." line="75" column="55" />
+        <mark key="^" line="75" column="55" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1492065090190">
         <mark key="[" line="33" column="0" />
@@ -262,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="$USER_HOME$/opt/product_project/RpcAgent/setup.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/t.py" />
       <jump line="35" column="29" filename="$USER_HOME$/opt/product_project/RpcAgent/setup.py" />
       <jump line="38" column="6" filename="$USER_HOME$/opt/product_project/RpcAgent/setup.py" />
       <jump line="123" column="82" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
@@ -362,13 +360,15 @@
       <jump line="10" column="39" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="75" column="11" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="11" column="10" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
+      <jump line="74" column="7" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
+      <jump line="16" column="56" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBhZ2VudC5kZXBsb3koKmFyZ3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>捕获agent自更新断开连接异</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>捕获agent自更新断开连接异</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
