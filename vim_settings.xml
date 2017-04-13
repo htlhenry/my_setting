@@ -16,12 +16,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1492082617621">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1492083697146">
         <mark key="'" line="227" column="41" />
-        <mark key="[" line="391" column="54" />
-        <mark key="]" line="396" column="61" />
-        <mark key="^" line="396" column="61" />
-        <mark key="." line="396" column="61" />
+        <mark key="[" line="394" column="67" />
+        <mark key="]" line="395" column="45" />
+        <mark key="^" line="395" column="45" />
+        <mark key="." line="395" column="45" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1491469301917">
         <mark key="[" line="107" column="12" />
@@ -105,7 +105,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492083178855">
+      <file name="/Dummy.txt" timestamp="1492083460025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -365,11 +365,11 @@
       <jump line="13" column="55" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>DEPLOY_CODE</text>
       </register>
       <register name="-" type="4">
-        <text>add 发布失败更新ip log 文</text>
+        <text>DEPLOY_CODE</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
