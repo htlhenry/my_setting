@@ -105,7 +105,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492065150588">
+      <file name="/Dummy.txt" timestamp="1492070157211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -363,11 +363,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBuYW1lOiBydW4gYWdlbnQKICBjb21tYW5kOiAie3sgcHl0aG9uX3BhdGggfX0vYmluL3N1cGVydmlzb3JkIC1jIHt7IGFnZW50X3BhdGh9fS9zdXBlcnZpc29yZC5jb25mIgogIHdoZW46IG51bSA9PSAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>增加agent running判</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>增加agent running判</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
