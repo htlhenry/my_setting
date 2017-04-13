@@ -47,6 +47,12 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/files/master_config.yml" timestamp="1492085758644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/public_utils.py" timestamp="1490693888691">
         <mark key="[" line="126" column="51" />
         <mark key="]" line="126" column="50" />
@@ -105,7 +111,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492084136693">
+      <file name="/Dummy.txt" timestamp="1492084543065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,7 +166,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492083982098">
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492085696126">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
@@ -366,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>de</text>
+        <text>修改agent部署逻辑</text>
       </register>
       <register name="-" type="4">
-        <text>de</text>
+        <text>修改agent部署逻辑</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
