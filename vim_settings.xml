@@ -16,12 +16,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1491989850170">
-        <mark key="'" line="225" column="11" />
-        <mark key="[" line="222" column="28" />
-        <mark key="]" line="223" column="80" />
-        <mark key="^" line="223" column="80" />
-        <mark key="." line="223" column="80" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1492056051750">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="390" column="32" />
+        <mark key="]" line="390" column="31" />
+        <mark key="^" line="390" column="31" />
+        <mark key="." line="390" column="31" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1491469301917">
         <mark key="[" line="107" column="12" />
@@ -253,16 +253,15 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1491991799236">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1492056085076">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="52" column="39" />
-        <mark key="^" line="52" column="39" />
-        <mark key="." line="52" column="39" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="65" column="53" />
+        <mark key="^" line="65" column="53" />
+        <mark key="." line="65" column="53" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="450" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="1" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="16" column="25" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="71" column="18" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
@@ -362,13 +361,14 @@
       <jump line="83" column="4" filename="$USER_HOME$/opt/product_project/ansible-playbook/deploy/.gitignore" />
       <jump line="6" column="8" filename="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/vars/main.yml" />
       <jump line="18" column="25" filename="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/vars/main.yml" />
+      <jump line="33" column="16" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix command 语法错误，没有被引号包</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>fix command 语法错误，没有被引号包</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS8KcnBjQWdlbnQvZmlsZXMvCnJwY0FnZW50L3RlbXBsYXRlcy8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CnB5dGhvbl9yZXBvOiAiaHR0cDovL2dpdGxhYi5vcGRldi53ZXBpYW8uY29tL29wcy9weXRob24uZ2l0IgoKY2xpbWJfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvY2xpbWIuZ2l0IgoKYWdlbnRfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvUnBjQWdlbnQuZ2l0IgoKcHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIKCmFnZW50X3BhdGg6ICIvZGF0YS9vcHMvUnBjQWdlbnQiCgpjbGltYl9wYXRoOiAiL2RhdGEvb3BzL2NsaW1iIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbgogIGZpbGU6IHBhdGg9e3sgaXRlbSB9fSBzdGF0ZT1kaXJlY3RvcnkgbW9kZT0wNzU1CiAgd2l0aF9pdGVtczoKICAgICJ7eyBvcHNfcGF0aCB9fSIKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgcHl0aG9uX3BhdGggfX0gfCB3YyAtbAogIHJlZ2lzdGVyOiBweV9udW0KCi0gbmFtZTogY29uZmlybSBjbGltYiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgY2xpbWJfcGF0aCB9fSB8IHdjIC1sCiAgcmVnaXN0cnk6IGNsaW1iX251bQoKLSBuYW1lOiBjb25maXJtIGFnZW50IGVtcHR5CiAgc2hlbGw6IGxzIC1saCB7eyBhZ2VudF9wYXRoIH19IHwgd2MgLWwKICByZWdpc3RyeTogYWdlbnRfbnVtCgotIG5hbWU6IGNsb25lIHB5dGhvbgogIHNoZWxsOiBnaXQgY2xvbmUge3sgcHl0aG9uX3JlcG8gfX0ge3sgcHl0aG9uX3BhdGggfX0KICB3aGVuOiBweV9udW0gPT0gMAoKLSBuYW1lOiBjbG9uZSBjbGltYgogIHNoZWxsOiBnaXQgY2xvbmUge3sgY2xpbWJfcmVwbyB9fSB7eyBjbGltYl9wYXRoIH19CiAgd2hlbjogY2xpbWJfbnVtID09IDAKCi0gbmFtZTogY2xvbmUgYWdlbnQKICBzaGVsbDogZ2l0IGNsb25lIHt7IGFnZW50X3JlcG8gfX0ge3sgYWdlbnRfcGF0aCB9fQogIHdoZW46IGFnZW50X251bSA9PSAwCiAgCi0gbmFtZTogZ2l0IHB1bGwKICBzaGVsbDoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">b3BzX3BhdGg6CiAgLSB7CiAgICAiL2RhdGEvb3BzL2NsaW1iIgogIH0KCiAgLSB7CiAgICAiL2RhdGEvb3BzL1JwY0FnZW50IgogIH0KICAKICAtIHsKICAgICIvZGF0YS9zb2Z0L3B5dGhvbiIKICB9Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS8KcnBjQWdlbnQvZmlsZXMvCnJwY0FnZW50L3RlbXBsYXRlcy8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnB5dGhvbl9yZXBvOiAiaHR0cDovL2dpdGxhYi5vcGRldi53ZXBpYW8uY29tL29wcy9weXRob24uZ2l0IgoKY2xpbWJfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvY2xpbWIuZ2l0IgoKYWdlbnRfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvUnBjQWdlbnQuZ2l0IgoKcHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIKCmFnZW50X3BhdGg6ICIvZGF0YS9vcHMvUnBjQWdlbnQiCgpjbGltYl9wYXRoOiAiL2RhdGEvb3BzL2NsaW1iIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbgogIGZpbGU6IHBhdGg9e3sgaXRlbSB9fSBzdGF0ZT1kaXJlY3RvcnkgbW9kZT0wNzU1CiAgd2l0aF9pdGVtczoKICAgICJ7eyBvcHNfcGF0aCB9fSIKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgcHl0aG9uX3BhdGggfX0gfCB3YyAtbAogIHJlZ2lzdGVyOiBweV9udW0KCi0gbmFtZTogY29uZmlybSBjbGltYiBlbXB0eQogIHNoZWxsOiBscyAtbGgge3sgY2xpbWJfcGF0aCB9fSB8IHdjIC1sCiAgcmVnaXN0cnk6IGNsaW1iX251bQoKLSBuYW1lOiBjb25maXJtIGFnZW50IGVtcHR5CiAgc2hlbGw6IGxzIC1saCB7eyBhZ2VudF9wYXRoIH19IHwgd2MgLWwKICByZWdpc3RyeTogYWdlbnRfbnVtCgotIG5hbWU6IGNsb25lIHB5dGhvbgogIHNoZWxsOiBnaXQgY2xvbmUge3sgcHl0aG9uX3JlcG8gfX0ge3sgcHl0aG9uX3BhdGggfX0KICB3aGVuOiBweV9udW0gPT0gMAoKLSBuYW1lOiBjbG9uZSBjbGltYgogIHNoZWxsOiBnaXQgY2xvbmUge3sgY2xpbWJfcmVwbyB9fSB7eyBjbGltYl9wYXRoIH19CiAgd2hlbjogY2xpbWJfbnVtID09IDAKCi0gbmFtZTogY2xvbmUgYWdlbnQKICBzaGVsbDogZ2l0IGNsb25lIHt7IGFnZW50X3JlcG8gfX0ge3sgYWdlbnRfcGF0aCB9fQogIHdoZW46IGFnZW50X251bSA9PSAwCiAgCi0gbmFtZTogZ2l0IHB1bGwKICBzaGVsbDoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIK</text>
+        <text encoding="base64">b3BzX3BhdGg6CiAgLSB7CiAgICAiL2RhdGEvb3BzL2NsaW1iIgogIH0KCiAgLSB7CiAgICAiL2RhdGEvb3BzL1JwY0FnZW50IgogIH0KICAKICAtIHsKICAgICIvZGF0YS9zb2Z0L3B5dGhvbiIKICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xpbWJfcGF0aDogIi9kYXRhL29wcy9jbGltYiIKCmFnZW50X3BhdGg6ICJkYXRhL29wcy9ScGNBZ2VudCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L2RhdGEvc29mdC9weXRob24K</text>
+        <text encoding="base64">cHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</text>
