@@ -110,7 +110,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491997531149">
+      <file name="/Dummy.txt" timestamp="1492065150588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,6 +126,12 @@
         <mark key="]" line="13" column="16" />
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/rpcAgent_program.conf" timestamp="1492068270359">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="8" column="44" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" timestamp="1491813354722">
         <mark key="'" line="117" column="36" />
@@ -180,11 +186,11 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1491980189085">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1492068276186">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/agent/controllers/agent_views.py" timestamp="1491376654500">
         <mark key="[" line="20" column="29" />
@@ -371,43 +377,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>add README.md 删除无用代</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza1RhYmxlLmFqYXgucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCmNvbW1hbmQ9L2RhdGEvc29mdC9weXRob24vYmluL3B5dGhvbiAvZGF0YS9vcHMvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkKZGlyZWN0b3J5PS9kYXRhL29wcy9ScGNBZ2VudAp1c2VyPXJvb3QKYXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9dHJ1ZQpyZWRpcmVjdF9zdGRlcnI9dHJ1ZQplbnZpcm9ubWVudD1MQU5HPWVuX1VTLlVURi04LExDX0FMTD1lbl9VUy5VVEYtOApzdGRvdXRfbG9nZmlsZT0vZGF0YS9sb2dzL1JwY0FnZW50X3N0ZG91dC5sb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdF9sb2cgPSBnZXRfbG9nZ2VyKCJwcm9jZXNzX2V4aXQiKQo=</text>
+        <text encoding="base64">W2luY2x1ZGVdCmZpbGVzID0gLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhpdF9sb2cgPSBnZXRfbG9nZ2VyKCIiKQo=</text>
+        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCmNvbW1hbmQ9L2RhdGEvc29mdC9weXRob24vYmluL3B5dGhvbiAvZGF0YS9vcHMvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkKZGlyZWN0b3J5PS9kYXRhL29wcy9ScGNBZ2VudAp1c2VyPXJvb3QKYXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9dHJ1ZQpyZWRpcmVjdF9zdGRlcnI9dHJ1ZQplbnZpcm9ubWVudD1MQU5HPWVuX1VTLlVURi04LExDX0FMTD1lbl9VUy5VVEYtOApzdGRvdXRfbG9nZmlsZT0vZGF0YS9sb2dzL1JwY0FnZW50X3N0ZG91dC5sb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpdF9sb2cgPSBnZXRfbG9nZ2VyKCJwcm9jZXNzX2V4aXQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ZXhpdF9sb2cgPSBnZXRfbG9nZ2VyKCIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQouaWRlYS8KcnBjQWdlbnQvZmlsZXMvCnJwY0FnZW50L3RlbXBsYXRlcy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnB5dGhvbl9yZXBvOiAiaHR0cDovL2dpdGxhYi5vcGRldi53ZXBpYW8uY29tL29wcy9weXRob24uZ2l0IgoKY2xpbWJfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvY2xpbWIuZ2l0IgoKYWdlbnRfcmVwbzogImh0dHA6Ly9naXRsYWIub3BkZXYud2VwaWFvLmNvbS9vcHMvUnBjQWdlbnQuZ2l0IgoKcHl0aG9uX3BhdGg6ICIvZGF0YS9zb2Z0L3B5dGhvbiIKCmFnZW50X3BhdGg6ICIvZGF0YS9vcHMvUnBjQWdlbnQiCgpjbGltYl9wYXRoOiAiL2RhdGEvb3BzL2NsaW1iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBjb25maXJtIHB5dGhvbgogIGZpbGU6IHBhdGg9e3sgaXRlbSB9fSBzdGF0ZT1kaXJlY3RvcnkgbW9kZT0wNzU1CiAgd2l0aF9pdGVtczoKICAgICJ7eyBvcHNfcGF0aCB9fSIKCg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</text>
