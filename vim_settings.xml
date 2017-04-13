@@ -105,7 +105,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492079382588">
+      <file name="/Dummy.txt" timestamp="1492080544919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -209,12 +209,12 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492080540486">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492080956452">
         <mark key="'" line="16" column="56" />
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-        <mark key="^" line="77" column="28" />
+        <mark key="[" line="76" column="56" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1492065090190">
         <mark key="[" line="33" column="0" />
@@ -364,8 +364,8 @@
       <jump line="16" column="56" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJnczoK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCmNvbW1hbmQ9L2RhdGEvc29mdC9weXRob24vYmluL3B5dGhvbiAvZGF0YS9vcHMvUnBjQWdlbnQvQ2ZnUnBjQWdlbnQucHkKZGlyZWN0b3J5PS9kYXRhL29wcy9ScGNBZ2VudAp1c2VyPXJvb3QKYXV0b3N0YXJ0PXRydWUKYXV0b3Jlc3RhcnQ9dHJ1ZQpyZWRpcmVjdF9zdGRlcnI9dHJ1ZQplbnZpcm9ubWVudD1MQU5HPWVuX1VTLlVURi04LExDX0FMTD1lbl9VUy5VVEYtOApzdGRvdXRfbG9nZmlsZT0vZGF0YS9sb2dzL1JwY0FnZW50X3N0ZG91dC5sb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudCA9IHNlbGYuY29ubmVjdF9hZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJnczoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhZ2VudCA9IHNlbGYuY29ubmVjdF9hZ2VudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudCA9IHNlbGYuY29ubmVjdF9hZ2VudCgpCiAgICAgICAgcmVzID0gcmVjb25uZWN0KHksICphcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2VudCA9IHNlbGYuY29ubmVjdF9hZ2VudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvbm5lY3QoYWdlbnQudXBkYXRlX2FnZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2VudCA9IHNlbGYuY29ubmVjdF9hZ2VudCgpCiAgICAgICAgcmVzID0gcmVjb25uZWN0KHksICphcmdzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvbm5lY3QoYWdlbnQudXBkYXRlX2FnZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSArPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJyZWNvbm5lY3QgdG8gZnVuYyB7fSIuZm9ybWF0KHN0cihmdW5jKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSArPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBhZ2VudC5kZXBsb3koKmFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2xvZy5pbmZvKCJyZWNvbm5lY3QgdG8gZnVuYyB7fSIuZm9ybWF0KHN0cihmdW5jKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>264</text>
