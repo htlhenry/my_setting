@@ -105,7 +105,7 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492083176325">
+      <file name="/Dummy.txt" timestamp="1492083178855">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -254,16 +254,15 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1492083134253">
-        <mark key="'" line="15" column="35" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1492083455036">
+        <mark key="'" line="13" column="55" />
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="58" column="64" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="82" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
-      <jump line="121" column="7" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="51" column="31" filename="$USER_HOME$/opt/product_project/RpcAgent/setup.py" />
       <jump line="125" column="24" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="141" column="7" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
@@ -362,10 +361,12 @@
       <jump line="16" column="56" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="100" column="34" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="227" column="41" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
+      <jump line="59" column="15" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
+      <jump line="13" column="55" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add 发布失败更新ip log 文</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
       </register>
       <register name="-" type="4">
         <text>add 发布失败更新ip log 文</text>
@@ -377,31 +378,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB1bmRvX2lwIGluIHRhc2sudW5yb2xsYmFja19saXN0OgogICAgICAgICAgICAgICAgICAgIHRhc2sudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PXVuZG9faXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz10YXNrLlJPTExCQUNLX0NPREUuZ2V0KCJ1bmRvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZz11J+acquWbnua7micpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
+        <text encoding="base64">ZnJvbSB0YXNrLnJwY2NsaWVudCBpbXBvcnQgUnBjQ2xpZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB1bmRvX2lwIGluIHRhc2sudW5yb2xsYmFja19saXN0OgogICAgICAgICAgICAgICAgICAgIHRhc2sudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PXVuZG9faXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz10YXNrLlJPTExCQUNLX0NPREUuZ2V0KCJ1bmRvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZz11J+acquWbnua7micpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB1bmRvX2lwIGluIHRhc2sudW5yb2xsYmFja19saXN0OgogICAgICAgICAgICAgICAgICAgIHRhc2sudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PXVuZG9faXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz10YXNrLlJPTExCQUNLX0NPREUuZ2V0KCJ1bmRvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZz11J+acquWbnua7micpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB1bmRvX2lwIGluIHRhc2sudW5yb2xsYmFja19saXN0OgogICAgICAgICAgICAgICAgICAgIHRhc2sudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PXVuZG9faXAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz10YXNrLlJPTExCQUNLX0NPREUuZ2V0KCJ1bmRvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZz11J+acquWbnua7micpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrRGVwbG95KGNvbmZpZ19maWxlPWFyZ3MuY29uZmlnX2ZpbGUsIGRlYnVnPWRlYnVnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrUm9sbGJhY2soY29uZmlnX2ZpbGU9YXJncy5jb25maWdfZmlsZSwgZGVidWc9ZGVidWcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2sgPSBUYXNrRGVwbG95KGNvbmZpZ19maWxlPWFyZ3MuY29uZmlnX2ZpbGUsIGRlYnVnPWRlYnVnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>264</text>
