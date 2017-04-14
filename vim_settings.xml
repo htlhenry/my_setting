@@ -114,8 +114,8 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492159907839">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1492159963269">
+        <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -230,12 +230,12 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492159869555">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" timestamp="1492163170001">
         <mark key="'" line="15" column="44" />
-        <mark key="[" line="104" column="33" />
-        <mark key="]" line="106" column="79" />
-        <mark key="." line="106" column="79" />
-        <mark key="^" line="106" column="79" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="49" />
+        <mark key="." line="78" column="49" />
+        <mark key="^" line="78" column="49" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/utils/logger.py" timestamp="1492159577465">
         <mark key="[" line="31" column="6" />
@@ -275,7 +275,7 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1492159586971">
+      <file name="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" timestamp="1492161838272">
         <mark key="'" line="50" column="45" />
         <mark key="[" line="50" column="16" />
         <mark key="]" line="50" column="24" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdlbnQgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PWlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz1zZWxmLlJPTExCQUNLX0NPREUuZ2V0KCJmYWlsZWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9dSfov57mjqVBZ2VudOiiq+aLkue7nScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdlbnQgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBBZ2VudFJlZnVzZUVycm9yKCJDb25uZWN0IEFnZW50IFJlZnVzZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50LnVwZGF0ZV9hZ2VudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50ID0gc2VsZi5jb25uZWN0X2FnZW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51bnJvbGxiYWNrX2xpc3QucmVtb3ZlKGlwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyDlsIZpcOS7juacqumDqOe9suWIl+ihqOS4reWIoOmZpAogICAgICAgICAgICBzZWxmLnVuZGVwbG95X2xpc3QucmVtb3ZlKGlwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFN5c3RlbUV4aXQ6CiAgICAgICAgICAgICAgICB0YXNrLnVwZGF0ZV9jb21wbGV0ZV9zdGF0ZShzdGF0dXM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IDEK</text>
       </register>
       <register name=":" type="4">
         <text>264</text>
