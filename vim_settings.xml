@@ -154,7 +154,7 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492167199526">
+      <file name="/Dummy.txt" timestamp="1492167663623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -344,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix 重复追加到/etc/supervisord.con</text>
+        <text>修改supervisor启动方式</text>
       </register>
       <register name="-" type="4">
-        <text>fix 重复追加到/etc/supervisord.con</text>
+        <text>修改supervisor启动方式</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
