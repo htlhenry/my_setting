@@ -212,11 +212,11 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1491470880655">
-        <mark key="[" line="123" column="45" />
-        <mark key="]" line="123" column="53" />
-        <mark key="^" line="123" column="53" />
-        <mark key="." line="123" column="53" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1492164103169">
+        <mark key="[" line="1235" column="45" />
+        <mark key="]" line="1235" column="46" />
+        <mark key="^" line="1235" column="46" />
+        <mark key="." line="1235" column="46" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
         <mark key="[" line="34" column="13" />
@@ -386,11 +386,11 @@
       <jump line="15" column="44" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
