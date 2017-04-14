@@ -212,11 +212,11 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1492164103169">
-        <mark key="[" line="1235" column="45" />
-        <mark key="]" line="1235" column="46" />
-        <mark key="^" line="1235" column="46" />
-        <mark key="." line="1235" column="46" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1492164936270">
+        <mark key="[" line="1235" column="0" />
+        <mark key="]" line="1235" column="0" />
+        <mark key="." line="1235" column="0" />
+        <mark key="^" line="1235" column="21" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
         <mark key="[" line="34" column="13" />
@@ -386,11 +386,11 @@
       <jump line="15" column="44" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlyc3RfZGV2aWNlX2RhdGEgPT4iLCBmaXJzdF9kZXZpY2VfZGF0YVswXVsibGFuSXAiXSApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXBkYXRlX2RlcGxveV9zdGF0ZShmYWN0PWlwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1cz1zZWxmLlJPTExCQUNLX0NPREUuZ2V0KCJmYWlsZWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9dSfov57mjqVBZ2VudOiiq+aLkue7nScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlyc3RfZGV2aWNlX2RhdGEgPT4iLCBmaXJzdF9kZXZpY2VfZGF0YVswXVsibGFuSXAiXSApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlTm93SXBfdG1wID0gaXJzdF9kZXZpY2VfZGF0YVswXVsibGFuSXAiXSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgICAgICAgICAgICAgbnVtICs9IAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSArPSAxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDMpCiAgICAgICAgICAgICAgICAgICAgbnVtICs9IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdlbnQgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bSArPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBBZ2VudFJlZnVzZUVycm9yKCJDb25uZWN0IEFnZW50IFJlZnVzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW0gKz0gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFnZW50LnVwZGF0ZV9hZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdlbnQgPSBzZWxmLmNvbm5lY3RfYWdlbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>264</text>
