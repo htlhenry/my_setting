@@ -139,11 +139,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492085903730">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="11" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492422508333">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
         <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1492165388239">
         <mark key="'" line="45" column="0" />
@@ -344,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
