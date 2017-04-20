@@ -34,13 +34,13 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1492669875061">
+      <file name="/Python Console" timestamp="1492672705955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492669938365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1492156088370">
+      <file name="/a.dummy" timestamp="1492673719953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/.version" timestamp="1491033168273">
@@ -48,6 +48,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/python_example/algorithm/binary_search/in_vs_binary.py" timestamp="1492673591374">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="^" line="30" column="38" />
       </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/README.md" timestamp="1491995188924">
         <mark key="[" line="5" column="47" />
@@ -67,7 +74,6 @@
         <mark key="^" line="126" column="50" />
         <mark key="." line="126" column="50" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/utils.py" timestamp="1492595509423" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/commons/utils/logger.py" timestamp="1491387489869">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="38" />
@@ -93,7 +99,6 @@
         <mark key="." line="11" column="89" />
         <mark key="^" line="11" column="89" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/app.py" timestamp="1492669737842" />
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/.gitignore" timestamp="1491995436960">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="4" />
@@ -135,13 +140,18 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/github/python_example/algorithm/binary_search/search_one.py" timestamp="1492673563993">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/build.sh" timestamp="1490960892426">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/hello.py" timestamp="1492669871982" />
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492600362439">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -210,6 +220,12 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="31" column="8" />
       </file>
+      <file name="$USER_HOME$/github/python_example/algorithm/binary_search/index_vs_binary.py" timestamp="1492674246993">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="35" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/controllers/helper.py" timestamp="1491387878843">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="17" column="19" />
@@ -242,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="11" filename="$USER_HOME$/opt/product_project/RpcAgent/deploy.py" />
       <jump line="147" column="19" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="278" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="210" column="27" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
@@ -342,13 +357,14 @@
       <jump line="61" column="19" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="15" column="44" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="46" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/algorithm/binary_search/in_vs_binary.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>删除PYTHON_PATH URL多余的</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>删除PYTHON_PATH URL多余的</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -357,31 +373,31 @@
         <text encoding="base64">ICAgICAgICByZW1vdGVfaGFzaCA9ICJjZCB7fSAmJiBnaXQgcmV2LXBhcnNlIEB7e3V9fSIuZm9ybWF0KFBST0pFQ1RfUEFUSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ZnJvbSAuc2VhcmNoX29uZSBpbXBvcnQgYmluYXJ5X3NlYXJjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgb3MKc3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDmnI3liqHnq69VUkwsIOacgOWQjuWQjue8gOS4jeWKoC8KU0VSVkVSX1VSTDogaHR0cDovL2Rldi5jZm1hbmFnZS5pbnRyYS53ZXBpYW8uY29tCg==</text>
+        <text encoding="base64">b3MucGF0aC5hcHBlbmQoIi4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oImFnZW50IHJlc3RhcnQgZGVidWcgdHdvIikK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8ocHVsbF9jbWQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJiaW5hcnkgc2VhcmNoIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oInMgaWQgaXMge30iLmZvcm1hdChzX2lkKSkK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNfaWQgPSBvcy5nZXRwaWQoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyDmnI3liqHnq69VUkwsIOacgOWQjuWQjue8gOS4jeWKoC8KU0VSVkVSX1VSTDogaHR0cDovL2Rldi5jZm1hbmFnZS5pbnRyYS53ZXBpYW8uY29tCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWxsX2NtZCA9ICJjZCB7fSAmJiBnaXQgcHVsbCIuZm9ybWF0KFBST0pFQ1RfUEFUSCkKICAgICAgICBzX2lkID0gb3MuZ2V0cGlkKCkKICAgICAgICBpbmZvX2xvZy5pbmZvKCJzIGlkIGlzIHt9Ii5mb3JtYXQoc19pZCkpCiAgICAgICAgc3VicHJvY2Vzcy5jYWxsKHB1bGxfY21kLCBzaGVsbD1UcnVlKQogICAgICAgIGluZm9fbG9nLmluZm8ocHVsbF9jbWQpCiAgICAgICAgaW5mb19sb2cuaW5mbygiYWdlbnQgcmVzdGFydCBkZWJ1ZyB0d28iKQogICAgICAgIG9zLmtpbGwob3MuZ2V0cGlkKCksIDkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZm9fbG9nLmluZm8oImFnZW50IHJlc3RhcnQgZGVidWcgdHdvIikK</text>
       </register>
       <register name=":" type="4">
         <text>264</text>
