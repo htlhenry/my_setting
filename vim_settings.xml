@@ -38,7 +38,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/supervisor/supervisord.py" timestamp="1493033893097">
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/supervisor/supervisord.py" timestamp="1493034488030">
         <mark key="[" line="367" column="23" />
         <mark key="]" line="369" column="75" />
         <mark key="." line="369" column="75" />
@@ -82,12 +82,12 @@
         <mark key="^" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/supervisor/options.py" timestamp="1493032114939" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/supervisor/options.py" timestamp="1493034492079" />
       <file name="$USER_HOME$/github/python_example/struct/heap/heap_one.py" timestamp="1492770746627">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/bin/supervisord" timestamp="1493033495309">
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/bin/supervisord" timestamp="1493034252904">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="5" column="8" />
@@ -294,6 +294,13 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="60" column="27" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/sys_exit_loop.py" timestamp="1493034695797">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/README.md" timestamp="1493027347792">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="46" />
@@ -320,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="878" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" />
       <jump line="89" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
       <jump line="162" column="35" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
       <jump line="16" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
@@ -420,13 +426,14 @@
       <jump line="17" column="6" filename="$USER_HOME$/github/python_example/algorithm/D_&amp;_C/quick_sort/qsort_one.py" />
       <jump line="31" column="62" filename="$USER_HOME$/github/python_example/algorithm/D_&amp;_C/quick_sort/qsort_one.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/struct/heap/heap_one.py" />
+      <jump line="15" column="7" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/sys_exit_loop.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgZ28gcnVuIHRoZXJlPyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>fix command_path bu</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
