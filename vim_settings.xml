@@ -195,10 +195,10 @@
         <mark key="." line="11" column="89" />
         <mark key="^" line="11" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493027368551">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1493710553243">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -319,6 +319,12 @@
         <mark key="^" line="9" column="124" />
         <mark key="." line="9" column="124" />
       </file>
+      <file name="$USER_HOME$/github/python_example/design_pattern/factory_method/factory_method.py" timestamp="1493719997140">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="162" column="35" filename="$USER_HOME$/opt/product_project/cfmanage/task/controllers/task_views.py" />
@@ -423,11 +429,11 @@
       <jump line="181" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>，</text>
       </register>
       <register name="-" type="4">
-        <text>行</text>
+        <text>，</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
@@ -436,31 +442,31 @@
         <text encoding="base64">ICAgICAgICByZW1vdGVfaGFzaCA9ICJjZCB7fSAmJiBnaXQgcmV2LXBhcnNlIEB7e3V9fSIuZm9ybWF0KFBST0pFQ1RfUEFUSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbGlhcnMgPSB4bWxfZGF0YS5maW5kYWxsKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgVW5EZXBsb3lJcChvYmplY3QpOgogICAgcGFzcwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudXBkYXRlX2NvbXBsZXRlX3N0YXRlKHN0YXR1cz1UcnVlKQo=</text>
+        <text encoding="base64">Y2xhc3MgVW5EZXBsb3lJcChvYmplY3QpOgogICAgcGFzcwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWxmLnVuZGVwbG95X2xpc3QucmVtb3ZlKGlwKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYudXBkYXRlX2NvbXBsZXRlX3N0YXRlKHN0YXR1cz1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oInRlc3QubG9nIiwgImEiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKCJ0aGlzIGNoaWxkIHByb2Nlc3Mge31cbiIuZm9ybWF0KG9zLmdldHBpZCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWxmLnVuZGVwbG95X2xpc3QucmVtb3ZlKGlwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgZ28gcnVuIHRoZXJlPyIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oInRlc3QubG9nIiwgImEiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKCJ0aGlzIGNoaWxkIHByb2Nlc3Mge31cbiIuZm9ybWF0KG9zLmdldHBpZCgpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzeXMgZXhpdD8iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgZ28gcnVuIHRoZXJlPyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJzeXMgZXhpdD8iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>342</text>
