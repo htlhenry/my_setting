@@ -74,6 +74,13 @@
         <mark key="^" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
+      <file name="$USER_HOME$/github/python_example/design_pattern/create_pattern/builder_pattern/computer_builder.py" timestamp="1493727443088">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="42" column="39" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/.gitignore" timestamp="1491995436960">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="4" />
@@ -182,6 +189,13 @@
         <mark key="]" line="51" column="32" />
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/github/python_example/design_pattern/create_pattern/factory/abstract_factory/apple-factory.py" timestamp="1493726940373">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/deploy/rpcAgent/tasks/main.yml" timestamp="1491994604579">
         <mark key="[" line="1" column="25" />
@@ -313,7 +327,7 @@
         <mark key="^" line="34" column="12" />
         <mark key="." line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/github/python_example/design_pattern/abstract_factory/abstract_factory.py" timestamp="1493722345682">
+      <file name="$USER_HOME$/github/python_example/design_pattern/abstract_factory/abstract_factory.py" timestamp="1493726081763">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="108" column="9" />
@@ -334,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="7" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
-      <jump line="553" column="17" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
       <jump line="28" column="24" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="27" column="19" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
       <jump line="577" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/job_views.py" />
@@ -434,13 +446,15 @@
       <jump line="15" column="7" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/sys_exit_loop.py" />
       <jump line="181" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/design_pattern/abstract_factory/abstract_factory.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/design_pattern/create_pattern/factory/abstract_factory/apple-factory.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/design_pattern/create_pattern/builder_pattern/computer_builder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
@@ -449,31 +463,31 @@
         <text encoding="base64">ICAgICAgICByZW1vdGVfaGFzaCA9ICJjZCB7fSAmJiBnaXQgcmV2LXBhcnNlIEB7e3V9fSIuZm9ybWF0KFBST0pFQ1RfUEFUSCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbGlhcnMgPSB4bWxfZGF0YS5maW5kYWxsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbc3RlcCBmb3Igc3RlcCBpbiAoc2VsZi5idWlsZGVyLmNvbmZpZ3VyZV9tZW1vcnkobWVtb3J5KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5idWlsZGVyLmNvbmZpZ3VyZV9oZGQoaGRkKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5idWlsZGVyLmNvbmZpZ3VyZV9ncHUoZ3B1KSldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvID0gKCJNZW1vcnk6IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgVW5EZXBsb3lJcChvYmplY3QpOgogICAgcGFzcwoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudXBkYXRlX2NvbXBsZXRlX3N0YXRlKHN0YXR1cz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX19zdHJfXyhzZWxmKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBzZWxmLnVuZGVwbG95X2xpc3QucmVtb3ZlKGlwKQo=</text>
+        <text encoding="base64">ICAgICMgbGlhcnMgPSB4bWxfZGF0YS5maW5kYWxsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oInRlc3QubG9nIiwgImEiKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKCJ0aGlzIGNoaWxkIHByb2Nlc3Mge31cbiIuZm9ybWF0KG9zLmdldHBpZCgpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYWZ0ZXIgZ28gcnVuIHRoZXJlPyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzeXMgZXhpdD8iKQo=</text>
+        <text encoding="base64">Y2xhc3MgVW5EZXBsb3lJcChvYmplY3QpOgogICAgcGFzcwoK</text>
       </register>
       <register name=":" type="4">
         <text>342</text>
