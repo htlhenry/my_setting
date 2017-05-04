@@ -248,7 +248,8 @@
         <mark key="." line="11" column="89" />
         <mark key="^" line="11" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493801002704">
+      <file name="/Dummy.txt" timestamp="1493879808676">
+        <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -307,11 +308,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1493879765847">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1493880377254">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1492165388239">
         <mark key="'" line="45" column="0" />
@@ -494,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
@@ -533,7 +534,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -584,11 +585,11 @@
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</entry>
         <entry>177</entry>
         <entry encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</entry>
-        <entry>wq</entry>
         <entry>264</entry>
         <entry encoding="base64">JzwsJz5zL3Fzb3J0L3Fzb3J0X3Rvb19iYWQvZw==</entry>
         <entry>342</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
