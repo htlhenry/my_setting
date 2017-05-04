@@ -307,11 +307,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1492600362439">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/config.yml" timestamp="1493879765847">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1492165388239">
         <mark key="'" line="45" column="0" />
@@ -493,11 +493,11 @@
       <jump line="169" column="37" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZV9zdHlsZShzZWxmKToK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
@@ -533,7 +533,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>342</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -583,12 +583,12 @@
         <entry>77</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3JlcC9n</entry>
         <entry>177</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3BhdGgvZGVzdC9n</entry>
         <entry>wq</entry>
         <entry>264</entry>
         <entry encoding="base64">JzwsJz5zL3Fzb3J0L3Fzb3J0X3Rvb19iYWQvZw==</entry>
         <entry>342</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
