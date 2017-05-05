@@ -9,12 +9,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1493881694259">
+      <file name="$USER_HOME$/opt/product_project/RpcService/task/task.py" timestamp="1493956929052">
         <mark key="'" line="407" column="0" />
-        <mark key="[" line="274" column="46" />
-        <mark key="]" line="274" column="54" />
-        <mark key="." line="274" column="54" />
-        <mark key="^" line="274" column="54" />
+        <mark key="[" line="275" column="38" />
+        <mark key="]" line="275" column="37" />
+        <mark key="." line="275" column="37" />
+        <mark key="^" line="275" column="37" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/.gitignore" timestamp="1491469301917">
         <mark key="[" line="107" column="12" />
@@ -187,8 +187,8 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1493800987859">
-        <mark key="'" line="169" column="37" />
+      <file name="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" timestamp="1493956324950">
+        <mark key="'" line="21" column="15" />
         <mark key="[" line="206" column="18" />
         <mark key="]" line="206" column="44" />
         <mark key="^" line="206" column="44" />
@@ -206,7 +206,7 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="/Python Console" timestamp="1493956171340">
+      <file name="/Python Console" timestamp="1493956239312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1492669938365">
@@ -413,7 +413,6 @@
       <jump line="208" column="27" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="104" column="28" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
       <jump line="277" column="10" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
-      <jump line="21" column="10" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="117" column="36" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_reloader.py" />
       <jump line="1567" column="0" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
       <jump line="1572" column="14" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
@@ -503,13 +502,14 @@
       <jump line="75" column="20" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="407" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/v3_code/unbound_method.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>qsort</text>
@@ -545,7 +545,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>277</text>
       </register>
     </registers>
     <search>
@@ -581,7 +581,6 @@
         <entry>qsort</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JvbGxiYWNrVGFzay9jaGVja0JlZm9yZVJvbGxiYWNrL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xldC92YXIv</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2kvZw==</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
@@ -601,6 +600,7 @@
         <entry>342</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>277</entry>
       </history-cmd>
       <history-expr />
       <history-input />
