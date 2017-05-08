@@ -169,11 +169,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494228769865">
-        <mark key="[" line="928" column="68" />
-        <mark key="]" line="928" column="68" />
-        <mark key="." line="928" column="68" />
-        <mark key="^" line="928" column="68" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494229748970">
+        <mark key="[" line="924" column="80" />
+        <mark key="]" line="924" column="80" />
+        <mark key="." line="924" column="80" />
+        <mark key="^" line="924" column="80" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
         <mark key="[" line="34" column="13" />
@@ -291,11 +291,12 @@
         <mark key="." line="11" column="89" />
         <mark key="^" line="11" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494226517416">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1494229541011" />
+      <file name="/Dummy.txt" timestamp="1494228775421">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/configs/dev_config.yml" timestamp="1491381240812">
         <mark key="[" line="13" column="8" />
@@ -526,10 +527,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>deploy_path</text>
@@ -538,12 +539,18 @@
         <text encoding="base64">ICAgIGFnZW50X3VybCA9ICJodHRwczovLyIgKyBpcCArICI6IiArIHN0cihjb25maWcuZ2V0KCJQT1JUIikpICsgIi8iCiAgICBycGNfY2xpZW50ID0gUnBjQ2xpZW50KHVybD1hZ2VudF91cmwpCiAgICBpbmZvX2xvZy5pbmZvKCJhZ2VudCB1cmwgPT4ge30iLmZvcm1hdChycGNfY2xpZW50LnVybCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNobGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNEYXRhID09ICIxLjciKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKG5UZCkuY3NzKCdjb2xvcicsICdibHVlJykKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRGVmczogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJ0YXJnZXRzIjogMywKICAgICAgICAgICAgICAgICAgICAicmVuZGVyIjogZnVuY3Rpb24gKGRhdGEsIHR5cGUsIHJvdykgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGF0YT0+IiwgZGF0YSwgInR5cGU9PiIsIHR5cGUsICJyb3ciLCByb3cpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1zdWNjZXNzIj5Pbjwvc3Bhbj4nOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHNobGV4Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByb2Nlc3NfZGF0YSA9IHt9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>debug multiprocess OSError
 
 # This is the commit message #2:
@@ -564,23 +571,17 @@ debug subprocess call OSError
 
 # This is the commit message #6:</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb21tYW5kID0gY29tbWFuZC5mb3JtYXQoKip7ImRfcGF0aCI6IERFUExPWV9TQ1JJUFRfUEFUSCwgImlwIjogaXB9KQogICAgICAgIG91dCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KGNvbW1hbmQpLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQpCiAgICAgICAgZGVidWdfbG9nLmluZm8oInN1YnByb2Nlc3MgY2FsbCBvdXRfcHV0PT57fSIuZm9ybWF0KG91dCkpCiAgICAgICAgcHJvY2Vzc19kYXRhW2lwXSA9IFRydWUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBqb2JzID0gW10K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQgPSAiY2Qge2RfcGF0aH0gJiYgc291cmNlIGVudi9iaW4vYWN0aXZhdGUgJiYgcHl0aG9uIHtkX3BhdGh9L0NmZ1JwY0NsaWVudC5weSAtaSB7aXB9IC1hIHRlc3QiCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICMgam9icyA9IFtdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQgPSAiY2Qge2RfcGF0aH0gJiYgc291cmNlIGVudi9iaW4vYWN0aXZhdGUgJiYgcHl0aG9uIHtkX3BhdGh9L0NmZ1JwY0NsaWVudC5weSAtaSB7aXB9IC1hIHRlc3QiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RlcGxveV9wYXRoL2RfcGF0aC9n</text>
