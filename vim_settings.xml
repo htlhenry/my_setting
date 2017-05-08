@@ -169,11 +169,12 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494229748970">
-        <mark key="[" line="924" column="80" />
-        <mark key="]" line="924" column="80" />
-        <mark key="." line="924" column="80" />
-        <mark key="^" line="924" column="80" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494231113005">
+        <mark key="'" line="1251" column="0" />
+        <mark key="[" line="312" column="49" />
+        <mark key="]" line="318" column="46" />
+        <mark key="." line="318" column="46" />
+        <mark key="^" line="318" column="46" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
         <mark key="[" line="34" column="13" />
@@ -244,8 +245,8 @@
         <mark key="^" line="135" column="38" />
         <mark key="." line="135" column="38" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1494228007184">
-        <mark key="'" line="143" column="20" />
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" timestamp="1494230315380">
+        <mark key="'" line="26" column="23" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -292,9 +293,9 @@
         <mark key="^" line="11" column="89" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1494229541011" />
-      <file name="/Dummy.txt" timestamp="1494228775421">
+      <file name="/Dummy.txt" timestamp="1494229756356">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="19" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
@@ -424,10 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/RpcService/test.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" />
-      <jump line="265" column="31" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
-      <jump line="71" column="3" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="9" column="12" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="72" column="10" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="10" column="39" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
@@ -524,16 +521,20 @@
       <jump line="56" column="19" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="37" column="4" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="143" column="20" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
+      <jump line="26" column="23" filename="$USER_HOME$/opt/product_project/cfmanage/job/controllers/helpers.py" />
+      <jump line="921" column="23" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="318" column="46" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
+      <jump line="1251" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>deploy_path</text>
+        <text>agent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFnZW50X3VybCA9ICJodHRwczovLyIgKyBpcCArICI6IiArIHN0cihjb25maWcuZ2V0KCJQT1JUIikpICsgIi8iCiAgICBycGNfY2xpZW50ID0gUnBjQ2xpZW50KHVybD1hZ2VudF91cmwpCiAgICBpbmZvX2xvZy5pbmZvKCJhZ2VudCB1cmwgPT4ge30iLmZvcm1hdChycGNfY2xpZW50LnVybCkpCg==</text>
@@ -588,9 +589,9 @@ debug subprocess call OSError
       </register>
     </registers>
     <search>
-      <last-search>deploy_path</last-search>
+      <last-search>agent</last-search>
       <last-offset />
-      <last-pattern>deploy_path</last-pattern>
+      <last-pattern>agent</last-pattern>
       <last-replace>d_path</last-replace>
       <last-substitute>deploy_path</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +599,6 @@ debug subprocess call OSError
     </search>
     <history>
       <history-search>
-        <entry>release_obj</entry>
         <entry>table_release</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>param</entry>
@@ -618,6 +618,7 @@ debug subprocess call OSError
         <entry>qsort</entry>
         <entry>rcp_client_factor</entry>
         <entry>deploy_path</entry>
+        <entry>agent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2kvZw==</entry>
