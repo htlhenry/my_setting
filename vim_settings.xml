@@ -169,11 +169,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494234079545">
+      <file name="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" timestamp="1494234490303">
         <mark key="'" line="1252" column="0" />
-        <mark key="[" line="927" column="34" />
-        <mark key="]" line="927" column="46" />
-        <mark key="." line="927" column="46" />
+        <mark key="[" line="925" column="0" />
+        <mark key="]" line="925" column="0" />
+        <mark key="." line="925" column="0" />
         <mark key="^" line="927" column="46" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/classes/constants.py" timestamp="1491823129504">
@@ -286,7 +286,7 @@
         <mark key="^" line="11" column="89" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/static/js/job-common.js" timestamp="1494229541011" />
-      <file name="/Dummy.txt" timestamp="1494233991918">
+      <file name="/Dummy.txt" timestamp="1494234496466">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -520,11 +520,11 @@
       <jump line="1251" column="0" filename="$USER_HOME$/opt/product_project/cfmanage/job/templates/job.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzdWJwcm9jZXNzIG91dHB1dD0+e30iLmZvcm1hdChlLm91dHB1dCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix 前端agent状态展示bu</text>
       </register>
       <register name="-" type="4">
-        <text>fix 前端agent状态展</text>
+        <text>fix 前端agent状态展示bu</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
@@ -533,12 +533,15 @@
         <text encoding="base64">ICAgIGFnZW50X3VybCA9ICJodHRwczovLyIgKyBpcCArICI6IiArIHN0cihjb25maWcuZ2V0KCJQT1JUIikpICsgIi8iCiAgICBycGNfY2xpZW50ID0gUnBjQ2xpZW50KHVybD1hZ2VudF91cmwpCiAgICBpbmZvX2xvZy5pbmZvKCJhZ2VudCB1cmwgPT4ge30iLmZvcm1hdChycGNfY2xpZW50LnVybCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzdWJwcm9jZXNzIG91dHB1dD0+e30iLmZvcm1hdChlLm91dHB1dCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coInNEYXRhPT4iLHNEYXRhLCAiIG9EYXRhPT4iLCBvRGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzdWJwcm9jZXNzIG91dHB1dD0+e30iLmZvcm1hdChlLm91dHB1dCkpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICAgICAgZXJyb3JfbG9nLmVycm9yKCJzdWJwcm9jZXNzIG91dHB1dD0+e30iLmZvcm1hdChlLm91dHB1dCkpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text># This is the commit message #2:
 
 fix 前端agent状态展示
@@ -555,19 +558,19 @@ fix 前端agent状态展示
 
 fix 前端agent状态展示</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNEYXRhID09ICIxLjciKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKG5UZCkuY3NzKCdjb2xvcicsICdibHVlJykKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29sdW1uRGVmczogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICJ0YXJnZXRzIjogMywKICAgICAgICAgICAgICAgICAgICAicmVuZGVyIjogZnVuY3Rpb24gKGRhdGEsIHR5cGUsIHJvdykgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiZGF0YT0+IiwgZGF0YSwgInR5cGU9PiIsIHR5cGUsICJyb3ciLCByb3cpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1zdWNjZXNzIj5Pbjwvc3Bhbj4nOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXSwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHNobGV4Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByb2Nlc3NfZGF0YSA9IHt9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>debug multiprocess OSError
 
 # This is the commit message #2:
@@ -587,9 +590,6 @@ debug multiprocess OSError
 debug subprocess call OSError
 
 # This is the commit message #6:</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kID0gY29tbWFuZC5mb3JtYXQoKip7ImRfcGF0aCI6IERFUExPWV9TQ1JJUFRfUEFUSCwgImlwIjogaXB9KQogICAgICAgIG91dCA9IHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KHNobGV4LnNwbGl0KGNvbW1hbmQpLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQpCiAgICAgICAgZGVidWdfbG9nLmluZm8oInN1YnByb2Nlc3MgY2FsbCBvdXRfcHV0PT57fSIuZm9ybWF0KG91dCkpCiAgICAgICAgcHJvY2Vzc19kYXRhW2lwXSA9IFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
