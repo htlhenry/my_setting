@@ -38,6 +38,13 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/serving.py" timestamp="1494313977350" />
+      <file name="$USER_HOME$/github/python_example/asynchronous/threading/threading_shared_data.py" timestamp="1494406131321">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="23" column="76" />
+        <mark key="^" line="23" column="76" />
+        <mark key="." line="23" column="76" />
+      </file>
       <file name="$USER_HOME$/github/python_example/env/lib/python2.7/site-packages/gevent/__init__.py" timestamp="1494401545956" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/hashlib.py" timestamp="1494315086386" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/subprocess.py" timestamp="1494401847490" />
@@ -50,13 +57,11 @@
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/requests_learning/requests/core.py" timestamp="1494326313361" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py" timestamp="1494311162999" />
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/flask_login.py" timestamp="1494320836496" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py" timestamp="1494404877173" />
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/hmac.py" timestamp="1494317297959" />
       <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/datastructures.py" timestamp="1494318651409" />
     </filemarks>
     <jumps>
-      <jump line="327" column="0" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
-      <jump line="50" column="45" filename="$USER_HOME$/opt/product_project/RpcService/CfgRpcClient.py" />
-      <jump line="244" column="15" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="61" column="19" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="15" column="44" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="46" column="0" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
@@ -154,13 +159,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/asynchronous/gevent/gevent_subprocess.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/python_example/asynchronous/gevent/gevent_subprocess.py" />
       <jump line="17" column="9" filename="$USER_HOME$/github/python_example/asynchronous/gevent/gevent_example1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/asynchronous/threading/threading_shared_data.py" />
+      <jump line="23" column="3" filename="$USER_HOME$/github/python_example/asynchronous/threading/threading_shared_data.py" />
+      <jump line="7" column="15" filename="$USER_HOME$/github/python_example/asynchronous/threading/threading_shared_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsLmFwcGVuZChbc3ViLCByYW5kb20uZ2V0cmFuZGJpdHMoMTUpLCByYW5kb20uZ2V0cmFuZGJpdHMoMTUpXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
@@ -169,31 +177,31 @@
         <text encoding="base64">ICAgIHVwZGF0ZV9zdWIoc3ViLCAidGhyZWUiLCAiYyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICAgICBsLmFwcGVuZChbc3ViLCByYW5kb20uZ2V0cmFuZGJpdHMoMTUpLCByYW5kb20uZ2V0cmFuZGJpdHMoMTUpXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoInNsZWVwIGVuZCIpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJ1biA9IFsKICAgICAgICAgICAgZ2V2ZW50LnNwYXduKHVwZGF0ZV9zdWIoc3ViLCAib25lIiwgImEiKSksCiAgICAgICAgICAgIGdldmVudC5zcGF3bih1cGRhdGVfc3ViKHN1YiwgInR3byIsICJiIikpLAogICAgICAgICAgICBnZXZlbnQuc3Bhd24odXBkYXRlX3N1YihzdWIsICJ0aHJlZSIsICJjIikpLAogICAgICAgICAgICBnZXZlbnQuc3Bhd24odXBkYXRlX3N1YihzdWIsICJmb3VyIiwgImQiKSkKICAgICAgICAgICAgXQoKICAgIHByaW50KCJiZWdpbiBqb2luIGFsbCIpCiAgICBnZXZlbnQuam9pbmFsbChydW4pCiAgICBwcmludCgiZW5kIGpvaW4gYWxsIikK</text>
+        <text encoding="base64">ICAgIHBvb2wgPSBQb29sKHByb2Nlc3Nlcz00KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoInNsZWVwIGVuZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoImJlZ2luIGpvaW4gYWxsIikKZ2V2ZW50LmpvaW5hbGwocnVuKQpwcmludCgiZW5kIGpvaW4gYWxsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgIHJ1biA9IFsKICAgICAgICAgICAgZ2V2ZW50LnNwYXduKHVwZGF0ZV9zdWIoc3ViLCAib25lIiwgImEiKSksCiAgICAgICAgICAgIGdldmVudC5zcGF3bih1cGRhdGVfc3ViKHN1YiwgInR3byIsICJiIikpLAogICAgICAgICAgICBnZXZlbnQuc3Bhd24odXBkYXRlX3N1YihzdWIsICJ0aHJlZSIsICJjIikpLAogICAgICAgICAgICBnZXZlbnQuc3Bhd24odXBkYXRlX3N1YihzdWIsICJmb3VyIiwgImQiKSkKICAgICAgICAgICAgXQoKICAgIHByaW50KCJiZWdpbiBqb2luIGFsbCIpCiAgICBnZXZlbnQuam9pbmFsbChydW4pCiAgICBwcmludCgiZW5kIGpvaW4gYWxsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZ2V2ZW50LnNsZWVwKDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2EvYi8=</text>
