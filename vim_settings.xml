@@ -109,6 +109,7 @@
         <mark key="^" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/cfmanage/clone/controllers/clone_views.py" timestamp="1497004181513" />
       <file name="$USER_HOME$/opt/product_project/cfmanage/task/templates/task.html" timestamp="1494237377200">
         <mark key="'" line="179" column="20" />
         <mark key="[" line="437" column="1" />
@@ -261,7 +262,7 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/configs/config.py" timestamp="1497003791853">
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/configs/config.py" timestamp="1497004019060">
         <mark key="[" line="52" column="44" />
         <mark key="]" line="52" column="44" />
         <mark key="^" line="52" column="44" />
@@ -349,6 +350,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/helpers.py" timestamp="1497004347697">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/github/python_example/algorithm/D_&amp;_C/__init__.py" timestamp="1492683178743">
         <mark key="[" line="6" column="29" />
@@ -452,11 +456,11 @@
         <mark key="^" line="108" column="9" />
         <mark key="." line="108" column="9" />
       </file>
-      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/copInfo.py" timestamp="1497003928987">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/copInfo.py" timestamp="1497004321321">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/cfmanage/database/database.py" timestamp="1490602359903">
         <mark key="[" line="9" column="120" />
@@ -575,10 +579,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ZnJvbSAuLiBpbXBvcnQgYXBpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
@@ -587,31 +591,31 @@
         <text encoding="base64">ICAgIHVwZGF0ZV9zdWIoc3ViLCAidGhyZWUiLCAiYyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ZnJvbSAuLiBpbXBvcnQgYXBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCiBDcmVhdGUgb24gMjAxNy82Lzkg5LiL5Y2INjoyMwogQGF1dGhvcjogaGFuCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBfKl8gY29kaW5nOnV0Zi04IF8qXwoiIiIKIENyZWF0ZSBvbiAyMDE3LzYvOSDkuIvljYg2OjIzCiBAYXV0aG9yOiBoYW4KIiIiCg==</text>
+        <text encoding="base64">IiIiCiBDcmVhdGUgb24gMjAxNy82Lzkg5LiL5Y2INjoyMwogQGF1dGhvcjogaGFuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V2Vya3pldWc9PTAuMTIuMgo=</text>
+        <text encoding="base64">IyBfKl8gY29kaW5nOnV0Zi04IF8qXwoiIiIKIENyZWF0ZSBvbiAyMDE3LzYvOSDkuIvljYg2OjIzCiBAYXV0aG9yOiBoYW4KIiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2N3aWR0aD09MC4xLjcK</text>
+        <text encoding="base64">V2Vya3pldWc9PTAuMTIuMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJhaXRsZXRzPT00LjMuMgo=</text>
+        <text encoding="base64">d2N3aWR0aD09MC4xLjcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U1FMQWxjaGVteT09MS4xLjEwCg==</text>
+        <text encoding="base64">dHJhaXRsZXRzPT00LjMuMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2l4PT0xLjEwLjAK</text>
+        <text encoding="base64">U1FMQWxjaGVteT09MS4xLjEwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2ltcGxlZ2VuZXJpYz09MC44LjEK</text>
+        <text encoding="base64">c2l4PT0xLjEwLjAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2EvYi8=</text>
