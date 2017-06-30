@@ -29,6 +29,13 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
+      <file name="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/part_2/new_task.py" timestamp="1498811342557">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1498804996478">
         <mark key="[" line="0" column="0" />
       </file>
@@ -404,7 +411,7 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/send.py" timestamp="1498809440938">
+      <file name="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/send.py" timestamp="1498810734803">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="23" />
@@ -528,6 +535,12 @@
       </file>
       <file name="vim_settings.xml" timestamp="1498627132354">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/part_2/worker.py" timestamp="1498811783150">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="22" column="48" />
       </file>
       <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/login.py" timestamp="1497269217564">
         <mark key="[" line="32" column="25" />
@@ -654,7 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="68" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="14" column="35" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
       <jump line="246" column="39" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="256" column="28" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
@@ -754,13 +766,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/c_s_pika/ampq_producer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/send.py" />
       <jump line="16" column="3" filename="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/receive.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/part_2/new_task.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>standard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>standard</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
@@ -769,31 +782,31 @@
         <text encoding="base64">ICAgIHVwZGF0ZV9zdWIoc3ViLCAidGhyZWUiLCAiYyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIC4uLicpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIGJlZm9yZSBydW4gdW5pdGwgY29tcGxldGUnKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIC4uLicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIGJlZm9yZSBydW4gdW5pdGwgY29tcGxldGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2EvYi8=</text>
