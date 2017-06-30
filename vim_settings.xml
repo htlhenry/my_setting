@@ -120,6 +120,13 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/github/python_example/celery_mq/c_s_pika/ampq_producer.py" timestamp="1498804374767">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
+      </file>
       <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/fluent_python/iterator_example/sentenc_iter.py" timestamp="1498469665645">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="3" />
@@ -378,7 +385,6 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/318265080/sys.py" timestamp="1498725872437" />
       <file name="$USER_HOME$/github/python_example/picture/recognize.py" timestamp="1494752235222">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="0" />
@@ -567,6 +573,13 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/github/python_example/celery_mq/c_s_pika/qmpq_consumer.py" timestamp="1498804085936">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcService/task/errors.py" timestamp="1492156099298">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="27" />
@@ -615,8 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/v3_code/unbound_method.py" />
-      <jump line="21" column="15" filename="$USER_HOME$/opt/product_project/RpcAgent/CfgRpcAgent.py" />
       <jump line="270" column="11" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="404" column="43" filename="$USER_HOME$/opt/product_project/RpcService/task/task.py" />
       <jump line="118" column="68" filename="$USER_HOME$/opt/product_project/RpcService/task/rpcclient.py" />
@@ -715,13 +726,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/fluent_python/18_asyncio.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/fluent_python/18_asyncio/spinner_thread.py" />
       <jump line="13" column="21" filename="$USER_HOME$/opt/virtualenv/uvloop-learning/fluent_python/18_asyncio/spinner_asyncio.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/c_s_pika/qmpq_consumer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/c_s_pika/ampq_producer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIC4uLicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
