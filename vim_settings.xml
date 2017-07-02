@@ -653,11 +653,12 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/project/java/hello/src/HelloWorld.java" timestamp="1499004168484">
+      <file name="$USER_HOME$/project/java/hello/src/HelloWorld.java" timestamp="1499005693899">
         <mark key="'" line="11" column="43" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/GoProject/src/beegoHttplib/main.go" timestamp="1487755116936">
         <mark key="[" line="26" column="24" />
@@ -1099,11 +1100,11 @@
       <jump line="10" column="43" filename="$USER_HOME$/project/java/hello/src/HelloWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBWIGEgPSAiMTAwIjsKICAgICAgICBhICs9IDEwMDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImE6ICIgKyBhKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
