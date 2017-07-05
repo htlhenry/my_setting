@@ -197,6 +197,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/env/lib/python2.7/site-packages/ldap/__init__.py" timestamp="1499227142739">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/receive.py" timestamp="1498810212222">
         <mark key="'" line="16" column="3" />
         <mark key="[" line="16" column="4" />
@@ -302,6 +308,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/requirements.txt" timestamp="1499235539925">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/supervisord.conf" timestamp="1492165388239">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="47" column="39" />
@@ -314,6 +325,12 @@
         <mark key="]" line="26" column="41" />
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/commons/utils/ldapbase.py" timestamp="1499235642650">
+        <mark key="[" line="115" column="20" />
+        <mark key="]" line="115" column="20" />
+        <mark key="^" line="115" column="20" />
+        <mark key="." line="115" column="20" />
       </file>
       <file name="$USER_HOME$/opt/product_project/RpcAgent/build.py" timestamp="1491476597809">
         <mark key="[" line="83" column="1" />
@@ -561,12 +578,6 @@
         <mark key="^" line="27" column="26" />
         <mark key="." line="26" column="27" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/uvloop-learning/fluent_python/17_future/flags_threadpool.py" timestamp="1498557229938">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/rpcAgent/vars/main.yml" timestamp="1492167648354">
         <mark key="'" line="21" column="25" />
         <mark key="[" line="5" column="36" />
@@ -775,11 +786,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/python_example/celery_mq/rabbitmq_getstart/part_2/new_task.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGRhcDM9PTIuMi40Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
@@ -788,31 +799,31 @@
         <text encoding="base64">ICAgIHVwZGF0ZV9zdWIoc3ViLCAidGhyZWUiLCAiYyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGRhcDM9PTIuMi40Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGRhcD09MS4wLjIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIC4uLicpCg==</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdydW5uaW5nIGJlZm9yZSBydW4gdW5pdGwgY29tcGxldGUnKQo=</text>
+        <text encoding="base64">Y29ubmVjdGlvbi5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2EvYi8=</text>
