@@ -6,6 +6,12 @@
       <file name="/File Header.txt.ft" timestamp="1498912922112">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PythonProjects/githubProjects/algorithm/2d_list.py" timestamp="1499770121505">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/sql/auth_manage.sql" timestamp="1477453578081">
         <mark key="[" line="33" column="39" />
         <mark key="]" line="26" column="14" />
@@ -755,6 +761,12 @@
         <mark key="." line="59" column="32" />
         <mark key="^" line="59" column="32" />
       </file>
+      <file name="$USER_HOME$/PythonProjects/githubProjects/algorithm/my/average_score.py" timestamp="1499771245789">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="10" column="57" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sendSMS/sendSMS.conf" timestamp="1487671761537">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="13" />
@@ -998,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="17" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="139" column="19" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="634" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="638" column="28" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -1098,55 +1109,56 @@
       <jump line="31" column="8" filename="$USER_HOME$/GoProject/src/examples/stack/balance_string.go" />
       <jump line="39" column="22" filename="$USER_HOME$/GoProject/src/examples/stack/balance_string.go" />
       <jump line="10" column="43" filename="$USER_HOME$/project/java/hello/src/HelloWorld.java" />
+      <jump line="24" column="11" filename="$USER_HOME$/PythonProjects/githubProjects/algorithm/2d_list.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDQwKToKICAgICAgICBzY29yZV9saXN0LmFwcGVuZChyYW5kb20ucmFuZGludCgwLCAxMDApKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text encoding="base64">XDxldmVyeV9zY29yZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWIGEgPSAiMTAwIjsKICAgICAgICBhICs9IDEwMDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImE6ICIgKyBhKTsK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDQwKToKICAgICAgICBzY29yZV9saXN0LmFwcGVuZChyYW5kb20ucmFuZGludCgwLCAxMDApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaGFudGVuZ2xlaSBvbiAyMDE3LzcvMS4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBWIGEgPSAiMTAwIjsKICAgICAgICBhICs9IDEwMDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImE6ICIgKyBhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oImluQmFsYW5jZVNldCB2ICIsIHYpCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaGFudGVuZ2xlaSBvbiAyMDE3LzcvMS4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZm9yIGVsZW1lbnRzICIsIHN0YWNrLmVsZW1lbnRzKQoJCWZtdC5QcmludGxuKCJ2ICIsIHYpCg==</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oImluQmFsYW5jZVNldCB2ICIsIHYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJlbGVtZW50cyAiLCBzdGFjay5lbGVtZW50cykKCWZtdC5QcmludGxuKCJzdHJpbmdTbGljZSAiLCBzdHJpbmdTbGljZSkK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZm9yIGVsZW1lbnRzICIsIHN0YWNrLmVsZW1lbnRzKQoJCWZtdC5QcmludGxuKCJ2ICIsIHYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJlbGVtZW50cyAiLCBzdGFjay5lbGVtZW50cykKCWZtdC5QcmludGxuKCJzdHJpbmdTbGljZSAiLCBzdHJpbmdTbGljZSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm10LnByaW50bG4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihzdGFjay5lbGVtZW50cykK</text>
+        <text encoding="base64">CQkJZm10LnByaW50bG4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2lucHV0L2ludElucHV0L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search encoding="base64">XDxldmVyeV9zY29yZVw+</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern encoding="base64">XDxldmVyeV9zY29yZVw+</last-pattern>
       <last-replace>intInput</last-replace>
       <last-substitute>input</last-substitute>
       <last-dir>-1</last-dir>
@@ -1165,6 +1177,7 @@
         <entry>command_slice</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry>input</entry>
+        <entry encoding="base64">XDxldmVyeV9zY29yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>230</entry>
