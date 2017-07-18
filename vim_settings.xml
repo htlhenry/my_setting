@@ -211,12 +211,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" timestamp="1500365145612">
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="45" column="36" />
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" timestamp="1500367388284">
+        <mark key="'" line="51" column="3" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="37" />
       </file>
       <file name="$USER_HOME$/GoProject/src/beegoServer/main.go" timestamp="1487754128211">
         <mark key="[" line="4" column="34" />
@@ -815,7 +815,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/login.py" timestamp="1500364607108" />
+      <file name="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/api/controllers/login.py" timestamp="1500367299872">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort_test.go" timestamp="1484063532215">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="26" column="69" />
@@ -1018,7 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="634" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="638" column="28" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="663" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="678" column="50" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -1118,13 +1122,14 @@
       <jump line="10" column="43" filename="$USER_HOME$/project/java/hello/src/HelloWorld.java" />
       <jump line="24" column="11" filename="$USER_HOME$/PythonProjects/githubProjects/algorithm/2d_list.py" />
       <jump line="44" column="7" filename="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" />
+      <jump line="50" column="3" filename="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDQwKToKICAgICAgICBzY29yZV9saXN0LmFwcGVuZChyYW5kb20ucmFuZGludCgwLCAxMDApKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVyeV9zY29yZVw+</text>
