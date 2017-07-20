@@ -27,12 +27,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/main.js" timestamp="1500459585573">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/static/js/main.js" timestamp="1500522741927">
         <mark key="'" line="14" column="17" />
-        <mark key="[" line="150" column="33" />
-        <mark key="]" line="151" column="35" />
-        <mark key="." line="151" column="35" />
-        <mark key="^" line="151" column="35" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="42" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="65" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/files/space_input.txt" timestamp="1487765648495">
         <mark key="[" line="0" column="0" />
@@ -115,6 +115,7 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="33" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/werkzeug/wrappers.py" timestamp="1500522364044" />
       <file name="$USER_HOME$/GoProject/src/grayInfo/routers/router.go" timestamp="1487926981698">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="10" column="53" />
@@ -479,11 +480,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1500464826444">
-        <mark key="[" line="166" column="64" />
-        <mark key="]" line="167" column="54" />
-        <mark key="." line="167" column="54" />
-        <mark key="^" line="167" column="54" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/api/views.py" timestamp="1500523162816">
+        <mark key="[" line="170" column="56" />
+        <mark key="]" line="170" column="46" />
+        <mark key="." line="170" column="46" />
+        <mark key="^" line="170" column="46" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/files/readinput3.go" timestamp="1489564381073">
         <mark key="[" line="11" column="20" />
@@ -1002,12 +1003,11 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1500460929657">
-        <mark key="'" line="369" column="0" />
-        <mark key="[" line="375" column="70" />
-        <mark key="]" line="239" column="52" />
-        <mark key="." line="239" column="52" />
-        <mark key="^" line="239" column="52" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/templates/index.html" timestamp="1500523452669">
+        <mark key="'" line="370" column="0" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/opt/product_project/rpc-service/config/master_config.yml" timestamp="1479275813271">
         <mark key="[" line="0" column="1" />
@@ -1165,10 +1165,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQuc3VwcG9ydC5maWxlSW5wdXQucHJvcCgnZGlzYWJsZWQnLCB0cnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1177,31 +1177,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQuc3VwcG9ydC5maWxlSW5wdXQucHJvcCgnZGlzYWJsZWQnLCB0cnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW5mb19sb2cuZGVidWcoImZpbGUgY29udGVudCA9PiB7fSIuZm9ybWF0KGZpbGUucmVhZCgpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiI6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAibmFtZSI6IGV4Y2VsX2ZpbGUuZmlsZW5hbWUsCiAgICAgICAgICAgICAgICAgICAgInNpemU6IjogMTAwMCwKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJhZ2VudCBjb25uZWN0IHRlc3RpbmcgPT4ge30iLmZvcm1hdChhZ2VudC50ZXN0X2Nvbm5lY3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncnVuIGluIGRvbmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3J1biBpbiBkb25lJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFnZW50LnVwZGF0ZV9hZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWIGEgPSAiMTAwIjsKICAgICAgICBhICs9IDEwMDsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImE6ICIgKyBhKTsK</text>
+        <text encoding="base64">ICAgICMgaW5mb19sb2cuZGVidWcoImZpbGUgY29udGVudCA9PiB7fSIuZm9ybWF0KGZpbGUucmVhZCgpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaGFudGVuZ2xlaSBvbiAyMDE3LzcvMS4KICovCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJhZ2VudCBjb25uZWN0IHRlc3RpbmcgPT4ge30iLmZvcm1hdChhZ2VudC50ZXN0X2Nvbm5lY3QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oImluQmFsYW5jZVNldCB2ICIsIHYpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZm9yIGVsZW1lbnRzICIsIHN0YWNrLmVsZW1lbnRzKQoJCWZtdC5QcmludGxuKCJ2ICIsIHYpCg==</text>
+        <text encoding="base64">ICAgIGFnZW50LnVwZGF0ZV9hZ2VudCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2lucHV0L2ludElucHV0L2c=</text>
