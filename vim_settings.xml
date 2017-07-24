@@ -405,7 +405,7 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanbase1.go" timestamp="1500891384386">
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanbase1.go" timestamp="1500891471988">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="41" column="9" />
         <mark key="^" line="41" column="9" />
@@ -564,6 +564,12 @@
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanval1.go" timestamp="1500892904472">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/PythonProjects/githubProjects/algorithm/my/average_score.py" timestamp="1499771245789">
         <mark key="[" line="10" column="19" />
@@ -891,11 +897,11 @@
       <jump line="380" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlUT0RPOiByZW1vdmUgc3VwcG9ydCBmb3Igd2lkZ2V0RXZlbnRQcmVmaXgK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
