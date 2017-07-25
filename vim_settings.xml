@@ -130,6 +130,12 @@
         <mark key="^" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanconv.go" timestamp="1500980299567">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager_test.go" timestamp="1484310023773">
         <mark key="[" line="31" column="76" />
         <mark key="]" line="39" column="59" />
@@ -531,6 +537,12 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanDeadLock.go" timestamp="1500979994156">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/tests/test_relate_system_tag_role.py" timestamp="1476348006172">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="24" />
@@ -916,7 +928,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -928,7 +940,7 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
@@ -937,22 +949,22 @@
         <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlUT0RPOiByZW1vdmUgc3VwcG9ydCBmb3Igd2lkZ2V0RXZlbnRQcmVmaXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">CQlUT0RPOiByZW1vdmUgc3VwcG9ydCBmb3Igd2lkZ2V0RXZlbnRQcmVmaXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQsZWFjaChyZXMsIGZ1bmN0aW9uIChpbmRleCwgcmVjb3JkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnByb3AoJ2Rpc2FibGVkJywgISQuc3VwcG9ydC5maWxlSW5wdXQpCi8vICAgICAgICAgICAgICAgIC5wYXJlbnQoKS5hZGRDbGFzcygkLnN1cHBvcnQuZmlsZUlucHV0ID8gdW5kZWZpbmVkIDogJ2Rpc2FibGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQsZWFjaChyZXMsIGZ1bmN0aW9uIChpbmRleCwgcmVjb3JkKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDaGFuZ2UgdGhpcyB0byB0aGUgbG9jYXRpb24gb2YgeW91ciBzZXJ2ZXItc2lkZSB1cGxvYWQgaGFuZGxlcjoKLy8gICAgICAgIHZhciB1cmwgPSB3aW5kb3cubG9jYXRpb24uaG9zdG5hbWUgPT09ICdibHVlaW1wLmdpdGh1Yi5pbycgPwovLyAgICAgICAgICAgICAgICAnLy9qcXVlcnktZmlsZS11cGxvYWQuYXBwc3BvdC5jb20vJyA6ICdzZXJ2ZXIvcGhwLyc7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnByb3AoJ2Rpc2FibGVkJywgISQuc3VwcG9ydC5maWxlSW5wdXQpCi8vICAgICAgICAgICAgICAgIC5wYXJlbnQoKS5hZGRDbGFzcygkLnN1cHBvcnQuZmlsZUlucHV0ID8gdW5kZWZpbmVkIDogJ2Rpc2FibGVkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">PA==</text>
