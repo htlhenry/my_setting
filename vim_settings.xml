@@ -206,6 +206,12 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanbase3.go" timestamp="1500980910393">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/app/static/css/test2.html" timestamp="1477361533622">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="65" />
@@ -530,6 +536,24 @@
         <mark key="]" line="9" column="51" />
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/selectfor.go" timestamp="1500982780829">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/selecteval.go" timestamp="1500981503324">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/GoProject/src/examples/goroutines/selectrandom.go" timestamp="1500982215105">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/pointers/extract_pointers.go" timestamp="1487747082893">
         <mark key="[" line="15" column="22" />
@@ -928,7 +952,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuYyBkZWFkTG9jaygpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -940,31 +964,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuYyBkZWFkTG9jaygpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
+        <text encoding="base64">ICAgIHNlbGVjdCB7CiAgICBjYXNlIGUxIDo9IDwtaW50Q2hhbjoKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlUT0RPOiByZW1vdmUgc3VwcG9ydCBmb3Igd2lkZ2V0RXZlbnRQcmVmaXgK</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJibG9ja2luZyBpbiBzeW5jQ2hhbjE/IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQsZWFjaChyZXMsIGZ1bmN0aW9uIChpbmRleCwgcmVjb3JkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnByb3AoJ2Rpc2FibGVkJywgISQuc3VwcG9ydC5maWxlSW5wdXQpCi8vICAgICAgICAgICAgICAgIC5wYXJlbnQoKS5hZGRDbGFzcygkLnN1cHBvcnQuZmlsZUlucHV0ID8gdW5kZWZpbmVkIDogJ2Rpc2FibGVkJyk7Cg==</text>
+        <text encoding="base64">CQlUT0RPOiByZW1vdmUgc3VwcG9ydCBmb3Igd2lkZ2V0RXZlbnRQcmVmaXgK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">PA==</text>
