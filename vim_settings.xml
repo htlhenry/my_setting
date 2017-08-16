@@ -99,6 +99,12 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="33" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/python/celery_learning/call.py" timestamp="1502869217305">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/grayInfo/routers/router.go" timestamp="1487926981698">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="10" column="53" />
@@ -279,6 +285,12 @@
         <mark key="]" line="20" column="36" />
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/project/learning_example/python/celery_learning/app.py" timestamp="1502868705471">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/test_pkg/pg.go" timestamp="1483961874901">
         <mark key="[" line="0" column="16" />
@@ -942,10 +954,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -954,31 +966,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ZGVmIGFkZCh4LCB5KToKICAgIHJldHVybiB4ICsgeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGF1dGhvcml0eToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvcl9sb2cuZGVidWcoInJlcXVlc3QgcGF0aCA9PiB7fSBhdXRob3JpdHkgPT4ge30iLmZvcm1hdChwYXRoLCBhdXRob3JpdHkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGF1dGhvcml0eToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvcl9sb2cuZGVidWcoInJlcXVlc3QgcGF0aCA9PiB7fSBhdXRob3JpdHkgPT4ge30iLmZvcm1hdChwYXRoLCBhdXRob3JpdHkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgZXJyb3JfbG9nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBkZWFkTG9jaygpIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBjb21tb25zLnV0aWxzLmxvZ2dlciBpbXBvcnQgZXJyb3JfbG9nCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnVuYyBkZWFkTG9jaygpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB7CiAgICBjYXNlIGUxIDo9IDwtaW50Q2hhbjoKICAgICAgICAKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdCB7CiAgICBjYXNlIGUxIDo9IDwtaW50Q2hhbjoKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">PA==</text>
