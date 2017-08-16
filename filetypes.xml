@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern="MongoDBConnectionTest" type="PLAIN_TEXT" />
