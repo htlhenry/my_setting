@@ -21,6 +21,13 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/object_maker.py" timestamp="1505120246235">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/files/space_input.txt" timestamp="1487765648495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="10" />
@@ -509,6 +516,13 @@
         <mark key="^" line="85" column="35" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/redis_shard/shard.py" timestamp="1505100934673" />
+      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/explore2.py" timestamp="1505120691193">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/myplayer/src/myplayer/main.go" timestamp="1484656200126">
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="24" />
@@ -569,12 +583,12 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" timestamp="1505118772625">
-        <mark key="'" line="25" column="28" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="28" column="21" />
-        <mark key="^" line="28" column="21" />
-        <mark key="." line="28" column="21" />
+      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" timestamp="1505119687291">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/GoProject/src/beegoHttplib/main.go" timestamp="1487755116936">
         <mark key="[" line="26" column="24" />
@@ -891,8 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="718" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="730" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="165" column="15" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="738" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -991,13 +1003,15 @@
       <jump line="5" column="12" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/pool_test.py" />
       <jump line="25" column="28" filename="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/fluent_python/19/object_maker.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/fluent_python/19/explore2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>abc</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>abc</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
