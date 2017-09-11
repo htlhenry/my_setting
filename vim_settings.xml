@@ -569,11 +569,12 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" timestamp="1505117366751">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" timestamp="1505118772625">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/GoProject/src/beegoHttplib/main.go" timestamp="1487755116936">
         <mark key="[" line="26" column="24" />
@@ -890,7 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="20" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="150" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="718" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="730" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -990,13 +990,14 @@
       <jump line="21" column="28" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="5" column="12" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/pool_test.py" />
+      <jump line="25" column="28" filename="$USER_HOME$/learning/python/python_example/fluent_python/19/osconfeed.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucmVxdWVzdCBpbXBvcnQgdXJsb3BlbgppbXBvcnQgd2FybmluZ3MKaW1wb3J0IG9zCmltcG9ydCBqc29uCgoKVVJMID0gJ2h0dHA6Ly93d3cuJwo=</text>
+      <register name="&quot;" type="4">
+        <text>abc</text>
       </register>
       <register name="-" type="4">
-        <text>save some design pattern cod</text>
+        <text>abc</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
