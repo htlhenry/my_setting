@@ -241,7 +241,7 @@
         <mark key="^" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/redis_shard/helpers.py" timestamp="1504776066596" />
-      <file name="/Python Console" timestamp="1504858262307">
+      <file name="/Python Console" timestamp="1504858612368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GoProject/src/grayInfo/main.go" timestamp="1487930764124">
@@ -418,6 +418,13 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/pool_test.py" timestamp="1505101892402">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/interfaces/simple_interface.go" timestamp="1486109641920">
         <mark key="[" line="19" column="38" />
         <mark key="]" line="19" column="38" />
@@ -493,7 +500,7 @@
         <mark key="." line="85" column="35" />
         <mark key="^" line="85" column="35" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/redis_shard/shard.py" timestamp="1504858466741" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/redis_shard/shard.py" timestamp="1505100934673" />
       <file name="$USER_HOME$/GoProject/src/myplayer/src/myplayer/main.go" timestamp="1484656200126">
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="24" />
@@ -696,6 +703,7 @@
         <mark key="^" line="26" column="69" />
         <mark key="." line="26" column="69" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/dummy/__init__.py" timestamp="1505101476140" />
       <file name="$USER_HOME$/GoProject/src/sendSMS/routers/router.go" timestamp="1487670347057">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="26" />
@@ -877,7 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="11" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="713" column="20" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="150" column="16" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="718" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -977,13 +984,14 @@
       <jump line="123" column="27" filename="$USER_HOME$/project/learning_example/python/wechat-admin/wechat/tasks.py" />
       <jump line="21" column="28" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="5" column="12" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/pool_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
