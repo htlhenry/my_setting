@@ -76,6 +76,13 @@
         <mark key="^" line="16" column="39" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/meta_two.py" timestamp="1505468092863">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sendSMS/conf/app.conf" timestamp="1487672618299">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="7" />
@@ -304,6 +311,13 @@
         <mark key="." line="57" column="40" />
         <mark key="^" line="57" column="40" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/factor_meta.py" timestamp="1505468387925">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/jsons/json_un2.go" timestamp="1487924637919">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="36" />
@@ -494,6 +508,13 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/meta_type_call.py" timestamp="1505469414557">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/interfaces/methodset2.go" timestamp="1487242551492">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="9" />
@@ -646,6 +667,13 @@
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/meta_one.py" timestamp="1505467386375">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/GoProject/src/examples/main.go" timestamp="1487750356560">
         <mark key="[" line="0" column="8" />
@@ -920,10 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="37" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="160" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="739" column="48" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="726" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="153" column="1" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="39" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
       <jump line="751" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
@@ -1020,13 +1044,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/add.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/attr.py" />
       <jump line="33" column="18" filename="$USER_HOME$/learning/python/python_example/metadata_programing/attr.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_one.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_two.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/factor_meta.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_type_call.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1035,28 +1063,28 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIiCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXR1cm4gc2VsZi5fd3JhcAo=</text>
+        <text encoding="base64">cHJpbnQoIm1ha2luZyBjbGFzcyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZiA9IGdldGF0dHIoc2VsZi5odW1hbiwgaXRlbSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdtYWtpbmcgY2xhc3Mgc3RhcnQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmh1bWFuWyduYW1lJ10K</text>
+        <text encoding="base64">IyBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
