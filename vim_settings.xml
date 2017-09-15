@@ -52,6 +52,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/meta_extend_manually.py" timestamp="1505473358306">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="45" column="9" />
+        <mark key="^" line="45" column="9" />
+        <mark key="." line="45" column="9" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/grayInfo/conf/app_prod.conf" timestamp="1487931004835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -961,7 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
       <jump line="751" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="199" column="11" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
       <jump line="214" column="29" filename="$USER_HOME$/GoProject/src/hello/interfacetest/interfacer.go" />
@@ -1061,10 +1067,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/factor_meta.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_type_call.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_class_call.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/meta_extend_manually.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBlZ2dzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1076,31 +1083,31 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGRlZiBlZ2dzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgoKICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoIm1ha2luZyBjbGFzcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdtYWtpbmcgY2xhc3Mgc3RhcnQnKQo=</text>
+        <text encoding="base64">cHJpbnQoIm1ha2luZyBjbGFzcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdtYWtpbmcgY2xhc3Mgc3RhcnQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">PA==</text>
