@@ -74,6 +74,13 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/dynamic_calculate.py" timestamp="1505730934650">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/sorter/src/algorithms/bubblesort/bubblesort.go" timestamp="1484061973880">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="17" column="0" />
@@ -887,6 +894,13 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/person.py" timestamp="1505730595408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/hello/arraytest/arraytestone.go" timestamp="1482076349063">
         <mark key="[" line="86" column="19" />
         <mark key="]" line="86" column="29" />
@@ -1018,8 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" />
-      <jump line="15" column="30" filename="$USER_HOME$/GoProject/src/grpctest/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" />
       <jump line="11" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="18" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="2" column="9" filename="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort.go" />
@@ -1118,13 +1130,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/descriptor/dynamic_caluate.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/descriptor/property.py" />
       <jump line="39" column="38" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/descriptor/property.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/person.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/dynamic_calculate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>》</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1133,25 +1147,25 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN1ZS5jY2MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRpcihzdWUubmFtZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
