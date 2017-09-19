@@ -183,6 +183,12 @@
         <mark key="^" line="13" column="39" />
         <mark key="." line="13" column="39" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/add.py" timestamp="1505448456491">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/chanconv.go" timestamp="1500980299567">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="18" column="44" />
@@ -689,6 +695,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator1.py" timestamp="1505813375088">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/jsons/json2.go" timestamp="1487841876198">
         <mark key="[" line="30" column="73" />
         <mark key="]" line="30" column="75" />
@@ -1039,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="2" column="9" filename="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort.go" />
       <jump line="72" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager.go" />
@@ -1139,10 +1150,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/person.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/dynamic_calculate.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/descriptor/manager.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>》</text>
@@ -1154,25 +1166,25 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN1ZS5jY2MpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">XAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHN1ZS5jY2MpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">XAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
