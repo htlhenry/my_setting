@@ -257,6 +257,13 @@
         <mark key="^" line="48" column="9" />
         <mark key="." line="48" column="9" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator2.py" timestamp="1505814541475">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="41" column="9" />
+        <mark key="." line="34" column="11" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/examples/goroutines/sieve1.go" timestamp="1487153448216">
         <mark key="[" line="17" column="1" />
         <mark key="]" line="27" column="23" />
@@ -1051,7 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="9" filename="$USER_HOME$/GoProject/src/sorter/src/algorithms/qsort/qsort.go" />
       <jump line="72" column="0" filename="$USER_HOME$/GoProject/src/sorter/src/sorter/sorter.go" />
       <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/myplayer/src/mlib/manager.go" />
       <jump line="22" column="1" filename="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" />
@@ -1151,13 +1157,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/operator/dynamic_calculate.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/property/descriptor/manager.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator1.py" />
+      <jump line="32" column="10" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>》</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
