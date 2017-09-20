@@ -921,6 +921,12 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/private.py" timestamp="1505894832284">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/GoProject/src/myplayer/src/mp/play.go" timestamp="1484310938501">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="20" column="20" />
@@ -934,12 +940,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/class_decorator/single_dispatch.py" timestamp="1505824085054">
+      <file name="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/class_decorator/single_dispatch.py" timestamp="1505891777815">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="48" column="18" />
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
         <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
+        <mark key="." line="47" column="24" />
       </file>
       <file name="$USER_HOME$/GoProject/src/hello/arraytest/arraytestone.go" timestamp="1482076349063">
         <mark key="[" line="86" column="19" />
@@ -1072,7 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="1" filename="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" />
       <jump line="7" column="0" filename="$USER_HOME$/GoProject/src/hello/pointer/pointer.go" />
       <jump line="192" column="0" filename="$USER_HOME$/GoProject/src/hello/main.go" />
       <jump line="66" column="0" filename="$USER_HOME$/GoProject/src/hello/structtest/structO.go" />
@@ -1172,13 +1177,14 @@
       <jump line="32" column="10" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/decorator2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/timeit.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/class_decorator/single_dispatch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/metadata_programing/decorator/private.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -1187,28 +1193,28 @@
         <text encoding="base64">CWlmIG1zZy5waG9uZV9udW1iZXIgPT0gIiIgewoJCXMuQ3R4LldyaXRlU3RyaW5nKCJwaG9uZV9udW1iZXIgaXMgZW1wdHkiKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN1ZS5jY2MpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">XAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHN1ZS5jY2MpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">XAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdmFsdWU6IAogICAgICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
