@@ -28,12 +28,13 @@
       <file name="/a.dummy" timestamp="1520562256818">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/plus_api/app/__init__.py" timestamp="1520562484291">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/lingsi/plus_api/app/__init__.py" timestamp="1520563754170">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1520562323762">
+      <file name="$USER_HOME$/opt/product_project/authority_management/app/__init__.py" timestamp="1520563542087">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="30" column="13" />
       </file>
@@ -54,8 +55,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="32" filename="$USER_HOME$/GoProject/src/hello/main.go" />
-      <jump line="36" column="0" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
       <jump line="68" column="26" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
       <jump line="9" column="0" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
       <jump line="72" column="36" filename="$USER_HOME$/GoProject/src/simplehttp/simplehttp.go" />
@@ -154,10 +153,12 @@
       <jump line="119" column="0" filename="$USER_HOME$/bianlifeng/python/apptree/apptree/lib/tree.py" />
       <jump line="41" column="28" filename="$USER_HOME$/bianlifeng/python/apptree/apptree/models/domain.py" />
       <jump line="143" column="31" filename="$USER_HOME$/bianlifeng/python/apptree/apptree/lib/tree.py" />
+      <jump line="13" column="10" filename="$USER_HOME$/lingsi/plus_api/app/__init__.py" />
+      <jump line="4" column="22" filename="$USER_HOME$/lingsi/plus_api/app/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q09NTUVOVAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -169,31 +170,31 @@
         <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sKZnJvbSBmbGFza19zcWxhbGNoZW15IGltcG9ydCBTUUxBbGNoZW15CmZyb20gZmxhc2tfbG9naW4gaW1wb3J0IExvZ2luTWFuYWdlcgoKCmRiID0gU1FMQWxjaGVteSgpCmxvZ2luX21hbmFnZXIgPSBMb2dpbk1hbmFnZXIoKQpsb2dpbl9tYW5hZ2VyLnNlc3Npb25fcHJvdGVjdGlvbiA9ICdzdHJvbmcnCgoKZGVmIGNyZWF0ZV9hcHAoY29uZmlnX25hbWUpOgogICAgYXBwID0gRmxhc2soX19uYW1lX18sIHRlbXBsYXRlX2ZvbGRlcj0iLi4vdGVtcGxhdGVzLyIpCiAgICBhcHAuY29uZmlnLmZyb21fb2JqZWN0KGNvbmZpZ19uYW1lKQogICAgZGIuaW5pdF9hcHAoYXBwKQogICAgbG9naW5fbWFuYWdlci5pbml0X2FwcChhcHApCiAgICBsb2dpbl9tYW5hZ2VyLmxvZ2luX3ZpZXcgPSAibWFpbi51c2VyX2xvZ2luIgogICAgbG9naW5fbWFuYWdlci51bmF1dGhvcml6ZWRfY2FsbGJhY2sgPSAiIgoKICAgIGZyb20gLmFwaSBpbXBvcnQgYXBpIGFzIGFwaV9ibHVlcHJpbnQKICAgIGFwcC5yZWdpc3Rlcl9ibHVlcHJpbnQoYXBpX2JsdWVwcmludCkKCiAgICBmcm9tIC5tYWluIGltcG9ydCBtYWluIGFzIG1haW5fYmx1ZXByaW50CiAgICBhcHAucmVnaXN0ZXJfYmx1ZXByaW50KG1haW5fYmx1ZXByaW50KQoKICAgIHJldHVybiBhcHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09NTUVOVAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCkNPTU1FTlQK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgRmxhc2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGF1dGhvcjogaGFuCg==</text>
+        <text encoding="base64">Q09NTUVOVAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IEBhdXRob3I6IGhhbgo=</text>
+        <text encoding="base64">IiIiCkNPTU1FTlQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IEBhdXRob3I6IGhhbgo=</text>
+        <text encoding="base64">QGF1dGhvcjogaGFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IEBhdXRob3I6IGhhbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDUkVBVEUgVEFCTEUgYHRwbF9ob3N0YCAoCiMgICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiMgICBgaG9zdF91dWlkYCB2YXJjaGFyKDY0KSBOT1QgTlVMTCBDT01NRU5UICfkuLvmnLp1dWlkJywKIyAgIGB0cGxfaWRgIGludCg4KSBOT1QgTlVMTCBDT01NRU5UICfmqKHmnb9pZCcsCiMgICBQUklNQVJZIEtFWSAoYGlkYCksCiMgICBVTklRVUUgS0VZIGBpZHhfaG9zdF90cGxgIChgaG9zdF91dWlkYCwgYHRwbF9pZGApCiMgICApIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVCAn5Y+R5biD5qih5p2/5LiO5Li75py65YWz6IGUJzsK</text>
+        <text encoding="base64">IEBhdXRob3I6IGhhbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">IyBDUkVBVEUgVEFCTEUgYHRwbF9ob3N0YCAoCiMgICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiMgICBgaG9zdF91dWlkYCB2YXJjaGFyKDY0KSBOT1QgTlVMTCBDT01NRU5UICfkuLvmnLp1dWlkJywKIyAgIGB0cGxfaWRgIGludCg4KSBOT1QgTlVMTCBDT01NRU5UICfmqKHmnb9pZCcsCiMgICBQUklNQVJZIEtFWSAoYGlkYCksCiMgICBVTklRVUUgS0VZIGBpZHhfaG9zdF90cGxgIChgaG9zdF91dWlkYCwgYHRwbF9pZGApCiMgICApIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVCAn5Y+R5biD5qih5p2/5LiO5Li75py65YWz6IGUJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
