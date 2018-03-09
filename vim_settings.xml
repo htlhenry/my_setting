@@ -52,15 +52,29 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1520578701278">
-        <mark key="'" line="18" column="3" />
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="25" />
+      <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1520582119849">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1520566432106">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/plus_api/app/api/helpers.py" timestamp="1520582206734">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/lingsi/plus_api/app/api/func.py" timestamp="1520583107638">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/__init__.py" timestamp="1520569318859">
         <mark key="'" line="4" column="22" />
@@ -100,19 +114,6 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1520571986750" />
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/run_forevery.go" />
-      <jump line="22" column="19" filename="$USER_HOME$/GoProject/src/examples/goroutines/channel_block_or_false.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/GoProject/src/examples/goroutines/timer_goroutine.go" />
-      <jump line="22" column="8" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="23" column="8" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="24" column="8" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="25" column="8" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="26" column="8" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="13" column="22" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="40" column="22" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="10" column="18" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="77" column="38" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
-      <jump line="78" column="0" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
       <jump line="79" column="0" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
       <jump line="73" column="14" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
       <jump line="14" column="19" filename="$USER_HOME$/GoProject/src/examples/syntaxs/sytaxs.go" />
@@ -200,13 +201,26 @@
       <jump line="17" column="17" filename="$USER_HOME$/lingsi/plus_api/app/models.py" />
       <jump line="72" column="0" filename="$USER_HOME$/lingsi/plus_api/app/models.py" />
       <jump line="18" column="3" filename="$USER_HOME$/lingsi/plus_api/app/api/views.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/lingsi/plus_api/app/api/views.py" />
+      <jump line="4" column="15" filename="$USER_HOME$/lingsi/plus_api/app/api/views.py" />
+      <jump line="10" column="3" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="4" column="16" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/lingsi/plus_api/app/api/helpers.py" />
+      <jump line="35" column="10" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="47" column="3" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="5" column="55" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="51" column="22" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="0" column="4" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
+      <jump line="14" column="22" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZChob3N0KQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -215,31 +229,31 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGByZWxlYXNlX2l0ZW1gICgKICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICflj5HluIPpoblpZCcsCiAgYG5hbWVgIHZhcmNoYXIoMzApIE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhueWQjeensCcsCiAgYGRlc2NgIHZhcmNoYXIoNjApIERFRkFVTFQgTlVMTCBDT01NRU5UICflj5HluIPpobnmj4/ov7Dmj4/ov7AnLAogIGBnaXRfYWRkcmAgdmFyY2hhcig2MCkgTk9UIE5VTEwgQ09NTUVOVCAnZ2l05Zyw5Z2AJywKICBgY190aW1lYCBEQVRFVElNRSBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+WIm+W7uuaXtumXtCcsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9yZWxlYXNlX25hbWVgIChgbmFtZWApCikgRU5HSU5FPUlubm9EQiBERUZBVUxUIENIQVJTRVQ9dXRmOCBDT01NRU5UICflj5HluIPpobnooagnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyb3VwID0gZ3JvdXAK</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZChob3N0KQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgnL3VzZXIvJykK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludCgnZSA9PiB7fScuZm9ybWF0KGUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15LmV4dC5oeWJyaWQgaW1wb3J0IGh5YnJpZF9tZXRob2QsIGh5YnJpZF9wcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaCBpbiBob3N0X2xpc3Q6CiAgICAgICAgICAgIGhvc3QgPSBIb3N0KGlwPWhbJ2lwJ10sCiAgICAgICAgICAgICAgICAgICAgICAgIHV1aWQ9aFsndXVpZCddLAogICAgICAgICAgICAgICAgICAgICAgICBuYW1lPWhbJ25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgdHBsX2lkPWhbJ3RwbF9pZCddKQogICAgICAgICAgICBkYi5zZXNzaW9uLmFkZChob3N0KQogICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBoeWJyaWRfbWV0aG9kCg==</text>
+        <text encoding="base64">QHJldHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBoeWJyaWRfbWV0aG9kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBoeWJyaWRfbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhc3N3b3JkID0gcGFzc3dvcmQK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBoeWJyaWRfcHJvcGVydHkKICAgIGRlZiBwYXNzd29yZChzZWxmKToKICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigicGFzc3dvcmQgd3JpdGUgb25seSIpCgogICAgQHBhc3N3b3JkLnNldHRlcgogICAgZGVmIHBhc3N3b3JkKHNlbGYsIHBhc3N3b3JkKToKICAgICAgICBzZWxmLl9wYXNzd29yZCA9IGdlbmVyYXRlX3Bhc3N3b3JkX2hhc2gocGFzc3dvcmQpCgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd1c2VybmFtZSA9PiB7fScuZm9ybWF0KHVzZXJuYW1lKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnZ2VuZXJhdGVfcGFzc3dvcmRfaGFzaCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJkZWxldGUgdXNlciA9PiB7fSIuZm9ybWF0KHUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
