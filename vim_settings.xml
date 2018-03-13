@@ -37,7 +37,12 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/ldap/ldapobject.py" timestamp="1520852783260" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/env/lib/python2.7/site-packages/ldap/ldapobject.py" timestamp="1520917353290">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api.py" timestamp="1520568614275">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="9" column="16" />
@@ -101,15 +106,21 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="63" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" timestamp="1520917846507">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/README.md" timestamp="1502077777449">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1520857385901">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="62" />
-        <mark key="]" line="144" column="50" />
-        <mark key="." line="144" column="50" />
-        <mark key="^" line="144" column="50" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1520917328507">
+        <mark key="'" line="39" column="39" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/configs/dev_config.py" timestamp="1520565709219">
         <mark key="[" line="25" column="0" />
@@ -118,8 +129,6 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1520855469599" />
     </filemarks>
     <jumps>
-      <jump line="227" column="28" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
-      <jump line="225" column="41" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
       <jump line="380" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
       <jump line="68" column="15" filename="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" />
       <jump line="123" column="27" filename="$USER_HOME$/project/learning_example/python/wechat-admin/wechat/tasks.py" />
@@ -218,13 +227,15 @@
       <jump line="31" column="0" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
       <jump line="155" column="20" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
+      <jump line="39" column="39" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -233,31 +244,31 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGByZWxlYXNlX2l0ZW1gICgKICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICflj5HluIPpoblpZCcsCiAgYG5hbWVgIHZhcmNoYXIoMzApIE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhueWQjeensCcsCiAgYGRlc2NgIHZhcmNoYXIoNjApIERFRkFVTFQgTlVMTCBDT01NRU5UICflj5HluIPpobnmj4/ov7Dmj4/ov7AnLAogIGBnaXRfYWRkcmAgdmFyY2hhcig2MCkgTk9UIE5VTEwgQ09NTUVOVCAnZ2l05Zyw5Z2AJywKICBgY190aW1lYCBEQVRFVElNRSBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+WIm+W7uuaXtumXtCcsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9yZWxlYXNlX25hbWVgIChgbmFtZWApCikgRU5HSU5FPUlubm9EQiBERUZBVUxUIENIQVJTRVQ9dXRmOCBDT01NRU5UICflj5HluIPpobnooagnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NtZGJfbGRhcCc6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NtZGJfbGRhcCc6IHsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdzZXJ2ZXInOiAnbGRhcDovLzEyNy4wLjAuMScsCiAgICAgICAgICAgICd1c2VyJzogJ2NuPWFkbWluLGRjPWV4YW1wbGUsZGM9b3JnJywKICAgICAgICAgICAgJ3Bhc3N3b3JkJzogJ2FkbWluJywKICAgICAgICAgICAgJ3Jvb3Rkbic6ICdkYz1leGFtcGxlLGRjPW9yZycKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgdXNlcm5hbWUgPSBVc2VyLnF1ZXJ5LmZpbHRlcl9ieQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19sb2dpbiBpbWRkcG9ydCBsb2dpbl91c2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHNldF9wYXNzd29yZChzZWxmLCBwYXNzd29yZCk6CiAgICAjICAgICBzZWxmLnBhc3N3b3JkID0gZ2VuZXJhdGVfcGFzc3dvcmRfaGFzaChwYXNzd29yZCkKICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBmbGFza19sb2dpbiBpbWRkcG9ydCBsb2dpbl91c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhYm9ydCg0MDQpCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIHNldF9wYXNzd29yZChzZWxmLCBwYXNzd29yZCk6CiAgICAjICAgICBzZWxmLnBhc3N3b3JkID0gZ2VuZXJhdGVfcGFzc3dvcmRfaGFzaChwYXNzd29yZCkKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhYm9ydCg0MDQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
