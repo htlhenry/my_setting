@@ -106,11 +106,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="63" />
       </file>
-      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" timestamp="1520917846507">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" timestamp="1520922594864">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/opt/product_project/ansible-playbook/agent_deploy/README.md" timestamp="1502077777449">
         <mark key="[" line="8" column="0" />
@@ -129,9 +130,6 @@
       <file name="$USER_HOME$/opt/product_project/authority_management/app/main/views.py" timestamp="1520855469599" />
     </filemarks>
     <jumps>
-      <jump line="380" column="0" filename="$USER_HOME$/opt/product_project/authority_management/templates/index.html" />
-      <jump line="68" column="15" filename="$USER_HOME$/PythonProjects/wepiaoProjects/resource_api/models.py" />
-      <jump line="123" column="27" filename="$USER_HOME$/project/learning_example/python/wechat-admin/wechat/tasks.py" />
       <jump line="21" column="28" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="5" column="12" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/pool_test.py" />
@@ -229,46 +227,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
       <jump line="51" column="11" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
       <jump line="39" column="39" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" />
+      <jump line="13" column="41" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" />
+      <jump line="52" column="26" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KG9sZF9wYXNzd29yZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>abcd123</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGByZWxlYXNlX2l0ZW1gICgKICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICflj5HluIPpoblpZCcsCiAgYG5hbWVgIHZhcmNoYXIoMzApIE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhueWQjeensCcsCiAgYGRlc2NgIHZhcmNoYXIoNjApIERFRkFVTFQgTlVMTCBDT01NRU5UICflj5HluIPpobnmj4/ov7Dmj4/ov7AnLAogIGBnaXRfYWRkcmAgdmFyY2hhcig2MCkgTk9UIE5VTEwgQ09NTUVOVCAnZ2l05Zyw5Z2AJywKICBgY190aW1lYCBEQVRFVElNRSBERUZBVUxUIENVUlJFTlRfVElNRVNUQU1QIENPTU1FTlQgJ+WIm+W7uuaXtumXtCcsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9yZWxlYXNlX25hbWVgIChgbmFtZWApCikgRU5HSU5FPUlubm9EQiBERUZBVUxUIENIQVJTRVQ9dXRmOCBDT01NRU5UICflj5HluIPpobnooagnOwo=</text>
+        <text encoding="base64">ICAgIEJBU0VfRE4gPSAnZGM9ZXhhbXBsZSxkYz1vcmcnCiAgICBTQ09QRSA9IGxkYXAuU0NPUEVfU1VCVFJFRQogICAgc2VhcmNoRmlsdGVyID0gJ2NuPXt9Jy5mb3JtYXQodXNlcm5hbWUpCiAgICBsZGFwX3Jlc3VsdF9pZCA9IGwuc2VhcmNoKEJBU0VfRE4sIFNDT1BFLCBzZWFyY2hGaWx0ZXIpCiAgICByZXN1bHRfdHlwZSwgcmVzdWx0X2RhdGEgPSBsLnJlc3VsdChsZGFwX3Jlc3VsdF9pZCwgMCkKICAgIHByaW50KHJlc3VsdF9kYXRhLCByZXN1bHRfdHlwZSkKICAgIGNuID0gcmVzdWx0X2RhdGFbMF1bMF0KICAgIHByaW50KGNuKQogICAgcmVzID0gbC5zaW1wbGVfYmluZF9zKGNuLCBwYXNzd29yZCkKICAgIHJldHVybiByZXN1bHRfZGF0YQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KG9sZF9wYXNzd29yZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJlcyA9IGwuc2ltcGxlX2JpbmRfcyhjbiwgcGFzc3dvcmQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NtZGJfbGRhcCc6IHsK</text>
+        <text encoding="base64">ICAgIHNzaGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdzZXJ2ZXInOiAnbGRhcDovLzEyNy4wLjAuMScsCiAgICAgICAgICAgICd1c2VyJzogJ2NuPWFkbWluLGRjPWV4YW1wbGUsZGM9b3JnJywKICAgICAgICAgICAgJ3Bhc3N3b3JkJzogJ2FkbWluJywKICAgICAgICAgICAgJ3Jvb3Rkbic6ICdkYz1leGFtcGxlLGRjPW9yZycKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgdXNlcm5hbWUgPSBVc2VyLnF1ZXJ5LmZpbHRlcl9ieQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHVzZXJfaW5mbykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19sb2dpbiBpbWRkcG9ydCBsb2dpbl91c2VyCg==</text>
+        <text encoding="base64">ICAgIGwudW5iaW5kX3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVmIHNldF9wYXNzd29yZChzZWxmLCBwYXNzd29yZCk6CiAgICAjICAgICBzZWxmLnBhc3N3b3JkID0gZ2VuZXJhdGVfcGFzc3dvcmRfaGFzaChwYXNzd29yZCkKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhYm9ydCg0MDQpCg==</text>
+        <text encoding="base64">ICAgIEJBU0VfRE4gPSAnZGM9ZXhhbXBsZSxkYz1vcmcnCiAgICBTQ09QRSA9IGxkYXAuU0NPUEVfU1VCVFJFRQogICAgc2VhcmNoRmlsdGVyID0gJ2NuPXt9Jy5mb3JtYXQodXNlcm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
