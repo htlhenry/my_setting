@@ -21,11 +21,11 @@
       <file name="/a.dummy" timestamp="1520569148390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/manage.py" timestamp="1520924958843">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="10" column="63" />
-        <mark key="^" line="10" column="63" />
-        <mark key="." line="10" column="63" />
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/manage.py" timestamp="1520930791822">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/README.md" timestamp="1520925359143">
         <mark key="[" line="0" column="0" />
@@ -75,12 +75,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/plus_api/app/models.py" timestamp="1520776001478">
-        <mark key="'" line="6" column="35" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1520777330002">
         <mark key="'" line="42" column="13" />
         <mark key="[" line="95" column="0" />
@@ -109,6 +103,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="10" column="81" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/__init__.py" timestamp="1520930864135">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/project/python/my_blog_api/README.md" timestamp="1507559244711">
         <mark key="[" line="0" column="0" />
@@ -258,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
