@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521026421303">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521030073770">
         <mark key="'" line="27" column="42" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/manage.py" timestamp="1520995401409">
         <mark key="[" line="10" column="0" />
@@ -47,6 +47,7 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/db_client.py" timestamp="1521029567227" />
       <file name="$USER_HOME$/opt/product_project/authority_management/app/models.py" timestamp="1521021807521">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="40" column="0" />
@@ -95,6 +96,9 @@
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
         <mark key="^" line="43" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521030058412">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/config.py" timestamp="1521023648469">
         <mark key="[" line="33" column="33" />
@@ -151,12 +155,12 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/models.py" timestamp="1521029176231">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/models.py" timestamp="1521030046777">
+        <mark key="'" line="7" column="42" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1520917328507">
         <mark key="'" line="39" column="39" />
@@ -179,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
-      <jump line="55" column="9" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
       <jump line="54" column="0" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
       <jump line="60" column="22" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
       <jump line="4" column="11" filename="$USER_HOME$/lingsi/plus_api/app/api/func.py" />
@@ -279,13 +281,15 @@
       <jump line="8" column="71" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" />
       <jump line="27" column="42" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="20" column="25" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/models.py" />
+      <jump line="7" column="42" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>pymysql</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>pymysql</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
