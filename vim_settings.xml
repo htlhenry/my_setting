@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521198247934">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521201084521">
         <mark key="'" line="65" column="42" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="160" column="36" />
+        <mark key="[" line="160" column="35" />
+        <mark key="]" line="160" column="35" />
+        <mark key="." line="160" column="35" />
+        <mark key="^" line="160" column="35" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/env/lib/python2.7/site-packages/ldap/modlist.py" timestamp="1521182451465" />
       <file name="$USER_HOME$/lingsi/code/python/ldapm/manage.py" timestamp="1521111024861">
@@ -94,12 +94,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521198221705">
-        <mark key="'" line="147" column="38" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="163" column="36" />
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521201160733">
+        <mark key="'" line="101" column="46" />
+        <mark key="[" line="70" column="29" />
+        <mark key="]" line="70" column="31" />
+        <mark key="." line="70" column="31" />
+        <mark key="^" line="70" column="31" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1520777330002">
         <mark key="'" line="42" column="13" />
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" />
       <jump line="52" column="26" filename="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapmanage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/ldapm/scripts/test_connect.py" />
       <jump line="19" column="3" filename="$USER_HOME$/lingsi/code/python/ldapm/scripts/test_connect.py" />
@@ -290,13 +289,14 @@
       <jump line="20" column="40" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="181" column="11" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="65" column="42" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
+      <jump line="101" column="46" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
