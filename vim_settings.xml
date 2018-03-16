@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521118144697">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521180911910">
         <mark key="'" line="27" column="42" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="113" column="37" />
-        <mark key="^" line="99" column="24" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="78" />
+        <mark key="." line="33" column="78" />
+        <mark key="^" line="33" column="78" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/manage.py" timestamp="1521111024861">
         <mark key="'" line="13" column="10" />
@@ -29,12 +29,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/scripts/test_connect.py" timestamp="1521082393179">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/scripts/test_connect.py" timestamp="1521180667012">
         <mark key="'" line="28" column="18" />
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="22" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="34" column="50" />
+        <mark key="^" line="34" column="50" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/app/__init__.py" timestamp="1520924641633">
         <mark key="[" line="7" column="0" />
@@ -83,12 +83,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521178844040">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="108" column="65" />
-        <mark key="]" line="109" column="17" />
-        <mark key="." line="109" column="17" />
-        <mark key="^" line="109" column="17" />
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521180303714">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1520777330002">
         <mark key="'" line="42" column="13" />
@@ -286,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBjdXJyZW50X2FwcC5jb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NuJzogc3RyKHVzZXJuYW1lKSwKICAgICAgICAgICAgJ3VzZXJQYXNzd29yZCc6IHBhc3N3b3JkX2hhc2gsCiAgICAgICAgICAgICdzbic6IHN0cih1c2VybmFtZSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>yes</text>
+        <text>yantaotao</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGB1c2VyYCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn55So5oi3aWQnLAogIGBuYW1lYCB2YXJjaGFyKDMwKSBOT1QgTlVMTCBDT01NRU5UICfnlKjmiLflkI0nLAogIGBwYXNzd29yZGAgdmFyY2hhcigxMjgpIE5PVCBOVUxMIENPTU1FTlQgJ+WvhueggScsCiAgYGdyb3VwYCB2YXJjaGFyKDMwKSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn55So5oi357uE5ZCNJywKICBQUklNQVJZIEtFWSAoaWQpLAogIFVOSVFVRSBLRVkgYGlkeF91c2VyX25hbWVgIChuYW1lKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0Zjg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBjdXJyZW50X2FwcC5jb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NuJzogc3RyKHVzZXJuYW1lKSwKICAgICAgICAgICAgJ3VzZXJQYXNzd29yZCc6IHBhc3N3b3JkX2hhc2gsCiAgICAgICAgICAgICdzbic6IHN0cih1c2VybmFtZSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29iamVjdGNsYXNzJzogWyd0b3AnLCAncGVyc29uJywgJ2luZXRPcmdQZXJzb24nXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGFzaCh1J+W3suehruiupOeUqOaIt++8jOiwouiwoiEnKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldF9jb29raWUoJ2xvZ2dlZF9pbicsICcxJywgZG9tYWluPSIxMjcuMC4wLjE6ODAwMCIpCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHJlcXVlc3QuLmdldCgncGFzc3dvcmQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFrZV9yZXNwb25zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBjdXJyZW50X2FwcC5jb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlcyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvZGUnOiAyMDAwMCwKICAgICAgICAgICAgJ21zZyc6ICflt7Lnoa7orqTmgqjnmoTnlKjmiLfvvIwg6LCi6LCiIScK</text>
+        <text encoding="base64">ICAgICAgICBmbGFzaCh1J+W3suehruiupOeUqOaIt++8jOiwouiwoiEnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy9jb25maXJtJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnNldF9jb29raWUoJ2xvZ2dlZF9pbicsICcxJywgZG9tYWluPSIxMjcuMC4wLjE6ODAwMCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
