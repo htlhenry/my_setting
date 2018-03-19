@@ -111,14 +111,14 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="90" column="19" />
       </file>
-      <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1521453811628">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="125" column="44" />
-        <mark key="]" line="127" column="47" />
-        <mark key="." line="127" column="47" />
-        <mark key="^" line="127" column="47" />
+      <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1521454564653">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="86" column="44" />
+        <mark key="]" line="86" column="43" />
+        <mark key="." line="86" column="43" />
+        <mark key="^" line="86" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521194660676">
+      <file name="/Dummy.txt" timestamp="1521454719134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/config.py" timestamp="1521429421662">
@@ -127,12 +127,12 @@
         <mark key="^" line="22" column="55" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/plus_api/app/api/func.py" timestamp="1520777031490">
+      <file name="$USER_HOME$/lingsi/plus_api/app/api/func.py" timestamp="1521455009459">
         <mark key="'" line="110" column="4" />
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="18" />
-        <mark key="^" line="120" column="18" />
+        <mark key="[" line="68" column="59" />
+        <mark key="]" line="68" column="62" />
+        <mark key="." line="68" column="62" />
+        <mark key="^" line="68" column="62" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/exc.py" timestamp="1521429167366">
         <mark key="'" line="0" column="0" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="11" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="79" column="0" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="71" column="41" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" />
       <jump line="62" column="10" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
@@ -312,13 +311,14 @@
       <jump line="19" column="17" filename="$USER_HOME$/lingsi/code/python/ldapm/manage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/ldapm/configs/dev_config.py" />
       <jump line="26" column="14" filename="$USER_HOME$/lingsi/plus_api/app/api/views.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/lingsi/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>testing</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
