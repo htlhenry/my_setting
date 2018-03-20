@@ -23,7 +23,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1521521307076">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1521521883170">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="51" column="78" />
         <mark key="]" line="55" column="60" />
@@ -109,6 +109,7 @@
         <mark key="^" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/__init__.py" timestamp="1521521810774" />
       <file name="$USER_HOME$/lingsi/code/python/ldapm/schema/ldapm.sql" timestamp="1521020284493">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -141,11 +142,11 @@
         <mark key="." line="86" column="43" />
         <mark key="^" line="86" column="43" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_command.py" timestamp="1521521416702">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="5" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_command.py" timestamp="1521522252057">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1521518965423">
         <mark key="[" line="0" column="0" />
@@ -356,8 +357,8 @@
       <jump line="21" column="18" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -372,10 +373,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBkcnlfcnVuKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGFwcC5hcGkuc3luYyBpbXBvcnQgU3luY01vZHVsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFwcC5jb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGFwcC5hcGkuc3luYyBpbXBvcnQgU3luY01vZHVsZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,16 +385,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGNsYXNzaWMgY29tbWFuZC4gY29tbWFuZCB3aXRoIHJ1bigpIG1ldGhvZAo=</text>
+        <text encoding="base64">ZnJvbSBhcHAuYXBpLnN5bmMgaW1wb3J0IFN5bmNNb2R1bGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFwcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2NvbW1hbmQoc2VsZiwgc3luYz1UcnVlKToKICAgICAgICBjYW5fc3luYyA9IHNlbGYuY2hlY2tfZHN0X3NhZmUoKQogICAgICAgIGlmIGNhbl9zeW5jOgogICAgICAgICAgICBzaCA9IHNobGV4LnNwbGl0KCJyc3luYyAtYXZ6UCIpCiAgICAgICAgICAgIGlmIHN5bmM6CiAgICAgICAgICAgICAgICBzaC5hcHBlbmQoIi0tZGVsZXRlIikKICAgICAgICAgICAgcmV0dXJuIHNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kID0gc2VsZi5tYWtlX2NvbW1hbmQoKQogICAgICAgIGlmIGNvbW1hbmQ6CiAgICAgICAgICAgIGNvbW1hbmRfbGlzdCA9IFtdCiAgICAgICAgICAgIGZvciBpcCBpbiBzZWxmLmlwX2xpc3Q6CiAgICAgICAgICAgICAgICBjb21tYW5kLmFwcGVuZChzZWxmLnNyYykKICAgICAgICAgICAgICAgIGNvbW1hbmQuYXBwZW5kKCJyb290QHt9OiIuZm9ybWF0KGlwLCBzZWxmLmRzdCkpCiAgICAgICAgICAgICAgICBjb21tYW5kX2xpc3QuYXBwZW5kKGNvbW1hbmQpCiAgICAgICAgICAgIHJldHVybiBjb21tYW5kX2xpc3QK</text>
+        <text encoding="base64">ICAgIGRlZiBkcnlfcnVuKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
