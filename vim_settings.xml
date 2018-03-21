@@ -9,12 +9,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521612201049">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1521617565117">
         <mark key="'" line="195" column="28" />
-        <mark key="[" line="277" column="20" />
-        <mark key="]" line="277" column="59" />
-        <mark key="." line="277" column="59" />
-        <mark key="^" line="277" column="59" />
+        <mark key="[" line="247" column="39" />
+        <mark key="]" line="249" column="14" />
+        <mark key="." line="249" column="14" />
+        <mark key="^" line="249" column="14" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/tests/test_command.py" timestamp="1521516299011">
         <mark key="'" line="0" column="0" />
@@ -133,8 +133,12 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521610055269">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1521616772767">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="181" column="39" />
+        <mark key="]" line="183" column="13" />
+        <mark key="^" line="183" column="13" />
+        <mark key="." line="183" column="13" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api/views.py" timestamp="1521454564653">
         <mark key="'" line="94" column="0" />
@@ -149,7 +153,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521612574395">
+      <file name="/Dummy.txt" timestamp="1521612623648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,12 +283,12 @@
         <mark key="^" line="14" column="63" />
         <mark key="." line="14" column="63" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1521549416865">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1521616790560">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="39" column="110" />
-        <mark key="^" line="39" column="110" />
-        <mark key="." line="39" column="110" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1521527219981">
         <mark key="[" line="13" column="16" />
@@ -396,11 +400,11 @@
       <jump line="195" column="28" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>login user when user confirming he's toke</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>login user when user confirming he's toke</text>
+        <text>send_confirm_mail</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -409,31 +413,31 @@
         <text encoding="base64">TERBUF9VU0VSX0ROID0gJ2NuPXt9LGRjPWV4YW1wbGUsZGM9b3JnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBMREFQX1VSTCA9ICdsZGFwOi8vMTI3LjAuMC4xOjM4OScKIyBMREFQX0FETUlOID0gJ2NuPWFkbWluLGRjPWV4YW1wbGUsZGM9b3JnJwojIExEQVBfQURNSU5fUEFTU1dPUkQgPSAnYWRtaW4nCiMgTERBUF9CQVNFX0ROID0gJ2RjPWV4YW1wbGUsZGM9b3JnJwojIExEQVBfVVNFUl9ETiA9ICdjbj17fSxkYz1leGFtcGxlLGRjPW9yZycKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHNlbmRfZm9yZ2V0X21haWwodXNlcm5hbWUsIHRva2VuKToKICAgIGNvbmZpZyA9IGN1cnJlbnRfYXBwLmNvbmZpZwogICAgcmVjaXBpZW50ID0gdXNlcm5hbWUgKyBjb25maWdbJ01BSUxfU1VGRklYJ10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QGxvZ2luX3JlcXVpcmVkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6YWJjMTIzQDEyNy4wLjAuMS9sZGFwbT9jaGFyc2V0PXV0ZjgiCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TERBUF9VUkwgPSAnbGRhcDovLzM5LjEwNy4yMzEuMTY6Mzg5Jwo=</text>
+        <text encoding="base64">IyBMREFQX1VSTCA9ICdsZGFwOi8vMTI3LjAuMC4xOjM4OScKIyBMREFQX0FETUlOID0gJ2NuPWFkbWluLGRjPWV4YW1wbGUsZGM9b3JnJwojIExEQVBfQURNSU5fUEFTU1dPUkQgPSAnYWRtaW4nCiMgTERBUF9CQVNFX0ROID0gJ2RjPWV4YW1wbGUsZGM9b3JnJwojIExEQVBfVVNFUl9ETiA9ICdjbj17fSxkYz1leGFtcGxlLGRjPW9yZycKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RE9NQUlOID0gJzEyNy4wLjAuMTo4MDAwJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
