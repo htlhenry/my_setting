@@ -149,9 +149,10 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521611568221">
+      <file name="/Dummy.txt" timestamp="1521612574395">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/plus_api/app/api/sync.py" timestamp="1521517000061">
         <mark key="'" line="84" column="23" />
@@ -252,11 +253,11 @@
         <mark key="^" line="65" column="20" />
         <mark key="." line="65" column="20" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/.gitignore" timestamp="1521010950073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/.gitignore" timestamp="1521612621428">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/opt/product_project/authority_management/commons/utils/ldapbase.py" timestamp="1520917328507">
         <mark key="'" line="39" column="39" />
@@ -395,11 +396,11 @@
       <jump line="195" column="28" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>login user when user confirming he's toke</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>login user when user confirming he's toke</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
