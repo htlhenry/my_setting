@@ -23,12 +23,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1521534228350">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1521632262030">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="129" column="69" />
-        <mark key="]" line="130" column="23" />
-        <mark key="^" line="130" column="23" />
-        <mark key="." line="130" column="23" />
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="88" column="16" />
+        <mark key="^" line="88" column="16" />
+        <mark key="." line="88" column="16" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/config/dev_config.py" timestamp="1521518815960">
         <mark key="[" line="18" column="32" />
@@ -95,12 +95,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1521628756197">
-        <mark key="'" line="39" column="33" />
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="71" />
-        <mark key="." line="14" column="71" />
-        <mark key="^" line="14" column="71" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1521632919379">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/__init__.py" timestamp="1521084180411">
         <mark key="[" line="17" column="25" />
@@ -185,11 +185,11 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1521629800842">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1521631704906">
         <mark key="'" line="34" column="22" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/app/__init__.py" timestamp="1520924641633">
         <mark key="[" line="7" column="0" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="20" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="12" column="0" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
       <jump line="15" column="1" filename="$USER_HOME$/lingsi/code/python/ldapm/utils/log.py" />
       <jump line="68" column="34" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" />
@@ -407,13 +406,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/exc.py" />
       <jump line="22" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="26" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>DEPLOY_STATUS</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
