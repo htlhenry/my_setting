@@ -102,7 +102,7 @@
         <mark key="." line="113" column="18" />
         <mark key="^" line="113" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522828796353">
+      <file name="/Dummy.txt" timestamp="1523100806012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -163,11 +163,12 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
       </file>
-      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" timestamp="1523100802775">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" timestamp="1523101551180">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1522821877258">
         <mark key="'" line="9" column="0" />
@@ -190,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="57" column="44" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_ts/celery.py" />
       <jump line="54" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -290,13 +290,14 @@
       <jump line="360" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="15" column="47" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="345" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="16" column="10" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>authenrized_key</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>authenrized_key</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
