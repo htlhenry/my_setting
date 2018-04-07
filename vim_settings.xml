@@ -102,7 +102,7 @@
         <mark key="." line="113" column="18" />
         <mark key="^" line="113" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523100806012">
+      <file name="/Dummy.txt" timestamp="1523101898759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -131,11 +131,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/vars/main.yml" timestamp="1523098738302">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/vars/main.yml" timestamp="1523104026814">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1522210792469">
         <mark key="'" line="21" column="26" />
@@ -293,8 +293,8 @@
       <jump line="16" column="10" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>authenrized_key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
       </register>
       <register name="-" type="4">
         <text>authenrized_key</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgIHN0YXJ0ID0gKHBhZ2UgLSAxKSAqIHBhZ2Vfc2l6ZQogICAgZW5kID0gcGFnZV9zaXplCiAgICBoYXNfbmV4dCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlPXByZXNlbnQK</text>
+        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZ2V4cD0iXiVXSEVFTCBBTExcPScgCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlPXByZXNlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmU9IiV3aGVlbCAgQUxMPShBTEwpICAgICAgIE5PUEFTU1dEOiBBTEwiCg==</text>
+        <text encoding="base64">ICAgIHJlZ2V4cD0iXiVXSEVFTCBBTExcPScgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
+        <text encoding="base64">ICAgIGxpbmU9IiV3aGVlbCAgQUxMPShBTEwpICAgICAgIE5PUEFTU1dEOiBBTEwiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzog56e76Zmk6L+Z6YeM55qEbG9naW7vvIzlnKh0b2tlbuWkhGxvZ2luCg==</text>
+        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzog56e76Zmk6L+Z6YeM55qEbG9naW7vvIzlnKh0b2tlbuWkhGxvZ2luCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5fdXNlcih1KQogICAgICAgICAgICB0b2tlbiA9IHUuZ2VuZXJhdGVfY29uZmlybWF0aW9uX3Rva2VuKCkKICAgICAgICAgICAgcmV0dXJuIHRva2VuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5fdXNlcih1KQogICAgICAgICAgICB0b2tlbiA9IHUuZ2VuZXJhdGVfY29uZmlybWF0aW9uX3Rva2VuKCkKICAgICAgICAgICAgcmV0dXJuIHRva2VuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
