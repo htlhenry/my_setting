@@ -125,6 +125,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/devops/ansible-playbook/.gitignore" timestamp="1523099287362">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/vars/main.yml" timestamp="1523098738302">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1522210792469">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="23" column="12" />
@@ -150,6 +162,12 @@
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
         <mark key="^" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" timestamp="1523100802775">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1522821877258">
         <mark key="'" line="9" column="0" />
@@ -274,11 +292,11 @@
       <jump line="345" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -287,31 +305,31 @@
         <text encoding="base64">ICAgIHN0YXJ0ID0gKHBhZ2UgLSAxKSAqIHBhZ2Vfc2l6ZQogICAgZW5kID0gcGFnZV9zaXplCiAgICBoYXNfbmV4dCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlPXByZXNlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzog56e76Zmk6L+Z6YeM55qEbG9naW7vvIzlnKh0b2tlbuWkhGxvZ2luCg==</text>
+        <text encoding="base64">ICAgIHJlZ2V4cD0iXiVXSEVFTCBBTExcPScgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmU9IiV3aGVlbCAgQUxMPShBTEwpICAgICAgIE5PUEFTU1dEOiBBTEwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5fdXNlcih1KQogICAgICAgICAgICB0b2tlbiA9IHUuZ2VuZXJhdGVfY29uZmlybWF0aW9uX3Rva2VuKCkKICAgICAgICAgICAgcmV0dXJuIHRva2VuCg==</text>
+        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzog56e76Zmk6L+Z6YeM55qEbG9naW7vvIzlnKh0b2tlbuWkhGxvZ2luCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5fdXNlcih1KQogICAgICAgICAgICB0b2tlbiA9IHUuZ2VuZXJhdGVfY29uZmlybWF0aW9uX3Rva2VuKCkKICAgICAgICAgICAgcmV0dXJuIHRva2VuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHJldHJ5Cg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
