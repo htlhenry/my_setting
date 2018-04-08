@@ -16,6 +16,12 @@
         <mark key="." line="217" column="27" />
         <mark key="^" line="217" column="27" />
       </file>
+      <file name="$USER_HOME$/devops/ansible-playbook/jenkins_hosts" timestamp="1523167764786">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1522727090812">
         <mark key="'" line="117" column="22" />
         <mark key="[" line="333" column="10" />
@@ -71,6 +77,12 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/devops/ansible-playbook/jenkins.yml" timestamp="1523167472974">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/exc.py" timestamp="1522663752402">
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="28" />
@@ -83,10 +95,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/devops/ansible-playbook/roles/jenkins/vars/main.yml" timestamp="1523165675916">
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+      <file name="$USER_HOME$/devops/ansible-playbook/roles/jenkins/vars/main.yml" timestamp="1523167374533">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/__init__.py" timestamp="1522208487531">
         <mark key="'" line="8" column="0" />
@@ -129,6 +143,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/php_service" timestamp="1523167768744">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/devops/ansible-playbook/.gitignore" timestamp="1523099287362">
         <mark key="[" line="1" column="6" />
@@ -196,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_ts/celery.py" />
       <jump line="54" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="14" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="149" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
@@ -296,10 +315,11 @@
       <jump line="345" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="16" column="10" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
       <jump line="15" column="11" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
+      <jump line="19" column="7" filename="$USER_HOME$/devops/ansible-playbook/roles/jenkins/vars/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aGVuOiBpdGVtLnN1ZG9lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>fix authorized_ke</text>
@@ -308,34 +328,34 @@
         <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gKHBhZ2UgLSAxKSAqIHBhZ2Vfc2l6ZQogICAgZW5kID0gcGFnZV9zaXplCiAgICBoYXNfbmV4dCA9IFRydWUK</text>
+        <text encoding="base64">MTcyLjIxLjE3LjI1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGVuOiBpdGVtLnN1ZG9lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiBlY2hvIHRlc3QKICBzaGVsbDogImVjaG8ge3sgaHR0cF9wb3J0IH19IgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
+        <text encoding="base64">ZW52OgogIGRldjoKICAgIHBocF9zZXJ2aWNlOgogICAgICBjbXNfYXBpOiAKICAgICAgICBpcDoKICAgICAgICBzcmM6CiAgICAgICAgZGVzdDoKICAgICAgY21zX2JhY2tlbmQ6CiAgICAgICAgaXA6CiAgICAgICAgc3JjOgogICAgICAgIGRlc3Q6CiAgICB0aWNrZXQ6CiAgICAgIGNvbmZpZ19zZXJ2ZXI6CiAgICAgICAgaXA6CiAgICAgICAgc3JjOgogICAgICAgIGRlc3Q6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
+        <text encoding="base64">ICB3aGVuOiBpdGVtLnN1ZG9lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlPXByZXNlbnQK</text>
+        <text encoding="base64">LSBuYW1lOiBlY2hvIHRlc3QKICBzaGVsbDogImVjaG8ge3sgaHR0cF9wb3J0IH19IgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZ2V4cD0iXiVXSEVFTCBBTExcPScgCg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmU9IiV3aGVlbCAgQUxMPShBTEwpICAgICAgIE5PUEFTU1dEOiBBTEwiCg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IHRvbmdzaHVqaWFuCiAgICBzdWRvZXI6IHllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAtIHJwY0FnZW50Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlPXByZXNlbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzog56e76Zmk6L+Z6YeM55qEbG9naW7vvIzlnKh0b2tlbuWkhGxvZ2luCg==</text>
+        <text encoding="base64">ICAgIHJlZ2V4cD0iXiVXSEVFTCBBTExcPScgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
