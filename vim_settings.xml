@@ -16,6 +16,12 @@
         <mark key="." line="217" column="27" />
         <mark key="^" line="217" column="27" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms_api" timestamp="1523168807900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
       <file name="$USER_HOME$/devops/ansible-playbook/jenkins_hosts" timestamp="1523167764786">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="12" />
@@ -77,7 +83,7 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/ansible-playbook/jenkins.yml" timestamp="1523167472974">
+      <file name="$USER_HOME$/devops/ansible-playbook/jenkins.yml" timestamp="1523167793322">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
@@ -138,13 +144,7 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1522757801067">
-        <mark key="'" line="114" column="1" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/php_service" timestamp="1523167768744">
+      <file name="$USER_HOME$/devops/jenkins/hosts/php_service" timestamp="1523168487068">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -162,12 +162,24 @@
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/site.yml" timestamp="1523167796678">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1522210792469">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="16" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523168815701">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/devops/ansible-playbook/site.yml" timestamp="1523105721208">
         <mark key="[" line="5" column="8" />
@@ -318,11 +330,11 @@
       <jump line="19" column="7" filename="$USER_HOME$/devops/ansible-playbook/roles/jenkins/vars/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dest</text>
       </register>
       <register name="-" type="4">
-        <text>fix authorized_ke</text>
+        <text>dest</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
