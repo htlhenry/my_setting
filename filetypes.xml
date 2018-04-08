@@ -17,6 +17,7 @@
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
+      <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
       <mapping pattern="cms_backend" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
