@@ -34,14 +34,14 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523258709441">
-        <mark key="'" line="353" column="0" />
-        <mark key="[" line="414" column="5" />
-        <mark key="]" line="412" column="21" />
-        <mark key="." line="412" column="21" />
-        <mark key="^" line="412" column="21" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523259355067">
+        <mark key="'" line="403" column="26" />
+        <mark key="[" line="411" column="12" />
+        <mark key="]" line="411" column="16" />
+        <mark key="." line="411" column="16" />
+        <mark key="^" line="411" column="16" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523255146069">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523259361523">
         <mark key="'" line="20" column="87" />
         <mark key="[" line="378" column="42" />
         <mark key="]" line="378" column="10" />
@@ -66,12 +66,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523258681192">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523259429365">
         <mark key="'" line="14" column="63" />
-        <mark key="[" line="387" column="8" />
-        <mark key="]" line="388" column="42" />
-        <mark key="." line="388" column="42" />
-        <mark key="^" line="388" column="42" />
+        <mark key="[" line="385" column="50" />
+        <mark key="]" line="385" column="45" />
+        <mark key="." line="385" column="45" />
+        <mark key="^" line="385" column="45" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/order_api" timestamp="1523179786337">
         <mark key="[" line="1" column="13" />
@@ -260,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="17" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
-      <jump line="78" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="12" column="107" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="235" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="233" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
@@ -360,13 +357,16 @@
       <jump line="378" column="8" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="387" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="14" column="63" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="405" column="10" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
+      <jump line="9" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
+      <jump line="403" column="26" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>add php-fpm restar</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
