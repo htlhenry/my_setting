@@ -26,11 +26,11 @@
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/sc_crontab" timestamp="1523353184771">
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/sc_crontab" timestamp="1523355666109">
+        <mark key="[" line="1" column="84" />
+        <mark key="]" line="4" column="99" />
+        <mark key="." line="4" column="99" />
+        <mark key="^" line="4" column="99" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms_frontend" timestamp="1523186152578">
         <mark key="[" line="4" column="49" />
@@ -231,7 +231,7 @@
         <mark key="." line="113" column="18" />
         <mark key="^" line="113" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523350745893">
+      <file name="/Dummy.txt" timestamp="1523353193642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -266,11 +266,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523251799539">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523355796068">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523349051552">
         <mark key="[" line="43" column="19" />
@@ -395,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjI1IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9jbXNfYXBpLycgcmVzdGFydD0ic2VydmljZSBwaHA3LWZwbSByZXN0YXJ0IgoKW3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvY21zX2FwaS8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
+        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHNlcnZpY2UKICBzaGVsbDogInt7IHJlc3RhcnQgfX0iCiAgd2hlbjogcmVzdGFydCBpcyBkZWZpbmVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -407,31 +407,31 @@
         <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjI1IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9jbXNfYXBpLycgcmVzdGFydD0ic2VydmljZSBwaHA3LWZwbSByZXN0YXJ0IgoKW3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvY21zX2FwaS8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coJ3ZhbGlkYXRlIHBhc3N3b3JkIGVycm9yJykK</text>
+        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHNlcnZpY2UKICBzaGVsbDogInt7IHJlc3RhcnQgfX0iCiAgd2hlbjogcmVzdGFydCBpcyBkZWZpbmVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tb25fbXNnID0gJ+eUqOaIt+WQjeWvhueggemUmeivrycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coJ3ZhbGlkYXRlIHBhc3N3b3JkIGVycm9yJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tb25fbXNnID0gJ+eUqOaIt+WQjeWvhueggemUmeivrycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXIgYW5kIHVzZXIudmVyaWZ5X3Bhc3N3b3JkKHBhc3N3b3JkKToKICAgICAgICBsb2dpbl91c2VyKHVzZXIpCiAgICAgICAgcmV0dXJuIHVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZXIgYW5kIHVzZXIudmVyaWZ5X3Bhc3N3b3JkKHBhc3N3b3JkKToKICAgICAgICBsb2dpbl91c2VyKHVzZXIpCiAgICAgICAgcmV0dXJuIHVzZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyb3VwID0gZ3JvdXAK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdyb3VwID0gZ3JvdXAK</text>
       </register>
       <register name=":" type="4">
         <text>240</text>
