@@ -7,9 +7,9 @@
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="bak" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="kdm_api" type="PLAIN_TEXT" />
+      <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="java_gateway" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
@@ -25,6 +25,7 @@
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
+      <mapping pattern="sc_crontab" type="PLAIN_TEXT" />
       <mapping pattern="cms_backend" type="PLAIN_TEXT" />
       <mapping pattern="media_frontend" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />

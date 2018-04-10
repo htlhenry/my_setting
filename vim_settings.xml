@@ -26,6 +26,12 @@
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/sc_crontab" timestamp="1523353184771">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms_frontend" timestamp="1523186152578">
         <mark key="[" line="4" column="49" />
         <mark key="]" line="4" column="49" />
@@ -124,9 +130,9 @@
         <mark key="^" line="37" column="17" />
         <mark key="." line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/cms_api" timestamp="1523185393032">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="11" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms_api" timestamp="1523353130619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="78" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
@@ -388,8 +394,8 @@
       <jump line="7" column="25" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/ldap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjI1IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9jbXNfYXBpLycgcmVzdGFydD0ic2VydmljZSBwaHA3LWZwbSByZXN0YXJ0IgoKW3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvY21zX2FwaS8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -398,7 +404,7 @@
         <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb2xsYmFja19sb2dfZnVuYygic3VjY2VzcyIsICLlm57mu5rmiJDlip/vvIzmm7TmlrBkYuaIkOWKnyIpCg==</text>
+        <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjI1IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9jbXNfYXBpLycgcmVzdGFydD0ic2VydmljZSBwaHA3LWZwbSByZXN0YXJ0IgoKW3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvY21zX2FwaS8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coJ3ZhbGlkYXRlIHBhc3N3b3JkIGVycm9yJykK</text>
