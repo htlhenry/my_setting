@@ -43,12 +43,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523331190196">
-        <mark key="'" line="252" column="23" />
-        <mark key="[" line="223" column="11" />
-        <mark key="]" line="223" column="10" />
-        <mark key="." line="223" column="10" />
-        <mark key="^" line="223" column="10" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523334252393">
+        <mark key="'" line="264" column="23" />
+        <mark key="[" line="233" column="95" />
+        <mark key="]" line="233" column="95" />
+        <mark key="^" line="233" column="95" />
+        <mark key="." line="233" column="95" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523270977298">
         <mark key="'" line="53" column="11" />
@@ -75,12 +75,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523330545633">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="90" column="40" />
-        <mark key="]" line="79" column="18" />
-        <mark key="." line="79" column="18" />
-        <mark key="^" line="79" column="18" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523334350141">
+        <mark key="'" line="272" column="13" />
+        <mark key="[" line="284" column="61" />
+        <mark key="]" line="286" column="65" />
+        <mark key="." line="286" column="65" />
+        <mark key="^" line="286" column="65" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/order_api" timestamp="1523179786337">
         <mark key="[" line="1" column="13" />
@@ -269,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="49" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="163" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="70" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="77" column="29" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -369,13 +368,14 @@
       <jump line="278" column="12" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="341" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="224" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="272" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlcGxveV9kaXIgPT4ge30iLmZvcm1hdChkZXBsb3lfZGlyKSkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -384,44 +384,31 @@
         <text encoding="base64">MTcyLjIxLjE3LjI1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlcGxveV9kaXIgPT4ge30iLmZvcm1hdChkZXBsb3lfZGlyKSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfcmVzdGFydCA9PiB7fSIuZm9ybWF0KGlzX3Jlc3RhcnQpKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGhpc3Rvcnlfb2JqX2xpc3QgPSBIaXN0b3J5LnF1ZXJ5LmZpbHRlcihIaXN0b3J5LnJlbGVhc2VfaWQuaW5fKHJlbGVhc2VfaWRfbGlzdCkpLgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoaXMK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBpZHhfZ2l0X2FkZHJgIChgZ2l0X2FkZHJgKSwK</text>
+        <text encoding="base64">ICAgIGZvciByZWxlYXNlX2lkIGluIHJlbGVhc2VfaWRfbGlzdDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgic3RhdHVzID0+IHt9Ii5mb3JtYXQoc3RhdHVzKSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVfcmVsZWFzZV9hcHBseSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlYXJjaDoK</text>
       </register>
-      <register name="7" type="4">
-        <text>CREATE TABLE `release_apply` (
-  `id` int(8) NOT NULL AUTO_INCREMENT COMMENT '自增id',
-  `name` varchar(30) NOT NULL COMMENT '发布项名字',
-  `desc` varchar(60) DEFAULT NULL COMMENT '发布项描述信息',
-  `git_addr` varchar(60) NOT NULL COMMENT 'git地址',
-  `is_restart` TINYINT DEFAULT 0 COMMENT '是否重启',
-  `start_sh` varchar(128) DEFAULT NULL COMMENT '启动命令',
-  `user` varchar(30) NOT NULL COMMENT '申请用户',
-  `status` TINYINT DEFAULT 0 COMMENT '审批状态 0:未审批 1:已审批 2:拒绝',
-  
-  `restart_sh` varchar(128) NOT NULL COMMENT '重启命令',
-  PRIMARY KEY (`id`),
-  UNIQUE KEY (`name`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT '发布项申请列表';</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtID0gUmVsZWFzZUl0ZW0ucXVlcnkuZmlsdGVyX2J5KGlkPWlkKS5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlcGxveV9kaXIgPT4ge30iLmZvcm1hdChkZXBsb3lfZGlyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgaXRlbSA9IFJlbGVhc2VJdGVtLnF1ZXJ5LmZpbHRlcihSZWxlYXNlSXRlbS5pZCA9PSBpZCkuZmlsdGVyKFJlbGVhc2VJdGVtLmlkLmluXygKICAgICMgICAgIFVzZXJSZWxlYXNlLnF1ZXJ5LndpdGhfZW50aXRpZXMoVXNlclJlbGVhc2UucmVsZWFzZV9pZCkuZmlsdGVyX2J5KHVzZXJfaWQ9dXNlci5pZCkKICAgICMgKSkuZmlyc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfcmVzdGFydCA9PiB7fSIuZm9ybWF0KGlzX3Jlc3RhcnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
