@@ -16,6 +16,7 @@
         <mark key="^" line="298" column="34" />
         <mark key="." line="298" column="34" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/manage.py" timestamp="1523446409826" />
       <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/ldap.py" timestamp="1523351867948">
         <mark key="'" line="7" column="25" />
         <mark key="[" line="67" column="16" />
@@ -47,12 +48,12 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" timestamp="1523443167009">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" timestamp="1523446394020">
         <mark key="'" line="57" column="45" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="12" />
-        <mark key="." line="49" column="12" />
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="50" column="79" />
+        <mark key="^" line="50" column="79" />
+        <mark key="." line="50" column="79" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/test_multiprocess.py" timestamp="1522399821838">
         <mark key="[" line="12" column="24" />
@@ -165,12 +166,12 @@
         <mark key="^" line="138" column="28" />
         <mark key="." line="138" column="28" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523351582845">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523446128439">
         <mark key="'" line="98" column="27" />
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-        <mark key="^" line="39" column="3" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/goods_api" timestamp="1523179726910">
         <mark key="[" line="4" column="11" />
@@ -233,10 +234,9 @@
         <mark key="." line="113" column="18" />
         <mark key="^" line="113" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523445964164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523446003847">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/config.py" timestamp="1522823020310">
         <mark key="[" line="19" column="26" />
@@ -402,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update prod database confi</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>update prod database confi</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -441,7 +441,7 @@
         <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgYGdyb3VwYDsKQ1JFQVRFIFRBQkxFIGBncm91cGAgKAogIGBpZGAgaW50KDgpIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5UIENPTU1FTlQgJ+e7hGlkJywKICBgbmFtZWAgdmFyY2hhcigzMCkgTk9UIE5VTEwgQ09NTUVOVCAn57uE5ZCNJywKICBQUklNQVJZIEtFWSAoaWQpLAogIFVOSVFVRSBLRVkgYG5hbWVgIChgbmFtZWApCikgRU5HSU5FPUlubm9EQiBERUZBVUxUIENIQVJTRVQ9dXRmOCBDT01NRU5UICfnlKjmiLfnu4TooagnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>240</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -494,9 +494,9 @@
         <entry encoding="base64">JzwsJz5zL2FwcC9wbHVzX2FwaS8=</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ2Z1bi9sb2dmdW5jL2c=</entry>
         <entry>69</entry>
-        <entry>wq</entry>
         <entry>68</entry>
         <entry>240</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
