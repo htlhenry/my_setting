@@ -123,7 +123,6 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1523348630482" />
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1522406651778">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="37" column="17" />
@@ -187,12 +186,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523351630529">
-        <mark key="'" line="271" column="13" />
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523416778457">
+        <mark key="'" line="270" column="13" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/order_api" timestamp="1523179786337">
         <mark key="[" line="1" column="13" />
@@ -224,7 +223,6 @@
         <mark key="." line="54" column="47" />
         <mark key="^" line="54" column="47" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/requirements.txt" timestamp="1523348330449" />
       <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1522827055248">
         <mark key="[" line="113" column="31" />
         <mark key="]" line="113" column="18" />
@@ -394,8 +392,8 @@
       <jump line="7" column="25" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/ldap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add sc_crontab hos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB3ZXJremV1Zy51dGlscyBpbXBvcnQgc2VjdXJlX2ZpbGVuYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>add sc_crontab hos</text>
@@ -407,31 +405,31 @@
         <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjI1IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9jbXNfYXBpLycgcmVzdGFydD0ic2VydmljZSBwaHA3LWZwbSByZXN0YXJ0IgoKW3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvY21zX2FwaS8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHNlcnZpY2UKICBzaGVsbDogInt7IHJlc3RhcnQgfX0iCiAgd2hlbjogcmVzdGFydCBpcyBkZWZpbmVkCg==</text>
+        <text encoding="base64">ZnJvbSB3ZXJremV1Zy51dGlscyBpbXBvcnQgc2VjdXJlX2ZpbGVuYW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coJ3ZhbGlkYXRlIHBhc3N3b3JkIGVycm9yJykK</text>
+        <text encoding="base64">LSBuYW1lOiByZXN0YXJ0IHNlcnZpY2UKICBzaGVsbDogInt7IHJlc3RhcnQgfX0iCiAgd2hlbjogcmVzdGFydCBpcyBkZWZpbmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tb25fbXNnID0gJ+eUqOaIt+WQjeWvhueggemUmeivrycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coJ3ZhbGlkYXRlIHBhc3N3b3JkIGVycm9yJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tb25fbXNnID0gJ+eUqOaIt+WQjeWvhueggemUmeivrycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXIgYW5kIHVzZXIudmVyaWZ5X3Bhc3N3b3JkKHBhc3N3b3JkKToKICAgICAgICBsb2dpbl91c2VyKHVzZXIpCiAgICAgICAgcmV0dXJuIHVzZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZXIgYW5kIHVzZXIudmVyaWZ5X3Bhc3N3b3JkKHBhc3N3b3JkKToKICAgICAgICBsb2dpbl91c2VyKHVzZXIpCiAgICAgICAgcmV0dXJuIHVzZXIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdyb3VwID0gZ3JvdXAK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>240</text>
