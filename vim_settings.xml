@@ -23,7 +23,7 @@
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523506416406">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523506539500">
         <mark key="[" line="1" column="151" />
         <mark key="]" line="1" column="198" />
         <mark key="^" line="1" column="198" />
@@ -248,7 +248,7 @@
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldap_api" timestamp="1523506103496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523502936397">
+      <file name="/Dummy.txt" timestamp="1523506427367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -288,11 +288,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523504911055">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523506534696">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523441852321">
         <mark key="[" line="10" column="48" />
@@ -416,11 +416,11 @@
       <jump line="57" column="45" filename="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>define post_tas</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>define post_tas</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
