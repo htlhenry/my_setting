@@ -147,11 +147,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1522406651778">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="17" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1523532429776">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/project/learning_example/python/wechat-admin/models/redis.py" timestamp="1523529745898" />
       <file name="$USER_HOME$/lingsi/code/python/ldapm/restart.sh" timestamp="1523504451543">
@@ -172,12 +172,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1523530117299">
-        <mark key="'" line="92" column="7" />
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="90" column="5" />
-        <mark key="." line="90" column="5" />
-        <mark key="^" line="90" column="5" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1523532410063">
+        <mark key="'" line="92" column="3" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/pay_backend" timestamp="1523179798713">
         <mark key="[" line="1" column="11" />
@@ -185,12 +185,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523437854722">
-        <mark key="'" line="298" column="27" />
-        <mark key="[" line="140" column="32" />
-        <mark key="]" line="138" column="28" />
-        <mark key="^" line="138" column="28" />
-        <mark key="." line="138" column="28" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523531836673">
+        <mark key="'" line="305" column="27" />
+        <mark key="[" line="330" column="42" />
+        <mark key="]" line="335" column="19" />
+        <mark key="^" line="335" column="19" />
+        <mark key="." line="335" column="19" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523446128439">
         <mark key="'" line="98" column="27" />
@@ -255,10 +255,7 @@
         <mark key="^" line="54" column="47" />
       </file>
       <file name="$USER_HOME$/project/learning_example/python/wechat-admin/libs/wx.py" timestamp="1523529609583" />
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldap_api" timestamp="1523506103496">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523529857065">
+      <file name="/Dummy.txt" timestamp="1523532386645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -354,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="68" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="283" column="73" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="33" column="18" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="35" column="19" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -454,13 +450,14 @@
       <jump line="65" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="128" column="25" filename="$USER_HOME$/project/learning_example/python/wechat-admin/models/core.py" />
       <jump line="90" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
+      <jump line="92" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>pymysql</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>pymysql</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -468,36 +465,36 @@
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBob3N0YCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5qih5p2/aWQnLAogIGBpcGAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAnaXDlnLDlnYAnLAogIGBob3N0bmFtZWAgdmFyY2hhcigyMCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfkuLvmnLrlkI0nLAogIGByZWxlYXNlX2lkYCBpbnQoOCkgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG5aWQnLAogIFBSSU1BUlkgS0VZIChgaWRgKSwKICBVTklRVUUgS0VZIGBpZHhfaXBfcmVsZWFzZV9pZGAgKGBpcGAsYHJlbGVhc2VfaWRgKQopIEVOR0lORT1Jbm5vREIgQVVUT19JTkNSRU1FTlQ9MTggREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n5Li75py66KGoJzsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBPcGVyYXRpb25hbEVycm9yIGFzIGU6CiAgICAgICAgcHJpbnQoJ2xvc3QgZGIgY29ubmVjdGlvbicpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>fix sql 
 fix user.is_admin bug</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Merge branch 'dev' of t-gitlab.smartcinema.com.cn:ops/ldapm into dev
 
 # Conflicts:
 #	ldapm/api/views.py</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlybSBkYXRhID0+IHt9Ii5mb3JtYXQoZGF0YSkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LSBlbnYK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyAgICByc3luY19vcHRzOiAie3sgcnN5bmNfb3B0cyB9fSIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cHl0aG9uX2V4Y3VsZGUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
