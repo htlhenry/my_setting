@@ -21,6 +21,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ticket" type="PLAIN_TEXT" />
       <mapping pattern="ldap_api" type="PLAIN_TEXT" />
+      <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_hosts" type="PLAIN_TEXT" />
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
