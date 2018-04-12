@@ -23,11 +23,11 @@
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523518488299">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523522294576">
         <mark key="[" line="1" column="151" />
-        <mark key="]" line="1" column="198" />
+        <mark key="]" line="1" column="151" />
         <mark key="^" line="1" column="198" />
-        <mark key="." line="1" column="198" />
+        <mark key="." line="1" column="151" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/sc_crontab" timestamp="1523355666109">
         <mark key="[" line="1" column="84" />
@@ -253,7 +253,7 @@
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldap_api" timestamp="1523506103496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523521819379">
+      <file name="/Dummy.txt" timestamp="1523522599386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -304,6 +304,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/supervisor.conf" timestamp="1523522592083">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="53" column="13" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="53" column="13" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/java/ticket/yt_ticket" timestamp="1523518384958">
         <mark key="[" line="0" column="0" />
@@ -434,10 +440,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>修改</text>
+        <text>Merge branch 'dev' of t-gitlab.smartcinema.com.cn:ops/ldapm into dev
+
+# Conflicts:
+#	ldapm/api/views.py</text>
       </register>
       <register name="-" type="4">
-        <text>修改</text>
+        <text>plus</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -445,32 +454,35 @@
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBob3N0YCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5qih5p2/aWQnLAogIGBpcGAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAnaXDlnLDlnYAnLAogIGBob3N0bmFtZWAgdmFyY2hhcigyMCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfkuLvmnLrlkI0nLAogIGByZWxlYXNlX2lkYCBpbnQoOCkgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG5aWQnLAogIFBSSU1BUlkgS0VZIChgaWRgKSwKICBVTklRVUUgS0VZIGBpZHhfaXBfcmVsZWFzZV9pZGAgKGBpcGAsYHJlbGVhc2VfaWRgKQopIEVOR0lORT1Jbm5vREIgQVVUT19JTkNSRU1FTlQ9MTggREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n5Li75py66KGoJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlybSBkYXRhID0+IHt9Ii5mb3JtYXQoZGF0YSkpCg==</text>
+      <register name="1" type="4">
+        <text>Merge branch 'dev' of t-gitlab.smartcinema.com.cn:ops/ldapm into dev
+
+# Conflicts:
+#	ldapm/api/views.py</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBlbnYK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiY29uZmlybSBkYXRhID0+IHt9Ii5mb3JtYXQoZGF0YSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICByc3luY19vcHRzOiAie3sgcnN5bmNfb3B0cyB9fSIK</text>
+        <text encoding="base64">LSBlbnYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHl0aG9uX2V4Y3VsZGUK</text>
+        <text encoding="base64">IyAgICByc3luY19vcHRzOiAie3sgcnN5bmNfb3B0cyB9fSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHl0aG9uX2V4Y3VsZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTMgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n55So5oi357uE6KGoJzsK</text>
+        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTMgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n55So5oi357uE6KGoJzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
