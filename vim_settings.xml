@@ -23,7 +23,7 @@
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523506539500">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523518488299">
         <mark key="[" line="1" column="151" />
         <mark key="]" line="1" column="198" />
         <mark key="^" line="1" column="198" />
@@ -66,11 +66,22 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/java/ticket/yt_app" timestamp="1523518673045">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_deploy_task.py" timestamp="1523345059080">
         <mark key="[" line="6" column="81" />
         <mark key="]" line="6" column="101" />
         <mark key="^" line="6" column="101" />
         <mark key="." line="6" column="101" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/vars/main.yml" timestamp="1523518700095">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1523502703975">
         <mark key="'" line="98" column="0" />
@@ -248,7 +259,7 @@
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldap_api" timestamp="1523506103496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523506608058">
+      <file name="/Dummy.txt" timestamp="1523518692029">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -299,6 +310,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/java/ticket/yt_ticket" timestamp="1523518384958">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms_backend" timestamp="1523179710490">
         <mark key="[" line="4" column="12" />
@@ -416,11 +433,11 @@
       <jump line="57" column="45" filename="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add ldapm_api hos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHl0aG9uX2V4Y3VsZGUK</text>
       </register>
       <register name="-" type="4">
-        <text>add ldapm_api hos</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -429,28 +446,28 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBob3N0YCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn5qih5p2/aWQnLAogIGBpcGAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAnaXDlnLDlnYAnLAogIGBob3N0bmFtZWAgdmFyY2hhcigyMCkgTk9UIE5VTEwgREVGQVVMVCAnJyBDT01NRU5UICfkuLvmnLrlkI0nLAogIGByZWxlYXNlX2lkYCBpbnQoOCkgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG5aWQnLAogIFBSSU1BUlkgS0VZIChgaWRgKSwKICBVTklRVUUgS0VZIGBpZHhfaXBfcmVsZWFzZV9pZGAgKGBpcGAsYHJlbGVhc2VfaWRgKQopIEVOR0lORT1Jbm5vREIgQVVUT19JTkNSRU1FTlQ9MTggREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n5Li75py66KGoJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
+        <text encoding="base64">cHl0aG9uX2V4Y3VsZGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTMgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n55So5oi357uE6KGoJzsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiaXNfYWRtaW4gdXNlciA9PiB7fSwge30iLmZvcm1hdChzZWxmLm5hbWUsIGdyb3VwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3Byb2dyYW06UnBjQWdlbnRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgYGFwcGx5X2hvc3RgOwpDUkVBVEUgVEFCTEUgYGFwcGx5X2hvc3RgICgKICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiAgYGFwcGx5X2lkYCBpbnQoOCkgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG555Sz6K+3aWQnLAogIGBpcGAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAnSVDlnLDlnYAnLAogIGBob3N0bmFtZWAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAn5Li75py65ZCNJywKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgVU5JUVVFIEtFWSBgaWR4X2FwcGx5X2lwYCAoYGFwcGx5X2lkYCwgYGlwYCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQgJ+WPkeW4g+mhueeUs+ivt+WIl+ihqOS4u+acuuWFs+iBlOihqCc7Cg==</text>
+        <text encoding="base64">KSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTMgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n55So5oi357uE6KGoJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBhcHBseV9ob3N0YCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn6Ieq5aKeaWQnLAogIGBhcHBseV9pZGAgaW50KDgpIE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhueeUs+ivt2lkJywKICBgaXBgIHZhcmNoYXIoMjApIE5PVCBOVUxMIENPTU1FTlQgJ0lQ5Zyw5Z2AJywKICBgaG9zdG5hbWVgIHZhcmNoYXIoMjApIE5PVCBOVUxMIENPTU1FTlQgJ+S4u+acuuWQjScsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9hcHBseV9pcGAgKGBhcHBseV9pZGAsYGlwYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTQzIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQ9J+WPkeW4g+mhueeUs+ivt+WIl+ihqOS4u+acuuWFs+iBlOihqCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgYGFwcGx5X2hvc3RgOwpDUkVBVEUgVEFCTEUgYGFwcGx5X2hvc3RgICgKICBgaWRgIGludCg4KSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiAgYGFwcGx5X2lkYCBpbnQoOCkgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG555Sz6K+3aWQnLAogIGBpcGAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAnSVDlnLDlnYAnLAogIGBob3N0bmFtZWAgdmFyY2hhcigyMCkgTk9UIE5VTEwgQ09NTUVOVCAn5Li75py65ZCNJywKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgVU5JUVVFIEtFWSBgaWR4X2FwcGx5X2lwYCAoYGFwcGx5X2lkYCwgYGlwYCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQgJ+WPkeW4g+mhueeUs+ivt+WIl+ihqOS4u+acuuWFs+iBlOihqCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBhcHBseV9ob3N0YCAoCiAgYGlkYCBpbnQoOCkgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn6Ieq5aKeaWQnLAogIGBhcHBseV9pZGAgaW50KDgpIE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhueeUs+ivt2lkJywKICBgaXBgIHZhcmNoYXIoMjApIE5PVCBOVUxMIENPTU1FTlQgJ0lQ5Zyw5Z2AJywKICBgaG9zdG5hbWVgIHZhcmNoYXIoMjApIE5PVCBOVUxMIENPTU1FTlQgJ+S4u+acuuWQjScsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9hcHBseV9pcGAgKGBhcHBseV9pZGAsYGlwYCkKKSBFTkdJTkU9SW5ub0RCIEFVVE9fSU5DUkVNRU5UPTQzIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQ9J+WPkeW4g+mhueeUs+ivt+WIl+ihqOS4u+acuuWFs+iBlOihqCc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
