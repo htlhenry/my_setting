@@ -186,12 +186,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523591092843">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1523592926052">
         <mark key="'" line="305" column="27" />
-        <mark key="[" line="529" column="8" />
-        <mark key="]" line="529" column="38" />
-        <mark key="^" line="529" column="38" />
-        <mark key="." line="529" column="38" />
+        <mark key="[" line="529" column="34" />
+        <mark key="]" line="529" column="39" />
+        <mark key="." line="529" column="39" />
+        <mark key="^" line="529" column="39" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523446128439">
         <mark key="'" line="98" column="27" />
@@ -218,12 +218,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523590609612">
-        <mark key="'" line="65" column="15" />
-        <mark key="[" line="385" column="64" />
-        <mark key="]" line="403" column="11" />
-        <mark key="." line="403" column="11" />
-        <mark key="^" line="403" column="11" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1523592903462">
+        <mark key="'" line="15" column="40" />
+        <mark key="[" line="405" column="14" />
+        <mark key="]" line="405" column="30" />
+        <mark key="." line="405" column="30" />
+        <mark key="^" line="405" column="30" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/order_api" timestamp="1523179786337">
         <mark key="[" line="1" column="13" />
@@ -346,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="19" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
-      <jump line="350" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="114" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="301" column="40" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="173" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -376,7 +374,6 @@
       <jump line="124" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="254" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="360" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
-      <jump line="15" column="47" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="345" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="16" column="10" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
       <jump line="15" column="11" filename="$USER_HOME$/devops/ansible-playbook/roles/useradd/tasks/main.yml" />
@@ -446,13 +443,16 @@
       <jump line="92" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="25" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="45" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
+      <jump line="48" column="26" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="403" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="15" column="40" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get_apply_host</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>get_apply_host</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -464,28 +464,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgnL2FwcGx5LzxpbnQ6YXBwbHlfaWQ+JykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5sb2cgaW1wb3J0IGRlYnVnX2xvZwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnX2xvZygpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QGFwaS5yb3V0ZSgnL2FwcGx5LzxpbnQ6YXBwbHlfaWQ+JykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSB1dGlscy5sb2cgaW1wb3J0IGRlYnVnX2xvZwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5sb2cgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnX2xvZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yX2xvZygncmV0cnkge30nLmZvcm1hdChmdW5jLl9fbmFtZV9fKSkK</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5sb2cgaW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
