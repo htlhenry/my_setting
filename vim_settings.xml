@@ -410,11 +410,11 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523881154238">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523882049371">
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="32" column="50" />
+        <mark key="." line="32" column="50" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1523857332168">
         <mark key="[" line="4" column="46" />
@@ -568,8 +568,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update restart_daemo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>update restart_daemo</text>
@@ -581,31 +581,31 @@
         <text encoding="base64">ICAgICAgICAvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmQgLWMgL2RhdGEvb3BzL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgWyAtZiAvJHtwaWR9XQo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0YXNrcyBmaWxlIGZvciBqZW5raW5zCg==</text>
+        <text encoding="base64">ICAgWyAtZiAvJHtwaWR9XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0YXNrcyBmaWxlIGZvciBqZW5raW5zCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgLnJzeW5jLWZpbHRlciDmjpLlh7rlk6rkupvmlofku7YKIyAtIGVudgojIC0gLmdpdAoKLSBuYW1lOiB0ZW1wbGF0ZSBzdXBlcnZpc29yZC5jb25mCiAgdGVtcGxhdGU6CiAgICBzcmM6IHN1cGVydmlzb3JkLmoyCiAgICBkZXN0OiAvZGF0YS9vcHMvc3VwZXJ2aXNvcmQuY29uZgoKLSBuYW1lOiB0ZW1wYWx0ZSByZXN0YXJ0LnNoCiAgdGVtcGxhdGU6CiAgICBzcmM6IHJlc3RhcnQuajIKICAgIGRlc3Q6IC9kYXRhL3NjcmlwdHMvcmVzdGFydC5zaAoKLSBuYW1lOiByZXN0YXJ0IHN1cGVydmlzb3JkCiAgc2hlbGw6ICJzaCAvZGF0YS9zY3JpcHRzL3Jlc3RhcnQuc2ggcmVzdGFydF9kYWVtb24iCiAgdGFnczoKICAgIC0gcmVzdGFydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZWNobyAiIgo=</text>
+        <text encoding="base64">CiMgLnJzeW5jLWZpbHRlciDmjpLlh7rlk6rkupvmlofku7YKIyAtIGVudgojIC0gLmdpdAoKLSBuYW1lOiB0ZW1wbGF0ZSBzdXBlcnZpc29yZC5jb25mCiAgdGVtcGxhdGU6CiAgICBzcmM6IHN1cGVydmlzb3JkLmoyCiAgICBkZXN0OiAvZGF0YS9vcHMvc3VwZXJ2aXNvcmQuY29uZgoKLSBuYW1lOiB0ZW1wYWx0ZSByZXN0YXJ0LnNoCiAgdGVtcGxhdGU6CiAgICBzcmM6IHJlc3RhcnQuajIKICAgIGRlc3Q6IC9kYXRhL3NjcmlwdHMvcmVzdGFydC5zaAoKLSBuYW1lOiByZXN0YXJ0IHN1cGVydmlzb3JkCiAgc2hlbGw6ICJzaCAvZGF0YS9zY3JpcHRzL3Jlc3RhcnQuc2ggcmVzdGFydF9kYWVtb24iCiAgdGFnczoKICAgIC0gcmVzdGFydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgZWNobyAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
