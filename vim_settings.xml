@@ -276,7 +276,7 @@
         <mark key="." line="54" column="47" />
         <mark key="^" line="54" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523851694696">
+      <file name="/Dummy.txt" timestamp="1523856902343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,11 +305,11 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/media_backend" timestamp="1523179768324">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/media_backend" timestamp="1523856719023">
+        <mark key="[" line="4" column="85" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/kdm_api" timestamp="1523179749356">
         <mark key="[" line="4" column="12" />
@@ -323,11 +323,11 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1523605330031">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
-        <mark key="^" line="4" column="43" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1523856727954">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523521274198">
         <mark key="[" line="3" column="15" />
@@ -482,16 +482,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix restart yt_ticke</text>
+        <text>fix java deploy_dir endswith /</text>
       </register>
       <register name="-" type="4">
-        <text>fix restart yt_ticke</text>
+        <text>fix java deploy_dir endswith /</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W2Rldl0KMTcyLjIxLjE3LjYwIGRlcGxveV9kaXI9Ii9kYXRhL3d3dy95dF9hcHAvIiByZXN0YXJ0PSIvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmN0bCAtYyAvZGF0YS9vcHMvc3VwZXJ2aXNvcmQuY29uZiByZXN0YXJ0IHl0LWFwcCIKClt0ZXN0MV0KMTcyLjIxLjE3LjkwIGRlcGxveV9kaXI9Ii9kYXRhL3d3dy95dF9hcHAvIiByZXN0YXJ0PSIvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmN0bCAtYyAvZGF0YS9vcHMvc3VwZXJ2aXNvcmQuY29uZiByZXN0YXJ0IHl0LWFwcCIK</text>
+        <text encoding="base64">W3Rlc3RdCjE3Mi4yMS4xNy4zNyBkZXBsb3lfZGlyPScvZGF0YS93d3cvbWVkaWFfYmFja2VuZC8nIHJlc3RhcnQ9InNlcnZpY2UgcGhwNy1mcG0gcmVzdGFydCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
