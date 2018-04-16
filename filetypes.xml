@@ -8,6 +8,7 @@
       <mapping pattern="bak" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="yt_app" type="PLAIN_TEXT" />
+      <mapping pattern="gateway" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="kdm_api" type="PLAIN_TEXT" />
       <mapping pattern="goods_api" type="PLAIN_TEXT" />
@@ -23,6 +24,7 @@
       <mapping pattern="ldap_api" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="cms_system" type="PLAIN_TEXT" />
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
@@ -30,6 +32,7 @@
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
       <mapping pattern="sc_crontab" type="PLAIN_TEXT" />
       <mapping pattern="cms_backend" type="PLAIN_TEXT" />
+      <mapping pattern="oam" type="PLAIN_TEXT" />
       <mapping pattern="media_frontend" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="order_api" type="PLAIN_TEXT" />
