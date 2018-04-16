@@ -310,7 +310,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523873324074">
+      <file name="/Dummy.txt" timestamp="1523876777110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -557,11 +557,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB0YXNrcyBmaWxlIGZvciBqZW5raW5zCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix {{ env }} unquot</text>
       </register>
       <register name="-" type="4">
-        <text>add config_server hos</text>
+        <text>fix {{ env }} unquot</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
