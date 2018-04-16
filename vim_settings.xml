@@ -315,7 +315,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523877095083">
+      <file name="/Dummy.txt" timestamp="1523881168891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,11 +410,11 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523881090353">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523881154238">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1523857332168">
         <mark key="[" line="4" column="46" />
@@ -568,11 +568,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>update restart_daemo</text>
       </register>
       <register name="-" type="4">
-        <text>move template file</text>
+        <text>update restart_daemo</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
