@@ -28,6 +28,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
