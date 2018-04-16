@@ -9,6 +9,12 @@
         <mark key="." line="217" column="27" />
         <mark key="^" line="217" column="27" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.sh" timestamp="1523865830723">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_api" timestamp="1523857109266">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
@@ -292,7 +298,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523857389737">
+      <file name="/Dummy.txt" timestamp="1523865446478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -533,11 +539,11 @@
       <jump line="18" column="19" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/supervisord.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>delete phpserver restart s</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>delete phpserver restart s</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
