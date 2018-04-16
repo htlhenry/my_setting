@@ -310,7 +310,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523873306276">
+      <file name="/Dummy.txt" timestamp="1523873324074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -363,6 +363,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/tasks/main.yml" timestamp="1523873473150">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/kdm_api" timestamp="1523179749356">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="11" />
@@ -381,7 +387,7 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523871929202">
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523873464732">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="19" />
@@ -552,10 +558,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add restart supervisord con</text>
+        <text>add config_server hos</text>
       </register>
       <register name="-" type="4">
-        <text>add restart supervisord con</text>
+        <text>add config_server hos</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
