@@ -195,10 +195,10 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1523877090757">
-        <mark key="[" line="42" column="74" />
-        <mark key="]" line="42" column="74" />
-        <mark key="." line="42" column="74" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1523883248940">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_backend" timestamp="1523857133808">
         <mark key="[" line="1" column="50" />
@@ -575,10 +575,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update restart.j</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>update restart.j</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
