@@ -195,7 +195,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1523883248940">
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1523942811134">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="43" column="26" />
         <mark key="." line="43" column="26" />
@@ -315,10 +315,10 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523941479340">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523942054085">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1523528578075">
         <mark key="[" line="47" column="97" />
@@ -392,10 +392,10 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523942040170">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="9" />
-        <mark key="." line="26" column="9" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523943964561">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523528736440">
@@ -404,7 +404,7 @@
         <mark key="^" line="36" column="99" />
         <mark key="." line="36" column="44" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1523939611583">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1523942918409">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="8" column="47" />
         <mark key="^" line="8" column="47" />
@@ -416,7 +416,7 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523937192971">
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1523942806525">
         <mark key="[" line="34" column="15" />
         <mark key="]" line="37" column="16" />
         <mark key="^" line="37" column="16" />
@@ -581,10 +581,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>change hosts structur</text>
+        <text>check_status</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -593,31 +593,31 @@
         <text encoding="base64">ICAgICAgICAvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmQgLWMgL2RhdGEvb3BzL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
+        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
+        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
