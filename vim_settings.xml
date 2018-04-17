@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1523348392799">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1523951299717">
         <mark key="[" line="216" column="20" />
         <mark key="]" line="217" column="27" />
         <mark key="." line="217" column="27" />
@@ -206,6 +206,12 @@
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1523951397920">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_backend" timestamp="1523857319293">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="48" />
@@ -327,7 +333,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523950431268">
+      <file name="/Dummy.txt" timestamp="1523950465661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -592,8 +598,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rename supervisor.conf to supervisord.con</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBET01BSU4gPSAnMzkuMTA3LjEyMC4xMDMnCg==</text>
       </register>
       <register name="-" type="4">
         <text>rename supervisor.conf to supervisord.con</text>
@@ -605,31 +611,31 @@
         <text encoding="base64">ICAgICAgICAvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmQgLWMgL2RhdGEvb3BzL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyBET01BSU4gPSAnMzkuMTA3LjEyMC4xMDMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
+        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
+        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
+        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
