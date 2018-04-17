@@ -27,11 +27,11 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523522704728">
-        <mark key="[" line="1" column="151" />
-        <mark key="]" line="1" column="154" />
-        <mark key="^" line="1" column="154" />
-        <mark key="." line="1" column="154" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523952488432">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="233" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_frontend" timestamp="1523857083826">
         <mark key="[" line="3" column="6" />
@@ -333,7 +333,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523950465661">
+      <file name="/Dummy.txt" timestamp="1523951604421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,11 +410,11 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523943964561">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523951590119">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="37" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523528736440">
         <mark key="[" line="36" column="44" />
@@ -598,11 +598,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBET01BSU4gPSAnMzkuMTA3LjEyMC4xMDMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>rename supervisor.conf to supervisord.con</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
