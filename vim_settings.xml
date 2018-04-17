@@ -123,6 +123,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1523969153314">
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/php_service" timestamp="1523168487068">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="4" column="0" />
@@ -312,12 +318,6 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" timestamp="1523869278255">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/ansible-playbook/jenkins.yml" timestamp="1523167793322">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="12" />
@@ -342,7 +342,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523965418982">
+      <file name="/Dummy.txt" timestamp="1523968594104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -606,11 +606,11 @@
       <jump line="287" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwbG95X2Rpcj0iL2RhdGEvd3d3L3l0X3RpY2tldC8iCnJlc3RhcnQ9InMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>change master to pro</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change master to pro</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
