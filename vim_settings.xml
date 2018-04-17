@@ -368,11 +368,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/tasks/main.yml" timestamp="1523873473150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/tasks/main.yml" timestamp="1523939303874">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/kdm_api" timestamp="1523179749356">
         <mark key="[" line="4" column="12" />
@@ -392,17 +392,23 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523938422217">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="25" column="13" />
-        <mark key="^" line="25" column="13" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523939490003">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523528736440">
         <mark key="[" line="36" column="44" />
         <mark key="]" line="36" column="44" />
         <mark key="^" line="36" column="99" />
         <mark key="." line="36" column="44" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1523939611583">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/supervisor.conf" timestamp="1523522592083">
         <mark key="[" line="49" column="9" />
@@ -574,11 +580,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fix java restar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -587,31 +593,31 @@
         <text encoding="base64">ICAgICAgICAvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmQgLWMgL2RhdGEvb3BzL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
+        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgWyAtZiAvJHtwaWR9XQo=</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
