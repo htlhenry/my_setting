@@ -315,7 +315,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523939621437">
+      <file name="/Dummy.txt" timestamp="1523941479340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -392,11 +392,11 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523941326141">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523942040170">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523528736440">
         <mark key="[" line="36" column="44" />
@@ -580,11 +580,11 @@
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change hosts structur</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -593,31 +593,31 @@
         <text encoding="base64">ICAgICAgICAvZGF0YS9zb2Z0L3B5dGhvbjIuNy9iaW4vc3VwZXJ2aXNvcmQgLWMgL2RhdGEvb3BzL3N1cGVydmlzb3JkLmNvbmYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
+        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0YWdzOgogICAgLSBkZWJ1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAke3Byb2d9IC1jICR7Y29uZn0KICAgICAgICBlY2hvICJzdXBlcnZpc29yZCBpcyBzdGFydCIKICAgICAgICByZXR1cm4gMAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICR7Y3RsfSAtYyAke2NvbmZ9IHN0YXJ0IHt7IHByb2dyYW0gfX0KICAgIGVjaG8gInt7IHByb2dyYW0gfX0gaXMgc3RhcnQiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgWyAke3JldHZhbH0gLWVxIDAgXSAmJiBlY2hvICIiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
