@@ -267,6 +267,9 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1523961566219">
+        <mark key="'" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/goods_api" timestamp="1523179726910">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -321,11 +324,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1523525196103">
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="47" />
-        <mark key="." line="54" column="47" />
-        <mark key="^" line="54" column="47" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1523965406090">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+        <mark key="^" line="20" column="49" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_backend" timestamp="1523857349254">
         <mark key="[" line="4" column="50" />
@@ -333,7 +336,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523952511751">
+      <file name="/Dummy.txt" timestamp="1523954905354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,11 +419,11 @@
         <mark key="." line="39" column="37" />
         <mark key="^" line="39" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523528736440">
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="99" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523965385973">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1523942918409">
         <mark key="[" line="7" column="45" />
@@ -496,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="29" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="324" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="347" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="124" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
@@ -596,13 +598,14 @@
       <jump line="30" column="13" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
       <jump line="40" column="9" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
       <jump line="43" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.j2" />
+      <jump line="18" column="47" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fix check_status_output undefine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fix check_status_output undefine</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
