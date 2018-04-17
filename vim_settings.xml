@@ -255,6 +255,12 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="39" column="29" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/utils/log.py" timestamp="1523950398234">
+        <mark key="[" line="23" column="91" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/goods_api" timestamp="1523179726910">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
@@ -321,7 +327,7 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523949079894">
+      <file name="/Dummy.txt" timestamp="1523950431268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -587,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix check_statu</text>
+        <text>rename supervisor.conf to supervisord.con</text>
       </register>
       <register name="-" type="4">
-        <text>fix check_statu</text>
+        <text>rename supervisor.conf to supervisord.con</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
