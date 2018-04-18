@@ -200,7 +200,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1524037119468">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1524042102428">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -253,7 +253,7 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1524038670625">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1524042169508">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
@@ -271,7 +271,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1524039028267">
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1524042410903">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -284,7 +284,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524039045558">
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524042254183">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -449,11 +449,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524037683950">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-        <mark key="^" line="17" column="48" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524042824068">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="44" column="30" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1523968589086">
         <mark key="[" line="13" column="13" />
@@ -637,10 +637,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>release_name 是发布系统的发布目</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>release_name 是发布系统的发布目</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
