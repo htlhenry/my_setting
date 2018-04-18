@@ -117,10 +117,10 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1523971003161">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1524019949438">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1523969153314">
@@ -266,13 +266,6 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/supervisord.j2" timestamp="1523872920139">
-        <mark key="'" line="18" column="19" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/utils/log.py" timestamp="1523950398234">
         <mark key="[" line="23" column="91" />
         <mark key="]" line="26" column="31" />
@@ -413,11 +406,11 @@
         <mark key="^" line="34" column="17" />
         <mark key="." line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1523856727954">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1524020040090">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1523967713765">
         <mark key="[" line="10" column="19" />
@@ -607,8 +600,8 @@
       <jump line="287" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix yt_ticket env grou</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGV2CnRlc3QxCg==</text>
       </register>
       <register name="-" type="4">
         <text>fix yt_ticket env grou</text>
@@ -620,31 +613,31 @@
         <text encoding="base64">LSBuYW1lOiBta2RpciAvZGF0YS9vcHMKICBmaWxlOgogICAgcGF0aDogL2RhdGEvb3BzCiAgICBzdGF0ZTogZGlyZWN0b3J5CiAgICBtb2RlOiAwNzU1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2CnRlc3QxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVwbG95X2Rpcj0iL2RhdGEvd3d3L3l0X3RpY2tldC8iCnJlc3RhcnQ9InMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwbG95X2Rpcj0iL2RhdGEvd3d3L3l0X3RpY2tldC8iCnJlc3RhcnQ9InMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBuYW1lOiByc3luYyBub2RlCiAgc3luY3Jvbml6ZToK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSBuYW1lOiByc3luYyBub2RlCiAgc3luY3Jvbml6ZToK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBET01BSU4gPSAnMzkuMTA3LjEyMC4xMDMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyBET01BSU4gPSAnMzkuMTA3LjEyMC4xMDMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1Zwo=</text>
+        <text encoding="base64">ICB3aGVuOiBjaGVja19zdGF0dXMgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
