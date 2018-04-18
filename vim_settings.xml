@@ -271,11 +271,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1524029569282">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1524031364434">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="16" />
         <mark key="^" line="13" column="68" />
-        <mark key="." line="1" column="12" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/pay_backend" timestamp="1523179798713">
         <mark key="[" line="1" column="11" />
@@ -283,10 +283,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524029619335">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="67" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524031360051">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/supervisord.j2" timestamp="1523872920139">
         <mark key="'" line="18" column="19" />
@@ -361,10 +362,10 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524028761018">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1524029707439">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1523528578075">
         <mark key="[" line="47" column="97" />
@@ -629,16 +630,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVzdGFydD0ic2ggL2RhdGEvc2NyaXB0cy9yZXN0YXJ0X3l0LWNvbW1vbi1tZXNzYWdlLW9hbS5zaCByZXN0YXJ0Igo=</text>
+        <text encoding="base64">amFyX29yX3dhcj0id2FyIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlcGxveV9kaXI9Ii9kYXRhL3d3dy9tZXNzYWdlX3N5c3RlbS8iIHJlc3RhcnQ9Ii9kYXRhL3NvZnQvcHl0aG9uMi43L2Jpbi9zdXBlcnZpc29yY3RsIC1jIC9kYXRhL29wcy9zdXBlcnZpc29yZC5jb25mIHJlc3RhcnQgeXQtY29tbW9uLW1lc3NhZ2Utc3lzdGVtIiBwcm9ncmFtPSJ5dC1jb21tb24tbWVzc2FnZS1zeXN0ZW0i</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W2VudjpjaGlsZHJlbl0KZGV2CnRlc3QxCg==</text>
+        <text encoding="base64">amFyX29yX3dhcj0id2FyIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cmVzdGFydD0ic2ggL2RhdGEvc2NyaXB0cy9yZXN0YXJ0X3l0LWNvbW1vbi1tZXNzYWdlLW9hbS5zaCByZXN0YXJ0Igo=</text>
