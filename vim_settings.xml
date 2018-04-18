@@ -304,7 +304,7 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1524045461363">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1524047171756">
         <mark key="'" line="287" column="35" />
         <mark key="[" line="178" column="52" />
         <mark key="]" line="178" column="65" />
@@ -371,7 +371,7 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524046898550">
+      <file name="/Dummy.txt" timestamp="1524046947416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -643,11 +643,11 @@
       <jump line="7" column="5" filename="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5yZWxlYXNlX2Rpci5leGlzdHMoKToK</text>
+      <register name="&quot;" type="4">
+        <text>使用release_pre_dir作为预览src目</text>
       </register>
       <register name="-" type="4">
-        <text>update RELEASE_PRE_DI</text>
+        <text>使用release_pre_dir作为预览src目</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
