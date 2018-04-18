@@ -21,12 +21,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1524056215149">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1524056652941">
         <mark key="'" line="41" column="8" />
-        <mark key="[" line="247" column="25" />
-        <mark key="]" line="247" column="19" />
-        <mark key="." line="247" column="19" />
-        <mark key="^" line="247" column="19" />
+        <mark key="[" line="304" column="46" />
+        <mark key="]" line="307" column="52" />
+        <mark key="." line="307" column="52" />
+        <mark key="^" line="307" column="52" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/manage.py" timestamp="1523535120214">
         <mark key="[" line="49" column="37" />
@@ -378,7 +378,7 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524055007411">
+      <file name="/Dummy.txt" timestamp="1524056221537">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -651,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix 发布源目录不存在时创建一</text>
+        <text>增加发布完代码后修改目录权</text>
       </register>
       <register name="-" type="4">
-        <text>fix 发布源目录不存在时创建一</text>
+        <text>增加发布完代码后修改目录权</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
