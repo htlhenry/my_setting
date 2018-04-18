@@ -120,11 +120,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1524019949438">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="12" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1524024403781">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1523969153314">
         <mark key="[" line="80" column="22" />
@@ -253,6 +253,12 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1524024762264">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms_api" timestamp="1523353130619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="78" />
@@ -350,7 +356,7 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524021247373">
+      <file name="/Dummy.txt" timestamp="1524024779275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -440,11 +446,11 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1523942918409">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="8" column="47" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/config_server" timestamp="1524024336010">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/supervisor.conf" timestamp="1523522592083">
         <mark key="[" line="49" column="9" />
@@ -452,11 +458,11 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1524021960702">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1524023741046">
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="47" column="94" />
+        <mark key="^" line="47" column="94" />
+        <mark key="." line="47" column="94" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1524020697193">
         <mark key="[" line="4" column="12" />
@@ -616,11 +622,11 @@
       <jump line="4" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJvZ3JhbT0ieXQtdGlja2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -629,28 +635,28 @@
         <text encoding="base64">LSBuYW1lOiBta2RpciAvZGF0YS9vcHMKICBmaWxlOgogICAgcGF0aDogL2RhdGEvb3BzCiAgICBzdGF0ZTogZGlyZWN0b3J5CiAgICBtb2RlOiAwNzU1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGV2CnRlc3QxCg==</text>
+        <text encoding="base64">cHJvZ3JhbT0ieXQtdGlja2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBqYXJfb3Jfd2FyPSJ3YXIiIOm7mOiupOWQr+WKqCouamFy77yMIOmZpOmdnuaMh+WumuatpOmhuQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjI1IGRlcGxveT0nL2RhdGEvd3d3L29yZGVyX2JhY2tlbmQvJwoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZGV2CnRlc3QxCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">MTcyLjIxLjE3LjI1IGRlcGxveT0nL2RhdGEvd3d3L29yZGVyX2JhY2tlbmQvJwoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVwbG95X2Rpcj0iL2RhdGEvd3d3L3l0X3RpY2tldC8iCnJlc3RhcnQ9InMiCg==</text>
+        <text encoding="base64">ZGV2CnRlc3QxCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBuYW1lOiByc3luYyBub2RlCiAgc3luY3Jvbml6ZToK</text>
+        <text encoding="base64">ZGVwbG95X2Rpcj0iL2RhdGEvd3d3L3l0X3RpY2tldC8iCnJlc3RhcnQ9InMiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
