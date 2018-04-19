@@ -34,11 +34,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1524121875526">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="38" />
-        <mark key="." line="46" column="38" />
-        <mark key="^" line="46" column="38" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1524123454517">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523952488432">
         <mark key="[" line="1" column="11" />
@@ -230,10 +231,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524121914342">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524123258397">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1524039152956">
         <mark key="[" line="42" column="110" />
@@ -406,7 +409,7 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524122261564">
+      <file name="/Dummy.txt" timestamp="1524123464835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -491,11 +494,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524122766593">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524123029039">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1524043244241">
         <mark key="[" line="16" column="7" />
@@ -575,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
-      <jump line="9" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="119" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="353" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="376" column="37" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -675,13 +676,15 @@
       <jump line="23" column="66" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="42" column="19" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" />
       <jump line="44" column="8" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" />
+      <jump line="11" column="8" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix plus env deploy_dir is undefine</text>
+        <text>fix syntax erro</text>
       </register>
       <register name="-" type="4">
-        <text>fix plus env deploy_dir is undefine</text>
+        <text>fix syntax erro</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -690,31 +693,31 @@
         <text>py</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiIGFuZCBkZXBsb3lfZGlyIGlzIGRlZmluZWQgYW5kIG5vdCBkZXBsb3lfZGlyLmVuZHN3aXRoKCIvIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyDnjq/looPlj5HluIPvvIzms6jmhI9wcm9k546v5aKD5piv57q/5LiK546v5aKDCi0gbmFtZTogYXNzZXJ0CiAgYXNzZXJ0OgogICAgdGhhdDoKICAgICAgLSBkZXBsb3lfZGlyIGlzIGRlZmluZWQKICAgICAgLSBub3QgZGVwbG95X2Rpci5lbmRzd2l0aCgiLyIpCiAgICBtc2c6ICLmnKrlrprkuYnmiJbpnZ7ms5XnmoRkZXBsb3lfZGlyIgogIHdoZW46IGVudiAhPSAicGx1cyIKCi0gbmFtZTogcnN5bmMgY29kZQogIHN5bmNocm9uaXplOgogICAgc3JjOiAie3sgc3JjIH19IgogICAgZGVzdDogInt7IGRlcGxveV9kaXIgfX0vIgogICAgZGVsZXRlOiB5ZXMKICB3aGVuOiBlbnYgIT0gInBsdXMiIGFuZCBkZXBsb3lfZGlyIGlzIGRlZmluZWQgYW5kIG5vdCBkZXBsb3lfZGlyLmVuZHN3aXRoKCIvIikKCiMg5ZCM5q2l5a6M5Luj56CB77yM5L+u5pS5Ci0gbmFtZTogc2V0IGZpbGVzIG93bmVyIHd3dzp3d3cgcmVjdXJzaXZlbHkKICBmaWxlOgogICAgcGF0aDogL2RhdGEvd3d3CiAgICBvd25lcjogd3d3CiAgICBncm91cDogd3d3CiAgICByZWN1cnNlOiB5ZXMKICB3aGVuOiBlbnYgIT0gInBsdXMiCgotIG5hbWU6IHJlc3RhcnQgc2VydmljZQogIHNoZWxsOiAie3sgcmVzdGFydCB9fSIKICB3aGVuOiByZXN0YXJ0IGlzIGRlZmluZWQKCiMg5Y+R5biD5a6M5Luj56CBbHPpg6jnvbLnm67lvZXvvIzkvZzkuLpkZWJ1Z+S/oeaBrwotIG5hbWU6IGxzIGRlcGxveV9kaXIKICBzaGVsbDogImxzIC1saCB7eyBkZXBsb3lfZGlyIH19IgogIHJlZ2lzdGVyOiBscwogIHdoZW46IGRlcGxveV9kaXIgaXMgZGVmaW5lZAoKIyDlnKhpbnZlbnRvcnlfdmFyaWFibGXph4zlrprkuYljaGVja19zdGF0dXMKLSBuYW1lOiBjaGVjayBwcm9ncmFtIHN0YXR1cwogIHNoZWxsOiAie3sgY2hlY2tfc3RhdHVzIH19IgogIHJlZ2lzdGVyOiBjaGVja19zdGF0dXNfb3V0cHV0CiAgd2hlbjogY2hlY2tfc3RhdHVzIGlzIGRlZmluZWQKCi0gZGVidWc6CiAgICB2YXI6IGxzLnN0ZG91dF9saW5lcwogIHdoZW46IGNoZWNrX3N0YXR1cyBpcyBkZWZpbmVkCgotIGRlYnVnOgogICAgdmFyOiBjaGVja19zdGF0dXNfb3V0cHV0LnN0ZG91dF9saW5lcwogIHdoZW46IGNoZWNrX3N0YXR1c19vdXRwdXQgaXMgZGVmaW5lZAoKLSBuYW1lOiBydW5ubmluZyBwb3N0IHRhc2sKICBzaGVsbDogICJ7eyBwb3N0X3Rhc2sgfX0iCiAgd2hlbjogcG9zdF90YXNrIGlzIGRlZmluZWQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLSBlbnYgIT0gJ3Byb2QnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSBkZWJ1ZzoKICAgIHZhcjogbHMuc3Rkb3V0X2xpbmVzCiAgd2hlbjogbHMgaXMgZGVmaW5lZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB3aGVuOiBkZXBsb3lfZGlyIGlzIGRlZmluZWQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBuYW1lOiByc3luYyBwbHVzIGNvZGUKICBzeW5jaHJvbml6ZToKICAgIHNyYzogInt7IHNyYyB9fSIKICAgIGRlc3Q6ICIvZGF0YS93d3cvcmVsZWFzZS9wcmUve3sgcmVsZWFzZV9uYW1lIH19LyIKICAgIGRlbGV0ZTogeWVzCiAgd2hlbjogZW52ID09ICJwbHVzIiBhbmQgcmVsZWFzZV9uYW1lIGlzIGRlZmluZWQK</text>
+        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAwID4gMSwgImVycm9yIGxvZyIK</text>
+        <text encoding="base64">ICB3aGVuOiBlbnYgIT0gInBsdXMiIGFuZCBkZXBsb3lfZGlyIGlzIGRlZmluZWQgYW5kIG5vdCBkZXBsb3lfZGlyLmVuZHN3aXRoKCIvIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IGNob3duIHd3dzp3d3cK</text>
+        <text encoding="base64">IyDnjq/looPlj5HluIPvvIzms6jmhI9wcm9k546v5aKD5piv57q/5LiK546v5aKDCi0gbmFtZTogYXNzZXJ0CiAgYXNzZXJ0OgogICAgdGhhdDoKICAgICAgLSBkZXBsb3lfZGlyIGlzIGRlZmluZWQKICAgICAgLSBub3QgZGVwbG95X2Rpci5lbmRzd2l0aCgiLyIpCiAgICBtc2c6ICLmnKrlrprkuYnmiJbpnZ7ms5XnmoRkZXBsb3lfZGlyIgogIHdoZW46IGVudiAhPSAicGx1cyIKCi0gbmFtZTogcnN5bmMgY29kZQogIHN5bmNocm9uaXplOgogICAgc3JjOiAie3sgc3JjIH19IgogICAgZGVzdDogInt7IGRlcGxveV9kaXIgfX0vIgogICAgZGVsZXRlOiB5ZXMKICB3aGVuOiBlbnYgIT0gInBsdXMiIGFuZCBkZXBsb3lfZGlyIGlzIGRlZmluZWQgYW5kIG5vdCBkZXBsb3lfZGlyLmVuZHN3aXRoKCIvIikKCiMg5ZCM5q2l5a6M5Luj56CB77yM5L+u5pS5Ci0gbmFtZTogc2V0IGZpbGVzIG93bmVyIHd3dzp3d3cgcmVjdXJzaXZlbHkKICBmaWxlOgogICAgcGF0aDogL2RhdGEvd3d3CiAgICBvd25lcjogd3d3CiAgICBncm91cDogd3d3CiAgICByZWN1cnNlOiB5ZXMKICB3aGVuOiBlbnYgIT0gInBsdXMiCgotIG5hbWU6IHJlc3RhcnQgc2VydmljZQogIHNoZWxsOiAie3sgcmVzdGFydCB9fSIKICB3aGVuOiByZXN0YXJ0IGlzIGRlZmluZWQKCiMg5Y+R5biD5a6M5Luj56CBbHPpg6jnvbLnm67lvZXvvIzkvZzkuLpkZWJ1Z+S/oeaBrwotIG5hbWU6IGxzIGRlcGxveV9kaXIKICBzaGVsbDogImxzIC1saCB7eyBkZXBsb3lfZGlyIH19IgogIHJlZ2lzdGVyOiBscwogIHdoZW46IGRlcGxveV9kaXIgaXMgZGVmaW5lZAoKIyDlnKhpbnZlbnRvcnlfdmFyaWFibGXph4zlrprkuYljaGVja19zdGF0dXMKLSBuYW1lOiBjaGVjayBwcm9ncmFtIHN0YXR1cwogIHNoZWxsOiAie3sgY2hlY2tfc3RhdHVzIH19IgogIHJlZ2lzdGVyOiBjaGVja19zdGF0dXNfb3V0cHV0CiAgd2hlbjogY2hlY2tfc3RhdHVzIGlzIGRlZmluZWQKCi0gZGVidWc6CiAgICB2YXI6IGxzLnN0ZG91dF9saW5lcwogIHdoZW46IGNoZWNrX3N0YXR1cyBpcyBkZWZpbmVkCgotIGRlYnVnOgogICAgdmFyOiBjaGVja19zdGF0dXNfb3V0cHV0LnN0ZG91dF9saW5lcwogIHdoZW46IGNoZWNrX3N0YXR1c19vdXRwdXQgaXMgZGVmaW5lZAoKLSBuYW1lOiBydW5ubmluZyBwb3N0IHRhc2sKICBzaGVsbDogICJ7eyBwb3N0X3Rhc2sgfX0iCiAgd2hlbjogcG9zdF90YXNrIGlzIGRlZmluZWQK</text>
       </register>
       <register name=":" type="4">
         <text>319</text>
