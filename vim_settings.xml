@@ -21,12 +21,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1524109840347">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1524115978956">
         <mark key="'" line="41" column="8" />
-        <mark key="[" line="308" column="50" />
-        <mark key="]" line="309" column="28" />
-        <mark key="." line="309" column="28" />
-        <mark key="^" line="309" column="28" />
+        <mark key="[" line="414" column="74" />
+        <mark key="]" line="415" column="29" />
+        <mark key="." line="415" column="29" />
+        <mark key="^" line="415" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/manage.py" timestamp="1523535120214">
         <mark key="[" line="49" column="37" />
@@ -323,12 +323,12 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1524109257847">
-        <mark key="'" line="294" column="35" />
-        <mark key="[" line="140" column="30" />
-        <mark key="]" line="146" column="32" />
-        <mark key="^" line="146" column="32" />
-        <mark key="." line="146" column="32" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1524113104320">
+        <mark key="'" line="23" column="66" />
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="119" column="53" />
+        <mark key="^" line="119" column="53" />
+        <mark key="." line="119" column="53" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/goods_api" timestamp="1523179726910">
         <mark key="[" line="4" column="11" />
@@ -396,10 +396,10 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524109271665">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1524113161882">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1523528578075">
         <mark key="[" line="47" column="97" />
@@ -560,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="380" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="11" column="92" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="369" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -631,7 +630,6 @@
       <jump line="130" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="429" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="438" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
-      <jump line="23" column="56" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="280" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="73" column="55" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="80" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
@@ -660,13 +658,15 @@
       <jump line="0" column="4" filename="$USER_HOME$/devops/jenkins/hosts/cms/system" />
       <jump line="7" column="5" filename="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" />
       <jump line="41" column="8" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
+      <jump line="276" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
+      <jump line="23" column="66" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>catch thread exceptio</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>catch thread exceptio</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -702,7 +702,7 @@
         <text encoding="base64">W3Byb2Q6dmFyc10KYWN0aXZlPSJwcm9kdWN0Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>319</text>
       </register>
     </registers>
     <search>
@@ -738,7 +738,6 @@
         <entry>host</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
         <entry encoding="base64">JzwsJz5zL3R4dC9jb21tYW5kX3NsaWNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbW1hbmRfc2xpY2UvbmV3U2xpY2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L2ludElucHV0L2c=</entry>
@@ -758,6 +757,7 @@
         <entry>68</entry>
         <entry>240</entry>
         <entry>wq</entry>
+        <entry>319</entry>
       </history-cmd>
       <history-expr />
       <history-input />
