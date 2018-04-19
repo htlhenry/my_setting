@@ -406,6 +406,11 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="36" />
       </file>
+      <file name="/Dummy.txt" timestamp="1524122261564">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1523528578075">
         <mark key="[" line="47" column="97" />
         <mark key="]" line="47" column="97" />
@@ -486,11 +491,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524122038102">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/main.yml" timestamp="1524122766593">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1524043244241">
         <mark key="[" line="16" column="7" />
@@ -673,10 +678,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9zY19jcm9udGFiJyBwb3N0X3Rhc2s9ImNkIC9kYXRhL3d3dy9zY19jcm9udGFiICYmIHNoIC5kZXBsb3kuc2gi</text>
+        <text>fix plus env deploy_dir is undefine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRlcGxveV9kaXI9Jy9kYXRhL3d3dy9zY19jcm9udGFiJyBwb3N0X3Rhc2s9ImNkIC9kYXRhL3d3dy9zY19jcm9udGFiICYmIHNoIC5kZXBsb3kuc2gi</text>
+        <text>fix plus env deploy_dir is undefine</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
