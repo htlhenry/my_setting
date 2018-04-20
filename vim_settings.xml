@@ -65,11 +65,11 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524206451257">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="5" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524207461309">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_api" timestamp="1524207072566">
         <mark key="'" line="1" column="12" />
@@ -418,7 +418,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524202806048">
+      <file name="/Dummy.txt" timestamp="1524207127495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -685,10 +685,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W3Byb2RdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>untar</text>
+        <text encoding="base64">Zml4IHl0X2FwcCBkaXJlY3Rvcnkgb3BzID0+IHNjcmlwdA==</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -697,29 +697,29 @@
         <text encoding="base64">cmVzdGFydD0ic2ggL2RhdGEvb3BzL3Jlc3RhcnRfeXQtYXBwLnNoIHJlc3RhcnQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3Byb2RdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W3Byb2RdCg==</text>
+        <text encoding="base64">Iy0gbmFtZTogY29weSBsb2dzdGFzaCBmaWxlCiMgIGNvcHk6CiMgICAgc3JjOiAie3sgc3JjIH19IgojICAgIGRlc3Q6ICJ7eyBkZXN0IH19IgojICAgIG1vZGU6IDA2NDQKIyAgICBvd25lcjogd3d3CiMgICAgZ3JvdXA6IHd3dwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3Byb2RdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTcyLjIxLjAuMTM3CjE3Mi4yMS4wLjc1Cg==</text>
+        <text encoding="base64">W3Byb2RdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTcyLjIxLjAuNjkKMTcyLjIxLjAuNzYK</text>
-      </register>
-      <register name="6" type="4">
-        <text>172.21.0.139
-172.21.0.89</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">MTcyLjIxLjAuMTMzCjE3Mi4yMS4wLjExMAo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">MTcyLjIxLjAuMTM3CjE3Mi4yMS4wLjc1Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">MTcyLjIxLjAuNjkKMTcyLjIxLjAuNzYK</text>
+      </register>
+      <register name="8" type="4">
+        <text>172.21.0.139
+172.21.0.89</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
