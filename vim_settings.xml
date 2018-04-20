@@ -227,11 +227,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524196577749">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524199046215">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1524039152956">
         <mark key="[" line="42" column="110" />
@@ -405,7 +405,7 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524196486631">
+      <file name="/Dummy.txt" timestamp="1524196583193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -669,8 +669,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add plus rsync_outpu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAiLS1leGNsdWRlPSIK</text>
       </register>
       <register name="-" type="4">
         <text>add plus rsync_outpu</text>
@@ -682,31 +682,31 @@
         <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9InBocHNlcnZpY2Utb3JkZXJfYmFja2VuZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJzeW5jLW9wczoKICAgICAgLQo=</text>
+        <text encoding="base64">ICAgICAgLSAiLS1leGNsdWRlPSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiByc3luY19vdXRwdXQKICBkZWJ1ZzoKICAgIHZhcjogcnN5bmNfb3V0cHV0LnN0ZG91dF9saW5lcwo=</text>
+        <text encoding="base64">ICAgIHJzeW5jLW9wczoKICAgICAgLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJzeW5jLW9wczoKICAgICAgLQoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">LSBuYW1lOiByc3luY19vdXRwdXQKICBkZWJ1ZzoKICAgIHZhcjogcnN5bmNfb3V0cHV0LnN0ZG91dF9saW5lcwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJzeW5jLW9wczoKICAgICAgLQoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWdpc3RlcjogcnN5bmNfb3V0cHV0Cg==</text>
+        <text encoding="base64">LSBuYW1lOiByc3luY19vdXRwdXQKICBkZWJ1ZzoKICAgIHZhcjogcnN5bmNfb3V0cHV0LnN0ZG91dF9saW5lcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWdpc3RlcjogcnN5bmNfb3V0cHV0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9IiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9IiIK</text>
       </register>
       <register name=":" type="4">
         <text>319</text>
