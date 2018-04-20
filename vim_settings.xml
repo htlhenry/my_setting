@@ -295,18 +295,18 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524209769616">
-        <mark key="[" line="20" column="82" />
-        <mark key="]" line="20" column="94" />
-        <mark key="." line="20" column="94" />
-        <mark key="^" line="20" column="94" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524210915710">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524207040067">
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524210925381">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/test_multiprocess.py" timestamp="1522399821838">
         <mark key="[" line="12" column="24" />
@@ -527,7 +527,7 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524209948942">
+      <file name="/Dummy.txt" timestamp="1524210397306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,6 +585,12 @@
         <mark key="]" line="26" column="23" />
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/files/stdout_test.config" timestamp="1524210837642">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="51" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/.rsync-filter" timestamp="1523521493177">
         <mark key="[" line="0" column="0" />
@@ -697,10 +703,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add php prod hos</text>
+        <text>add logstash templat</text>
       </register>
       <register name="-" type="4">
-        <text>add php prod hos</text>
+        <text>add logstash templat</text>
       </register>
       <register name="/" type="4">
         <text>host</text>

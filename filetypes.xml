@@ -13,6 +13,7 @@
       <mapping pattern="kdm_api" type="PLAIN_TEXT" />
       <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="java_gateway" type="PLAIN_TEXT" />
+      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
@@ -28,7 +29,6 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
@@ -41,7 +41,7 @@
       <mapping pattern="kdm_backend" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="sc_share" type="PLAIN_TEXT" />
-      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="media_backend" type="PLAIN_TEXT" />
       <mapping pattern="goods_backend" type="PLAIN_TEXT" />
       <mapping pattern="MongoDBConnectionTest" type="PLAIN_TEXT" />
@@ -51,6 +51,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="applicationContext-yop-session" type="XML" />
       <mapping pattern="KeyStoreRepo" type="XML" />
       <mapping pattern="EewntRestIt" type="CLASS" />
