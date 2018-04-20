@@ -295,11 +295,11 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524211229740">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524211382657">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524210925381">
         <mark key="'" line="4" column="12" />
@@ -527,10 +527,10 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524210952037">
+      <file name="/Dummy.txt" timestamp="1524211365202">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/media_api" timestamp="1523179762124">
         <mark key="[" line="1" column="12" />
@@ -702,11 +702,11 @@
       <jump line="27" column="3" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/ticket_test.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -715,31 +715,31 @@
         <text encoding="base64">IyBub2RlLm5hbWU6IHRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzcmM6ICIKICBkZXN0OiAie3sgZGVzdCB9fSIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSBuYW1lOgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDmo4Dmn6XnirbmgIEKLSBuYW1lOiBjaGVjayBzdGF0dXMKICBzaGVsbDogInt7IGNoZWNrIH19Igo=</text>
+        <text encoding="base64">ICBzcmM6ICIKICBkZXN0OiAie3sgZGVzdCB9fSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iy0gbmFtZTogY29weSBsb2dzdGFzaCBmaWxlCiMgIGNvcHk6CiMgICAgc3JjOiAie3sgc3JjIH19IgojICAgIGRlc3Q6ICJ7eyBkZXN0IH19IgojICAgIG1vZGU6IDA2NDQKIyAgICBvd25lcjogd3d3CiMgICAgZ3JvdXA6IHd3dwo=</text>
+        <text encoding="base64">IyDmo4Dmn6XnirbmgIEKLSBuYW1lOiBjaGVjayBzdGF0dXMKICBzaGVsbDogInt7IGNoZWNrIH19Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W3Byb2RdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W3Byb2RdCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Iy0gbmFtZTogY29weSBsb2dzdGFzaCBmaWxlCiMgIGNvcHk6CiMgICAgc3JjOiAie3sgc3JjIH19IgojICAgIGRlc3Q6ICJ7eyBkZXN0IH19IgojICAgIG1vZGU6IDA2NDQKIyAgICBvd25lcjogd3d3CiMgICAgZ3JvdXA6IHd3dwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">W3Byb2RdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">MTcyLjIxLjAuMTM3CjE3Mi4yMS4wLjc1Cg==</text>
+        <text encoding="base64">W3Byb2RdCg==</text>
       </register>
       <register name=":" type="4">
         <text>319</text>
