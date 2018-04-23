@@ -126,11 +126,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524473900523">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524475336508">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/site.yml" timestamp="1524121057021">
         <mark key="[" line="2" column="10" />
@@ -815,8 +815,8 @@
       <jump line="34" column="14" filename="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBub3RpZnk6CiAgICAtIHJlc3RhcnQge3sgbW9kdWxlIH19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -825,7 +825,7 @@
         <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBub2RlLm5hbWU6IHRlc3QK</text>
+        <text encoding="base64">ICBub3RpZnk6CiAgICAtIHJlc3RhcnQge3sgbW9kdWxlIH19Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
