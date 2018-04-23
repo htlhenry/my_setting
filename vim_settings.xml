@@ -123,11 +123,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524475928443">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524476557874">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/site.yml" timestamp="1524121057021">
         <mark key="[" line="2" column="10" />
@@ -632,7 +633,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524476042588">
+      <file name="/Dummy.txt" timestamp="1524476177378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -713,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="98" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="56" column="54" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="58" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
@@ -813,13 +813,14 @@
       <jump line="158" column="4" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/graph.sh" />
       <jump line="44" column="21" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/judge.sh" />
       <jump line="34" column="14" filename="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" />
+      <jump line="12" column="8" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jenkins</text>
+        <text>add falcon-plus config update rol</text>
       </register>
       <register name="-" type="4">
-        <text>jenkins</text>
+        <text>add falcon-plus config update rol</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -855,7 +856,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>319</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
@@ -891,7 +892,6 @@
         <entry>host</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3R4dC9jb21tYW5kX3NsaWNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbW1hbmRfc2xpY2UvbmV3U2xpY2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L2ludElucHV0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1x7XCUvXDxcJS9n</entry>
@@ -911,6 +911,7 @@
         <entry>240</entry>
         <entry>wq</entry>
         <entry>319</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
