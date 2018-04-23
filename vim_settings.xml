@@ -34,9 +34,6 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/python/ansible/bin/ansible" timestamp="1524215379668">
-        <mark key="'" line="152" column="58" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1524202441280">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="51" column="41" />
@@ -328,6 +325,12 @@
         <mark key="^" line="1" column="161" />
         <mark key="." line="1" column="161" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/falcon-plus.yml" timestamp="1524476162356">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms_backend" timestamp="1523179710490">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="11" />
@@ -352,9 +355,6 @@
         <mark key="]" line="158" column="4" />
         <mark key="^" line="158" column="4" />
         <mark key="." line="158" column="4" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/files/ticket_test.config" timestamp="1524210353893">
-        <mark key="'" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/sc_crontab" timestamp="1523355666109">
         <mark key="[" line="1" column="84" />
@@ -632,7 +632,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524475644400">
+      <file name="/Dummy.txt" timestamp="1524476042588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -816,10 +816,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add falcon-plus hos</text>
+        <text>jenkins</text>
       </register>
       <register name="-" type="4">
-        <text>add falcon-plus hos</text>
+        <text>jenkins</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
