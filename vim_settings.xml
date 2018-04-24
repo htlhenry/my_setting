@@ -431,12 +431,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524556733975">
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524572466152">
         <mark key="'" line="15" column="3" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
         <mark key="^" line="21" column="9" />
-        <mark key="." line="21" column="9" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/test_multiprocess.py" timestamp="1522399821838">
         <mark key="[" line="12" column="24" />
@@ -678,11 +678,12 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/__init__.py" timestamp="1524571732627">
-        <mark key="[" line="64" column="54" />
-        <mark key="]" line="65" column="11" />
-        <mark key="." line="65" column="11" />
-        <mark key="^" line="65" column="11" />
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/__init__.py" timestamp="1524572439760">
+        <mark key="'" line="61" column="3" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="70" column="54" />
+        <mark key="." line="70" column="54" />
+        <mark key="^" line="70" column="54" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/restart_falcon.sh" timestamp="1524570933353">
         <mark key="[" line="15" column="11" />
@@ -720,10 +721,10 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524571774638">
+      <file name="/Dummy.txt" timestamp="1524572445262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/judge.json" timestamp="1524561717625">
         <mark key="'" line="21" column="22" />
@@ -807,7 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="239" column="50" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="15" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/tests/test_deploy_task.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/ldap.py" />
@@ -907,13 +907,14 @@
       <jump line="13" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
       <jump line="54" column="1" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/agent.json" />
       <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" />
+      <jump line="61" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update debug log leve</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>update debug log leve</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
