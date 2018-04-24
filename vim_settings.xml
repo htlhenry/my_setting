@@ -384,6 +384,13 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/agent.json" timestamp="1524558761309">
+        <mark key="'" line="54" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="1" />
+        <mark key="^" line="56" column="1" />
+        <mark key="." line="56" column="1" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.sh" timestamp="1523867218214">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="22" />
@@ -704,7 +711,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524557209993">
+      <file name="/Dummy.txt" timestamp="1524558570075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -791,7 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="54" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="58" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="298" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="239" column="50" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
@@ -891,13 +897,14 @@
       <jump line="34" column="14" filename="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" />
       <jump line="12" column="8" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" />
       <jump line="13" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
+      <jump line="54" column="1" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/agent.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>fix LOG_LEVEL to DEBU</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>fix LOG_LEVEL to DEBU</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
