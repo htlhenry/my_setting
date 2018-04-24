@@ -678,6 +678,12 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/__init__.py" timestamp="1524571732627">
+        <mark key="[" line="64" column="54" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+        <mark key="^" line="65" column="11" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/restart_falcon.sh" timestamp="1524570933353">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="16" column="50" />
@@ -714,7 +720,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524570945075">
+      <file name="/Dummy.txt" timestamp="1524571637938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -903,8 +909,8 @@
       <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update alarm.json api addres</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>update alarm.json api addres</text>
@@ -916,31 +922,31 @@
         <text encoding="base64">IyBsb2cKTE9HX0RJUiA9ICcvZGF0YS9sb2dzL3BsdXNfYXBpJwpMT0dfRk9STUFUID0gJyUoYXNjdGltZSlzIC0gJShsZXZlbG5hbWUpcyAtICUoZmlsZW5hbWUpcy1saW5lOiUobGluZW5vKWQtZnVuYzolKGZ1bmNOYW1lKXMgLSBtc2c6ICUobWVzc2FnZSlzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
+        <text encoding="base64">ICAgIGlmIHBhdGguc3RhcnRzd2l0aCgnL2FsYXJtJyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAianVkZ2UtMDAiOiAiMTcyLjIxLjE2LjM2OjYwODAiLAo=</text>
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
+        <text encoding="base64">Ly8gICAgICAianVkZ2UtMDAiOiAiMTcyLjIxLjE2LjM2OjYwODAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
