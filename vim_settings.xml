@@ -78,6 +78,13 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" timestamp="1524564958545">
+        <mark key="'" line="51" column="1" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/pay_api" timestamp="1523179793471">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -448,7 +455,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" timestamp="1524209350342">
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" timestamp="1524564952236">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="214" column="15" />
         <mark key="]" line="214" column="30" />
@@ -711,7 +718,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524561744831">
+      <file name="/Dummy.txt" timestamp="1524565116760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -798,7 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="298" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="239" column="50" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="15" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/tests/test_deploy_task.py" />
@@ -898,13 +904,14 @@
       <jump line="12" column="8" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" />
       <jump line="13" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
       <jump line="54" column="1" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/agent.json" />
+      <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -913,32 +920,32 @@
         <text encoding="base64">IyBsb2cKTE9HX0RJUiA9ICcvZGF0YS9sb2dzL3BsdXNfYXBpJwpMT0dfRk9STUFUID0gJyUoYXNjdGltZSlzIC0gJShsZXZlbG5hbWUpcyAtICUoZmlsZW5hbWUpcy1saW5lOiUobGluZW5vKWQtZnVuYzolKGZ1bmNOYW1lKXMgLSBtc2c6ICUobWVzc2FnZSlzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>update cms/oam host
 delete jenkins deploy prod limit</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsKICAgIApdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
