@@ -679,7 +679,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524553223433">
+      <file name="/Dummy.txt" timestamp="1524553981751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -868,8 +868,9 @@
       <jump line="12" column="8" filename="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
+      <register name="&quot;" type="4">
+        <text>update cms/oam host
+delete jenkins deploy prod limit</text>
       </register>
       <register name="-" type="4">
         <text>fix assert code.ym</text>
@@ -880,29 +881,30 @@
       <register name="0" type="2">
         <text encoding="base64">W3Byb2RdCjE3Mi4yMS4xNi4zNiBob3N0bmFtZT0iYmozLXByb2Qtb3BzLWZhbGNvbjIiCjE3Mi4yMS4xNi4yNCBob3N0bmFtZT0iYmozLXByb2Qtb3BzLWZhbGNvbjEiCgpbcHJvZDp2YXJzXQpkZXBsb3lfZGlyPSIvZGF0YS93d3cvZmFsY29uLXBsdXMiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
+      <register name="1" type="4">
+        <text>update cms/oam host
+delete jenkins deploy prod limit</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsKICAgIApdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTcyLjIxLjAuMzEgaG9zdG5hbWU9ImJqMy1wcm9kLWNtcy1vYW0wMSIKMTcyLjIxLjAuNDIgaG9zdG5hbWU9ImJqMy1wcm9kLWNtcy1vYW0wMiIK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsKICAgIApdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBuYW1lOgo=</text>
+        <text encoding="base64">MTcyLjIxLjAuMzEgaG9zdG5hbWU9ImJqMy1wcm9kLWNtcy1vYW0wMSIKMTcyLjIxLjAuNDIgaG9zdG5hbWU9ImJqMy1wcm9kLWNtcy1vYW0wMiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
