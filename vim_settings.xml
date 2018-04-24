@@ -416,12 +416,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524556389859">
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524556733975">
         <mark key="'" line="15" column="3" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/test_multiprocess.py" timestamp="1522399821838">
         <mark key="[" line="12" column="24" />
@@ -692,7 +692,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524556277259">
+      <file name="/Dummy.txt" timestamp="1524556399106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -880,11 +880,11 @@
       <jump line="13" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
+      <register name="&quot;" type="4">
+        <text>fix API_ADD</text>
       </register>
       <register name="-" type="4">
-        <text>update alarm.json api addres</text>
+        <text>fix API_ADD</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
