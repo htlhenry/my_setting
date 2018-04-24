@@ -97,6 +97,9 @@
         <mark key="^" line="26" column="28" />
         <mark key="." line="26" column="28" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/local_config.py" timestamp="1524555205132">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1524486305648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="1" />
@@ -141,11 +144,11 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524550768526">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/main.yml" timestamp="1524555474186">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/site.yml" timestamp="1524121057021">
         <mark key="[" line="2" column="10" />
@@ -679,7 +682,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524554477077">
+      <file name="/Dummy.txt" timestamp="1524555695177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -869,11 +872,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update cms/oam host
-delete jenkins deploy prod limit</text>
+        <text>update alarm.json api addres</text>
       </register>
       <register name="-" type="4">
-        <text>fix assert code.ym</text>
+        <text>update alarm.json api addres</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
