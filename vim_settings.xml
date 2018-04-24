@@ -79,12 +79,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" timestamp="1524574795228">
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" timestamp="1524575027190">
         <mark key="'" line="51" column="1" />
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="24" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/pay_api" timestamp="1523179793471">
         <mark key="[" line="1" column="11" />
@@ -728,7 +728,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524574423640">
+      <file name="/Dummy.txt" timestamp="1524574889670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -925,10 +925,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>update scmedi.con</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>update scmedi.con</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
