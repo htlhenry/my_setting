@@ -598,11 +598,12 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/alarm.json" timestamp="1524561709996">
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/alarm.json" timestamp="1524570617165">
         <mark key="'" line="47" column="1" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="29" column="64" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1524202476474">
         <mark key="'" line="0" column="4" />
@@ -718,7 +719,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524566980913">
+      <file name="/Dummy.txt" timestamp="1524566995115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -907,11 +908,11 @@
       <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>comment graph judge cluster for debu</text>
       </register>
       <register name="-" type="4">
-        <text>add scmedi.con</text>
+        <text>comment graph judge cluster for debu</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
