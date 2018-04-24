@@ -116,11 +116,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1524486305648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="1" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1524566959288">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/nodata.sh" timestamp="1524473198830">
         <mark key="'" line="139" column="9" />
@@ -537,12 +537,12 @@
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/transfer.json" timestamp="1524472115997">
-        <mark key="'" line="52" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="1" />
-        <mark key="^" line="52" column="1" />
-        <mark key="." line="52" column="1" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/transfer.json" timestamp="1524566973707">
+        <mark key="'" line="50" column="1" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/code.yml" timestamp="1524551513641">
         <mark key="[" line="10" column="20" />
@@ -712,13 +712,13 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/graph.json" timestamp="1524471993523">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="1" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/graph.json" timestamp="1524566988490">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="1" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524565116760">
+      <file name="/Dummy.txt" timestamp="1524566980913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -907,11 +907,11 @@
       <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/scmedi.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>add scmedi.con</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -920,32 +920,31 @@
         <text encoding="base64">IyBsb2cKTE9HX0RJUiA9ICcvZGF0YS9sb2dzL3BsdXNfYXBpJwpMT0dfRk9STUFUID0gJyUoYXNjdGltZSlzIC0gJShsZXZlbG5hbWUpcyAtICUoZmlsZW5hbWUpcy1saW5lOiUobGluZW5vKWQtZnVuYzolKGZ1bmNOYW1lKXMgLSBtc2c6ICUobWVzc2FnZSlzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
+        <text encoding="base64">Ly8gICAgICAianVkZ2UtMDAiOiAiMTcyLjIxLjE2LjM2OjYwODAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAiZ3JhcGgtMDAiOiAiMTcyLjIxLjE2LjM2OjYwNzAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
-      <register name="6" type="4">
-        <text>update cms/oam host
-delete jenkins deploy prod limit</text>
+      <register name="6" type="2">
+        <text encoding="base64">bG9nd2F0Y2gvc2NtZWRpL3Rlc3Qvc2NtZWRpLmNvbmYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpbSI6ICJodHRwOi8vMTI3LjAuMC4xOjEwMDg2L3dlY2hhdCIsCiAgICAic21zIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvc21zIiwKICAgICJtYWlsIjogImh0dHA6Ly8xMjcuMC4wLjE6MTAwODYvbWFpbCIsCiAgICAiZGFzaGJvYXJkIjogImh0dHA6Ly9mYWxjb24tZGFzaGJvYXJkLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgxIiwK</text>
+        <text encoding="base64">cHJpbnQoYmFzZSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
