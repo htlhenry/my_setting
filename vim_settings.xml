@@ -35,6 +35,9 @@
         <mark key="." line="415" column="29" />
         <mark key="^" line="415" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1524658223766">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/manage.py" timestamp="1523535120214">
         <mark key="[" line="49" column="37" />
         <mark key="]" line="48" column="26" />
@@ -166,6 +169,12 @@
         <mark key="]" line="16" column="7" />
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/handlers/main.yml" timestamp="1524658567542">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/site.yml" timestamp="1524121057021">
         <mark key="[" line="2" column="10" />
@@ -457,6 +466,12 @@
         <mark key="^" line="214" column="30" />
         <mark key="." line="214" column="30" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/tasks/update.yml" timestamp="1524658654303">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" timestamp="1524207111227">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="5" />
@@ -562,6 +577,9 @@
         <mark key="]" line="42" column="116" />
         <mark key="." line="42" column="116" />
         <mark key="^" line="42" column="116" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/tasks/main.yml" timestamp="1524658236366">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_backend" timestamp="1524207107887">
         <mark key="[" line="8" column="5" />
@@ -929,8 +947,8 @@
       <jump line="173" column="30" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ops</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3aGVuOiBpdGVtID09ICdjb25maWcnCg==</text>
       </register>
       <register name="-" type="4">
         <text>ops</text>
@@ -942,16 +960,16 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoY29udGVudCwgYnl0ZWFycmF5KToKICAgICAgICBjb250ZW50ID0gY29udGVudC5kZWNvZGUoJ3V0ZjgnKQogICAgaWYgaXNpbnN0YW5jZSh0b3MsIGJ5dGVhcnJheSk6CiAgICAgICAgdG9zID0gdG9zLmRlY29kZSgndXRmOCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aGVuOiBpdGVtID09ICdjb25maWcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTcyLjIxLjE2LjM2IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMiIK</text>
+        <text encoding="base64">ICB3aGVuOiBpdGVtID09ICdiaW4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBhc3NlcnQgaXRlbQogIGFzc2VydDoKICAgIHRoYXQ6CiAgICAgIC0gaXRlbSBpcyBkZWZpbmVkIGFuZCBpdGVtID09ICdiaW4nIG9yIGl0ZW0gPT0gJ2NvbmZpZycKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTcyLjIxLjE2LjI0IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMSIK</text>
+        <text encoding="base64">IiIiCiBDcmVhdGUgb24gMjAxOC80LzI1IDg6MTAgUE0KIiIiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -960,13 +978,13 @@
         <text encoding="base64">MTcyLjIxLjE2LjM2IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUodG9zKSwgdHlwZShzdWJqZWN0KSwgdHlwZShjb250ZW50KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nKCIiKQo=</text>
+        <text encoding="base64">MTcyLjIxLjE2LjI0IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nKCIvYWxhcm0vc21zICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
