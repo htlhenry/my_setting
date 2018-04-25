@@ -16,11 +16,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/falcon-plus" timestamp="1524482400582">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/falcon-plus" timestamp="1524656015701">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/gunicorn.conf" timestamp="1524482994094">
         <mark key="[" line="3" column="16" />
@@ -252,11 +252,11 @@
         <mark key="^" line="120" column="2" />
         <mark key="." line="120" column="2" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/falcon-dashboard" timestamp="1524484334084">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
-        <mark key="^" line="7" column="61" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/falcon-dashboard" timestamp="1524656046708">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/devops/ansible-playbook/jenkins.yml" timestamp="1523167793322">
         <mark key="[" line="6" column="13" />
@@ -734,7 +734,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524648154300">
+      <file name="/Dummy.txt" timestamp="1524648396540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -932,10 +932,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text>ops</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>ops</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -944,31 +944,31 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoY29udGVudCwgYnl0ZWFycmF5KToKICAgICAgICBjb250ZW50ID0gY29udGVudC5kZWNvZGUoJ3V0ZjgnKQogICAgaWYgaXNpbnN0YW5jZSh0b3MsIGJ5dGVhcnJheSk6CiAgICAgICAgdG9zID0gdG9zLmRlY29kZSgndXRmOCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUodG9zKSwgdHlwZShzdWJqZWN0KSwgdHlwZShjb250ZW50KSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nKCIiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nKCIvYWxhcm0vc21zICIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBycmQudXRpbHMubG9nIGltcG9ydCBpbmZvX2xvZywgZGVidWdfbG9nLCBlcnJvcl9sb2cK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVidWdfbG9nKCJtYWlsIHN1YmplY3Q9Pnt9LCBjb250ZW50PT57fSwgdG9zPT57fSIuZm9ybWF0KHN1YmplY3QsIGNvbnRlbnQsIHRvcykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coIm1haWwgc3ViamVjdD0+e30sIGNvbnRlbnQ9Pnt9LCB0b3M9Pnt9Ii5mb3JtYXQoc3ViamVjdCwgY29udGVudCwgdG9zKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">MTcyLjIxLjE2LjM2IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MTcyLjIxLjE2LjI0IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMSIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">MTcyLjIxLjE2LjM2IGhvc3RuYW1lPSJiajMtcHJvZC1vcHMtZmFsY29uMiIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUodG9zKSwgdHlwZShzdWJqZWN0KSwgdHlwZShjb250ZW50KSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGluZm9fbG9nKCIiKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGluZm9fbG9nKCIvYWxhcm0vc21zICIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
