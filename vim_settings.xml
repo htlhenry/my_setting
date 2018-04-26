@@ -779,7 +779,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524715380407">
+      <file name="/Dummy.txt" timestamp="1524715664610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -981,11 +981,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/devops/jenkins/roles/falcon-agent/files/agent.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0YWdzOgogICAgLSBiaW4K</text>
+      <register name="&quot;" type="4">
+        <text>update falcon-agent README.m</text>
       </register>
       <register name="-" type="4">
-        <text>test update falcon_agent confi</text>
+        <text>update falcon-agent README.m</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
