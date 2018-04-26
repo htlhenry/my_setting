@@ -107,7 +107,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" timestamp="1524206550724">
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" timestamp="1524739678398">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -426,6 +426,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/templates/base.html" timestamp="1524742923719">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/files/restart.sh" timestamp="1523867218214">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="22" />
@@ -438,12 +444,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" timestamp="1524735812385">
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" timestamp="1524737718801">
         <mark key="'" line="15" column="14" />
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="91" />
+        <mark key="." line="30" column="91" />
+        <mark key="^" line="30" column="91" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_api" timestamp="1523952488432">
         <mark key="[" line="1" column="11" />
@@ -477,7 +483,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524648391781">
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524737944884">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
@@ -558,6 +564,12 @@
         <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="30" />
         <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/templates/base_ng.html" timestamp="1524743113099">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/java/cms/oam" timestamp="1523863723792">
         <mark key="[" line="1" column="188" />
@@ -809,7 +821,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524734122218">
+      <file name="/Dummy.txt" timestamp="1524743213149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -876,6 +888,12 @@
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/templates/navbar.html" timestamp="1524743252265">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="5" column="46" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/tasks/deploy.yml" timestamp="1524716757795">
         <mark key="[" line="7" column="40" />
@@ -1012,10 +1030,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZmFsY29uL2Rhc2hib2FyZCI+Zm9yayBtZSBvbiBHaXRodWI8L2E+PC9saT4jfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>add debuglo</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -1024,31 +1042,31 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoY29udGVudCwgYnl0ZWFycmF5KToKICAgICAgICBjb250ZW50ID0gY29udGVudC5kZWNvZGUoJ3V0ZjgnKQogICAgaWYgaXNpbnN0YW5jZSh0b3MsIGJ5dGVhcnJheSk6CiAgICAgICAgdG9zID0gdG9zLmRlY29kZSgndXRmOCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZmFsY29uL2Rhc2hib2FyZCI+Zm9yayBtZSBvbiBHaXRodWI8L2E+PC9saT4jfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0ge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmVzID0gci5qc29uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHIuanNvbigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICMgcmVzID0gci5qc29uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHIuanNvbigpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9fbWFpbl9fOgo=</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
