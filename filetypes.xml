@@ -6,6 +6,7 @@
       <mapping pattern="media_api" type="PLAIN_TEXT" />
       <mapping pattern="falcon-dashboard" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="sc_customer" type="PLAIN_TEXT" />
       <mapping pattern="bak" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="yt_app" type="PLAIN_TEXT" />
@@ -14,14 +15,14 @@
       <mapping pattern="kdm_api" type="PLAIN_TEXT" />
       <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="java_gateway" type="PLAIN_TEXT" />
-      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="order_backend" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="gulp使用说明" type="PLAIN_TEXT" />
       <mapping pattern="pay_api" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
       <mapping pattern="ticket" type="PLAIN_TEXT" />
       <mapping pattern="ldap_api" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
