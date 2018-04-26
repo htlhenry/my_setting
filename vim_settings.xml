@@ -501,12 +501,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/files/agent.json" timestamp="1524715168625">
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-agent/files/agent.json" timestamp="1524743659889">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" timestamp="1524575302852">
         <mark key="'" line="18" column="6" />
@@ -821,7 +821,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524743213149">
+      <file name="/Dummy.txt" timestamp="1524743259999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1029,11 +1029,11 @@
       <jump line="13" column="14" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZmFsY29uL2Rhc2hib2FyZCI+Zm9yayBtZSBvbiBHaXRodWI8L2E+PC9saT4jfQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>add debuglo</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
