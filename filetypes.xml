@@ -19,10 +19,9 @@
       <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="order_backend" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="gulp使用说明" type="PLAIN_TEXT" />
       <mapping pattern="pay_api" type="PLAIN_TEXT" />
-      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ticket" type="PLAIN_TEXT" />
       <mapping pattern="ldap_api" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
@@ -32,6 +31,7 @@
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="falcon-plus" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
@@ -42,9 +42,10 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="order_api" type="PLAIN_TEXT" />
       <mapping pattern="kdm_backend" type="PLAIN_TEXT" />
+      <mapping pattern="es_schedule" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern="sc_share" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
       <mapping pattern="media_backend" type="PLAIN_TEXT" />
       <mapping pattern="goods_backend" type="PLAIN_TEXT" />
       <mapping pattern="MongoDBConnectionTest" type="PLAIN_TEXT" />
