@@ -47,6 +47,12 @@
         <mark key="." line="48" column="26" />
         <mark key="^" line="48" column="26" />
       </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/schome/scshare.smartcinema.com.cn.conf" timestamp="1524826342351">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/.rsync-filter" timestamp="1524571821658">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="2" column="4" />
@@ -493,6 +499,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/schome/home.smartcinema.com.cn.conf" timestamp="1524826553812">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524806058078">
         <mark key="'" line="34" column="31" />
         <mark key="[" line="44" column="40" />
@@ -838,10 +850,10 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524825520453">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1524825978758">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/judge.json" timestamp="1524561717625">
         <mark key="'" line="21" column="22" />
@@ -861,6 +873,12 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1524207033824">
         <mark key="[" line="8" column="5" />
@@ -1052,11 +1070,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJzeW5jX29wdHM6CiAgICAgIC0gIi0tZXhjbHVkZT0uZ2l0IC0tZXhjbHVkZT1SRUFETUUubWQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>scshare</text>
       </register>
       <register name="-" type="4">
-        <text>change por</text>
+        <text>scshare</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
