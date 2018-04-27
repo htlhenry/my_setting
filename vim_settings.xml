@@ -489,11 +489,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524737944884">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" timestamp="1524803558572">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="41" column="49" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/test_multiprocess.py" timestamp="1522399821838">
         <mark key="[" line="12" column="24" />
@@ -857,12 +858,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" timestamp="1524647492799">
-        <mark key="'" line="173" column="30" />
-        <mark key="[" line="195" column="13" />
-        <mark key="]" line="195" column="11" />
-        <mark key="^" line="195" column="11" />
-        <mark key="." line="195" column="11" />
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" timestamp="1524803442556">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="207" column="18" />
+        <mark key="]" line="209" column="34" />
+        <mark key="^" line="209" column="34" />
+        <mark key="." line="209" column="34" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/supervisor.conf" timestamp="1523522592083">
         <mark key="[" line="49" column="9" />
@@ -877,11 +878,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/config.py" timestamp="1524573621588">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/config.py" timestamp="1524803224222">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="14" />
+        <mark key="." line="80" column="14" />
+        <mark key="^" line="80" column="14" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1524207089692">
         <mark key="[" line="8" column="5" />
@@ -933,8 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
-      <jump line="27" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
       <jump line="98" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
       <jump line="57" column="45" filename="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" />
       <jump line="270" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -1021,7 +1020,6 @@
       <jump line="187" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
       <jump line="19" column="53" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
       <jump line="188" column="17" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
-      <jump line="15" column="27" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
       <jump line="25" column="3" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
       <jump line="173" column="30" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
       <jump line="30" column="0" filename="$USER_HOME$/devops/jenkins/roles/falcon-agent/README.md" />
@@ -1033,13 +1031,16 @@
       <jump line="14" column="23" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" />
       <jump line="22" column="73" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" />
       <jump line="13" column="14" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/scripts/admin_bind_grp_template.py" />
+      <jump line="15" column="21" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
+      <jump line="34" column="31" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/alarm/alarm.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add es_schedule hos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByLmNvbnRlbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>add es_schedule hos</text>
+        <text>SMS_TEMPALTE_ID</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -1047,33 +1048,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoY29udGVudCwgYnl0ZWFycmF5KToKICAgICAgICBjb250ZW50ID0gY29udGVudC5kZWNvZGUoJ3V0ZjgnKQogICAgaWYgaXNpbnN0YW5jZSh0b3MsIGJ5dGVhcnJheSk6CiAgICAgICAgdG9zID0gdG9zLmRlY29kZSgndXRmOCcpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByLmNvbnRlbnQK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCByZXF1ZXN0cwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>update falcon-agent new tags: 
     check_status</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICMgcHJpbnQoci5yZXF1ZXN0LmhlYWRlcnMsIHIucmVxdWVzdC51cmwpCiAgICAjIHByaW50KHIuc3RhdHVzX2NvZGUpCiAgICAjIHByaW50KHIuY29udGVudCkKICAgICMgcHJpbnQoanNvbi5sb2FkcyhyLmNvbnRlbnQpKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiBlbmRwbwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiBoZWFkZXJzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZmFsY29uL2Rhc2hib2FyZCI+Zm9yayBtZSBvbiBHaXRodWI8L2E+PC9saT4jfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
+        <text encoding="base64">eyMgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL29wZW4tZmFsY29uL2Rhc2hib2FyZCI+Zm9yayBtZSBvbiBHaXRodWI8L2E+PC9saT4jfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0ge30K</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
