@@ -381,6 +381,12 @@
         <mark key="^" line="112" column="2" />
         <mark key="." line="112" column="2" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1524825509930">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1524555959855">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="36" column="109" />
@@ -832,7 +838,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524820877363">
+      <file name="/Dummy.txt" timestamp="1524824155248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -850,7 +856,6 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" timestamp="1524824151882" />
       <file name="$USER_HOME$/devops/jenkins/hosts/kdm_api" timestamp="1523179749356">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="11" />
@@ -1048,10 +1053,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>move logstash kafka_confg to template</text>
+        <text>fix topic_id to topic</text>
       </register>
       <register name="-" type="4">
-        <text>move logstash kafka_confg to template</text>
+        <text>fix topic_id to topic</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
