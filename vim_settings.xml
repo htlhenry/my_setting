@@ -433,11 +433,6 @@
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1524725024171">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/templates/base.html" timestamp="1524742923719">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
@@ -521,7 +516,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" timestamp="1524575302852">
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" timestamp="1524813812940">
         <mark key="'" line="18" column="6" />
         <mark key="[" line="214" column="15" />
         <mark key="]" line="214" column="30" />
@@ -834,7 +829,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524806322172">
+      <file name="/Dummy.txt" timestamp="1524814805179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -870,6 +865,12 @@
         <mark key="]" line="206" column="62" />
         <mark key="^" line="206" column="62" />
         <mark key="." line="206" column="62" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/ticket_ticket.conf" timestamp="1524814763081">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="1" />
+        <mark key="^" line="56" column="1" />
+        <mark key="." line="56" column="1" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/ldapm/supervisor.conf" timestamp="1523522592083">
         <mark key="[" line="49" column="9" />
@@ -1043,10 +1044,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fi</text>
+        <text>move es_schedule program  schedul</text>
       </register>
       <register name="-" type="4">
-        <text>fi</text>
+        <text>move es_schedule program  schedul</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
