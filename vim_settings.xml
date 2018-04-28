@@ -124,6 +124,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1524905691219">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="48" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scorderpc/scorderpc.smartcinema.com.cn.conf" timestamp="1524900330546">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="38" />
@@ -145,7 +151,7 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524901816506">
+      <file name="/Dummy.txt" timestamp="1524902116650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -341,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add nginx_conf rol</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>add nginx_conf rol</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -353,68 +359,31 @@
         <text encoding="base64">cmVzdGFydF9uZ2lueD0ic2VydmljZSBuZ2lueCByZXN0YXJ0IgpyZWxvYWRfbmdpbng9InNlcnZpY2UgbmdpbnggcmVsb2FkIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdD0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmdpbnhfY29uZl9kaXI9Jy9kYXRhL3NvZnQvbmdpbngvY29uZi92aG9zdHMvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Role Name
-=========
-
-A brief description of the role goes here.
-
-Requirements
-------------
-
-Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
-
-Role Variables
---------------
-
-A description of the settable variables for this role should go here, including any variables that are in defaults/main.yml, vars/main.yml, and any variables that can/should be set via parameters to the role. Any variables that are read from other roles and/or the global scope (ie. hostvars, group vars, etc.) should be mentioned here as well.
-
-Dependencies
-------------
-
-A list of other roles hosted on Galaxy should go here, plus any details in regards to parameters that may need to be set for other roles, or variables that are used from other roles.
-
-Example Playbook
-----------------
-
-Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
-
-    - hosts: servers
-      roles:
-         - { role: username.rolename, x: 42 }
-
-License
--------
-
-BS
-
-Author Information
-------------------
-
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).</text>
+      <register name="3" type="2">
+        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3JlbGVhc2VfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmFzdGNnaV9wYXJhbSBDSV9FTlYgcHJvZHVjdGlvbjsK</text>
+        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3VzZXJfcmVsYWVzZShyZWxlYXNlX2lkX2xpc3QsIHVzZXIpOgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHVzZXJzID0gcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBVCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBqc29uLmxvYWRzKHIuY29udGVudCkK</text>
+        <text encoding="base64">ICAgIGZvciBpZCBpbiByZWxlYXNlX2lkX2xpc3Q6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByLmNvbnRlbnQK</text>
+        <text encoding="base64">cm9vdD0iIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZXF1ZXN0cwo=</text>
+        <text encoding="base64">bmdpbnhfY29uZl9kaXI9Jy9kYXRhL3NvZnQvbmdpbngvY29uZi92aG9zdHMvJwo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
