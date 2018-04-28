@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scmediapidev.smartcinema.com.cn.conf" timestamp="1524901498576" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scgoodsapidev.smartcinema.com.cn.conf" timestamp="1524901375373" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1524901672208">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_api" timestamp="1524901572957">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="17" column="32" />
@@ -16,6 +20,16 @@
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmediapi/scmediapi.smartcinema.com.cn.conf" timestamp="1524900176174">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scshare/scshare.smartcinema.com.cn.conf" timestamp="1524900398348">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_frontend" timestamp="1524901556162">
         <mark key="[" line="17" column="30" />
@@ -37,94 +51,6 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/adminfe/scmedia.smartcinema.com.cn.conf" timestamp="1524897856345" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scmsdev.smartcinema.com.cn.conf" timestamp="1524901342339" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmsapi/scmsapi.smartcinema.com.cn.conf" timestamp="1524900187502">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmediapc/scmediapc.smartcinema.com.cn.conf" timestamp="1524900133797">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scorderapidev.smartcinema.com.cn.conf" timestamp="1524901567453" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scmspcdev.smartcinema.com.cn.conf" timestamp="1524901309026" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmspc/scmspc.smartcinema.com.cn.conf" timestamp="1524900285865">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/adminfe/scms.smartcinema.com.cn.conf" timestamp="1524897877897" />
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_backend" timestamp="1524901636504">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/files/schome/home.smartcinema.com.cn.conf" timestamp="1524897229849">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1524901412693">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scgoodspc/scgoodspc.smartcinema.com.cn.conf" timestamp="1524897970211">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/sckdmpc/sckdmpc.smartcinema.com.cn.conf" timestamp="1524900107780">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1524901695319">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scorderapi/scorderapi.smartcinema.com.cn.conf" timestamp="1524900301945">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/adminfe/scgoods.smartcinema.com.cn.conf" timestamp="1524897835471" />
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy1" timestamp="1524895701657">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="54" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy2" timestamp="1524895765004">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="55" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1524901672208">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmediapi/scmediapi.smartcinema.com.cn.conf" timestamp="1524900176174">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scshare/scshare.smartcinema.com.cn.conf" timestamp="1524900398348">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524901313064">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="24" column="39" />
@@ -138,8 +64,6 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scmsapidev.smartcinema.com.cn.conf" timestamp="1524901275250" />
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scustomerdev.smartcinema.com.cn.conf" timestamp="1524901669531" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" timestamp="1524901625863">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="16" column="17" />
@@ -147,7 +71,6 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/adminfe/scustomer.smartcinema.com.cn.conf" timestamp="1524897897649" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_frontend" timestamp="1524901442318">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="16" column="16" />
@@ -160,6 +83,16 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmsapi/scmsapi.smartcinema.com.cn.conf" timestamp="1524900187502">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmediapc/scmediapc.smartcinema.com.cn.conf" timestamp="1524900133797">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524825951858">
         <mark key="[" line="11" column="0" />
@@ -184,7 +117,6 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/sckdmapidev.smartcinema.com.cn.conf" timestamp="1524901458054" />
       <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524893710711">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="6" column="6" />
@@ -197,7 +129,6 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/files/adminfe/scgoods.smartcinema.com.cn.conf" timestamp="1524897827664" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_backend" timestamp="1524901535187">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="17" column="40" />
@@ -209,7 +140,11 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scpayapidev.smartcinema.com.cn.conf" timestamp="1524901619534" />
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scmspc/scmspc.smartcinema.com.cn.conf" timestamp="1524900285865">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1524901816506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -220,11 +155,35 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_backend" timestamp="1524901636504">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/files/schome/home.smartcinema.com.cn.conf" timestamp="1524897229849">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1524901412693">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scgoodspc/scgoodspc.smartcinema.com.cn.conf" timestamp="1524897970211">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1524901721045">
         <mark key="[" line="16" column="16" />
@@ -232,17 +191,44 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/sckdmpc/sckdmpc.smartcinema.com.cn.conf" timestamp="1524900107780">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1524901695319">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/scorderapi/scorderapi.smartcinema.com.cn.conf" timestamp="1524900301945">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy1" timestamp="1524895701657">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="54" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1524901512847">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_api" timestamp="1524901378670">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_api" timestamp="1524902112351">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy2" timestamp="1524895765004">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1524901348880">
         <mark key="[" line="24" column="7" />
@@ -250,7 +236,6 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_dev/scmediapcdev.smartcinema.com.cn.conf" timestamp="1524901529429" />
     </filemarks>
     <jumps>
       <jump line="270" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
