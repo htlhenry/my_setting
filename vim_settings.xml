@@ -52,7 +52,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524984266426" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524984691565">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="53" column="10" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_api" timestamp="1524901464397">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="16" column="17" />
@@ -92,7 +97,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524984139423">
+      <file name="/Dummy.txt" timestamp="1524984664386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -314,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>update media_api logstash con</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>update media_api logstash con</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
