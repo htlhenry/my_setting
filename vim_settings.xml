@@ -134,7 +134,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525002425644">
+      <file name="/Dummy.txt" timestamp="1525003348906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -225,11 +225,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1525002696915">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="80" />
-        <mark key="." line="3" column="80" />
-        <mark key="^" line="3" column="80" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1525003362113">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy1" timestamp="1524895701657">
         <mark key="[" line="0" column="0" />
@@ -400,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix ignore grep erro</text>
+        <text>fix restart_logstash.j2 kill grep conditio</text>
       </register>
       <register name="-" type="4">
-        <text>fix ignore grep erro</text>
+        <text>fix restart_logstash.j2 kill grep conditio</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
