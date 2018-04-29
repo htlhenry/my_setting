@@ -58,7 +58,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524985619580">
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524988528138">
         <mark key="[" line="46" column="2" />
         <mark key="]" line="53" column="10" />
         <mark key="^" line="53" column="10" />
@@ -70,6 +70,12 @@
         <mark key="]" line="17" column="30" />
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafa_2_es" timestamp="1524988507733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" timestamp="1524901279916">
         <mark key="'" line="4" column="12" />
@@ -103,7 +109,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524985723184">
+      <file name="/Dummy.txt" timestamp="1524987571090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -132,6 +138,13 @@
         <mark key="]" line="22" column="44" />
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="44" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" timestamp="1524987940520">
+        <mark key="'" line="93" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="93" column="1" />
+        <mark key="." line="93" column="1" />
+        <mark key="^" line="93" column="1" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1524901412693">
         <mark key="'" line="4" column="12" />
@@ -222,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
-      <jump line="128" column="25" filename="$USER_HOME$/project/learning_example/python/wechat-admin/models/core.py" />
-      <jump line="90" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="92" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="25" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="45" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
@@ -322,13 +332,16 @@
       <jump line="15" column="0" filename="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/utils.py" />
       <jump line="23" column="14" filename="$USER_HOME$/devops/jenkins/roles/nginx_conf/templates/nginx.j2" />
       <jump line="45" column="8" filename="$USER_HOME$/devops/jenkins/roles/logstash/files/media_api.conf" />
+      <jump line="27" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
+      <jump line="1" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
+      <jump line="93" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IPORHOST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5wdXQgewogICAga2Fma2EgewogICAgICAgIHR5cGUgPT4gInRpY2tldF9odHRwIgogICAgICAgIGJvb3RzdHJhcF9zZXJ2ZXJzID0+ICIxNzIuMjEuMTYuMzM6OTA5MiwxNzIuMjEuMTYuMzM6OTA5MywxNzIuMjEuMTYuMzM6OTA5NCIKICAgICAgICBncm91cF9pZCA9PiAidGlja2V0X2h0dHAiCiAgICAgICAgY2xpZW50X2lkID0+ICJ0aWNrZXRfaHR0cCIKICAgICAgICB0b3BpY3MgPT4gInRpY2tldF9odHRwIgogICAgICAgIGF1dG9fb2Zmc2V0X3Jlc2V0ID0+ICJlYXJsaWVzdCIKICAgICAgICBjb2RlYyA9PiAianNvbiIKICAgICAgICBjb25zdW1lcl90aHJlYWRzID0+IDUKICAgICAgICBkZWNvcmF0ZV9ldmVudHMgPT4gdHJ1ZQogICAgfQogICAga2Fma2EgewogICAgICAgIHR5cGUgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYm9vdHN0cmFwX3NlcnZlcnMgPT4gIjE3Mi4yMS4xNi4zMzo5MDkyLDE3Mi4yMS4xNi4zMzo5MDkzLDE3Mi4yMS4xNi4zMzo5MDk0IgogICAgICAgIGdyb3VwX2lkID0+ICJnYXRld2F5X291dGdvaW5nIgogICAgICAgIGNsaWVudF9pZCA9PiAiZ2F0ZXdheV9vdXRnb2luZyIKICAgICAgICB0b3BpY3MgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYXV0b19vZmZzZXRfcmVzZXQgPT4gImVhcmxpZXN0IgogICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIGNvbnN1bWVyX3RocmVhZHMgPT4gNQogICAgICAgIGRlY29yYXRlX2V2ZW50cyA9PiB0cnVlCiAgICB9Cn0KZmlsdGVyIHsKICAgIGpzb24gewogICAgICAgIHNvdXJjZSA9PiAibWVzc2FnZSIKICAgIH0KfQpvdXRwdXQgewogICAgaWYgW3R5cGVdID09ICJ0aWNrZXRfaHR0cCIgewogICAgICAgIGVsYXN0aWNzZWFyY2ggewogICAgICAgICAgICBpbmRleCA9PiAidGlja2V0X2h0dHAtJXsrWVlZWS5NTS5kZH0iCiAgICAgICAgICAgIHRlbXBsYXRlX25hbWUgPT4gInRpY2tldF9odHRwIgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfSBlbHNlIGlmIFt0eXBlXSA9PSAiZ2F0ZXdheV9vdXRnb2luZyIgewogICAgICAgIGVsYXN0aWNzZWFyY2ggewogICAgICAgICAgICBpbmRleCA9PiAiZ2F0ZXdheV9vdXRnb2luZy0leytZWVlZLk1NLmRkfSIKICAgICAgICAgICAgdGVtcGxhdGVfbmFtZSA9PiAiZ2F0ZXdheV9vdXRnb2luZyIKICAgICAgICAgICAgbWFuYWdlX3RlbXBsYXRlID0+IHRydWUKICAgICAgICAgICAgdGVtcGxhdGVfb3ZlcndyaXRlID0+IHRydWUKICAgICAgICAgICAgaG9zdHMgPT4gWyJlcy1jbHVzdGVyLnNtYXJ0Y2luZW1hLmNvbS5jbjo5MjAwIl0KICAgICAgICAgICAgdXNlciA9PiBsb2dzdGFzaF9lcwogICAgICAgICAgICBwYXNzd29yZCA9PiB5dW50dV9sb2dzdGFzaF9lcwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>IPORHOST</text>
+        <text>update check_logstas</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -337,16 +350,16 @@
         <text encoding="base64">cmVzdGFydF9uZ2lueD0ic2VydmljZSBuZ2lueCByZXN0YXJ0IgpyZWxvYWRfbmdpbng9InNlcnZpY2UgbmdpbnggcmVsb2FkIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWVkaWFfYXBpCg==</text>
+        <text encoding="base64">aW5wdXQgewogICAga2Fma2EgewogICAgICAgIHR5cGUgPT4gInRpY2tldF9odHRwIgogICAgICAgIGJvb3RzdHJhcF9zZXJ2ZXJzID0+ICIxNzIuMjEuMTYuMzM6OTA5MiwxNzIuMjEuMTYuMzM6OTA5MywxNzIuMjEuMTYuMzM6OTA5NCIKICAgICAgICBncm91cF9pZCA9PiAidGlja2V0X2h0dHAiCiAgICAgICAgY2xpZW50X2lkID0+ICJ0aWNrZXRfaHR0cCIKICAgICAgICB0b3BpY3MgPT4gInRpY2tldF9odHRwIgogICAgICAgIGF1dG9fb2Zmc2V0X3Jlc2V0ID0+ICJlYXJsaWVzdCIKICAgICAgICBjb2RlYyA9PiAianNvbiIKICAgICAgICBjb25zdW1lcl90aHJlYWRzID0+IDUKICAgICAgICBkZWNvcmF0ZV9ldmVudHMgPT4gdHJ1ZQogICAgfQogICAga2Fma2EgewogICAgICAgIHR5cGUgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYm9vdHN0cmFwX3NlcnZlcnMgPT4gIjE3Mi4yMS4xNi4zMzo5MDkyLDE3Mi4yMS4xNi4zMzo5MDkzLDE3Mi4yMS4xNi4zMzo5MDk0IgogICAgICAgIGdyb3VwX2lkID0+ICJnYXRld2F5X291dGdvaW5nIgogICAgICAgIGNsaWVudF9pZCA9PiAiZ2F0ZXdheV9vdXRnb2luZyIKICAgICAgICB0b3BpY3MgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYXV0b19vZmZzZXRfcmVzZXQgPT4gImVhcmxpZXN0IgogICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIGNvbnN1bWVyX3RocmVhZHMgPT4gNQogICAgICAgIGRlY29yYXRlX2V2ZW50cyA9PiB0cnVlCiAgICB9Cn0KZmlsdGVyIHsKICAgIGpzb24gewogICAgICAgIHNvdXJjZSA9PiAibWVzc2FnZSIKICAgIH0KfQpvdXRwdXQgewogICAgaWYgW3R5cGVdID09ICJ0aWNrZXRfaHR0cCIgewogICAgICAgIGVsYXN0aWNzZWFyY2ggewogICAgICAgICAgICBpbmRleCA9PiAidGlja2V0X2h0dHAtJXsrWVlZWS5NTS5kZH0iCiAgICAgICAgICAgIHRlbXBsYXRlX25hbWUgPT4gInRpY2tldF9odHRwIgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfSBlbHNlIGlmIFt0eXBlXSA9PSAiZ2F0ZXdheV9vdXRnb2luZyIgewogICAgICAgIGVsYXN0aWNzZWFyY2ggewogICAgICAgICAgICBpbmRleCA9PiAiZ2F0ZXdheV9vdXRnb2luZy0leytZWVlZLk1NLmRkfSIKICAgICAgICAgICAgdGVtcGxhdGVfbmFtZSA9PiAiZ2F0ZXdheV9vdXRnb2luZyIKICAgICAgICAgICAgbWFuYWdlX3RlbXBsYXRlID0+IHRydWUKICAgICAgICAgICAgdGVtcGxhdGVfb3ZlcndyaXRlID0+IHRydWUKICAgICAgICAgICAgaG9zdHMgPT4gWyJlcy1jbHVzdGVyLnNtYXJ0Y2luZW1hLmNvbS5jbjo5MjAwIl0KICAgICAgICAgICAgdXNlciA9PiBsb2dzdGFzaF9lcwogICAgICAgICAgICBwYXNzd29yZCA9PiB5dW50dV9sb2dzdGFzaF9lcwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVkaWFfYXBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -355,13 +368,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3JlbGVhc2VfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3VzZXJfcmVsYWVzZShyZWxlYXNlX2lkX2xpc3QsIHVzZXIpOgoK</text>
+        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3JlbGVhc2VfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJzID0gcGFzcwo=</text>
+        <text encoding="base64">QHJldHJ5CmRlZiBiYXRfYWRkX3VzZXJfcmVsYWVzZShyZWxlYXNlX2lkX2xpc3QsIHVzZXIpOgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
