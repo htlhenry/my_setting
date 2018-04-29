@@ -77,11 +77,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524998045582">
-        <mark key="[" line="73" column="36" />
-        <mark key="]" line="73" column="35" />
-        <mark key="^" line="73" column="35" />
-        <mark key="." line="73" column="35" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1525001372783">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="57" column="48" />
+        <mark key="^" line="57" column="48" />
+        <mark key="." line="57" column="48" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_api" timestamp="1524996112559">
         <mark key="'" line="1" column="12" />
@@ -133,10 +134,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524998304269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1525001019040">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" timestamp="1524996224205">
         <mark key="'" line="9" column="0" />
@@ -224,11 +225,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1524998546919">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="14" column="9" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1525001436982">
+        <mark key="[" line="7" column="97" />
+        <mark key="]" line="7" column="143" />
+        <mark key="." line="7" column="143" />
+        <mark key="^" line="7" column="143" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy1" timestamp="1524895701657">
         <mark key="[" line="0" column="0" />
@@ -296,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="143" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="287" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="130" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -396,13 +396,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="220" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" />
+      <jump line="1" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>j2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4IHJlc3RhcnRfbG9nc3Rhc2guajIgcmV0dXJuIA==</text>
+        <text>j2</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
