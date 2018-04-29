@@ -85,7 +85,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524969999490">
+      <file name="/Dummy.txt" timestamp="1524971688535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,11 +171,11 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524825951858">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1524971958914">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1524901348880">
         <mark key="[" line="24" column="7" />
@@ -300,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add nginx root in inventory variable</text>
+        <text>update sc_crontab prod hos</text>
       </register>
       <register name="-" type="4">
-        <text>add nginx root in inventory variable</text>
+        <text>update sc_crontab prod hos</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -339,7 +339,7 @@
         <text encoding="base64">ICAgIGZvciBpZCBpbiByZWxlYXNlX2lkX2xpc3Q6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -385,7 +385,6 @@
         <entry encoding="base64">PA==</entry>
         <entry>q!</entry>
         <entry>48</entry>
-        <entry>w</entry>
         <entry>137</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9wbHVzX2FwaS8=</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ2Z1bi9sb2dmdW5jL2c=</entry>
@@ -395,6 +394,7 @@
         <entry>wq</entry>
         <entry>319</entry>
         <entry>17</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
