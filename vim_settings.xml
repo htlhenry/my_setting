@@ -64,6 +64,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafka_2_es" timestamp="1524990730151">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524990217394">
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="14" />
@@ -115,7 +121,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524990562819">
+      <file name="/Dummy.txt" timestamp="1524990568964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -356,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>fix up logstash a is undefine</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>fix up logstash a is undefine</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
