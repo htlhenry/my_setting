@@ -40,11 +40,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1524991956362">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1524992820259">
+        <mark key="'" line="52" column="31" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+        <mark key="^" line="3" column="62" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1524906444602">
         <mark key="[" line="97" column="0" />
@@ -121,7 +122,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524991893393">
+      <file name="/Dummy.txt" timestamp="1524991962995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -259,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
-      <jump line="15" column="40" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="383" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="115" column="28" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="160" column="46" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -359,13 +358,15 @@
       <jump line="30" column="22" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="114" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
+      <jump line="39" column="279" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" />
+      <jump line="52" column="31" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>media_api</text>
+        <text>/data/logs/phpservice_logs/sc_media/api-logs/api-logs/</text>
       </register>
       <register name="-" type="4">
-        <text>media_api</text>
+        <text>/data/logs/phpservice_logs/sc_media/api-logs/api-logs/</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -467,6 +468,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
