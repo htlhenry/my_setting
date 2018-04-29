@@ -34,6 +34,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1524985719825">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1524906444602">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -52,7 +58,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524984691565">
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524985619580">
         <mark key="[" line="46" column="2" />
         <mark key="]" line="53" column="10" />
         <mark key="^" line="53" column="10" />
@@ -97,7 +103,7 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524984664386">
+      <file name="/Dummy.txt" timestamp="1524984693181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -319,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update media_api logstash con</text>
+        <text>IPORHOST</text>
       </register>
       <register name="-" type="4">
-        <text>update media_api logstash con</text>
+        <text>IPORHOST</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
