@@ -77,11 +77,11 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524996944997">
-        <mark key="[" line="78" column="63" />
-        <mark key="]" line="87" column="10" />
-        <mark key="^" line="87" column="10" />
-        <mark key="." line="87" column="10" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" timestamp="1524998045582">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="35" />
+        <mark key="^" line="73" column="35" />
+        <mark key="." line="73" column="35" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_api" timestamp="1524996112559">
         <mark key="'" line="1" column="12" />
@@ -128,10 +128,10 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524996947942">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1524997337797">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" timestamp="1524996224205">
         <mark key="'" line="9" column="0" />
@@ -219,11 +219,11 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1524996855820">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1524998092795">
+        <mark key="[" line="8" column="144" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy1" timestamp="1524895701657">
         <mark key="[" line="0" column="0" />
@@ -393,11 +393,11 @@
       <jump line="220" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cF9pZCA9PiAidGlja2V0X2h0dHAiCiAgICAgICAgY2xpZW50X2lkID0+ICJ0aWNrZXRfaHR0cCIKICAgICAgICB0b3BpY3MgPT4gInRpY2tldF9odHRwIgogICAgICAgIGF1dG9fb2Zmc2V0X3Jlc2V0ID0+ICJlYXJsaWVzdCIKICAgICAgICBjb2RlYyA9PiAianNvbiIKICAgICAgICBjb25zdW1lcl90aHJlYWRzID0+IDUKICAgICAgICBkZWNvcmF0ZV9ldmVudHMgPT4gdHJ1ZQogICAgfQogICAga2Fma2EgewogICAgICAgIHR5cGUgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYm9vdHN0cmFwX3NlcnZlcnMgPT4gIjE3Mi4yMS4xNi4zMzo5MDkyLDE3Mi4yMS4xNi4zMzo5MDkzLDE3Mi4yMS4xNi4zMzo5MDk0IgogICAgICAgIGdyb3VwX2lkID0+ICJnYXRld2F5X291dGdvaW5nIgogICAgICAgIGNsaWVudF9pZCA9PiAiZ2F0ZXdheV9vdXRnb2luZyIKICAgICAgICB0b3BpY3MgPT4gImdhdGV3YXlfb3V0Z29pbmciCiAgICAgICAgYXV0b19vZmZzZXRfcmVzZXQgPT4gImVhcmxpZXN0IgogICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIGNvbnN1bWVyX3RocmVhZHMgPT4gNQogICAgICAgIGRlY29yYXRlX2V2ZW50cyA9PiB0cnVlCiAgICB9CiAgICBrYWZrYSB7CiAgICAgICAgdHlwZSA9PiAic2NtZWRpX2FwaSIKICAgICAgICBib290c3RyYXBfc2VydmVycyA9PiAiMTcyLjIxLjE2LjMzOjkwOTIsMTcyLjIxLjE2LjMzOjkwOTMsMTcyLjIxLjE2LjMzOjkwOTQiCiAgICAgICAgZ3JvdXBfaWQgPT4gInNjbWVkaV9hcGkiCiAgICAgICAgY2xpZW50X2lkID0+ICJzY21lZGlfYXBpIgogICAgICAgIHRvcGljcyA9PiAic2NtZWRpX2FwaSIKICAgICAgICBhdXRvX29mZnNldF9yZXNldCA9PiAiZWFybGllc3QiCiAgICAgICAgY29kZWMgPT4gImpzb24iCiAgICAgICAgY29uc3VtZXJfdGhyZWFkcyA9PiA1CiAgICAgICAgZGVjb3JhdGVfZXZlbnRzID0+IHRydWUKICAgIH0KICAgIGthZmthIHsKICAgICAgICB0eXBlID0+ICJzY21lZGlfbmdpbngiCiAgICAgICAgYm9vdHN0cmFwX3NlcnZlcnMgPT4gIjE3Mi4yMS4xNi4zMzo5MDkyLDE3Mi4yMS4xNi4zMzo5MDkzLDE3Mi4yMS4xNi4zMzo5MDk0IgogICAgICAgIGdyb3VwX2lkID0+ICJzY21lZGlfbmdpbngiCiAgICAgICAgY2xpZW50X2lkID0+ICJzY21lZGlfbmdpbngiCiAgICAgICAgdG9waWNzID0+ICJzY21lZGlfbmdpbngiCiAgICAgICAgYXV0b19vZmZzZXRfcmVzZXQgPT4gImVhcmxpZXN0IgogICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIGNvbnN1bWVyX3RocmVhZHMgPT4gNQogICAgICAgIGRlY29yYXRlX2V2ZW50cyA9PiB0cnVlCiAgICB9CiAgICBrYWZrYSB7CiAgICAgICAgdHlwZSA9PiAiZ2F0ZXdheV9hbmFseXNpcyIKICAgICAgICBib290c3RyYXBfc2VydmVycyA9PiAiMTcyLjIxLjE2LjMzOjkwOTIsMTcyLjIxLjE2LjMzOjkwOTMsMTcyLjIxLjE2LjMzOjkwOTQiCiAgICAgICAgZ3JvdXBfaWQgPT4gImdhdGV3YXlfYW5hbHlzaXMiCiAgICAgICAgY2xpZW50X2lkID0+ICJnYXRld2F5X2FuYWx5c2lzIgogICAgICAgIHRvcGljcyA9PiAiZ2F0ZXdheV9hbmFseXNpcyIKICAgICAgICBhdXRvX29mZnNldF9yZXNldCA9PiAiZWFybGllc3QiCiAgICAgICAgY29kZWMgPT4gImpzb24iCiAgICAgICAgY29uc3VtZXJfdGhyZWFkcyA9PiA1CiAgICAgICAgZGVjb3JhdGVfZXZlbnRzID0+IHRydWUKICAgIH0KfQpmaWx0ZXIgewogICAganNvbiB7CiAgICAgICAgc291cmNlID0+ICJtZXNzYWdlIgogICAgfQp9Cm91dHB1dCB7CiAgICBpZiBbdHlwZV0gPT0gInRpY2tldF9odHRwIiB7CiAgICAgICAgZWxhc3RpY3NlYXJjaCB7CiAgICAgICAgICAgIGluZGV4ID0+ICJ0aWNrZXRfaHR0cC0leytZWVlZLk1NLmRkfSIKICAgICAgICAgICAgdGVtcGxhdGVfbmFtZSA9PiAidGlja2V0X2h0dHAiCiAgICAgICAgICAgIG1hbmFnZV90ZW1wbGF0ZSA9PiB0cnVlCiAgICAgICAgICAgIHRlbXBsYXRlX292ZXJ3cml0ZSA9PiB0cnVlCiAgICAgICAgICAgIGhvc3RzID0+IFsiZXMtY2x1c3Rlci5zbWFydGNpbmVtYS5jb20uY246OTIwMCJdCiAgICAgICAgICAgIHVzZXIgPT4gbG9nc3Rhc2hfZXMKICAgICAgICAgICAgcGFzc3dvcmQgPT4geXVudHVfbG9nc3Rhc2hfZXMKICAgICAgICB9CiAgICB9IGVsc2UgaWYgW3R5cGVdID09ICJnYXRld2F5X291dGdvaW5nIiB7CiAgICAgICAgZWxhc3RpY3NlYXJjaCB7CiAgICAgICAgICAgIGluZGV4ID0+ICJnYXRld2F5X291dGdvaW5nLSV7K1lZWVkuTU0uZGR9IgogICAgICAgICAgICB0ZW1wbGF0ZV9uYW1lID0+ICJnYXRld2F5X291dGdvaW5nIgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfWVsc2UgaWYgW3R5cGVdID09ICJzY21lZGlfYXBpIiB7CiAgICAgICAgZWxhc3RpY3NlYXJjaCB7CiAgICAgICAgICAgIGluZGV4ID0+ICJzY21lZGlfYXBpLSV7K1lZWVkuTU0uZGR9IgogICAgICAgICAgICB0ZW1wbGF0ZV9uYW1lID0+ICJzY21lZGlfYXBpIgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfWVsc2UgaWYgW3R5cGVdID09ICJzY21lZGlfbmdpbngiIHsKICAgICAgICBlbGFzdGljc2VhcmNoIHsKICAgICAgICAgICAgaW5kZXggPT4gInNjbWVkaV9uZ2lueC0leytZWVlZLk1NLmRkfSIKICAgICAgICAgICAgdGVtcGxhdGVfbmFtZSA9PiAic2NtZWRpX25naW54IgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfWVsc2UgaWYgW3R5cGVdID09ICJnYXRld2F5X2FuYWx5c2lzIiB7CiAgICAgICAgZWxhc3RpY3NlYXJjaCB7CiAgICAgICAgICAgIGluZGV4ID0+ICJnYXRld2F5X2FuYWx5c2lzLSV7K1lZWVkuTU0uZGR9IgogICAgICAgICAgICB0ZW1wbGF0ZV9uYW1lID0+ICJnYXRld2F5X2FuYWx5c2lzIgogICAgICAgICAgICBtYW5hZ2VfdGVtcGxhdGUgPT4gdHJ1ZQogICAgICAgICAgICB0ZW1wbGF0ZV9vdmVyd3JpdGUgPT4gdHJ1ZQogICAgICAgICAgICBob3N0cyA9PiBbImVzLWNsdXN0ZXIuc21hcnRjaW5lbWEuY29tLmNuOjkyMDAiXQogICAgICAgICAgICB1c2VyID0+IGxvZ3N0YXNoX2VzCiAgICAgICAgICAgIHBhc3N3b3JkID0+IHl1bnR1X2xvZ3N0YXNoX2VzCiAgICAgICAgfQogICAgfQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>update check_log in logstas</text>
       </register>
       <register name="-" type="4">
-        <text>conf</text>
+        <text>update check_log in logstas</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
