@@ -28,13 +28,13 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_customer" timestamp="1525060697471">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_customer" timestamp="1525062216552">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1524973097471">
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1525061220587">
         <mark key="[" line="23" column="24" />
         <mark key="]" line="24" column="7" />
         <mark key="^" line="24" column="7" />
@@ -66,12 +66,12 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" timestamp="1524995958700">
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_api" timestamp="1525063784777">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524901313064">
         <mark key="'" line="4" column="12" />
@@ -138,6 +138,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525060976805" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_backend" timestamp="1524901594076">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="17" column="28" />
@@ -199,7 +200,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525003365699">
+      <file name="/Dummy.txt" timestamp="1525060709136">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -277,6 +278,12 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/tasks/main.yml" timestamp="1525063822007">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/pay_api.conf" timestamp="1524996192163">
         <mark key="[" line="0" column="0" />
@@ -402,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yt_ticket</text>
+        <text>gracefully kill progra</text>
       </register>
       <register name="-" type="4">
-        <text>yt_ticket</text>
+        <text>gracefully kill progra</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
