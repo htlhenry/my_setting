@@ -51,6 +51,13 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/inventory.py" timestamp="1525167744104">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafka_2_es" timestamp="1524990730151">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="9" />
@@ -189,7 +196,6 @@
         <mark key="." line="264" column="58" />
         <mark key="^" line="264" column="58" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1525148236175" />
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafa_2_es" timestamp="1524988677791">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="4" column="39" />
@@ -319,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="287" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="130" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="429" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -419,13 +424,14 @@
       <jump line="220" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" />
       <jump line="1" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" />
+      <jump line="13" column="14" filename="$USER_HOME$/devops/jenkins/hosts/inventory.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN5cy5hcmd2KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>fix history loadingMore bu</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -434,31 +440,31 @@
         <text encoding="base64">LSBuYW1lOiBzdGFydCBsb2dzdGFzaAogIHNoZWxsOiAic2ggL2RhdGEvc29mdC9sb2dzdGFzaC9yZXN0YXJ0X2xvZ3N0YXNoLnNoIHN0YXJ0IgogIHdoZW46IGEgPT0gJ3N0YXJ0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN5cy5hcmd2KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiAK</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3NbJyddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBuYW1lOiBwcmludCByc3luY19vdXRwdXQKICBkZWJ1ZzoKICAgIHZhcjogcnN5bmNfb3V0cHV0LnN0ZG91dF9saW5lcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bT1gcHMgYXV4IHwgZ3JlcCAibG9nc3Rhc2ggLWYgL2RhdGEvc29mdC9sb2dzdGFzaC9jb25maWcve3sgbG9nc3Rhc2hfY29uZiB9fSIgfCBncmVwIC12IGdyZXAgfCBhd2sgJ3twcmludCAkMn0nIHwgd2MgLWxgCiAgICBwaWRzPWBwcyBhdXggfCBncmVwICJsb2dzdGFzaCAtZiAvZGF0YS9zb2Z0L2xvZ3N0YXNoL2NvbmZpZy97eyBsb2dzdGFzaF9jb25mIH19IiB8IGdyZXAgLXYgZ3JlcCB8IGF3ayAne3ByaW50ICQyfSdgCg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwCg==</text>
+        <text encoding="base64">LSBuYW1lOiAK</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
