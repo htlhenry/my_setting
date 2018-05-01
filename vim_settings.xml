@@ -196,7 +196,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525069046626">
+      <file name="/Dummy.txt" timestamp="1525081453112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -239,11 +239,11 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1525080815296">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="73" />
-        <mark key="." line="20" column="73" />
-        <mark key="^" line="20" column="73" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_share" timestamp="1525144126564">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="27" column="10" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/files/prod/adminfe/scustomer.smartcinema.com.cn.conf" timestamp="1525068630029">
         <mark key="[" line="21" column="18" />
@@ -251,11 +251,11 @@
         <mark key="^" line="22" column="50" />
         <mark key="." line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1525080839503">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="70" />
-        <mark key="^" line="20" column="70" />
-        <mark key="." line="20" column="70" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1525144123141">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/restart_logstash.j2" timestamp="1525079502112">
         <mark key="[" line="9" column="9" />
@@ -410,11 +410,11 @@
       <jump line="1" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>add nginx_conf env file</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>add nginx_conf env file</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
