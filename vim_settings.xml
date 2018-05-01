@@ -208,7 +208,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525161382544">
+      <file name="/Dummy.txt" timestamp="1525167776587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -427,11 +427,11 @@
       <jump line="13" column="14" filename="$USER_HOME$/devops/jenkins/hosts/inventory.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN5cy5hcmd2KQo=</text>
+      <register name="&quot;" type="4">
+        <text>add inventory</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>add inventory</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
