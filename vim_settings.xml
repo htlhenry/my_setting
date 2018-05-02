@@ -245,6 +245,13 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_system.conf" timestamp="1525234053157">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="44" column="1" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="14" column="3" />
@@ -325,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="130" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="429" column="14" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="438" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -425,10 +431,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" />
       <jump line="1" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" />
       <jump line="13" column="14" filename="$USER_HOME$/devops/jenkins/hosts/inventory.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_system.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add inventory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZW1vdmVfZmllbGQgPT4gWyJob3N0Il0K</text>
       </register>
       <register name="-" type="4">
         <text>add inventory</text>
@@ -440,31 +447,31 @@
         <text encoding="base64">LSBuYW1lOiBzdGFydCBsb2dzdGFzaAogIHNoZWxsOiAic2ggL2RhdGEvc29mdC9sb2dzdGFzaC9yZXN0YXJ0X2xvZ3N0YXNoLnNoIHN0YXJ0IgogIHdoZW46IGEgPT0gJ3N0YXJ0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN5cy5hcmd2KQo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVfZmllbGQgPT4gWyJob3N0Il0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZmllbGQgPT4gewogICAgICAgICAgICAiaG9zdCIgPT4gIjE3Mi4yMS4xNy4xNiIKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZmllbGQgPT4gewogICAgICAgICAgICAiaG9zdCIgPT4gIjE3Mi4yMS4xNy4xNiIKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN5cy5hcmd2KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3NbJyddCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidGVzdGluZyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3NbJyddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
