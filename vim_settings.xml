@@ -171,11 +171,17 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1524989968219">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1525234393677">
         <mark key="[" line="19" column="57" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/cms/system" timestamp="1525234408092">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="21" column="29" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/goods_api" timestamp="1524996008804">
         <mark key="[" line="0" column="0" />
@@ -208,7 +214,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525167776587">
+      <file name="/Dummy.txt" timestamp="1525234100255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -434,11 +440,11 @@
       <jump line="21" column="4" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_system.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVfZmllbGQgPT4gWyJob3N0Il0K</text>
+      <register name="&quot;" type="4">
+        <text>try add dynamic inventory resource</text>
       </register>
       <register name="-" type="4">
-        <text>add inventory</text>
+        <text>try add dynamic inventory resource</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
