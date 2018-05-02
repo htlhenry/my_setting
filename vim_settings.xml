@@ -171,7 +171,7 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1525234393677">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1525238537303">
         <mark key="[" line="19" column="57" />
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
@@ -214,7 +214,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525234100255">
+      <file name="/Dummy.txt" timestamp="1525234415328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -231,11 +231,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_crontab" timestamp="1524971683882">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-        <mark key="." line="22" column="44" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_crontab" timestamp="1525238560080">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="^" line="16" column="42" />
+        <mark key="." line="16" column="42" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" timestamp="1524997330898">
         <mark key="'" line="220" column="1" />
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>try add dynamic inventory resource</text>
+        <text>_task</text>
       </register>
       <register name="-" type="4">
-        <text>try add dynamic inventory resource</text>
+        <text>_task</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
