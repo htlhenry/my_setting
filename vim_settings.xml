@@ -136,11 +136,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1525251394392">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1525252223458">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_frontend" timestamp="1524901442318">
         <mark key="'" line="1" column="12" />
@@ -162,12 +162,18 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1525250677948">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/__init__.py" timestamp="1525251488846">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1525252280846">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="58" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1525250085245">
         <mark key="[" line="40" column="0" />
@@ -429,9 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_backend" />
-      <jump line="5" column="0" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_backend" />
-      <jump line="1" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/kdm_api" />
       <jump line="4" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_frontend" />
       <jump line="1" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_frontend" />
       <jump line="4" column="12" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" />
@@ -529,10 +532,13 @@
       <jump line="47" column="7" filename="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" />
       <jump line="19" column="29" filename="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" />
       <jump line="152" column="17" filename="$USER_HOME$/lingsi/code/python/qcloud_api/env/lib/python3.6/site-packages/QcloudApi/modules/base.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" />
+      <jump line="7" column="31" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" />
+      <jump line="21" column="17" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFyYW1zID0gewogICAgInVybHMubiI6IAp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -544,31 +550,31 @@
         <text encoding="base64">IyBRQ2xvdWQgQVBJCnFjbG91bmRfc2VjdXJlX2lkID0gJ0FLSURHalJ4YjcyZER0aEVEUHZBSklBdGhhbUlkbkx4Nzc3MCcKcWNsb3VuZF9zZWN1cmVfa2V5ID0gJ3JuY2diYlFLN3p6SVRUSEF3WTBtb3dWQzVwb2VMck5pJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFyYW1zID0gewogICAgInVybHMubiI6IAp9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICdtZXRob2QnOgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IEludmFsaWRkZFVzYWdlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGFyYW1zID0gewogICAgInVybHMubiI6IAp9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQ29uZmlnOgo=</text>
+        <text encoding="base64">ICAgICdtZXRob2QnOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUUNsb3VkQVBJOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Y2xhc3MgQ29uZmlnOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5jZW50Y2xvdWQuY29tbW9uIGltcG9ydCBjcmVkZW50aWFsCmZyb20gdGVuY2VudGNsb3VkLmNvbW1vbi5leGNlcHRpb24udGVuY2VudF9jbG91ZF9zZGtfZXhjZXB0aW9uIGltcG9ydCBUZW5jZW50Q2xvdWRTREtFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5jZW50Y2xvdWQuYmF0Ywo=</text>
+        <text encoding="base64">Y2xhc3MgUUNsb3VkQVBJOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5jZW50Y2xvdWQK</text>
+        <text encoding="base64">ZnJvbSB0ZW5jZW50Y2xvdWQuY29tbW9uIGltcG9ydCBjcmVkZW50aWFsCmZyb20gdGVuY2VudGNsb3VkLmNvbW1vbi5leGNlcHRpb24udGVuY2VudF9jbG91ZF9zZGtfZXhjZXB0aW9uIGltcG9ydCBUZW5jZW50Q2xvdWRTREtFeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
