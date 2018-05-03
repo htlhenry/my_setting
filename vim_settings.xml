@@ -45,9 +45,6 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/env/lib/python3.6/site-packages/QcloudApi/modules/base.py" timestamp="1525250578787">
-        <mark key="'" line="152" column="17" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_frontend" timestamp="1524901556162">
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
@@ -94,9 +91,6 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/env/lib/python3.6/site-packages/tencentcloud/common/abstract_client.py" timestamp="1525255342665">
-        <mark key="'" line="34" column="32" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1524901313064">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="24" column="39" />
@@ -141,12 +135,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1525262461005">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1525319927390">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="40" column="56" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cvm.py" timestamp="1525262205750">
         <mark key="[" line="14" column="6" />
@@ -180,11 +173,11 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1525319393144">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1525319703684">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1525316988096">
@@ -198,6 +191,12 @@
         <mark key="]" line="137" column="29" />
         <mark key="^" line="137" column="29" />
         <mark key="." line="137" column="29" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/requirements.txt" timestamp="1525319789381">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525081112100">
         <mark key="[" line="35" column="0" />
@@ -580,8 +579,8 @@
       <jump line="4" column="33" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlZ2lvbnMgPSBkZXNjcmliZV9yZWdpb25zKCkKICAgIGluZm9fbG9nKCJyZWdpb25zID0+IHt9Ii5mb3JtYXQoanNvbi5sb2FkcyhyZWdpb25zKSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>2000</text>
@@ -593,31 +592,31 @@
         <text encoding="base64">Y29uZmlnID0gewogICAgJ3NlY3JldElkJzogY29uZmlnLnFjbG91ZF9zZWNyZXRfaWQsCiAgICAnc2VjcmV0S2V5JzogY29uZmlnLnFjbG91ZF9zZWNyZXRfa2V5LAogICAgJ21ldGhvZCc6ICdwb3N0JywKICAgICdSZWdpb24nOiAnYmozJwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGxpbWl0ZXIubGltaXQoIjMvbWludXRlIikK</text>
+        <text encoding="base64">ICAgIHJlZ2lvbnMgPSBkZXNjcmliZV9yZWdpb25zKCkKICAgIGluZm9fbG9nKCJyZWdpb25zID0+IHt9Ii5mb3JtYXQoanNvbi5sb2FkcyhyZWdpb25zKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAie30iLmZvcm1hdCh1cmxfbGlzdCkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybF9saXN0ID0gW10KICAgIGZvciBydWxlIGluIGN1cnJlbnRfYXBwLnVybF9tYXAuaXRlcl9ydWxlcygpOgogICAgICAgIHVybF9saXN0LmFwcGVuZCgie30ge30iLmZvcm1hdChydWxlLnJ1bGUsIHJ1bGUubWV0aG9kcykpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">QGxpbWl0ZXIubGltaXQoIjMvbWludXRlIikK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAie30iLmZvcm1hdCh1cmxfbGlzdCkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgIHVybF9saXN0ID0gW10KICAgIGZvciBydWxlIGluIGN1cnJlbnRfYXBwLnVybF9tYXAuaXRlcl9ydWxlcygpOgogICAgICAgIHVybF9saXN0LmFwcGVuZCgie30ge30iLmZvcm1hdChydWxlLnJ1bGUsIHJ1bGUubWV0aG9kcykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19saW1pdGVyIGltcG9ydCBMaW1pdGVyCmZyb20gZmxhc2tfbGltaXRlci51dGlsIGltcG9ydCBnZXRfcmVtb3RlX2FkZHJlc3MK</text>
+        <text encoding="base64">QGxpbWl0ZXIubGltaXQoIjMvbWludXRlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBxY2xvdWRfc2VjcmV0X2lkID0gJ0FLSURHalJ4YjcyZER0aEVEUHZBSklBdGhhbUlkbkx4Nzc3MCcKIyBxY2xvdWRfc2VjcmV0X2tleSA9ICdybmNnYmJRSzd6eklUVEhBd1kwbW93VkM1cG9lTHJOaScKIyBxY2xvdWRfc2VjcmV0X2lkID0gIkFLSUR6WEN4a2RUWnRLb0x1WHJGSVJYYWt4Z1ZSUEpITE9VaSIKIyBxY2xvdWRfc2VjcmV0X2tleSA9ICJWOGtJT1lvTzd0T3pnUkUydncxN2xROXFXU1NWU1RldSIK</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnUmVnaW9uJzogJ2JqMycK</text>
+        <text encoding="base64">ZnJvbSBmbGFza19saW1pdGVyIGltcG9ydCBMaW1pdGVyCmZyb20gZmxhc2tfbGltaXRlci51dGlsIGltcG9ydCBnZXRfcmVtb3RlX2FkZHJlc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN2bSA9IEN2bShjb25maWcpCg==</text>
+        <text encoding="base64">IyBxY2xvdWRfc2VjcmV0X2lkID0gJ0FLSURHalJ4YjcyZER0aEVEUHZBSklBdGhhbUlkbkx4Nzc3MCcKIyBxY2xvdWRfc2VjcmV0X2tleSA9ICdybmNnYmJRSzd6eklUVEhBd1kwbW93VkM1cG9lTHJOaScKIyBxY2xvdWRfc2VjcmV0X2lkID0gIkFLSUR6WEN4a2RUWnRLb0x1WHJGSVJYYWt4Z1ZSUEpITE9VaSIKIyBxY2xvdWRfc2VjcmV0X2tleSA9ICJWOGtJT1lvTzd0T3pnUkUydncxN2xROXFXU1NWU1RldSIK</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
