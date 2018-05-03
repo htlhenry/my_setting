@@ -112,7 +112,7 @@
         <mark key="^" line="48" column="1" />
         <mark key="." line="48" column="1" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1525339132592">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1525342102692">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
@@ -162,7 +162,7 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1525339147188">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1525342141401">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="2" />
         <mark key="." line="10" column="2" />
@@ -192,6 +192,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/templates/nginx.j2" timestamp="1525345030014">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_backend" timestamp="1524901594076">
         <mark key="[" line="16" column="18" />
@@ -236,7 +242,7 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1525339138216">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/gateway" timestamp="1525342071547">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
@@ -554,10 +560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix pids in logstas</text>
+        <text>sckdmapitest1</text>
       </register>
       <register name="-" type="4">
-        <text>fix pids in logstas</text>
+        <text>sckdmapitest1</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
