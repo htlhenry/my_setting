@@ -97,11 +97,11 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525431543649">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525433607241">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafa_2_es" timestamp="1524988677791">
         <mark key="[" line="1" column="12" />
@@ -422,7 +422,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525430857287">
+      <file name="/Dummy.txt" timestamp="1525432169218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -613,11 +613,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5wdXQgewogICAgZmlsZSB7CiAgICAgICAgdHlwZSA9PiAic2NfY21zX2FwaSIKICAgICAgICBwYXRoID0+IFsiL2RhdGEvbG9ncy9waHBzZXJ2aWNlX2xvZ3Mvc2NfY21zL2FwaS1sb2dzL2xvZy0qIl0KICAgICAgICBzdGFydF9wb3NpdGlvbiA9PiAiZW5kIgogICAgfQp9CmZpbHRlciB7CiAgICBpZiBbdHlwZV0gPT0gInNjX2Ntc19hcGkiIHsKICAgICAgICBncm9rIHsKICAgICAgICAgICAgbWF0Y2ggPT4gWyJtZXNzYWdlIiwgIiV7V09SRDp0bXBfZmlsZWR9IC0gJXtZRUFSOnllYXJ9LSV7TU9OVEhOVU06bW9udGh9LSV7TU9OVEhEQVk6ZGF5fSAle1RJTUU6dGltZX0iXQogICAgICAgIH0KICAgICAgICBpZiBbdG1wX2ZpbGVkXSAhPSAiUkVRVUVTVF9DT05URU5UIiBhbmQgW3RtcF9maWxlZF0gIT0gIlJFU1BPTlNFX0NPTlRFTlQiIHsKICAgICAgICAgICAgZHJvcCB7fQogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBhZGRfZmllbGQgPT4gewogICAgICAgICAgICAgICAgIm15dGltZSIgPT4gIiV7eWVhcn0tJXttb250aH0tJXtkYXl9ICV7dGltZX0iCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVtb3ZlX2ZpZWxkID0+IFsidG1wX2ZpbGVkIl0KICAgICAgICB9CiAgICAgICAgZGF0ZSB7CiAgICAgICAgICAgIG1hdGNoID0+IFsibXl0aW1lIiwgInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIl0KICAgICAgICAgICAgdGFyZ2V0ID0+ICJAdGltZXN0YW1wIgogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBnc3ViID0+IFsibWVzc2FnZSIsICIuKiAtLT4gIiwgIiJdCiAgICAgICAgfQogICAgICAgIGpzb24gewogICAgICAgICAgICBzb3VyY2UgPT4gIm1lc3NhZ2UiCiAgICAgICAgfQogICAgICAgIG11dGF0ZSB7CiAgICAgICAgICAgIHJlbW92ZV9maWVsZCA9PiBbInllYXIiLCAibW9udGgiLCAiZGF5IiwgIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgICBpZiBbdG1wX2ZpbGVkXSA9PSAiUkVTUE9OU0VfQ09OVEVOVCIgewogICAgICAgICAgIG11dGF0ZSB7CiAgICAgICAgICAgICAgIHJlbW92ZV9maWVsZCA9PiBbIltkYXRhXVtzdGFyXSJdCiAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KICAgIG11dGF0ZSB7CiAgICAgICAgdXBkYXRlID0+IHsKICAgICAgICAgICAgImhvc3QiID0+ICJ7eyBhbnNpYmxlX2RlZmF1bHRfaXB2NC5hZGRyZXNzIH19IgogICAgICAgIH0KICAgIH0KfQpvdXRwdXQgewogICAgaWYgW3R5cGVdID09ICJzY19jbXNfYXBpIiB7CiAgICAgICAga2Fma2EgewogICAgICAgICAgICBib290c3RyYXBfc2VydmVycyA9PiAiMTcyLjIxLjE2LjMzOjkwOTIsMTcyLjIxLjE2LjMzOjkwOTMsMTcyLjIxLjE2LjMzOjkwOTQiCiAgICAgICAgICAgIGNsaWVudF9pZCA9PiAic2NfY21zX2FwaSIKICAgICAgICAgICAgdG9waWNfaWQgPT4gInNjX2Ntc19hcGkiCiAgICAgICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIH0KICAgIH0KCn0K</text>
+      <register name="&quot;" type="4">
+        <text>update pre to phpservic</text>
       </register>
       <register name="-" type="4">
-        <text>update cms_api.con</text>
+        <text>update pre to phpservic</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
