@@ -397,7 +397,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525430634367">
+      <file name="/Dummy.txt" timestamp="1525430857287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -588,11 +588,11 @@
       <jump line="56" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3ByZV0KMTcyLjIxLjAuMTIwCg==</text>
+      <register name="&quot;" type="4">
+        <text>update cms_api.con</text>
       </register>
       <register name="-" type="4">
-        <text>update scmedi.con</text>
+        <text>update cms_api.con</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
