@@ -267,12 +267,12 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525662228535">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="14" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525670261447">
+        <mark key="'" line="105" column="15" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/goods_api" timestamp="1524996008804">
         <mark key="[" line="0" column="0" />
@@ -367,12 +367,11 @@
         <mark key="^" line="47" column="29" />
         <mark key="." line="47" column="29" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" timestamp="1525667698525">
-        <mark key="'" line="75" column="13" />
-        <mark key="[" line="66" column="11" />
-        <mark key="]" line="68" column="18" />
-        <mark key="." line="68" column="18" />
-        <mark key="^" line="68" column="18" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" timestamp="1525670210290">
+        <mark key="'" line="72" column="18" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="142" column="15" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/files/schome/home.smartcinema.com.cn.conf" timestamp="1524897229849">
         <mark key="[" line="3" column="17" />
@@ -519,13 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
-      <jump line="39" column="279" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" />
-      <jump line="52" column="31" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" />
-      <jump line="48" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
-      <jump line="34" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
-      <jump line="220" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
-      <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash.j2" />
       <jump line="1" column="10" filename="$USER_HOME$/devops/jenkins/roles/logstash/tasks/main.yml" />
       <jump line="13" column="14" filename="$USER_HOME$/devops/jenkins/hosts/inventory.py" />
       <jump line="21" column="4" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_system.conf" />
@@ -612,72 +604,76 @@
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
       <jump line="40" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
       <jump line="34" column="17" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
-      <jump line="38" column="21" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
       <jump line="10" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
       <jump line="63" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
       <jump line="59" column="12" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
       <jump line="2" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
-      <jump line="71" column="13" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="51" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="76" column="13" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="71" column="25" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="38" column="3" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
+      <jump line="72" column="18" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
+      <jump line="47" column="23" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
+      <jump line="107" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>fake_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UkVHSU9OID0gWyJhcC1iZWlqaW5nIl0KUUNMT1VEX1NFQ1JFVF9JRCA9ICJBS0lER2pSeGI3MmREdGhFRFB2QUpJQXRoYW1JZG5MeDc3NzAiClFDTE9VRF9TRUNSRVRfS0VZID0gInJuY2diYlFLN3p6SVRUSEF3WTBtb3dWQzVwb2VMck5pIgo=</text>
+        <text encoding="base64">ICAgIGNvcF9saXN0ID0gW10KICAgIGZvciBjb3AgaW4gZmFrZV9kYXRhOgogICAgICAgIGlmIGNvcFsiY29wIl0gbm90IGluIGNvcF9saXN0OgogICAgICAgICAgICBjb3BfbGlzdC5hcHBlbmQoY29wWyJjb3AiXSkKICAgIG5vZGVzID0gW10KICAgIGZvciBjb3AgaW4gY29wX2xpc3Q6CiAgICAgICAgbm9kZXMuYXBwZW5kKHsKICAgICAgICAgICAgIm5vZGVzIjogW10sCiAgICAgICAgICAgICJ0ZXh0IjogY29wLAogICAgICAgICAgICAidXJsIjogImNvcD17fSIuZm9ybWF0KGNvcCkKICAgICAgICB9KQogICAgZ3JwX2xpc3QgPSBbXQogICAgZm9yIGdycCBpbiBmYWtlX2RhdGE6CiAgICAgICAgaWYgZ3JwWydncnAnXSBub3QgaW4gZ3JwX2xpc3QgYW5kIGdycFsiZ3JwIl06CiAgICAgICAgICAgIGdycF9saXN0LmFwcGVuZCh7CiAgICAgICAgICAgICAgICAiY29wIjogZ3JwWydjb3AnXSwKICAgICAgICAgICAgICAgICJncnAiOiBncnBbImdycCJdCiAgICAgICAgICAgIH0pCiAgICBmb3IgZ3JwIGluIGdycF9saXN0OgogICAgICAgIGZvciBub2RlIGluIG5vZGVzOgogICAgICAgICAgICBpZiBub2RlWyd0ZXh0J10gPT0gZ3JwWyJjb3AiXToKICAgICAgICAgICAgICAgIG5vZGVbIm5vZGVzIl0uYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAibm9kZXMiOiBbXSwKICAgICAgICAgICAgICAgICAgICAidGV4dCI6IGdycFsnZ3JwJ10sCiAgICAgICAgICAgICAgICAgICAgInVybCI6ICJjb3A9e30mZ3JwPXt9Ii5mb3JtYXQoZ3JwWyJjb3AiXSwgZ3JwWyJncnAiXSkKICAgICAgICAgICAgICAgIH0pCgogICAgc3J2X2xpc3QgPSBbXQogICAgZm9yIHNydiBpbiBmYWtlX2RhdGE6CiAgICAgICAgaWYgc3J2WydzcnYnXSBub3QgaW4gc3J2X2xpc3QgYW5kIHNydlsnc3J2J106CiAgICAgICAgICAgIHNydl9saXN0LmFwcGVuZCh7CiAgICAgICAgICAgICAgICAiY29wIjogc3J2Wydjb3AnXSwKICAgICAgICAgICAgICAgICJncnAiOiBzcnZbJ2dycCddLAogICAgICAgICAgICAgICAgInNydiI6IHNydlsic3J2Il0KICAgICAgICAgICAgfSkKCiAgICBmb3Igc3J2IGluIHNydl9saXN0OgogICAgICAgIGZvciBub2RlIGluIG5vZGVzOgogICAgICAgICAgICBpZiBub2RlWyd0ZXh0J10gPT0gc3J2Wydjb3AnXToKICAgICAgICAgICAgICAgIGZvciBncnBfbm9kZSBpbiBub2RlWyJub2RlcyJdOgogICAgICAgICAgICAgICAgICAgIGlmIGdycF9ub2RlWyd0ZXh0J10gPT0gc3J2WydncnAnXToKICAgICAgICAgICAgICAgICAgICAgICAgZ3JwX25vZGVbJ25vZGVzJ10uYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJub2RlcyI6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInRleHQiOiBzcnZbInNydiJdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInVybCI6ICJjb3A9e30mZ3JwPXt9JnNydj17fSIuZm9ybWF0KHNydlsiY29wIl0sIHNydlsiZ3JwIl0sIHNydlsic3J2Il0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0pCgogICAgZW52X2xpc3QgPSBbXQogICAgZm9yIGVudiBpbiBmYWtlX2RhdGE6CiAgICAgICAgaWYgZW52WyJlbnYiXSBhbmQgZW52WyJlbnYiXSBub3QgaW4gZW52X2xpc3Q6CiAgICAgICAgICAgIGVudl9saXN0LmFwcGVuZCh7CiAgICAgICAgICAgICAgICAiY29wIjogZW52WyJjb3AiXSwKICAgICAgICAgICAgICAgICJncnAiOiBlbnZbImdycCJdLAogICAgICAgICAgICAgICAgInNydiI6IGVudlsic3J2Il0sCiAgICAgICAgICAgICAgICAiZW52IjogZW52WyJlbnYiXQogICAgICAgICAgICB9KQogICAgZm9yIGVudiBpbiBlbnZfbGlzdDoKICAgICAgICBjb3AgPSBlbnZbImNvcCJdCiAgICAgICAgZ3JwID0gZW52WyJncnAiXQogICAgICAgIHNydiA9IGVudlsic3J2Il0KICAgICAgICBlbnYgPSBlbnZbImVudiJdCiAgICAgICAgZm9yIG5vZGUgaW4gbm9kZXM6CiAgICAgICAgICAgIGlmIG5vZGVbJ3RleHQnXSA9PSBjb3A6CiAgICAgICAgICAgICAgICBmb3IgZ3JwX25vZGUgaW4gbm9kZVsnbm9kZXMnXToKICAgICAgICAgICAgICAgICAgICBpZiBncnBfbm9kZVsndGV4dCddID09IGdycDoKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHNydl9ub2RlIGluIG5vZGVbJ25vZGVzJ106CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBzcnZfbm9kZVsndGV4dCddID09IHNydjoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcnZfbm9kZVsnbm9kZXMnXS5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGV4dCI6IGVudiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInVybCI6ICJjb3A9e30mZ3JwPXt9JnNydj17fSZlbnY9e30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvcCwgZ3JwLCBzcnYsIGVudgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgIHByaW50KG5vZGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGdycFsnY29wJ10gPT0gbm9kZVsnY29wJ10gYW5kIGdycFsnZ3JwJ106CiAgICAgICAgIyAgICAgaWYgbm9kZVsnZ3JwJ10gPT0gZ3JwWydncnAnXToKICAgICAgICAjICAgICAgICAgbm9kZVsnJ10KICAgICAgICAjICAgICBub2RlWydub2RlcyddLmFwcGVuZCh7CiAgICAgICAgIyAgICAgICAgICJub2RlcyI6IFtdCiAgICAgICAgIyAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ3JwX25vZGUuYXBwZW5kCg==</text>
+        <text encoding="base64">ICAgIHRyZWVfbm9kZSA9IFsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZVsndGV4dCddID09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBkZWYgaXRlcl90cmVlKGRhdGEpOgojICAgICB0cmVlX25vZGUgPSBbXQojCiMgICAgIGZvciByb3cgaW4gZGF0YToKIyAgICAgICAgIHN0ZXAgPSAwCiMgICAgICAgICBsZW5ndGggPSBsZW4ocm93KQojICAgICAgICAgaWYgbGVuKHRyZWVfbm9kZSkgPT0gMDoKIyAgICAgICAgICAgICB0cmVlX25vZGUuYXBwZW5kKHsKIyAgICAgICAgICAgICAgICAgInRleHQiOiByb3dbMF0sCiMgICAgICAgICAgICAgfSkKIyAgICAgICAgICAgICBmb3IgaXRlbSBpbiByb3c6CiMgICAgICAgICAgICAgICAgIGlmIGl0ZW0KIyAgICAgICAgICAgICBpZiBpdGVtW3N0ZXArMV06CiMgICAgICAgICAgICAgICAgIHRyZWVfbm9kZS5hcHBlbmQoIm5vZGVzIikKIyAgICAgICAgICAgICAgICAgY29udGludWUKIyAgICAgICAgIGZvciB0cmVlIGluIHRyZWVfbm9kZToKIyAgICAgICAgICAgICBpZiBpdGVtW3N0ZXBdOgojICAgICAgICAgICAgICAgICBpZiBpdGVtW3N0ZXBdID09IHRyZWVbJ3RleHQnXToKIyAgICAgICAgICAgICAgICAgICAgICMg57un57ut6YCS5b2SCiMgICAgICAgICAgICAgICAgICAgICBzdGVwICs9IDEKIyAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiMgICAgICAgICAgICAgICAgIGVsc2U6CiMKIyAgICAgICAgICAgICBlbHNlOgojICAgICAgICAgICAgICAgICBicmVhawojCiMKIwojCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBncnBbJ2dycCddCg==</text>
+        <text encoding="base64">ICAgIFVwbG9hZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBncnBbJ2NvcCddID09IAo=</text>
+        <text encoding="base64">ICAgIFBhcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXRlbVswXSA9PSB0cmVlWyJ0ZXh0Il06Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5wdXQgewogICAgZmlsZSB7CiAgICAgICAgdHlwZSA9PiAic2NfY21zX2FwaSIKICAgICAgICBwYXRoID0+IFsiL2RhdGEvbG9ncy9waHBzZXJ2aWNlX2xvZ3Mvc2NfY21zL2FwaS1sb2dzL2xvZy0qIl0KICAgICAgICBzdGFydF9wb3NpdGlvbiA9PiAiZW5kIgogICAgfQp9CmZpbHRlciB7CiAgICBpZiBbdHlwZV0gPT0gInNjX2Ntc19hcGkiIHsKICAgICAgICBncm9rIHsKICAgICAgICAgICAgbWF0Y2ggPT4gWyJtZXNzYWdlIiwgIiV7V09SRDp0bXBfZmlsZWR9IC0gJXtZRUFSOnllYXJ9LSV7TU9OVEhOVU06bW9udGh9LSV7TU9OVEhEQVk6ZGF5fSAle1RJTUU6dGltZX0iXQogICAgICAgIH0KICAgICAgICBpZiBbdG1wX2ZpbGVkXSAhPSAiUkVRVUVTVF9DT05URU5UIiBhbmQgW3RtcF9maWxlZF0gIT0gIlJFU1BPTlNFX0NPTlRFTlQiIHsKICAgICAgICAgICAgZHJvcCB7fQogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBhZGRfZmllbGQgPT4gewogICAgICAgICAgICAgICAgIm15dGltZSIgPT4gIiV7eWVhcn0tJXttb250aH0tJXtkYXl9ICV7dGltZX0iCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVtb3ZlX2ZpZWxkID0+IFsidG1wX2ZpbGVkIl0KICAgICAgICB9CiAgICAgICAgZGF0ZSB7CiAgICAgICAgICAgIG1hdGNoID0+IFsibXl0aW1lIiwgInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIl0KICAgICAgICAgICAgdGFyZ2V0ID0+ICJAdGltZXN0YW1wIgogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBnc3ViID0+IFsibWVzc2FnZSIsICIuKiAtLT4gIiwgIiJdCiAgICAgICAgfQogICAgICAgIGpzb24gewogICAgICAgICAgICBzb3VyY2UgPT4gIm1lc3NhZ2UiCiAgICAgICAgfQogICAgICAgIG11dGF0ZSB7CiAgICAgICAgICAgIHJlbW92ZV9maWVsZCA9PiBbInllYXIiLCAibW9udGgiLCAiZGF5IiwgIm1lc3NhZ2UiXQogICAgICAgIH0KICAgICAgICBpZiBbdG1wX2ZpbGVkXSA9PSAiUkVTUE9OU0VfQ09OVEVOVCIgewogICAgICAgICAgIG11dGF0ZSB7CiAgICAgICAgICAgICAgIHJlbW92ZV9maWVsZCA9PiBbIltkYXRhXVtzdGFyXSJdCiAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KICAgIG11dGF0ZSB7CiAgICAgICAgdXBkYXRlID0+IHsKICAgICAgICAgICAgImhvc3QiID0+ICJ7eyBhbnNpYmxlX2RlZmF1bHRfaXB2NC5hZGRyZXNzIH19IgogICAgICAgIH0KICAgIH0KfQpvdXRwdXQgewogICAgaWYgW3R5cGVdID09ICJzY19jbXNfYXBpIiB7CiAgICAgICAga2Fma2EgewogICAgICAgICAgICBib290c3RyYXBfc2VydmVycyA9PiAiMTcyLjIxLjE2LjMzOjkwOTIsMTcyLjIxLjE2LjMzOjkwOTMsMTcyLjIxLjE2LjMzOjkwOTQiCiAgICAgICAgICAgIGNsaWVudF9pZCA9PiAic2NfY21zX2FwaSIKICAgICAgICAgICAgdG9waWNfaWQgPT4gInNjX2Ntc19hcGkiCiAgICAgICAgICAgIGNvZGVjID0+ICJqc29uIgogICAgICAgIH0KICAgIH0KCn0K</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</text>
+        <text encoding="base64">JzwsJz5zL2Zha2VfZGF0YS9kYXRhL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>fake_data</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
-      <last-replace>None</last-replace>
-      <last-substitute>null</last-substitute>
+      <last-pattern>fake_data</last-pattern>
+      <last-replace>data</last-replace>
+      <last-substitute>fake_data</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>A</entry>
-        <entry>B</entry>
-        <entry>phone_number</entry>
         <entry>txt</entry>
         <entry>command_slice</entry>
         <entry encoding="base64">XDxfXD4=</entry>
@@ -695,11 +691,11 @@
         <entry>logfun</entry>
         <entry>host</entry>
         <entry>null</entry>
+        <entry>cop_index</entry>
+        <entry>cop_idx</entry>
+        <entry>fake_data</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1x7XCUvXDxcJS9n</entry>
-        <entry encoding="base64">JzwsJz57</entry>
-        <entry encoding="base64">JzwsJz5zL3slLzwlL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyV9LyU+L2c=</entry>
         <entry encoding="base64">PDw=</entry>
         <entry encoding="base64">PA==</entry>
@@ -717,6 +713,9 @@
         <entry>66</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NvcF9pbmRleC9jb3AvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NvcF9pZHgvY29wL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2Zha2VfZGF0YS9kYXRhL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
