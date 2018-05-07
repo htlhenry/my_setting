@@ -205,11 +205,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525681954985">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-        <mark key="^" line="47" column="18" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525682064793">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="44" column="41" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/templates/nginx.j2" timestamp="1525345030014">
         <mark key="[" line="38" column="35" />
@@ -305,11 +305,6 @@
         <mark key="." line="264" column="58" />
         <mark key="^" line="264" column="58" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/supervisord.conf" timestamp="1525345637374">
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="12" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/ldap.py" timestamp="1525240629172">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="4" column="0" />
@@ -355,7 +350,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525432169218">
+      <file name="/Dummy.txt" timestamp="1525681963815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -633,10 +628,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>fake_data</text>
