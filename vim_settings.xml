@@ -205,10 +205,10 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525682064793">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525682462709">
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="43" />
+        <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="41" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/nginx_conf/templates/nginx.j2" timestamp="1525345030014">
@@ -350,7 +350,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525682072747">
+      <file name="/Dummy.txt" timestamp="1525682114757">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -627,11 +627,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5wdXQgewogICAgZmlsZSB7CiAgICAgICAgdHlwZSA9PiAic2NfY21zX2FwaSIKICAgICAgICBwYXRoID0+IFsiL2RhdGEvbG9ncy9waHBzZXJ2aWNlX2xvZ3Mvc2NfY21zL2FwaS1sb2dzL2xvZy0qIl0KICAgICAgICBzdGFydF9wb3NpdGlvbiA9PiAiZW5kIgogICAgfQp9CmZpbHRlciB7CiAgICBpZiBbdHlwZV0gPT0gInNjX2Ntc19hcGkiIHsKICAgICAgICBncm9rIHsKICAgICAgICAgICAgbWF0Y2ggPT4gWyJtZXNzYWdlIiwgIiV7V09SRDp0bXBfZmlsZWR9IC0gJXtZRUFSOnllYXJ9LSV7TU9OVEhOVU06bW9udGh9LSV7TU9OVEhEQVk6ZGF5fSAle1RJTUU6dGltZX0iXQogICAgICAgIH0KICAgICAgICBpZiBbdG1wX2ZpbGVkXSAhPSAiUkVRVUVTVF9DT05URU5UIiBhbmQgW3RtcF9maWxlZF0gIT0gIlJFU1BPTlNFX0NPTlRFTlQiIHsKICAgICAgICAgICAgZHJvcCB7fQogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBhZGRfZmllbGQgPT4gewogICAgICAgICAgICAgICAgIm15dGltZSIgPT4gIiV7eWVhcn0tJXttb250aH0tJXtkYXl9ICV7dGltZX0iCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVtb3ZlX2ZpZWxkID0+IFsidG1wX2ZpbGVkIl0KICAgICAgICB9CiAgICAgICAgZGF0ZSB7CiAgICAgICAgICAgIG1hdGNoID0+IFsibXl0aW1lIiwgInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIl0KICAgICAgICAgICAgdGFyZ2V0ID0+ICJAdGltZXN0YW1wIgogICAgICAgIH0KICAgICAgICBtdXRhdGUgewogICAgICAgICAgICBnc3ViID0+IFsibWVzc2FnZSIsICIuKiAtLT4gIiwgIiJdCiAgICAgICAgfQogICAgICAgIGpzb24gewogICAgICAgICAgICBzb3VyY2UgPT4gIm1lc3NhZ2UiCiAgICAgICAgfQogICAgICAgIG11dGF0ZSB7CiAgICAgICAgICAgIHJlbW92ZV9maWVsZCA9PiBbIltkYXRhXVtzdGFyXSIgLCJ5ZWFyIiwgIm1vbnRoIiwgImRheSIsICJtZXNzYWdlIl0KICAgICAgICB9CiAgICB9CiAgICBtdXRhdGUgewogICAgICAgIHVwZGF0ZSA9PiB7CiAgICAgICAgICAgICJob3N0IiA9PiAie3sgYW5zaWJsZV9kZWZhdWx0X2lwdjQuYWRkcmVzcyB9fSIKICAgICAgICB9CiAgICB9Cn0Kb3V0cHV0IHsKICAgIGlmIFt0eXBlXSA9PSAic2NfY21zX2FwaSIgewogICAgICAgIGthZmthIHsKICAgICAgICAgICAgYm9vdHN0cmFwX3NlcnZlcnMgPT4gIjE3Mi4yMS4xNi4zMzo5MDkyLDE3Mi4yMS4xNi4zMzo5MDkzLDE3Mi4yMS4xNi4zMzo5MDk0IgogICAgICAgICAgICBjbGllbnRfaWQgPT4gInNjX2Ntc19hcGkiCiAgICAgICAgICAgIHRvcGljX2lkID0+ICJzY19jbXNfYXBpIgogICAgICAgICAgICBjb2RlYyA9PiAianNvbiIKICAgICAgICB9CiAgICB9Cgp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fake_data</text>
