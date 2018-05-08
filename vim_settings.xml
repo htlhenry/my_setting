@@ -505,10 +505,10 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525689694575">
+      <file name="/Dummy.txt" timestamp="1525694953181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="34" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" timestamp="1525687017804">
         <mark key="'" line="19" column="29" />
@@ -702,11 +702,11 @@
       <jump line="55" column="1" filename="$USER_HOME$/devops/jenkins/roles/falcon-agent/files/agent.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJkZWJ1ZyI6IGZhbHNlLAogICJob3N0bmFtZSI6ICIiLAogICJpcCI6ICIiLAogICJwbHVnaW4iOiB7CiAgICAiZW5hYmxlZCI6IGZhbHNlLAogICAgImRpciI6ICIuL3BsdWdpbiIsCiAgICAiZ2l0IjogImh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuLWZhbGNvbi9wbHVnaW4uZ2l0IiwKICAgICJsb2dzIjogIi4vbG9ncyIKICB9LAogICJoZWFydGJlYXQiOiB7CiAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAiYWRkciI6ICJmYWxjb24taGJzLnNtYXJ0Y2luZW1hLmNvbS5jbjo2MDMwIiwKICAgICJpbnRlcnZhbCI6IDYwLAogICAgInRpbWVvdXQiOiAxMDAwCiAgfSwKICAidHJhbnNmZXIiOiB7CiAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAiYWRkcnMiOiBbCiAgICAgICJmYWxjb24tdHJhbnNmZXIuc21hcnRjaW5lbWEuY29tLmNuOjg0MzMiCiAgICBdLAogICAgImludGVydmFsIjogNjAsCiAgICAidGltZW91dCI6IDEwMDAKICB9LAogICJodHRwIjogewogICAgImVuYWJsZWQiOiB0cnVlLAogICAgImxpc3RlbiI6ICIxMjcuMC4wLjE6MTk4OCIsCiAgICAiYmFja2Rvb3IiOiBmYWxzZQogIH0sCiAgImNvbGxlY3RvciI6IHsKICAgICJpZmFjZVByZWZpeCI6IFsKICAgICAgImV0aCIsCiAgICAgICJlbSIKICAgIF0sCiAgICAibW91bnRQb2ludCI6IFtdCiAgfSwKICAiZGVmYXVsdF90YWdzIjogewogIH0sCiAgImlnbm9yZSI6IHsKICAgICJjcHUuYnVzeSI6IGZhbHNlLAogICAgImRmLmJ5dGVzLmZyZWUiOiBmYWxzZSwKICAgICJkZi5ieXRlcy50b3RhbCI6IGZhbHNlLAogICAgImRmLmJ5dGVzLnVzZWQiOiBmYWxzZSwKICAgICJkZi5ieXRlcy51c2VkLnBlcmNlbnQiOiBmYWxzZSwKICAgICJkZi5pbm9kZXMudG90YWwiOiBmYWxzZSwKICAgICJkZi5pbm9kZXMuZnJlZSI6IGZhbHNlLAogICAgImRmLmlub2Rlcy51c2VkIjogZmFsc2UsCiAgICAiZGYuaW5vZGVzLnVzZWQucGVyY2VudCI6IGZhbHNlLAogICAgIm1lbS5tZW10b3RhbCI6IGZhbHNlLAogICAgIm1lbS5tZW11c2VkIjogZmFsc2UsCiAgICAibWVtLm1lbXVzZWQucGVyY2VudCI6IGZhbHNlLAogICAgIm1lbS5tZW1mcmVlIjogZmFsc2UsCiAgICAibWVtLnN3YXB0b3RhbCI6IGZhbHNlLAogICAgIm1lbS5zd2FwdXNlZCI6IGZhbHNlLAogICAgIm1lbS5zd2FwZnJlZSI6IGZhbHNlCiAgfQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>update falcon-agent http liste</text>
       </register>
       <register name="-" type="4">
-        <text>add rabbitmq monito</text>
+        <text>update falcon-agent http liste</text>
       </register>
       <register name="/" type="4">
         <text>fake_data</text>
