@@ -511,7 +511,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525694953181">
+      <file name="/Dummy.txt" timestamp="1525837390372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -708,11 +708,11 @@
       <jump line="55" column="1" filename="$USER_HOME$/devops/jenkins/roles/falcon-agent/files/agent.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBkZWJ1Z19sb2coImdycF9ub2RlIHRleHQgPT4ge30sIGdycCA9PiB7fSIuZm9ybWF0KGdycF9ub2RlWyJ0ZXh0Il0sIGdycCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>add falcon_agent plugin enabl</text>
       </register>
       <register name="-" type="4">
-        <text>update falcon-agent http liste</text>
+        <text>add falcon_agent plugin enabl</text>
       </register>
       <register name="/" type="4">
         <text>fake_data</text>
