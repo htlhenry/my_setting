@@ -251,11 +251,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_js" timestamp="1525937637405">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="3" column="5" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/ldapm_js" timestamp="1525941679829">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1525430844643">
         <mark key="[" line="8" column="5" />
@@ -471,11 +471,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525937919577">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="10" column="3" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525941793446">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
         <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525683301621">
         <mark key="[" line="44" column="43" />
@@ -616,7 +616,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525940599558">
+      <file name="/Dummy.txt" timestamp="1525941762846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -821,10 +821,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add git commit and jenkins build_ur</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>add git commit and jenkins build_ur</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
@@ -833,31 +833,31 @@
         <text encoding="base64">REVQTE9ZX0NPTkZJRyA9ICIucGx1c19kZXBsb3kueW1sIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRiLnNlc3Npb24uYWRkKGhpc3RvcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRiLnNlc3Npb24uYWRkKGhpc3RvcnkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHJldHJ5CmRlZiBnZXRfcmVsZWFzZV9pdGVtX2J5X2lkKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QHJldHJ5CmRlZiBnZXRfcmVsZWFzZV9pdGVtX2J5X2lkKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwogICAgICAgIHNlbGYuc3luY19leGNsdWRlID0gZ2V0YXR0cihzZWxmLmNvbmZpZywgIlNZTkNfRVhDTFVERSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZyA9IGNvbmZpZwogICAgICAgIHNlbGYuc3luY19leGNsdWRlID0gZ2V0YXR0cihzZWxmLmNvbmZpZywgIlNZTkNfRVhDTFVERSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQobmV3X2hvc3QpCiAgICAgICAgICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCiAgICAgICAgICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
