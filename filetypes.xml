@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.gradle;.hg;.idea;.myeclipse;.mymetadata;.project;.settings;.sonar;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="goods_frontend" type="PLAIN_TEXT" />
+      <mapping pattern="ldapm_js" type="PLAIN_TEXT" />
       <mapping pattern="media_api" type="PLAIN_TEXT" />
       <mapping pattern="falcon-dashboard" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
