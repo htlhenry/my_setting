@@ -154,11 +154,11 @@
         <mark key="." line="40" column="16" />
         <mark key="^" line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/templates/.plus_deploy.yml" timestamp="1525933999279">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="40" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/templates/.plus_deploy.yml" timestamp="1525935418184">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/mq.yml" timestamp="1525687323825">
         <mark key="[" line="6" column="11" />
@@ -458,7 +458,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525934599034">
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525935428841">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
@@ -816,11 +816,11 @@
       <jump line="12" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiLS1leGNsdWRlPS5wbHVzX2RlcGxveS55bWwiCg==</text>
+      <register name="&quot;" type="4">
+        <text>commit_msg</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>commit_msg</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
