@@ -154,11 +154,11 @@
         <mark key="." line="40" column="16" />
         <mark key="^" line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/templates/.plus_deploy.yml" timestamp="1525927484462">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/templates/.plus_deploy.yml" timestamp="1525933999279">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/mq.yml" timestamp="1525687323825">
         <mark key="[" line="6" column="11" />
@@ -457,6 +457,12 @@
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/plus.yml" timestamp="1525934599034">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1525683301621">
         <mark key="[" line="44" column="43" />
@@ -810,8 +816,8 @@
       <jump line="12" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAiLS1leGNsdWRlPS5wbHVzX2RlcGxveS55bWwiCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -820,7 +826,7 @@
         <text>Local</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlbGVhc2VfcHJlX2RpciA9IFBhdGgoY29uZmlnWydSRUxFQVNFX1BSRV9ESVInXSkgLyByZWxlYXNlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgLSAiLS1leGNsdWRlPS5wbHVzX2RlcGxveS55bWwiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
