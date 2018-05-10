@@ -127,12 +127,12 @@
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1525853873693">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1525948776670">
         <mark key="'" line="32" column="18" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="87" column="19" />
+        <mark key="^" line="87" column="19" />
+        <mark key="." line="87" column="19" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/kdm_api.conf" timestamp="1525424044298">
         <mark key="'" line="51" column="1" />
@@ -153,8 +153,8 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525860488165">
-        <mark key="'" line="34" column="7" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1525947937271">
+        <mark key="'" line="128" column="15" />
         <mark key="[" line="28" column="28" />
         <mark key="]" line="40" column="16" />
         <mark key="." line="40" column="16" />
@@ -191,9 +191,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/release/pre/yt_ticket/.plus_git_version" timestamp="1525924640683">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" timestamp="1525920619624">
         <mark key="[" line="77" column="30" />
@@ -738,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="1" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/order_api.conf" />
       <jump line="31" column="4" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/pay_api.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/pay_api.conf" />
       <jump line="38" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/scmedi.conf" />
@@ -838,13 +834,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="375" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="12" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
+      <jump line="128" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBsaXN0ZW5lcgo=</text>
+      <register name="&quot;" type="4">
+        <text>tree</text>
       </register>
       <register name="-" type="4">
-        <text>add mkdir before deploy cod</text>
+        <text>tree</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
