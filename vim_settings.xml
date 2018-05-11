@@ -102,6 +102,12 @@
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1526010427649">
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="44" />
+        <mark key="." line="168" column="44" />
+        <mark key="^" line="168" column="44" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526009995987">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="114" column="39" />
@@ -654,11 +660,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSByZXF1ZXN0LmFyZ3MuZ2V0KCd0YWcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>resourseid</text>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>resourseid</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
