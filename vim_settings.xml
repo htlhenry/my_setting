@@ -38,6 +38,7 @@
         <mark key="^" line="50" column="40" />
         <mark key="." line="50" column="40" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/env/lib/python3.6/site-packages/tencentcloud/common/http/request.py" timestamp="1526293498244" />
       <file name="$USER_HOME$/devops/jenkins/roles/jmxmon/tasks/main.yml" timestamp="1525683977537">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="30" />
@@ -112,6 +113,12 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/tencentcloud/common/http/request.py" timestamp="1526294001366">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/__init__.py" timestamp="1525251488846">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="51" />
@@ -137,19 +144,19 @@
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1526284757577">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1526285678775">
         <mark key="'" line="55" column="19" />
         <mark key="[" line="171" column="58" />
         <mark key="]" line="171" column="62" />
         <mark key="^" line="171" column="62" />
         <mark key="." line="171" column="62" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526284773309">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526292832769">
         <mark key="'" line="13" column="29" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="151" column="40" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="139" column="40" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/kdm_api.conf" timestamp="1525424044298">
         <mark key="'" line="51" column="1" />
@@ -705,11 +712,11 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/requirements.txt" timestamp="1525415363300">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/requirements.txt" timestamp="1526293912403">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/media_api" timestamp="1525430804350">
         <mark key="[" line="8" column="5" />
@@ -853,11 +860,11 @@
       <jump line="22" column="40" filename="$USER_HOME$/devops/jenkins/hosts/ticket/yt_delay" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBAYXBpLnJvdXRlcignJykK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>update customer release_nam</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
@@ -866,28 +873,28 @@
         <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9InRpY2tldC10aWNrZXQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBAYXBpLnJvdXRlcignJykK</text>
+        <text encoding="base64">dGVuY2VudGNsb3VkLXNkay1weXRob249PTMuMC4zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvZAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGpzb25fZGF0YSA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgICAgICMgaWYgbm90IGpzb25fZGF0YToKICAgICAgICAjICAgICByYWlzZSBJbnZhbGlkVXNhZ2UKICAgICAgICAjIG5hbWUgPSBqc29uX2RhdGEuZ2V0KCduYW1lJykKICAgICAgICAjIHBhcmVudF9pZCA9IGpzb25fZGF0YS5nZXQoJ3BhcmVudF9pZCcpCiAgICAgICAgIyBpZiBub3QgbmFtZToKICAgICAgICAjICAgICByYWlzZSBJbnZhbGlkVXNhZ2UKICAgICAgICAjIHN1YyA9IGFkZF90cmVlX25vZGUobmFtZSwgcGFyZW50X2lkPXBhcmVudF9pZCkKICAgICAgICAjIGlmIHN1YzoKICAgICAgICAjICAgICByZXR1cm4ganNvbmlmeShjb2RlPTIwMDAsIG1zZz0iYWRkIHN1Y2Nlc3MiKQogICAgICAgICMgZWxzZToKICAgICAgICAjICAgICByZXR1cm4ganNvbmlmeShjb2RlPTUwMDAsIG1zZz0iYWRkIGZhaWxlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjQ0IGhvc3RuYW1lPSJiajMtZGV2LXRpY2tldC1kZWxheTEiCg==</text>
+        <text encoding="base64">IyBAYXBpLnJvdXRlcignJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W3Byb2RdCjE3Mi4yMS4wLjE0MyBob3N0bmFtZT0iYmozLXByb2QtdGlja2V0LWN1c3RvbWVyMSIKMTcyLjIxLjAuMTQ1IGhvc3RuYW1lPSJiajMtcHJvZC10aWNrZXQtY3VzdG9tZXIyIgo=</text>
+        <text encoding="base64">cHJvZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjQxCg==</text>
+        <text encoding="base64">MTcyLjIxLjE3LjQ0IGhvc3RuYW1lPSJiajMtZGV2LXRpY2tldC1kZWxheTEiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjExNwo=</text>
+        <text encoding="base64">W3Byb2RdCjE3Mi4yMS4wLjE0MyBob3N0bmFtZT0iYmozLXByb2QtdGlja2V0LWN1c3RvbWVyMSIKMTcyLjIxLjAuMTQ1IGhvc3RuYW1lPSJiajMtcHJvZC10aWNrZXQtY3VzdG9tZXIyIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTcyLjIxLjE3LjQxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnX2xvZygibm9kZXMiKQo=</text>
+        <text encoding="base64">MTcyLjIxLjE3LjExNwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
