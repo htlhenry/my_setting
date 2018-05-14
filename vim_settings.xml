@@ -649,7 +649,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526282033034">
+      <file name="/Dummy.txt" timestamp="1526283573918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -853,11 +853,11 @@
       <jump line="22" column="40" filename="$USER_HOME$/devops/jenkins/hosts/ticket/yt_delay" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvZAo=</text>
+      <register name="&quot;" type="4">
+        <text>update customer release_nam</text>
       </register>
       <register name="-" type="4">
-        <text>update yt_customer host</text>
+        <text>update customer release_nam</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
