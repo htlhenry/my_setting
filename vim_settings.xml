@@ -359,12 +359,12 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_customer" timestamp="1526281403416">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_customer" timestamp="1526282024247">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/__init__.py" timestamp="1526022169224">
         <mark key="'" line="13" column="29" />
@@ -662,7 +662,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526012340437">
+      <file name="/Dummy.txt" timestamp="1526281408812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -866,11 +866,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/devops/jenkins/hosts/ticket/yt_customer" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9InRpY2tldC10aWNrZXQiCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix &quot;}&quot; for template plus_deploy.ym</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>fix &quot;}&quot; for template plus_deploy.ym</text>
       </register>
       <register name="/" type="4">
         <text>Local</text>
