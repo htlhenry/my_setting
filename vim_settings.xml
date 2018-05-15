@@ -23,9 +23,6 @@
         <mark key="." line="376" column="21" />
         <mark key="^" line="376" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1526009213604">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/schome/scshare.smartcinema.com.cn.conf" timestamp="1524826342351">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="23" />
@@ -215,9 +212,6 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/release/pre/yt_ticket/.plus_git_version" timestamp="1525924640683">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" timestamp="1526371328276">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="72" column="0" />
@@ -353,11 +347,12 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1525430840231">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1526372239856">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1524993887023">
         <mark key="'" line="52" column="31" />
@@ -668,7 +663,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526364272485">
+      <file name="/Dummy.txt" timestamp="1526372224031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -770,7 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="465" column="18" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="158" column="40" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
       <jump line="466" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
@@ -870,10 +864,11 @@
       <jump line="153" column="14" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
       <jump line="28" column="4" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
       <jump line="193" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0YWcpOgogICAgICAgIHNlbGYudGFnID0gdGFnCiAgICAgICAgc2VsZi50YWdfZGljdCA9IHVybGxpYi5wYXJzZS5wYXJzZV9xcyh0YWcpCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
@@ -885,31 +880,31 @@
         <text encoding="base64">ZGVmIGdldF9yZWxfdHJlZV9ob3N0KHRhZyk6CiAgICBuX2lkID0gZ2V0X2Vudl9uX2lkKHRhZykKICAgIHJldHVybiBIb3N0VHJlZVF1ZXJ5LmdldF90cmVlX2hvc3Qobl9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0YWcpOgogICAgICAgIHNlbGYudGFnID0gdGFnCiAgICAgICAgc2VsZi50YWdfZGljdCA9IHVybGxpYi5wYXJzZS5wYXJzZV9xcyh0YWcpCiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB0YWcpOgogICAgICAgIHNlbGYudGFnID0gdGFnCiAgICAgICAgc2VsZi50YWdfZGljdCA9IHVybGxpYi5wYXJzZS5wYXJzZV9xcyh0YWcpCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZV9wYXJlbnRfaWQoc2VsZik6CiAgICAgICAgVHJlZU5vZGVRdWVyeS5nZXRfbm9kZV9wYXJlbnQobm9kZV9pZD0pCiAgICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNfdGltZSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Rfb2JqID0gSG9zdC5xdWVyeS5maWx0ZXJfYnkoaW5zdGFuY2VfaWQ9aG9zdFsnaW5zdGFuY2VfaWQnXSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBwYXJzZV9wYXJlbnRfaWQoc2VsZik6CiAgICAgICAgVHJlZU5vZGVRdWVyeS5nZXRfbm9kZV9wYXJlbnQobm9kZV9pZD0pCiAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImNfdGltZSIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Rfb2JqID0gSG9zdC5xdWVyeS5maWx0ZXJfYnkoaW5zdGFuY2VfaWQ9aG9zdFsnaW5zdGFuY2VfaWQnXSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldF9yZWxfdHJlZV9ob3N0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0ZXAvb2Zmc2V0L2c=</text>
