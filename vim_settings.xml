@@ -23,6 +23,9 @@
         <mark key="." line="376" column="21" />
         <mark key="^" line="376" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1526555922150">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/schome/scshare.smartcinema.com.cn.conf" timestamp="1524826342351">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="23" />
@@ -134,11 +137,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/__init__.py" timestamp="1526468147303">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/__init__.py" timestamp="1526556226429">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/goods_api.conf" timestamp="1525423740662">
         <mark key="[" line="0" column="0" />
@@ -217,6 +220,13 @@
         <mark key="]" line="397" column="50" />
         <mark key="." line="397" column="50" />
         <mark key="^" line="193" column="25" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1526556328840">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/kafa_2_es" timestamp="1524988677791">
         <mark key="[" line="1" column="12" />
@@ -691,7 +701,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526544515738">
+      <file name="/Dummy.txt" timestamp="1526556232227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -783,6 +793,12 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="55" column="26" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526555952282">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1525430776242">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="9" column="2" />
@@ -798,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="56" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="311" column="14" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="26" column="30" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/qcloud.py" />
       <jump line="84" column="25" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
@@ -898,13 +913,14 @@
       <jump line="27" column="28" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/ticket_customer.conf" />
       <jump line="21" column="18" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
       <jump line="262" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/logstash_kafka_to_es.conf" />
+      <jump line="94" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add commen</text>
+        <text>add hostnam</text>
       </register>
       <register name="-" type="4">
-        <text>add commen</text>
+        <text>add hostnam</text>
       </register>
       <register name="/" type="4">
         <text>step</text>
