@@ -89,6 +89,9 @@
         <mark key="^" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1526631828885">
+        <mark key="'" line="32" column="34" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/env/lib/python3.6/site-packages/ansible/plugins/inventory/__init__.py" timestamp="1526623410063" />
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1526542743664">
         <mark key="[" line="24" column="0" />
@@ -163,19 +166,19 @@
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" timestamp="1526631247213">
-        <mark key="'" line="19" column="55" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" timestamp="1526631981066">
+        <mark key="'" line="20" column="55" />
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="86" />
+        <mark key="." line="20" column="86" />
+        <mark key="^" line="20" column="86" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1526630956598">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="478" column="0" />
-        <mark key="." line="478" column="0" />
-        <mark key="^" line="477" column="24" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1526631994243">
+        <mark key="'" line="477" column="8" />
+        <mark key="[" line="476" column="63" />
+        <mark key="]" line="476" column="63" />
+        <mark key="." line="476" column="63" />
+        <mark key="^" line="454" column="38" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -660,7 +663,7 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1526630714873">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1526631732058">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="58" column="36" />
         <mark key="]" line="62" column="44" />
@@ -732,7 +735,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526556232227">
+      <file name="/Dummy.txt" timestamp="1526631888267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -846,10 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" />
-      <jump line="123" column="8" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="448" column="12" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="421" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -946,63 +945,66 @@
       <jump line="57" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" />
       <jump line="4" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" />
       <jump line="19" column="55" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" />
+      <jump line="9" column="30" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="458" column="32" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="478" column="8" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuX2lkID0ganNvbl9kYXRhLmdldCgibl9pZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBgaWRgIGludCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop7kuLvplK4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuX2lkID0ganNvbl9kYXRhLmdldCgibl9pZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBob3N0bmFtZV9wbGF5Ym9vayA9IGhvc3RuYW1lX3BsYXlib29rWyJob3N0bmFtZV9wbGF5Ym9vayJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+        <text encoding="base64">ICAgICAgICBuX2lkID0ganNvbl9kYXRhLmdldCgibl9pZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImhvc3RuYW1lLnltbCBvdXRwdXQ9Pnt9Ii5mb3JtYXQob3V0cHV0KSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhWyJhbGwiXVsiaG9zdHMiXQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImhvc3RuYW1lLnltbCBvdXRwdXQ9Pnt9Ii5mb3JtYXQob3V0cHV0KSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhWyJhbGwiXVsiaG9zdHMiXQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0ZXAvb2Zmc2V0L2c=</text>
+        <text encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</text>
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
-      <last-replace>offset</last-replace>
-      <last-substitute>step</last-substitute>
+      <last-pattern>config</last-pattern>
+      <last-replace>hostname_playbook</last-replace>
+      <last-substitute>config</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfXD4=</entry>
         <entry>input</entry>
         <entry encoding="base64">XDxldmVyeV9zY29yZVw+</entry>
         <entry>\{\%</entry>
@@ -1022,9 +1024,9 @@
         <entry>fake_data</entry>
         <entry>Local</entry>
         <entry>step</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">PDw=</entry>
         <entry encoding="base64">PA==</entry>
         <entry>q!</entry>
         <entry>48</entry>
@@ -1044,6 +1046,7 @@
         <entry encoding="base64">JzwsJz5zL2Zha2VfZGF0YS9kYXRhL2c=</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZXAvb2Zmc2V0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
