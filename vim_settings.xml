@@ -838,12 +838,11 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="55" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526876120935">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="72" column="16" />
-        <mark key="]" line="74" column="29" />
-        <mark key="." line="74" column="29" />
-        <mark key="^" line="74" column="29" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526876777610">
+        <mark key="'" line="11" column="27" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1525430776242">
         <mark key="[" line="8" column="5" />
@@ -860,8 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
       <jump line="70" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="138" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="164" column="31" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
@@ -960,10 +957,12 @@
       <jump line="10" column="36" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="357" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="35" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
+      <jump line="79" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
+      <jump line="11" column="27" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiAK</text>
+        <text encoding="base64">ICAgIHRhZyA9IHJlcXVlc3QuYXJncy5nZXQoInRhZyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -975,31 +974,31 @@
         <text encoding="base64">ICBgaWRgIGludCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop7kuLvplK4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiAK</text>
+        <text encoding="base64">ICAgIHRhZyA9IHJlcXVlc3QuYXJncy5nZXQoInRhZyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgbm9kZV9pZCBvciBub3QgcGVybToKICAgICAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
+        <text encoding="base64">ICAgIGluZm9fbG9nKCJxdWVyeSAiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBAcGFyYW1zX2NoZWNrKFsibm9kZV9pZCJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgbm9kZV9pZCBvciBub3QgcGVybToKICAgICAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRhZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBAcGFyYW1zX2NoZWNrKFsibm9kZV9pZCJdKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</text>
