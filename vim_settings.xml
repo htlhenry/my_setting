@@ -838,12 +838,12 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="55" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526646900898">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526870886817">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="55" column="12" />
-        <mark key="." line="55" column="12" />
-        <mark key="^" line="55" column="12" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1525430776242">
         <mark key="[" line="8" column="5" />
@@ -962,11 +962,11 @@
       <jump line="10" column="36" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>perm</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>perm</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
