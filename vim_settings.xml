@@ -359,11 +359,12 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/hostname/tasks/main.yml" timestamp="1526632959744">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/hostname/tasks/main.yml" timestamp="1527078164569">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_home" timestamp="1525430844643">
         <mark key="[" line="8" column="5" />
@@ -791,7 +792,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527068344876">
+      <file name="/Dummy.txt" timestamp="1527071604630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -905,7 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="51" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="53" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="101" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
       <jump line="289" column="16" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
@@ -1005,13 +1005,14 @@
       <jump line="10" column="36" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
       <jump line="78" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
       <jump line="77" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
+      <jump line="16" column="18" filename="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/hostname/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>node_creator</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -1023,28 +1024,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBob3N0czogInt7IGVudiB9fSIKCiAgdGFza3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG5vZGVfY3JlYXRvcihuYW1lLCBwYXJlbnRfaWQpOgogICAgIiIiCiAgICAgICAg5Yib5bu66IqC54K5CiAgICA6cGFyYW0gbmFtZToKICAgIDpwYXJhbSBwYXJlbnRfaWQ6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICByZXR1cm4gY3JlYXRlX3RyZWVfbm9kZShuYW1lLCBwYXJlbnRfaWQ9cGFyZW50X2lkKQo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzdWM6CiAgICAgICAgcmV0dXJuIEZhbHNlLCBtcwogICAgZWxzZToKICAgICAgICByZXR1cm4gc3VjLCBOb25lCg==</text>
+        <text encoding="base64">LSBuYW1lOiBob3N0bmFtZQogIHNoZWxsOiBob3N0bmFtZQogIGRlbGVnYXRlX3RvOiBsb2NhbGhvc3QKICByZWdpc3Rlcjogc3Rkb3V0CgotIG5hbWU6IGRlYnVnCiAgZGVidWc6CiAgICB2YXI6IHN0ZG91dC5zdGRvdXRfbGluZXMKCi0gbmFtZTogZWNobyB2YXJzCiAgZGVidWc6CiAgICB2YXI6IHRhZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImNyZWF0ZSB0cmVlIG5vZGUgZXJyb3I9Pnt9Ii5mb3JtYXQoZS5hcmdzWzBdKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBgdWlkYCB2YXJjaGFyKDMyKSBOT1QgTlVMTCBDT01NRU5UICfnlKjmiLdpZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBpZHhfdWlkYCAoYHVpZGApLAo=</text>
+        <text encoding="base64">ZGVmIG5vZGVfY3JlYXRvcihuYW1lLCBwYXJlbnRfaWQpOgogICAgIiIiCiAgICAgICAg5Yib5bu66IqC54K5CiAgICA6cGFyYW0gbmFtZToKICAgIDpwYXJhbSBwYXJlbnRfaWQ6CiAgICA6cmV0dXJuOgogICAgIiIiCiAgICByZXR1cm4gY3JlYXRlX3RyZWVfbm9kZShuYW1lLCBwYXJlbnRfaWQ9cGFyZW50X2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBuYW1lOgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBzdWM6CiAgICAgICAgcmV0dXJuIEZhbHNlLCBtcwogICAgZWxzZToKICAgICAgICByZXR1cm4gc3VjLCBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImNyZWF0ZSB0cmVlIG5vZGUgZXJyb3I9Pnt9Ii5mb3JtYXQoZS5hcmdzWzBdKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</text>
