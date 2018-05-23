@@ -592,12 +592,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527063627915">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527065621259">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="32" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="77" />
+        <mark key="^" line="16" column="77" />
+        <mark key="." line="16" column="77" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1525342141401">
         <mark key="[" line="10" column="0" />
@@ -779,11 +779,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527064659389">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1527064882421" />
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" timestamp="1525687017804">
         <mark key="'" line="19" column="29" />
         <mark key="[" line="47" column="21" />
@@ -995,11 +991,11 @@
       <jump line="71" column="8" filename="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGlwX2luc3RhbGw9InRydWUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>fix logstash  pre task</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
