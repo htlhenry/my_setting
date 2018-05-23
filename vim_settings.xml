@@ -599,12 +599,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527065621259">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="77" />
-        <mark key="^" line="16" column="77" />
-        <mark key="." line="16" column="77" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527078217406">
+        <mark key="'" line="42" column="32" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1525342141401">
         <mark key="[" line="10" column="0" />
@@ -792,7 +792,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527071604630">
+      <file name="/Dummy.txt" timestamp="1527078169759">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -906,7 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="101" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" />
       <jump line="289" column="16" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="266" column="24" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
@@ -1006,13 +1005,14 @@
       <jump line="78" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
       <jump line="77" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
       <jump line="16" column="18" filename="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/hostname/tasks/main.yml" />
+      <jump line="42" column="32" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fix 重复创建节点判断，返回友好提示信</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>fix 重复创建节点判断，返回友好提示信</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
