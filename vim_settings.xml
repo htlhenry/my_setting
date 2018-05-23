@@ -180,11 +180,11 @@
         <mark key="." line="56" column="56" />
         <mark key="^" line="56" column="56" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1527062578088">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1527068330910">
         <mark key="'" line="22" column="31" />
-        <mark key="[" line="540" column="31" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+        <mark key="[" line="543" column="84" />
+        <mark key="]" line="543" column="84" />
+        <mark key="." line="543" column="84" />
         <mark key="^" line="583" column="45" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
@@ -780,7 +780,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527067086929">
+      <file name="/Dummy.txt" timestamp="1527068336339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -990,11 +990,11 @@
       <jump line="78" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBuYW1lOgo=</text>
+      <register name="&quot;" type="4">
+        <text>add redis==2.10.6 to requirements</text>
       </register>
       <register name="-" type="4">
-        <text>update PyYAML versio</text>
+        <text>add redis==2.10.6 to requirements</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
