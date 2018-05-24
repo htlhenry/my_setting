@@ -117,6 +117,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/hostname/tasks/main.yml" timestamp="1527157984418">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cvm.py" timestamp="1525262205750">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="10" />
@@ -713,12 +719,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527063465399">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527157895125">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="42" />
+        <mark key="." line="60" column="42" />
+        <mark key="^" line="60" column="42" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1526903429585">
         <mark key="'" line="179" column="0" />
@@ -811,6 +817,12 @@
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
         <mark key="^" line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/user_login/tasks/main.yml" timestamp="1527158072204">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
         <mark key="[" line="15" column="33" />
@@ -1010,10 +1022,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>增加服务器登录用户权限GET接</text>
+        <text>delete_to</text>
       </register>
       <register name="-" type="4">
-        <text>增加服务器登录用户权限GET接</text>
+        <text>delete_to</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
