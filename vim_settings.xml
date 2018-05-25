@@ -474,8 +474,8 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/restart.sh" timestamp="1527240922699">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/restart.sh" timestamp="1527241006342">
+        <mark key="'" line="57" column="23" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="0" />
@@ -500,12 +500,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1527240783685">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1527241055804">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="4" column="12" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1526542322780">
         <mark key="'" line="85" column="0" />
@@ -866,7 +866,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527240143914">
+      <file name="/Dummy.txt" timestamp="1527240979688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -986,7 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="10" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="467" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="468" column="18" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="4" column="11" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
@@ -1086,6 +1085,7 @@
       <jump line="10" column="23" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
       <jump line="13" column="20" filename="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" />
       <jump line="80" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/restart.sh" />
+      <jump line="57" column="23" filename="$USER_HOME$/lingsi/code/python/qcloud_api/restart.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
