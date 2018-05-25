@@ -481,11 +481,11 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/prod_config.py" timestamp="1527242358764">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/prod_config.py" timestamp="1527242711935">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/proxy2" timestamp="1525837381337">
         <mark key="[" line="7" column="0" />
@@ -680,7 +680,7 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1527240527351">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1527242701027">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="18" column="23" />
@@ -866,7 +866,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527242099071">
+      <file name="/Dummy.txt" timestamp="1527242656028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1089,10 +1089,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add restart.s</text>
+        <text>qcloud_secure_key</text>
       </register>
       <register name="-" type="4">
-        <text>add restart.s</text>
+        <text>qcloud_secure_key</text>
       </register>
       <register name="/" type="4">
         <text>apptree_api</text>
