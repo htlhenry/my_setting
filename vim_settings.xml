@@ -73,7 +73,6 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/config.yml" timestamp="1527234831610" />
       <file name="$USER_HOME$/devops/jenkins/hosts/inventory.py" timestamp="1525167744104">
         <mark key="'" line="32" column="14" />
         <mark key="[" line="44" column="0" />
@@ -180,7 +179,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/python/jumpserver/apps/ops/ansible/runner.py" timestamp="1527229035419" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/__init__.py" timestamp="1527239255247">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="50" />
@@ -500,12 +498,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1527241055804">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1527244643919">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="14" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1526542322780">
         <mark key="'" line="85" column="0" />
@@ -594,7 +592,6 @@
         <mark key="^" line="4" column="46" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/python/coco/coco/app.py" timestamp="1527226641405" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" timestamp="1527134072221">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="60" column="36" />
@@ -866,7 +863,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527244060126">
+      <file name="/Dummy.txt" timestamp="1527244294789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1089,10 +1086,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix prod config bug</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>fix prod config bug</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>apptree_api</text>
