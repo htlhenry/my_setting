@@ -48,12 +48,6 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/useradd/tasks/main.yml" timestamp="1527044572624">
-        <mark key="'" line="23" column="18" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1527067250198">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="41" column="35" />
@@ -329,6 +323,7 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1527591148893" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_backend" timestamp="1525430830354">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="9" column="2" />
@@ -412,10 +407,10 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1526898820991">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1527591002352">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/jmxmon.yml" timestamp="1525684103270">
@@ -666,12 +661,6 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/urls.py" timestamp="1527236731087">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_app" timestamp="1525342141401">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="2" />
@@ -733,12 +722,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1526959464315">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" timestamp="1527591200006">
         <mark key="'" line="10" column="35" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="55" />
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="48" column="38" />
+        <mark key="." line="48" column="38" />
+        <mark key="^" line="48" column="38" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/supervisord.conf" timestamp="1527242351905">
         <mark key="[" line="50" column="63" />
@@ -838,10 +827,10 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1526959436861">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1527591117215">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="65" column="19" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="20" />
         <mark key="^" line="65" column="19" />
         <mark key="." line="65" column="19" />
       </file>
@@ -864,7 +853,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527589941951">
+      <file name="/Dummy.txt" timestamp="1527591084456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -962,12 +951,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="66" column="73" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1526989300522">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1525430776242">
         <mark key="[" line="8" column="5" />
@@ -1087,16 +1070,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>silent_enable</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>silent_enable</text>
       </register>
       <register name="/" type="4">
         <text>apptree_api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBET01BSU4KRE9NQUlOID0gJzEyNy4wLjAuMTo4MDAwJwo=</text>
+        <text encoding="base64">RU5BQkxFX1NJTEVOVCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBub3cgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgICAgIHN0YXJ0ID0gbm93IC0gZGF0ZXRpbWUudGltZWRlbHRhKDAsIGR1cmF0aW9uKQogICAgICAgIHN0YXJ0ID0gaW50KHN0YXJ0LnRpbWVzdGFtcCgpKQogICAgICAgIGVuZCA9IGludChub3cudGltZXN0YW1wKCkpCiAgICAgICAga3dhcmdzLnVwZGF0ZShzdGFydF90aW1lPXN0YXJ0KQogICAgICAgIGt3YXJncy51cGRhdGUoZW5kX3RpbWU9ZW5kKQo=</text>
