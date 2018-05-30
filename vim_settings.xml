@@ -784,12 +784,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527568715008">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="69" column="7" />
-        <mark key="^" line="69" column="7" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527677038720">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="71" column="57" />
+        <mark key="]" line="75" column="47" />
+        <mark key="." line="75" column="47" />
+        <mark key="^" line="75" column="47" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1526903429585">
         <mark key="'" line="179" column="0" />
@@ -864,7 +864,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527669422766">
+      <file name="/Dummy.txt" timestamp="1527671452850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -979,7 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/pre/ticket_ticket.conf" />
       <jump line="314" column="30" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="53" column="3" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
@@ -1079,13 +1078,14 @@
       <jump line="96" column="32" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
       <jump line="105" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="48" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlYnVnIGxvZyA9PiB7fSIuZm9ybWF0KGRhdGEpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>add flask type chec</text>
       </register>
       <register name="-" type="4">
-        <text>node_id</text>
+        <text>add flask type chec</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
