@@ -737,8 +737,8 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527763069379">
-        <mark key="'" line="21" column="9" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1527770146505">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="73" column="4" />
         <mark key="]" line="74" column="59" />
         <mark key="^" line="74" column="59" />
@@ -869,12 +869,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527763105641">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527770156026">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="74" column="29" />
-        <mark key="]" line="74" column="29" />
-        <mark key="." line="74" column="29" />
-        <mark key="^" line="75" column="36" />
+        <mark key="[" line="75" column="52" />
+        <mark key="]" line="75" column="62" />
+        <mark key="." line="75" column="62" />
+        <mark key="^" line="75" column="62" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1526903429585">
         <mark key="'" line="179" column="0" />
@@ -1106,7 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="9" column="73" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="46" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="179" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
@@ -1206,13 +1205,14 @@
       <jump line="71" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="72" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="21" column="9" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>127.0.0.1:</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>127.0.0.1:</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
