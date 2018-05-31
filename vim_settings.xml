@@ -120,7 +120,6 @@
         <mark key="^" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1527746186506" />
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1527234409860">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="59" />
@@ -297,6 +296,12 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/supervisord/supervisord.conf" timestamp="1527758145041">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/mq.yml" timestamp="1525687323825">
         <mark key="[" line="6" column="11" />
@@ -612,7 +617,6 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/supervisord.conf" timestamp="1527746037544" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1525430770987">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -959,7 +963,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527757896038">
+      <file name="/Dummy.txt" timestamp="1527757926154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1201,10 +1205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>add celery schedul</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>add celery schedul</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
