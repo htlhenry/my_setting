@@ -687,11 +687,11 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/celery_config.py" timestamp="1527750318775">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/celery_config.py" timestamp="1527755016222">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/README.md" timestamp="1527244052813">
         <mark key="[" line="2" column="10" />
@@ -979,17 +979,24 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/tasks.py" timestamp="1527752189491">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/tasks.py" timestamp="1527755095954">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/task_b.py" timestamp="1527754930156">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/manage.py" timestamp="1527241902453">
         <mark key="'" line="16" column="10" />
@@ -1086,7 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="10" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="417" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
       <jump line="156" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -1186,10 +1192,11 @@
       <jump line="384" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="380" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="271" column="16" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/celery_app/task_b.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicnVubmluZyBzeW5jX2NtZGIiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1201,31 +1208,31 @@
         <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly8xMjcuMC4wLjE6NjM3OSIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicnVubmluZyBzeW5jX2NtZGIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJIb3N0U2F2ZXIiCl0KCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQpmcm9tIGFwcC5hcGkudjEuY29udHJvbGxlciBpbXBvcnQgSG9zdFNhdmVyCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQpmcm9tIGFwcC5hcGkudjEuY29udHJvbGxlciBpbXBvcnQgSG9zdFNhdmVyCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGNlbGVyeV90YXNrX2FwcC50YXNrKCkKZGVmIHQoKToKICAgIHJldHVybiBUcnVlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">X19hbGxfXyA9IFsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJIb3N0U2F2ZXIiCl0KCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gbWFuYWdlIGltcG9ydCBhcHAgYXMgYXBwdHJlZV9hcGkKICAgIGZyb20gYXBwLmFwaS52MS5jb250cm9sbGVyIGltcG9ydCBIb3N0U2F2ZXIK</text>
+        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JfcC9wYXJhbXMvZw==</text>
