@@ -225,12 +225,12 @@
         <mark key="." line="41" column="40" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1527747218104">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="391" column="0" />
-        <mark key="]" line="391" column="0" />
-        <mark key="^" line="48" column="13" />
-        <mark key="." line="391" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1527751592944">
+        <mark key="'" line="267" column="16" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -979,7 +979,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/tasks.py" timestamp="1527749563901" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/tasks.py" timestamp="1527752189491">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/proxy2-resty/home.smartcinema.com.cn.conf" timestamp="1524826548947">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="14" column="3" />
@@ -1081,9 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" />
-      <jump line="44" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="2" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="10" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/helpers.py" />
       <jump line="417" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" />
@@ -1181,10 +1183,13 @@
       <jump line="12" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" />
       <jump line="5" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" />
       <jump line="18" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/celerybeat.conf" />
+      <jump line="384" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="380" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="271" column="16" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1196,31 +1201,31 @@
         <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly8xMjcuMC4wLjE6NjM3OSIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAudGFza3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIj09PT09PT09PT09IGluc3RhbmNlX3NldCA9PiB7fSIuZm9ybWF0KGluc3RhbmNlX3NldCkpCg==</text>
+        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB4Cg==</text>
+        <text encoding="base64">X19hbGxfXyA9IFsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoYXBwLnRhc2tzKQo=</text>
+        <text encoding="base64">ICAgICJIb3N0U2F2ZXIiCl0KCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CjsgIGNlbGVyeSB3b3JrZXIgc3VwZXJ2aXNvciBleGFtcGxlCjsgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoK</text>
+        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQpmcm9tIGFwcC5hcGkudjEuY29udHJvbGxlciBpbXBvcnQgSG9zdFNhdmVyCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBVbmNvbW1lbnQgdGhpcyBsaW5lIGZvciBjZWxlcnlkIGZvciBQeXRob24K</text>
+        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBhcHB0cmVlX2FwaQpmcm9tIGFwcC5hcGkudjEuY29udHJvbGxlciBpbXBvcnQgSG9zdFNhdmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IENlbGVyeQoKYXBwID0gQ2VsZXJ5KCkKCmFwcC5jb25maWdfZnJvbV9vYmplY3QoInRhc2tzLmNlbGVyeV9jb25maWciKQoKZnJvbSAudGFza3MgaW1wb3J0ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlYnVnIGxvZyA9PiB7fSIuZm9ybWF0KGRhdGEpKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gbWFuYWdlIGltcG9ydCBhcHAgYXMgYXBwdHJlZV9hcGkKICAgIGZyb20gYXBwLmFwaS52MS5jb250cm9sbGVyIGltcG9ydCBIb3N0U2F2ZXIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JfcC9wYXJhbXMvZw==</text>
