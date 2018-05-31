@@ -64,6 +64,12 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" timestamp="1527746194628">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" timestamp="1527067250198">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="41" column="35" />
@@ -109,6 +115,7 @@
         <mark key="^" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1527746186506" />
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1527234409860">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="59" />
@@ -529,6 +536,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/restart.sh" timestamp="1527746154297">
+        <mark key="'" line="77" column="33" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="33" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="33" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1526542322780">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="0" column="0" />
@@ -582,6 +596,7 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/supervisord.conf" timestamp="1527746037544" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1525430770987">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -602,7 +617,7 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/__init__.py" timestamp="1527742221335">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/__init__.py" timestamp="1527742271959">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
@@ -905,7 +920,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527671452850">
+      <file name="/Dummy.txt" timestamp="1527744853519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1025,8 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="36" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
-      <jump line="357" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="35" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="79" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="11" column="27" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
@@ -1125,13 +1138,15 @@
       <jump line="26" column="18" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" />
       <jump line="20" column="16" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" />
       <jump line="31" column="12" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/celeryd.conf" />
+      <jump line="6" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/restart.sh" />
+      <jump line="77" column="33" filename="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/restart.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CjsgIGNlbGVyeSB3b3JrZXIgc3VwZXJ2aXNvciBleGFtcGxlCjsgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
