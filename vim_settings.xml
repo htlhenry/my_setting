@@ -29,6 +29,9 @@
         <mark key="." line="376" column="21" />
         <mark key="^" line="376" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1527736288105">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/gitlab/nginx_conf/php_prod/schome/scshare.smartcinema.com.cn.conf" timestamp="1524826342351">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="23" />
@@ -218,6 +221,13 @@
         <mark key="]" line="51" column="1" />
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/celery_config.py" timestamp="1527737054875">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/__init__.py" timestamp="1525317255729">
         <mark key="[" line="25" column="34" />
@@ -672,11 +682,11 @@
         <mark key="." line="10" column="2" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1527242701027">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/dev_config.py" timestamp="1527736998700">
+        <mark key="[" line="42" column="54" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/base.py" timestamp="1525686818188">
         <mark key="[" line="137" column="15" />
@@ -784,9 +794,9 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527677038720">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1527736969284">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="71" column="57" />
+        <mark key="[" line="74" column="0" />
         <mark key="]" line="75" column="47" />
         <mark key="." line="75" column="47" />
         <mark key="^" line="75" column="47" />
@@ -863,6 +873,12 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/celery.py" timestamp="1527737107829">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1527671452850">
         <mark key="[" line="0" column="0" />
@@ -963,7 +979,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="66" column="73" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1527667230630" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/tasks.py" timestamp="1527736320257">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_frontend" timestamp="1525430776242">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="9" column="2" />
@@ -979,7 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="30" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="53" column="3" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
       <jump line="48" column="19" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" />
@@ -1079,10 +1099,11 @@
       <jump line="105" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="48" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/celery_config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add flask type chec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly8xMjcuMC4wLjE6NjM3OSIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkiCg==</text>
       </register>
       <register name="-" type="4">
         <text>add flask type chec</text>
@@ -1091,7 +1112,7 @@
         <text>r_p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5BQkxFX1NJTEVOVCA9IFRydWUK</text>
+        <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly8xMjcuMC4wLjE6NjM3OSIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRlYnVnIGxvZyA9PiB7fSIuZm9ybWF0KGRhdGEpKQo=</text>
