@@ -17,6 +17,7 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/dev/aggregator.json" timestamp="1527841939856" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/order_api" timestamp="1525430815856">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="29" column="28" />
@@ -93,6 +94,12 @@
         <mark key="]" line="18" column="30" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/config.yml" timestamp="1527841907451">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="19" column="22" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/inventory.py" timestamp="1525167744104">
         <mark key="'" line="32" column="14" />
@@ -511,6 +518,7 @@
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="53" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/dev/nodata.json" timestamp="1527842006072" />
       <file name="$USER_HOME$/devops/jenkins/roles/jmxmon/vars/main.yml" timestamp="1525683613125">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="54" />
@@ -760,7 +768,6 @@
         <mark key="^" line="137" column="29" />
         <mark key="." line="137" column="29" />
       </file>
-      <file name="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py" timestamp="1527833778394" />
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/requirements.txt" timestamp="1525319789381">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="19" />
@@ -964,7 +971,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527840706212">
+      <file name="/Dummy.txt" timestamp="1527842017869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1205,8 +1212,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix apptree_api requirments.tx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>fix apptree_api requirments.tx</text>
@@ -1215,34 +1222,34 @@
         <text>r_p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly8xMjcuMC4wLjE6NjM3OSIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkiCg==</text>
+        <text encoding="base64">LSBuYW1lOiB1cGRhdGUgZmFsY29uLXBsdXMgY29uZmlnCiAgY29weToKICAgIHNyYzogInt7IG1vZHVsZSB9fS5qc29uIgogICAgZGVzdDogInt7IGRlcGxveV9kaXIgfX0ve3sgbW9kdWxlIH19L2NvbmZpZy9jZmcuanNvbiIKICBub3RpZnk6CiAgICAtIHJlc3RhcnQtZmFsY29uCiAgd2hlbjogbW9kdWxlICE9ICJhbGwiIGFuZCBlbnYgPT0gInByb2QiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly86ZThzMyFERTczMiVkZkAxNzIuMjEuMTYuNTo2Mzc5Igo=</text>
+        <text encoding="base64">LSBuYW1lOiB1cGRhdGUgZmFsY29uLXBsdXMgY29uZmlnCiAgY29weToKICAgIHNyYzogInt7IG1vZHVsZSB9fS5qc29uIgogICAgZGVzdDogInt7IGRlcGxveV9kaXIgfX0ve3sgbW9kdWxlIH19L2NvbmZpZy9jZmcuanNvbiIKICBub3RpZnk6CiAgICAtIHJlc3RhcnQtZmFsY29uCiAgd2hlbjogbW9kdWxlICE9ICJhbGwiIGFuZCBlbnYgPT0gInByb2QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OyBlbmFibGUgYmVhdApmaWxlcz1jZWxlcnliZWF0LmNvbmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjZWxlcnlfYXBwLnRhc2tfYiIsCg==</text>
+        <text encoding="base64">Q0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly86ZThzMyFERTczMiVkZkAxNzIuMjEuMTYuNTo2Mzc5Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgicnVubmluZyBzeW5jX2NtZGIiKQo=</text>
+        <text encoding="base64">OyBlbmFibGUgYmVhdApmaWxlcz1jZWxlcnliZWF0LmNvbmYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjZWxlcnlfYXBwLnRhc2tfYiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgicnVubmluZyBzeW5jX2NtZGIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNlbGVyeV90YXNrX2FwcC50YXNrKCkKZGVmIHQoKToKICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoY2VsZXJ5X3Rhc2tfYXBwLnRhc2tzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
