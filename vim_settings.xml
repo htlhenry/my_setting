@@ -630,12 +630,12 @@
         <mark key="^" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1527849671970">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1528089845470">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="75" column="50" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="70" column="34" />
+        <mark key="^" line="70" column="34" />
+        <mark key="." line="70" column="34" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/files/api.json" timestamp="1527234409860">
         <mark key="[" line="26" column="20" />
@@ -756,12 +756,12 @@
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" timestamp="1528088751673">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" timestamp="1528090073774">
         <mark key="'" line="12" column="29" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="112" column="49" />
+        <mark key="[" line="124" column="70" />
+        <mark key="]" line="124" column="74" />
+        <mark key="." line="124" column="74" />
+        <mark key="^" line="124" column="74" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/supervisord/supervisord.conf" timestamp="1527759337855">
         <mark key="[" line="24" column="6" />
@@ -1118,7 +1118,7 @@
         <mark key="^" line="47" column="31" />
         <mark key="." line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/configs/dev_config.py" timestamp="1527845339593">
+      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/configs/dev_config.py" timestamp="1528089681522">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="12" column="56" />
         <mark key="]" line="12" column="58" />
@@ -1265,11 +1265,11 @@
       <jump line="12" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>current_user</text>
       </register>
       <register name="-" type="4">
-        <text>query_templates</text>
+        <text>current_user</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
