@@ -251,12 +251,12 @@
         <mark key="." line="41" column="40" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528186189254">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528188092958">
         <mark key="'" line="473" column="12" />
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-        <mark key="^" line="58" column="28" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="46" column="58" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -336,12 +336,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1528185074224">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1528188827614">
         <mark key="'" line="417" column="11" />
-        <mark key="[" line="65" column="4" />
-        <mark key="]" line="65" column="12" />
-        <mark key="^" line="65" column="12" />
-        <mark key="." line="65" column="12" />
+        <mark key="[" line="88" column="31" />
+        <mark key="]" line="90" column="25" />
+        <mark key="^" line="90" column="25" />
+        <mark key="." line="90" column="25" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_js" timestamp="1527848555454">
         <mark key="[" line="8" column="3" />
@@ -375,12 +375,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" timestamp="1528185748035">
-        <mark key="'" line="19" column="23" />
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-        <mark key="^" line="19" column="48" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" timestamp="1528188768090">
+        <mark key="'" line="21" column="23" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/tasks.py" timestamp="1527748152256">
         <mark key="[" line="14" column="15" />
@@ -394,12 +393,11 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" timestamp="1528184994735">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" timestamp="1528187943326">
         <mark key="'" line="71" column="8" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="90" column="54" />
+        <mark key="]" line="87" column="32" />
+        <mark key="." line="87" column="32" />
+        <mark key="^" line="87" column="32" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/bd/report" timestamp="1525920295199">
         <mark key="[" line="1" column="12" />
@@ -1013,7 +1011,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528182958899">
+      <file name="/Dummy.txt" timestamp="1528188864203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1262,10 +1260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>update falcon-api-de</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>update falcon-api-de</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
@@ -1274,31 +1272,31 @@
         <text encoding="base64">aW1wb3J0IHBhdGhsaWIKCkRFQlVHID0gVHJ1ZQoKUE9SVCA9IDkwMDAKCiMgU2VjdXJlIGtleQpTRUNSRVRfS0VZID0gJ0lGQjRORDZwcE9jUUoyNG9sS2VzN0xtR1ZoekpwTGlCNU8zRGxhcnRZcEFEM0xXM0dpJwpTRUNSRVRfSUQgPSAnTXd4b2xtSmRPUVRWSXlOZktoOE9zc0VCS1RPNWpkWmNqTVpCV0tWNHhJY0ZFRzNLUW0nCgojIFNRTEFsY2hlbXkKU1FMQUxDSEVNWV9UUkFDS19NT0RJRklDQVRJT05TID0gVHJ1ZQpTUUxBTENIRU1ZX0RBVEFCQVNFX1VSSSA9ICJteXNxbCtweW15c3FsOi8vcm9vdDphYmMxMjNAMTI3LjAuMC4xL2FwcHRyZWU/Y2hhcnNldD11dGY4IgpTUUxBTENIRU1ZX0NPTU1JVF9PTl9URUFSRE9XTiA9IFRydWUKU1FMQUxDSEVNWV9FQ0hPID0gVHJ1ZQoKCiMgcmVkaXMKUkVESVNfSE9TVCA9ICIxMjcuMC4wLjEiClJFRElTX1BPUlQgPSA2Mzc5ClJFRElTX1BBU1NXT1JEID0gJycKUkVESVNfUFJFRklYID0gImFwcF90cmVlOmFwaToiCgojIERPTUFJTgpET01BSU4gPSAnMTI3LjAuMC4xOjgwMDAnCgojIExEQVAKTERBUF9VUkwgPSAnbGRhcDovL3QtbGRhcHVzZXIuc21hcnRjaW5lbWEuY29tLmNuOjM4OScKTERBUF9BRE1JTiA9ICdjbj1hZG1pbixkYz1zbWFydGNpbmVtYSxkYz1jb20sZGM9Y24nCkxEQVBfQURNSU5fUEFTU1dPUkQgPSAnZW5XMEs1NTE2VGEnCkxEQVBfQkFTRV9ETiA9ICdkYz1zbWFydGNpbmVtYSxkYz1jb20sZGM9Y24nCkxEQVBfVVNFUl9ETiA9ICdjbj17fSxvdT3mioDmnK/pg6gsZGM9c21hcnRjaW5lbWEsZGM9Y29tLGRjPWNuJwoKIyBNYWlsCk1BSUxfU0VSVkVSID0gJ3NtdHAuZXhtYWlsLnFxLmNvbScKTUFJTF9QT1JUID0gNDY1Ck1BSUxfVVNFX1NTTCA9IFRydWUKTUFJTF9VU0VSTkFNRSA9ICdvcHNAc21hcnRjaW5lbWEuY29tLmNuJwpNQUlMX1BBU1NXT1JEID0gJ21zczhpUVpWWHl1eTVFeTknCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzQHNtYXJ0Y2luZW1hLmNvbS5jbicKTUFJTF9TVUZGSVggPSAnQHNtYXJ0Y2luZW1hLmNvbS5jbicKCiMgbG9nCkxPR19ESVIgPSAnbG9ncycKTE9HX0ZPUk1BVCA9ICclKGFzY3RpbWUpcyAtICUobGV2ZWxuYW1lKXMgLSBbJShmaWxlbmFtZSlzLWxpbmU6JShsaW5lbm8pZC1mdW5jOiUoZnVuY05hbWUpc10gLSBtc2c6JShtZXNzYWdlKXMnCgojIGRlZmF1bHQgZW52IGxpc3QKRU5WX0xJU1QgPSBbJ2RldicsICd0ZXN0MScsICdwcmUnLCAncHJvZCddCgojIHFjbG91ZCBjb25maWcKUkVHSU9OID0gWyJhcC1iZWlqaW5nIl0KUUNMT1VEX1NFQ1JFVF9JRCA9ICJBS0lER2pSeGI3MmREdGhFRFB2QUpJQXRoYW1JZG5MeDc3NzAiClFDTE9VRF9TRUNSRVRfS0VZID0gInJuY2diYlFLN3p6SVRUSEF3WTBtb3dWQzVwb2VMck5pIgoKIyBwbGF5Ym9vayBwYXRoCmJhc2VfZGlyID0gcGF0aGxpYi5QYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cl9wbGF5Ym9va19kaXIgPSBiYXNlX2RpciAvICdzY3JpcHRzJyAvICdkZXYnIC8gJ2Fuc2libGVfcGxheWJvb2snCl9ob3N0bmFtZSA9IF9wbGF5Ym9va19kaXIgLyAnaG9zdG5hbWUueW1sJwpfdXNlcl9sb2dpbiA9IF9wbGF5Ym9va19kaXIgLyAndXNlcl9sb2dpbi55bWwnCgpQTEFZQk9PSyA9IHsKICAgICJIT1NUTkFNRSI6IHN0cihfaG9zdG5hbWUuYWJzb2x1dGUoKSksCiAgICAiVVNFUl9MT0dJTiI6IHN0cihfdXNlcl9sb2dpbi5hYnNvbHV0ZSgpKQp9CgojIGZhbGNvbgpGQUxDT05fQVBJID0gImh0dHA6Ly9mYWxjb24tYXBpLnNtYXJ0Y2luZW1hLmNvbS5jbjo4MDgwIgpGQUxDT05fVE9LRU4gPSAiMWM4YWU2MzQ4MTkzYzczZWQwZTZlZjJhNDA1NmU0M2E0MzI5YjA4MyIKCiMgY2VsZXJ5CkNFTEVSWV9CUk9LRVJfVVJMID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkvMCIKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gInJlZGlzOi8vMTI3LjAuMC4xOjYzNzkvMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VjLCByZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICMgIyBUT0RPOiDkvb/nlKjmj4/ov7DnrKblh4/lsJHku6PnoIHph48KICAgICMgZGVmIGdldChzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgIyAgICAgcmV0dXJuIHJlcXVlc3RzLmdldCgqYXJncywgKiprd2FyZ3MsIGhlYWRlcnM9c2VsZi5oZWFkZXJzKQogICAgIwogICAgIyBkZWYgcG9zdChzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgIyAgICAgcmV0dXJuIHJlcXVlc3RzLnBvc3QoKmFyZ3MsICoqa3dhcmdzLCBoZWFkZXJzPXNlbGYuaGVhZGVycykKICAgICMKICAgICMgZGVmIHB1dChzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgIyAgICAgcmV0dXJuIHJlcXVlc3RzLnB1dCgqYXJncywgKiprd2FyZ3MsIGhlYWRlcnM9c2VsZi5oZWFkZXJzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZ2V0IGF0dHIgZnJvbSByZXF1ZXN0cyA9PiB7fSIuZm9ybWF0KGl0ZW0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdfZGljdCA9IHVybGxpYi5wYXJzZS5wYXJzZV9xcyh0YWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IOWQjOatpeWIm+W7umhvc3RHcm91cOWIsGZhbGNvbi1hcGkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibm9kZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3VjOgogICAgICAgICAgICByZXR1cm4gc3VjLCByZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRtcCA9IE5vbmUKICAgICAgICAjIG1heF9zdGVwID0gNQogICAgICAgICMgd2hpbGUgVHJ1ZToKICAgICAgICAjICAgICBpZiB0bXA6CiAgICAgICAgIyAgICAgICAgIGlmIHRtcC5wYXJlbnRfaWQgPT0gMDoKICAgICAgICAjICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIyAgICAgICAgIHRtcCA9IFRyZWVOb2RlLnF1ZXJ5LmZpbHRlcl9ieShub2RlX2lkPXRtcC5ub2RlX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc3VjOgogICAgICAgICAgICByZXR1cm4gc3VjLCByZXMKICAgICAgICBhdXRoX3JlcXVlc3RzID0gQXV0aFJlcXVlc3RzKCkKICAgICAgICBmYWxjb25fYXBpID0gInt9L2FwaS92MS9ob3N0Z3JvdXAiLmZvcm1hdChjb25maWdbIkZBTENPTl9BUEkiXSkKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAibmFtZSI6IHJlcywKICAgICAgICB9CiAgICAgICAgZmFsY29uX3JlcyA9IGF1dGhfcmVxdWVzdHMucG9zdChmYWxjb25fYXBpLCBqc29uPWRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBUcnVlLCBub2RlLnJlbmRlcl90YWcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QuaW5zZXJ0KDAsIG5vZGUpCg==</text>
+        <text encoding="base64">ICAgICMgZmluYWxseToKICAgICMgICAgIGRiLnNlc3Npb24uY2xvc2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZV9saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YWcgPSByZXMucmVuZGVyX3RhZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
