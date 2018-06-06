@@ -372,7 +372,7 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_api" timestamp="1527848512351">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_api" timestamp="1528272870511">
         <mark key="[" line="15" column="64" />
         <mark key="]" line="15" column="79" />
         <mark key="^" line="15" column="79" />
@@ -446,7 +446,7 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528272352044">
+      <file name="/Dummy.txt" timestamp="1528272801404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -644,12 +644,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528272490724">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="132" column="14" />
-        <mark key="]" line="132" column="13" />
-        <mark key="." line="132" column="13" />
-        <mark key="^" line="132" column="13" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528273123686">
+        <mark key="'" line="74" column="10" />
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/pre/ticket_ticket.conf" timestamp="1526634953901">
         <mark key="'" line="61" column="0" />
@@ -879,12 +879,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1527244643919">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1528272890518">
         <mark key="'" line="13" column="20" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/media_api.conf" timestamp="1526542322780">
         <mark key="'" line="85" column="0" />
@@ -1172,8 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="104" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" />
-      <jump line="288" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="293" column="35" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="295" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="483" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
@@ -1272,13 +1270,15 @@
       <jump line="1" column="2" filename="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" />
       <jump line="113" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
+      <jump line="74" column="10" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add qclou</text>
+        <text>add crontab for cdn pushe</text>
       </register>
       <register name="-" type="4">
-        <text>add qclou</text>
+        <text>add crontab for cdn pushe</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
