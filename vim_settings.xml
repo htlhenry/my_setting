@@ -446,7 +446,7 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528272329416">
+      <file name="/Dummy.txt" timestamp="1528272352044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -644,8 +644,8 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528272348327">
-        <mark key="'" line="50" column="17" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528272490724">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="132" column="14" />
         <mark key="]" line="132" column="13" />
         <mark key="." line="132" column="13" />
@@ -1172,8 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="10" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
-      <jump line="50" column="37" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" />
       <jump line="8" column="104" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" />
       <jump line="288" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="293" column="35" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
@@ -1272,13 +1270,15 @@
       <jump line="21" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" />
       <jump line="50" column="17" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="1" column="2" filename="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1cmxzCg==</text>
+      <register name="&quot;" type="4">
+        <text>add qclou</text>
       </register>
       <register name="-" type="4">
-        <text>update README.m</text>
+        <text>add qclou</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
