@@ -258,11 +258,11 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528432473216">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528432800773">
         <mark key="'" line="228" column="38" />
-        <mark key="[" line="108" column="41" />
-        <mark key="]" line="109" column="61" />
-        <mark key="." line="109" column="61" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
         <mark key="^" line="109" column="61" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
@@ -453,7 +453,7 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528431120622">
+      <file name="/Dummy.txt" timestamp="1528432478166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -672,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnX2xvZygic3J2X25vZGUgc29ydGVkID0+e30iLmZvcm1hdCh0bXApKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>add  监控配</text>
+        <text>fix create node update cache bu</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
@@ -684,31 +684,31 @@
         <text encoding="base64">aW1wb3J0IHBhdGhsaWIKaW1wb3J0IHN5cwoKYmFzZSA9IHBhdGhsaWIuUGF0aChfX2ZpbGVfXykuYWJzb2x1dGUoKS5wYXJlbnQucGFyZW50CnByaW50KGJhc2UpCnN5cy5wYXRoLmluc2VydCgwLCBzdHIoYmFzZSkpCnByaW50KHN5cy5wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnX2xvZygic3J2X25vZGUgc29ydGVkID0+e30iLmZvcm1hdCh0bXApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGVidWdfbG9nKCJkZWxldGUgY2FjaGUgcmVkaXNfa2V5PT57fSIuZm9ybWF0KHJlZGlzX2tleSkpCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnX2xvZygiZW52X2xpc3Q9Pnt9Ii5mb3JtYXQoZW52X2xpc3QpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YVsiY29kZSJdID09IDIwMDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnX2xvZygic3J2X25vZGUgPT4ge30iLmZvcm1hdChzcnZfbm9kZVsndGV4dCddKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyDlpoLmnpzmraTml7Zjb2Rl6L+U5ZueMjAwMO+8jOS7o+ihqHZpZXflh73mlbDmm7TmlrB0cmVl5oiQ5YqfCg==</text>
+        <text encoding="base64">ICAgICAgICBcXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZHMocmV0LmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGVidWdfbG9nKCJkZWxldGUgY2FjaGUgcmVkaXNfa2V5PT57fSIuZm9ybWF0KHJlZGlzX2tleSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkZWJ1Z19sb2coInVwZGF0ZSBjYWNoZSByZXQgPT4ge30iLmZvcm1hdChyZXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YVsiY29kZSJdID09IDIwMDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWxlYXNlX2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyDlpoLmnpzmraTml7Zjb2Rl6L+U5ZueMjAwMO+8jOS7o+ihqHZpZXflh73mlbDmm7TmlrB0cmVl5oiQ5YqfCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gVXNlci5xdWVyeS5maWx0ZXJfYnkobmFtZT11c2VybmFtZSkuZmlyc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGpzb24ubG9hZHMocmV0LmRhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgidXNlciA9PiB7fSIuZm9ybWF0KHVzZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkZWJ1Z19sb2coInVwZGF0ZSBjYWNoZSByZXQgPT4ge30iLmZvcm1hdChyZXQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
