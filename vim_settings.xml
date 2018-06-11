@@ -129,12 +129,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" timestamp="1528686170270">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" timestamp="1528687775229">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="35" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1528445548509">
         <mark key="'" line="64" column="0" />
@@ -459,7 +459,7 @@
         <mark key="." line="75" column="21" />
         <mark key="^" line="75" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528686322752">
+      <file name="/Dummy.txt" timestamp="1528686825342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -681,11 +681,11 @@
       <jump line="57" column="15" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtYW5hZ2UgaW1wb3J0IGFwcCBhcyBmbGFza19hcHAK</text>
+      <register name="&quot;" type="4">
+        <text>debug celery task</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>debug celery task</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
