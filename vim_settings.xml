@@ -129,12 +129,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" timestamp="1528271859459">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" timestamp="1528686170270">
         <mark key="'" line="1" column="2" />
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="14" column="64" />
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1528445548509">
         <mark key="'" line="64" column="0" />
@@ -191,6 +191,13 @@
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
         <mark key="." line="13" column="55" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/tasks.py" timestamp="1528686318030">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/i18n.py" timestamp="1526353774618">
         <mark key="'" line="0" column="0" />
@@ -453,7 +460,7 @@
         <mark key="." line="75" column="21" />
         <mark key="^" line="75" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528450998436">
+      <file name="/Dummy.txt" timestamp="1528686268113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -528,16 +535,11 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1528366907888">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="14" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/utils/falcon_api.py" timestamp="1528450303678">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/portal/home.py" timestamp="1528450851292" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/schema/schema.sql" timestamp="1528442645725">
         <mark key="'" line="5" column="38" />
         <mark key="[" line="5" column="62" />
@@ -562,12 +564,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/prod_config.py" timestamp="1528353747892">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/prod_config.py" timestamp="1528685666119">
         <mark key="'" line="46" column="31" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="49" column="80" />
-        <mark key="." line="49" column="80" />
-        <mark key="^" line="49" column="80" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" timestamp="1525682105056">
         <mark key="'" line="59" column="0" />
@@ -578,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" />
       <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/celery_config.py" />
       <jump line="26" column="18" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" />
       <jump line="20" column="16" filename="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" />
@@ -678,13 +679,14 @@
       <jump line="64" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="164" column="24" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="52" column="11" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
+      <jump line="10" column="3" filename="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
@@ -693,31 +695,31 @@
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG5vZGVfb2JqID0gVHJlZU5vZGUucXVlcnkuZmlsdGVyX2J5KG5vZGVfaWQ9bm9kZV9pZCkuZmlyc3QoKQogICAgICAgICAgICBpZiBub3Qgbm9kZV9vYmo6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UsICLmnKrmib7liLDmlLnoioLngrkiCiAgICAgICAgICAgIG5vZGVfb2JqLm5hbWUgPSBuYW1lCiAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcmV0dXJuIFRydWUsIE5vbmUKICAgICAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3I6CiAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coImNoYW5nZSBub2RlIG5hbWUgZXJyb3IiKQogICAgICAgICAgICBkYi5zZXNzaW9uLnJvbGxiYWNrKCkKICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCAi5pWw5o2u5bqT5pON5L2c5aSx6LSlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgT3BlbkZhbGNvbkFwaS4K</text>
+        <text encoding="base64">CkBhcHAudGFzaygpCmRlZiBhZGQoeCwgeSk6CiAgICByZXR1cm4geCArIHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgT3BlbkZhbGNvbkFwaS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>439</text>
