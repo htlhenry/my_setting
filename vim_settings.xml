@@ -263,12 +263,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528707927839">
-        <mark key="'" line="889" column="0" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="^" line="353" column="23" />
-        <mark key="." line="353" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1528709239380">
+        <mark key="'" line="20" column="66" />
+        <mark key="[" line="666" column="12" />
+        <mark key="]" line="666" column="19" />
+        <mark key="^" line="666" column="19" />
+        <mark key="." line="666" column="19" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -578,8 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="21" column="9" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="24" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="73" column="3" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
@@ -678,13 +676,15 @@
       <jump line="889" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="99" column="41" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="95" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
+      <jump line="666" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="20" column="66" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug render_tree_data cach</text>
+        <text>debug_log</text>
       </register>
       <register name="-" type="4">
-        <text>debug render_tree_data cach</text>
+        <text>debug_log</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
