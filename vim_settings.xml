@@ -305,6 +305,10 @@
         <mark key="." line="53" column="65" />
         <mark key="^" line="53" column="65" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_api" timestamp="1528709886391">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_user_release.py" timestamp="1528368025545">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -336,12 +340,12 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/sync_tags.py" timestamp="1528360531621">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/sync_tags.py" timestamp="1528709689842">
         <mark key="'" line="40" column="11" />
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+        <mark key="[" line="50" column="79" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/dev_config.py" timestamp="1528286471525">
         <mark key="'" line="5" column="12" />
@@ -398,6 +402,11 @@
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
         <mark key="^" line="244" column="32" />
+      </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_js" timestamp="1528709889710">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1528708119241">
         <mark key="'" line="95" column="20" />
@@ -458,7 +467,7 @@
         <mark key="." line="75" column="21" />
         <mark key="^" line="75" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528708387756">
+      <file name="/Dummy.txt" timestamp="1528709653218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -532,6 +541,10 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1528366907888">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/utils/falcon_api.py" timestamp="1528450303678">
         <mark key="[" line="4" column="0" />
@@ -680,17 +693,17 @@
       <jump line="20" column="66" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debug_log</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGlzYWJsZV9jaG93bj0idHJ1ZSIK</text>
       </register>
       <register name="-" type="4">
-        <text>debug_log</text>
+        <text>增加删除节点，修改节点名字和falcon_api主机组名字</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIG5vZGVfb2JqID0gVHJlZU5vZGUucXVlcnkuZmlsdGVyX2J5KG5vZGVfaWQ9bm9kZV9pZCkuZmlyc3QoKQogICAgICAgICAgICBpZiBub3Qgbm9kZV9vYmo6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UsICLmnKrmib7liLDmlLnoioLngrkiCiAgICAgICAgICAgIG5vZGVfb2JqLm5hbWUgPSBuYW1lCiAgICAgICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICAgICAgICAgcmV0dXJuIFRydWUsIE5vbmUKICAgICAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3I6CiAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coImNoYW5nZSBub2RlIG5hbWUgZXJyb3IiKQogICAgICAgICAgICBkYi5zZXNzaW9uLnJvbGxiYWNrKCkKICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCAi5pWw5o2u5bqT5pON5L2c5aSx6LSlIgo=</text>
+        <text encoding="base64">ZGlzYWJsZV9jaG93bj0idHJ1ZSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB1cmxsaWIzLmV4Y2VwdGlvbnMgaW1wb3J0IENvbm5lY3Rpb25FcnJvcgo=</text>
