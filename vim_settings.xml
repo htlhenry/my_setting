@@ -204,8 +204,8 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528692371491">
-        <mark key="'" line="58" column="15" />
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528860064430">
+        <mark key="'" line="96" column="19" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
@@ -251,11 +251,11 @@
         <mark key="." line="86" column="1" />
         <mark key="^" line="86" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1527242822343">
+      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1528860134628">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" timestamp="1528708556299">
@@ -474,7 +474,7 @@
         <mark key="." line="75" column="21" />
         <mark key="^" line="75" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528794259670">
+      <file name="/Dummy.txt" timestamp="1528859068709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -623,7 +623,6 @@
       <jump line="5" column="12" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="101" column="29" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="9" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="7" column="14" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="54" column="18" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="112" column="3" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
@@ -698,13 +697,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/devops/jenkins/roles/logstash/templates/ticket_gateway.conf" />
       <jump line="416" column="20" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="209" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="96" column="19" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAucWNsb3VkIGltcG9ydCBwdXNoX2Nkbl91cmwK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>fix crontab exceptio</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
@@ -713,31 +713,31 @@
         <text encoding="base64">ZGlzYWJsZV9jaG93bj0idHJ1ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAucWNsb3VkIGltcG9ydCBwdXNoX2Nkbl91cmwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBhcHAuYXBpLnYxLmRlY29yYXRvcnMK</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgZnJvbSBhcHAuYXBpLnYxLmRlY29yYXRvcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgaG9zdCBpbiBob3N0X2xpc3Q6CiAgICAgICAgICAgICMgICAgIFJlbE5vZGVIb3N0LnF1ZXJ5LmZpbHRlcl9ieShub2RlX2lkPW5vZGVfaWQsIGluc3RhbmNlX2lkPWhvc3RbImluc3RhbmNlX2lkIl0pLmRlbGV0ZSgpCiAgICAgICAgICAgICMgUmVsTm9kZUhvc3QucXVlcnkuZmlsdGVyX2J5KG5vZGVfaWQ9bm9kZV9pZCwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkKICAgICAgICAgICAgCiAgICAgICAgZXhjZXB0IEludGVncml0eUVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgaG9zdCBpbiBob3N0X2xpc3Q6CiAgICAgICAgICAgICMgICAgIFJlbE5vZGVIb3N0LnF1ZXJ5LmZpbHRlcl9ieShub2RlX2lkPW5vZGVfaWQsIGluc3RhbmNlX2lkPWhvc3RbImluc3RhbmNlX2lkIl0pLmRlbGV0ZSgpCiAgICAgICAgICAgICMgUmVsTm9kZUhvc3QucXVlcnkuZmlsdGVyX2J5KG5vZGVfaWQ9bm9kZV9pZCwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkKICAgICAgICAgICAgCiAgICAgICAgZXhjZXB0IEludGVncml0eUVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>439</text>
