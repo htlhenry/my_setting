@@ -119,12 +119,12 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1529398649065">
-        <mark key="'" line="28" column="10" />
-        <mark key="[" line="741" column="13" />
-        <mark key="]" line="742" column="19" />
-        <mark key="." line="742" column="19" />
-        <mark key="^" line="742" column="19" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1529399943331">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="750" column="16" />
+        <mark key="]" line="750" column="16" />
+        <mark key="." line="750" column="16" />
+        <mark key="^" line="751" column="20" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -172,19 +172,19 @@
         <mark key="^" line="56" column="1" />
         <mark key="." line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" timestamp="1529398722912">
-        <mark key="'" line="36" column="33" />
-        <mark key="[" line="176" column="8" />
-        <mark key="]" line="174" column="17" />
-        <mark key="." line="174" column="17" />
-        <mark key="^" line="174" column="17" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" timestamp="1529399992187">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="192" column="12" />
+        <mark key="]" line="196" column="49" />
+        <mark key="." line="196" column="49" />
+        <mark key="^" line="196" column="49" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1529396098742">
-        <mark key="'" line="369" column="0" />
-        <mark key="[" line="437" column="37" />
-        <mark key="]" line="437" column="44" />
-        <mark key="." line="437" column="44" />
-        <mark key="^" line="437" column="44" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1529400330223">
+        <mark key="'" line="840" column="25" />
+        <mark key="[" line="224" column="10" />
+        <mark key="]" line="224" column="18" />
+        <mark key="." line="224" column="18" />
+        <mark key="^" line="224" column="18" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/apptree_js" timestamp="1528709889710">
         <mark key="[" line="12" column="0" />
@@ -365,12 +365,12 @@
         <mark key="." line="56" column="1" />
         <mark key="^" line="56" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" timestamp="1528459484408">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" timestamp="1529400291199">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="115" column="17" />
-        <mark key="]" line="115" column="30" />
-        <mark key="^" line="115" column="30" />
-        <mark key="." line="115" column="30" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="93" column="30" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/pay_api" timestamp="1525430824882">
         <mark key="'" line="10" column="0" />
@@ -625,14 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="29" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="7" column="14" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="54" column="18" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="112" column="3" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="108" column="7" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" />
-      <jump line="1" column="2" filename="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/celery_config.py" />
       <jump line="113" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
       <jump line="93" column="32" filename="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" />
@@ -725,13 +717,21 @@
       <jump line="37" column="28" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
       <jump line="24" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" />
       <jump line="87" column="24" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
+      <jump line="175" column="7" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" />
+      <jump line="17" column="5" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/monitor.py" />
+      <jump line="220" column="28" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="456" column="29" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
+      <jump line="840" column="25" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBqdWRnZQpGQUxDT05fSlVER0UgPSAiaHR0cDovLzE3Mi4yMS4xNi4yNDo2MDgxIgo=</text>
+        <text encoding="base64">ZnJvbSAuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGUK</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
@@ -740,31 +740,31 @@
         <text encoding="base64">IyBqdWRnZQpGQUxDT05fSlVER0UgPSAiaHR0cDovLzE3Mi4yMS4xNi4yNDo2MDgxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBqdWRnZQpGQUxDT05fSlVER0VfQ0xVU1RFUiA9IFsKICAgICJodHRwOi8vMTcyLjIxLjE2LjI0OjYwODEiCl0KCiMganVkZ2UKRkFMQ09OX0pVREdFX0NMVVNURVIgPSBbCiAgICAiaHR0cDovLzE3Mi4yMS4xNi4yNDo2MDgxIgpdCg==</text>
+        <text encoding="base64">ZnJvbSAuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBqdWRnZQpGQUxDT05fSlVER0VfQ0xVU1RFUiA9IFsKICAgICJodHRwOi8vMTcyLjIxLjE2LjI0OjYwODEiCl0K</text>
+        <text encoding="base64">ZGVmIGNhY2hlKGtleT1Ob25lKToKICAgIGRlZiBkZWNvcmF0b3IoZnVuYyk6CiAgICAgICAgQHdyYXBzKGZ1bmMpCiAgICAgICAgZGVmIGlubmVyKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgICAgIHIgPSBnZXRfcmVkaXNfY2xpZW50KCkKICAgICAgICAgICAgcmVkaXNfa2V5ID0gY29uZmlnLlJFRElTX1BSRUZJWCArIGtleQogICAgICAgICAgICBtZW1vcml6ZV9zdHIgPSByLmdldChyZWRpc19rZXkpCiAgICAgICAgICAgIG1lbW9yaXplID0gW10KICAgICAgICAgICAgaWYgbWVtb3JpemVfc3RyOgogICAgICAgICAgICAgICAgbWVtb3JpemUgPSBqc29uLmxvYWRzKG1lbW9yaXplX3N0cikKICAgICAgICAgICAgaWYgbm90IG1lbW9yaXplOgogICAgICAgICAgICAgICAgcmV0ID0gZnVuYygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgICAgICAgICBpZiByZXQ6CiAgICAgICAgICAgICAgICAgICAgcmV0X3N0ciA9IGpzb24uZHVtcHMocmV0KQogICAgICAgICAgICAgICAgICAgIHIuc2V0KHJlZGlzX2tleSwgcmV0X3N0cikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldCA9IG1lbW9yaXplCiAgICAgICAgICAgIHJldHVybiByZXQKICAgICAgICByZXR1cm4gaW5uZXIKICAgIHJldHVybiBkZWNvcmF0b3IKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSBzZWxmLmp1ZGdlOgo=</text>
+        <text encoding="base64">ZGVmIGNhY2hlKGtleT1Ob25lKToKICAgIGRlZiBkZWNvcmF0b3IoZnVuYyk6CiAgICAgICAgQHdyYXBzKGZ1bmMpCiAgICAgICAgZGVmIGlubmVyKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgICAgIHIgPSBnZXRfcmVkaXNfY2xpZW50KCkKICAgICAgICAgICAgcmVkaXNfa2V5ID0gY29uZmlnLlJFRElTX1BSRUZJWCArIGtleQogICAgICAgICAgICBtZW1vcml6ZV9zdHIgPSByLmdldChyZWRpc19rZXkpCiAgICAgICAgICAgIG1lbW9yaXplID0gW10KICAgICAgICAgICAgaWYgbWVtb3JpemVfc3RyOgogICAgICAgICAgICAgICAgbWVtb3JpemUgPSBqc29uLmxvYWRzKG1lbW9yaXplX3N0cikKICAgICAgICAgICAgaWYgbm90IG1lbW9yaXplOgogICAgICAgICAgICAgICAgcmV0ID0gZnVuYygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgICAgICAgICBpZiByZXQ6CiAgICAgICAgICAgICAgICAgICAgcmV0X3N0ciA9IGpzb24uZHVtcHMocmV0KQogICAgICAgICAgICAgICAgICAgIHIuc2V0KHJlZGlzX2tleSwgcmV0X3N0cikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldCA9IG1lbW9yaXplCiAgICAgICAgICAgIHJldHVybiByZXQKICAgICAgICByZXR1cm4gaW5uZXIKICAgIHJldHVybiBkZWNvcmF0b3IKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IOS7peWQjmNsdXN0ZXLliqDmnLrlmagK</text>
+        <text encoding="base64">ZnJvbSAuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0cyA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjCg==</text>
+        <text encoding="base64">IyBAcGVybWlzc2lvbl9yZXF1aXJlZChwZXJtPSJ3cml0ZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5X2RhdGEgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGhvc3RzIGFuZCBub3QgY2hlY2tfaG9zdF9vYmooaG9zdHMpOgogICAgICAgICAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVuX3BiX3dpdGhfY2xpCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgcmVxdWVzdC5tZXRob2QgPT0gIkdFVCI6CiAgICAgICAgCiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>439</text>
