@@ -294,12 +294,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1529466572806">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1529474950805">
         <mark key="'" line="62" column="43" />
-        <mark key="[" line="772" column="42" />
-        <mark key="]" line="773" column="49" />
-        <mark key="." line="773" column="49" />
-        <mark key="^" line="773" column="49" />
+        <mark key="[" line="745" column="32" />
+        <mark key="]" line="774" column="49" />
+        <mark key="." line="774" column="49" />
+        <mark key="^" line="774" column="49" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -336,6 +336,7 @@
         <mark key="." line="53" column="65" />
         <mark key="^" line="53" column="65" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/python/wechat-admin/models/redis.py" timestamp="1529467922853" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/falcon_agent/tasks/main.yml" timestamp="1529465811971">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="25" />
@@ -357,6 +358,12 @@
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/settings.py" timestamp="1529476284607">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1526008886646">
         <mark key="'" line="15" column="61" />
@@ -734,8 +741,8 @@
       <jump line="62" column="43" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -747,31 +754,31 @@
         <text encoding="base64">IyBqdWRnZQpGQUxDT05fSlVER0UgPSAiaHR0cDovLzE3Mi4yMS4xNi4yNDo2MDgxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbImFsbCJdWyJob3N0cyJdW10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU2V0dGluZ3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIGZpeCDpgJLlvZJidWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFbImFsbCJdWyJob3N0cyJdW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm9kZV9pZCA9IE5vbmUKZGVmIGxvb2t1cF9ub2RlX2lkKG5vZGVzLCB0YWcpOgogICAgIyBUT0RPIGZpeCDpgJLlvZJidWcKICAgIGZvciBub2RlIGluIG5vZGVzOgogICAgICAgIGRlYnVnX2xvZygibm9kZT0+e30mdGFnPT57fSIuZm9ybWF0KG5vZGVbInVybCJdLCB0YWcpKQogICAgICAgIGlmIG5vZGVbInVybCJdID09IHRhZzoKICAgICAgICAgICAgbm9kZV9pZCA9IG5vZGVbIm5vZGVfaWQiXQogICAgICAgIGlmIG5vZGUuZ2V0KCJub2RlcyIpOgogICAgICAgICAgICBsb29rdXBfbm9kZV9pZChub2RlWyJub2RlcyJdLCB0YWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIGZpeCDpgJLlvZJidWcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBub2RlX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vZGVfaWQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>439</text>
