@@ -66,6 +66,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" timestamp="1529488141564">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/config.py" timestamp="1529478595703">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="75" column="0" />
@@ -534,7 +540,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529483844331">
+      <file name="/Dummy.txt" timestamp="1529487802687">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -559,10 +565,6 @@
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
         <mark key="^" line="262" column="0" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/user_login/tasks/main.yml" timestamp="1529396991706">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/task_b.py" timestamp="1527754930156">
         <mark key="'" line="0" column="0" />
@@ -591,6 +593,7 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/restart.sh" timestamp="1529488021052" />
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/cms_api.conf" timestamp="1525682105056">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="0" column="0" />
@@ -703,10 +706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>apptree_api</text>
+        <text>update ticket_gateway.con</text>
       </register>
       <register name="-" type="4">
-        <text>apptree_api</text>
+        <text>update ticket_gateway.con</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
