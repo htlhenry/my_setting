@@ -221,6 +221,12 @@
         <mark key="^" line="144" column="47" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/env/lib/python3.6/site-packages/redis/connection.py" timestamp="1529477090424" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1529494626020">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="94" />
+        <mark key="." line="12" column="94" />
+        <mark key="^" line="12" column="94" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1525430785965">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -256,6 +262,7 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="1" column="24" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1529494574662" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" timestamp="1528354667348">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="37" column="13" />
@@ -532,12 +539,12 @@
         <mark key="." line="84" column="1" />
         <mark key="^" line="84" column="1" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1527597353760">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1529494619167">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="19" />
+        <mark key="[" line="12" column="77" />
+        <mark key="]" line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+        <mark key="." line="12" column="77" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/env/lib/python3.6/site-packages/tencentcloud/common/http/request.py" timestamp="1525259456479">
         <mark key="'" line="45" column="37" />
@@ -546,7 +553,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529493659213">
+      <file name="/Dummy.txt" timestamp="1529493812619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -712,10 +719,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add git commit and jenkins build_ur</text>
+        <text>&quot;mysql+pymysql://root:abc123@127.0.0.1/plus?charset=utf8&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>add git commit and jenkins build_ur</text>
+        <text>&quot;mysql+pymysql://root:abc123@127.0.0.1/plus?charset=utf8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>r_p</text>
