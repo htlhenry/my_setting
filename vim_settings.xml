@@ -38,6 +38,13 @@
         <mark key="^" line="60" column="13" />
         <mark key="." line="51" column="26" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/tag.py" timestamp="1529636666179">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" timestamp="1527749171194">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="18" column="11" />
@@ -104,7 +111,7 @@
         <mark key="^" line="332" column="27" />
         <mark key="." line="332" column="27" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1529581633189">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1529636471061">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -180,11 +187,24 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" timestamp="1529636800217">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/falcon_agent/tasks/main.yml" timestamp="1529465811971">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" timestamp="1529636642089">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/index.py" timestamp="1528964318547">
         <mark key="[" line="161" column="23" />
@@ -247,11 +267,12 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1529636198385">
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1529637102980">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="69" column="3" />
+        <mark key="]" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1525430785965">
         <mark key="'" line="4" column="12" />
@@ -661,12 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="16" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/decorators.py" />
-      <jump line="34" column="3" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
-      <jump line="36" column="10" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
-      <jump line="437" column="36" filename="$USER_HOME$/lingsi/code/python/app_tree/env/lib/python3.6/site-packages/requests/adapters.py" />
       <jump line="64" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="164" column="24" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="52" column="11" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
@@ -761,10 +776,16 @@
       <jump line="141" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
       <jump line="5" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
       <jump line="3" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/tag.py" />
+      <jump line="25" column="43" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -779,28 +800,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgZGV2IHNlY3Rpb24KYmFzZV9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cl9yZWxlYXNlX21hc3Rlcl9kaXIgPSBiYXNlX2RpciAvICdyZWxlYXNlJyAvICdwcm9kJwpfcmVsZWFzZV9wcmVfZGlyID0gYmFzZV9kaXIgLyAncmVsZWFzZScgLyAncHJlJwpfYmFja3VwX2RpciA9IGJhc2VfZGlyIC8gJ2JhY2t1cCcKX3ByZXZpZXdfbG9nX2Jhc2UgPSBiYXNlX2RpciAvICdwcmV2aWV3X2xvZ3MnCl9yb2xsYmFja19sb2dfYmFzZSA9IGJhc2VfZGlyIC8gJ3JvbGxiYWNrX2xvZ3MnCl9yZWxlYXNlX2xvZ19iYXNlID0gYmFzZV9kaXIgLyAncmVsZWFzZV9sb2dzJwoKIyDku6PnoIHnm67lvZUKIyBtYXN0ZXLnm67lvZXku6PnoIHnlKjkuo7kv53mjIHlkoznur/kuIrkuIDoh7QKUkVMRUFTRV9ESVIgPSBzdHIoX3JlbGVhc2VfbWFzdGVyX2Rpci5hYnNvbHV0ZSgpKQojIHByZeebruW9leS7o+eggeWtmOaUvmplbmtpbnPmnoTlu7rlkI7nmoTku6PnoIEKUkVMRUFTRV9QUkVfRElSID0gc3RyKF9yZWxlYXNlX3ByZV9kaXIuYWJzb2x1dGUoKSkKIyBiYWNrdXDnm67lvZXlrZjmlL7lpIfku73nmoTku6PnoIEKQkFDS1VQX0RJUiA9IHN0cihfYmFja3VwX2Rpci5hYnNvbHV0ZSgpKQojIOacjeWKoeWZqOmDqOe9suebruW9le+8jOmdnuivpeebruW9leS4jeiDveWPkeW4gwpTQUZFX0RJUiA9ICcvZGF0YScKCiMg5Y+R5biD5pel5b+X55u45YWz55uu5b2VCiMgcmVsZWFzZV9sb2dz55uu5b2V55So5LqO5a2Y5pS+5Y+R5biD5pel5b+XClJFTEVBU0VfTE9HX0JBU0UgPSBzdHIoX3JlbGVhc2VfbG9nX2Jhc2UuYWJzb2x1dGUoKSkKIyBwcmV2aWV3X2xvZ3Pnm67lvZXnlKjkuo7lrZjmlL7pooTop4jnmoTml6Xlv5cKUFJFVklFV19MT0dfQkFTRSA9IHN0cihfcHJldmlld19sb2dfYmFzZSkKIyByb2xsYmFja19sb2dz55So5LqO5a2Y5pS+5Zue5rua5pel5b+X44CCClJPTExCQUNLX0xPR19CQVNFID0gc3RyKF9yb2xsYmFja19sb2dfYmFzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInhfdCA+IHlfdD0+e30geF90PT57fSwgeV90PT57fSIuZm9ybWF0KHhfdD55X3QsIHhfdCwgeV90KSkK</text>
+        <text encoding="base64">CiMgZGV2IHNlY3Rpb24KYmFzZV9kaXIgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQucGFyZW50Cl9yZWxlYXNlX21hc3Rlcl9kaXIgPSBiYXNlX2RpciAvICdyZWxlYXNlJyAvICdwcm9kJwpfcmVsZWFzZV9wcmVfZGlyID0gYmFzZV9kaXIgLyAncmVsZWFzZScgLyAncHJlJwpfYmFja3VwX2RpciA9IGJhc2VfZGlyIC8gJ2JhY2t1cCcKX3ByZXZpZXdfbG9nX2Jhc2UgPSBiYXNlX2RpciAvICdwcmV2aWV3X2xvZ3MnCl9yb2xsYmFja19sb2dfYmFzZSA9IGJhc2VfZGlyIC8gJ3JvbGxiYWNrX2xvZ3MnCl9yZWxlYXNlX2xvZ19iYXNlID0gYmFzZV9kaXIgLyAncmVsZWFzZV9sb2dzJwoKIyDku6PnoIHnm67lvZUKIyBtYXN0ZXLnm67lvZXku6PnoIHnlKjkuo7kv53mjIHlkoznur/kuIrkuIDoh7QKUkVMRUFTRV9ESVIgPSBzdHIoX3JlbGVhc2VfbWFzdGVyX2Rpci5hYnNvbHV0ZSgpKQojIHByZeebruW9leS7o+eggeWtmOaUvmplbmtpbnPmnoTlu7rlkI7nmoTku6PnoIEKUkVMRUFTRV9QUkVfRElSID0gc3RyKF9yZWxlYXNlX3ByZV9kaXIuYWJzb2x1dGUoKSkKIyBiYWNrdXDnm67lvZXlrZjmlL7lpIfku73nmoTku6PnoIEKQkFDS1VQX0RJUiA9IHN0cihfYmFja3VwX2Rpci5hYnNvbHV0ZSgpKQojIOacjeWKoeWZqOmDqOe9suebruW9le+8jOmdnuivpeebruW9leS4jeiDveWPkeW4gwpTQUZFX0RJUiA9ICcvZGF0YScKCiMg5Y+R5biD5pel5b+X55u45YWz55uu5b2VCiMgcmVsZWFzZV9sb2dz55uu5b2V55So5LqO5a2Y5pS+5Y+R5biD5pel5b+XClJFTEVBU0VfTE9HX0JBU0UgPSBzdHIoX3JlbGVhc2VfbG9nX2Jhc2UuYWJzb2x1dGUoKSkKIyBwcmV2aWV3X2xvZ3Pnm67lvZXnlKjkuo7lrZjmlL7pooTop4jnmoTml6Xlv5cKUFJFVklFV19MT0dfQkFTRSA9IHN0cihfcHJldmlld19sb2dfYmFzZSkKIyByb2xsYmFja19sb2dz55So5LqO5a2Y5pS+5Zue5rua5pel5b+X44CCClJPTExCQUNLX0xPR19CQVNFID0gc3RyKF9yb2xsYmFja19sb2dfYmFzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInhfZW5kPT57fSwgeV9lbmQ9Pnt9Ii5mb3JtYXQoeF9lbmQsIHlfZW5kKSkK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInhfdCA+IHlfdD0+e30geF90PT57fSwgeV90PT57fSIuZm9ybWF0KHhfdD55X3QsIHhfdCwgeV90KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJyZXR1cm4gd2l0aCB4X2VuZCBOb25lID0+e30iLmZvcm1hdCh4X2VuZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInhfZW5kPT57fSwgeV9lbmQ9Pnt9Ii5mb3JtYXQoeF9lbmQsIHlfZW5kKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImFmdGVyIG5vbmUgY2hlY2sgeF9lbmQgPT4ge30sIHlfZW5kPT57fSIuZm9ybWF0KHhfZW5kLCB5X2VuZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJyZXR1cm4gd2l0aCB4X2VuZCBOb25lID0+e30iLmZvcm1hdCh4X2VuZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgeF9lbmQgYW5kIG5vdCB5X2VuZDoKICAgICAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImFmdGVyIG5vbmUgY2hlY2sgeF9lbmQgPT4ge30sIHlfZW5kPT57fSIuZm9ybWF0KHhfZW5kLCB5X2VuZCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coIml0ZW1fbGlzdCA9PiB7fSIuZm9ybWF0KGl0ZW1fbGlzdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgeF9lbmQgYW5kIG5vdCB5X2VuZDoKICAgICAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgeV9lbmQ6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coIml0ZW1fbGlzdCA9PiB7fSIuZm9ybWF0KGl0ZW1fbGlzdCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</text>
