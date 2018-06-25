@@ -206,12 +206,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" timestamp="1529900097972">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" timestamp="1529901139775">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="33" column="72" />
-        <mark key="]" line="35" column="61" />
-        <mark key="^" line="35" column="61" />
-        <mark key="." line="35" column="61" />
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/index.py" timestamp="1528964318547">
         <mark key="[" line="161" column="23" />
@@ -280,11 +280,12 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1529640731135">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1529900908009">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="25" />
+        <mark key="." line="69" column="25" />
+        <mark key="^" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1525430785965">
         <mark key="'" line="4" column="12" />
@@ -321,7 +322,7 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1529638401566">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1529900918284">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -809,11 +810,11 @@
       <jump line="628" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>get_release_commit</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
