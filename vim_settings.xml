@@ -24,9 +24,6 @@
         <mark key="." line="292" column="26" />
         <mark key="^" line="292" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1530267916734">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" timestamp="1528190094695">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="24" column="7" />
@@ -303,7 +300,7 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1530673847566">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1530687283484">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="26" column="49" />
         <mark key="]" line="26" column="47" />
@@ -323,6 +320,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/after_build.py" timestamp="1530691828247">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/pre/ticket_gateway.conf" timestamp="1526634932289">
         <mark key="'" line="76" column="43" />
@@ -554,8 +557,8 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530678901084">
-        <mark key="'" line="136" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530687696709">
+        <mark key="'" line="249" column="0" />
         <mark key="[" line="249" column="44" />
         <mark key="]" line="249" column="70" />
         <mark key="." line="249" column="70" />
@@ -757,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" />
       <jump line="26" column="17" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" />
       <jump line="23" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
       <jump line="640" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
@@ -857,6 +859,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="71" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="4" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
