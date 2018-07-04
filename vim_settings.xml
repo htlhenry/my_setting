@@ -327,12 +327,12 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/after_build.py" timestamp="1530703843594">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/after_build.py" timestamp="1530704950667">
         <mark key="'" line="7" column="16" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/pre/ticket_gateway.conf" timestamp="1526634932289">
         <mark key="'" line="76" column="43" />
@@ -699,7 +699,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530703985861">
+      <file name="/Dummy.txt" timestamp="1530704027517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -869,11 +869,11 @@
       <jump line="69" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/example.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>commit a big versio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFBhdGgocGF0aCkudG91Y2goKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>commit a big versio</text>
+        <text>fix</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
@@ -882,31 +882,31 @@
         <text encoding="base64">ICAgICAgICBIaXN0b3J5UXVlcnkudXBkYXRlKGhpc3RvcnlfaWQsIHN0YXR1cz1Db25zdGFudHMuRkFVTFQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eG1sdG9kaWN0PT0wLjExLjAK</text>
+        <text encoding="base64">ICAgIFBhdGgocGF0aCkudG91Y2goKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">amVua2luc2FwaT09MC4zLjYK</text>
+        <text encoding="base64">eG1sdG9kaWN0PT0wLjExLjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnByb2plY3QuaW52b2tlKGJ1aWxkX3BhcmFtcz1idWlsZF9wYXJhbXMpCg==</text>
+        <text encoding="base64">amVua2luc2FwaT09MC4zLjYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnByb2plY3QuaW52b2tlKGJ1aWxkX3BhcmFtcz1idWlsZF9wYXJhbXMpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hsZXguc3BsaXQoInJzeW5jIHtleGNsdWRlfSAtYXZ6IC0tZGVsZXRlLWFmdGVyIHtzcmN9IHtkZXN0fSAiLmZvcm1hdCgKICAgICAgICAgICAgICAgIGV4Y2x1ZGU9ZXhjbHVkZSwKICAgICAgICAgICAgICAgIHNyYz1mb3JtYXQoc3JjKSwKICAgICAgICAgICAgICAgIGRlc3Q9Zm9ybWF0KGRlc3QpKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hsZXguc3BsaXQoInJzeW5jIHtleGNsdWRlfSAtYXZ6IC0tZGVsZXRlLWFmdGVyIHtzcmN9IHtkZXN0fSAiLmZvcm1hdCgKICAgICAgICAgICAgICAgIGV4Y2x1ZGU9ZXhjbHVkZSwKICAgICAgICAgICAgICAgIHNyYz1mb3JtYXQoc3JjKSwKICAgICAgICAgICAgICAgIGRlc3Q9Zm9ybWF0KGRlc3QpKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxLiDlpoLmnpzlj4LmlbDmmK/nm67lvZXlsLHovazmiJDku6UiLyLnu5PlsL7nmoTlrZfnrKbkuLIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</text>
