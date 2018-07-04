@@ -554,12 +554,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530674015805">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="268" column="24" />
-        <mark key="]" line="268" column="52" />
-        <mark key="." line="268" column="52" />
-        <mark key="^" line="268" column="52" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530676672368">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="67" column="65" />
+        <mark key="]" line="70" column="63" />
+        <mark key="." line="70" column="63" />
+        <mark key="^" line="70" column="63" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" timestamp="1530506011952">
         <mark key="[" line="12" column="46" />
@@ -689,7 +689,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530672315726">
+      <file name="/Dummy.txt" timestamp="1530676390586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -859,11 +859,11 @@
       <jump line="4" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi50cGxfb2JqLmVudiA9PSAncHJvZCc6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all_suc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>all_suc</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
