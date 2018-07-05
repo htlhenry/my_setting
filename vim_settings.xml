@@ -625,7 +625,7 @@
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1530672349290">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1530759900284">
         <mark key="'" line="230" column="11" />
         <mark key="[" line="709" column="0" />
         <mark key="]" line="709" column="0" />
@@ -699,7 +699,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530704954856">
+      <file name="/Dummy.txt" timestamp="1530760343035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -738,6 +738,12 @@
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1530760316191">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/requirements.txt" timestamp="1529388865148">
         <mark key="[" line="13" column="13" />
@@ -869,11 +875,11 @@
       <jump line="69" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/example.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBhZGQgbGlicmFyeSBgYAo=</text>
+      <register name="&quot;" type="4">
+        <text>fix format_path None</text>
       </register>
       <register name="-" type="4">
-        <text>update after_build.py script</text>
+        <text>fix format_path None</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
@@ -882,31 +888,31 @@
         <text encoding="base64">ICAgICAgICBIaXN0b3J5UXVlcnkudXBkYXRlKGhpc3RvcnlfaWQsIHN0YXR1cz1Db25zdGFudHMuRkFVTFQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBhZGQgbGlicmFyeSBgYAo=</text>
+        <text encoding="base64">ZnJvbSBjb25maWdzLmNvbmZpZyBpbXBvcnQgRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBhdGgocGF0aCkudG91Y2goKQo=</text>
+        <text encoding="base64">LSBhZGQgbGlicmFyeSBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eG1sdG9kaWN0PT0wLjExLjAK</text>
+        <text encoding="base64">ICAgIFBhdGgocGF0aCkudG91Y2goKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amVua2luc2FwaT09MC4zLjYK</text>
+        <text encoding="base64">eG1sdG9kaWN0PT0wLjExLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnByb2plY3QuaW52b2tlKGJ1aWxkX3BhcmFtcz1idWlsZF9wYXJhbXMpCg==</text>
+        <text encoding="base64">amVua2luc2FwaT09MC4zLjYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnByb2plY3QuaW52b2tlKGJ1aWxkX3BhcmFtcz1idWlsZF9wYXJhbXMpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hsZXguc3BsaXQoInJzeW5jIHtleGNsdWRlfSAtYXZ6IC0tZGVsZXRlLWFmdGVyIHtzcmN9IHtkZXN0fSAiLmZvcm1hdCgKICAgICAgICAgICAgICAgIGV4Y2x1ZGU9ZXhjbHVkZSwKICAgICAgICAgICAgICAgIHNyYz1mb3JtYXQoc3JjKSwKICAgICAgICAgICAgICAgIGRlc3Q9Zm9ybWF0KGRlc3QpKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</text>
