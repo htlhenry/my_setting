@@ -232,12 +232,11 @@
         <mark key="." line="161" column="22" />
         <mark key="^" line="161" column="22" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" timestamp="1530763705727">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" timestamp="1530764876297">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1526008886646">
         <mark key="'" line="15" column="61" />
@@ -564,12 +563,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530764600416">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530765500065">
         <mark key="'" line="254" column="0" />
-        <mark key="[" line="93" column="55" />
-        <mark key="]" line="93" column="57" />
-        <mark key="." line="93" column="57" />
-        <mark key="^" line="93" column="57" />
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="103" column="17" />
+        <mark key="." line="103" column="17" />
+        <mark key="^" line="103" column="17" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" timestamp="1530506011952">
         <mark key="[" line="12" column="46" />
@@ -700,7 +699,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530763936610">
+      <file name="/Dummy.txt" timestamp="1530764920348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -877,10 +876,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>release_id</text>
+        <text>branch</text>
       </register>
       <register name="-" type="4">
-        <text>release_id</text>
+        <text>branch</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
@@ -889,34 +888,34 @@
         <text encoding="base64">ICAgICAgICBIaXN0b3J5UXVlcnkudXBkYXRlKGhpc3RvcnlfaWQsIHN0YXR1cz1Db25zdGFudHMuRkFVTFQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhpc3Rvcnlfb2JqID0gSGlzdG9yeVF1ZXJ5LmNyZWF0ZV9yZWxlYXNlX2hpc3RvcnkocmVsZWFzZV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlci5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zdGFudHMuUEVORElORywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW52PWVudikK</text>
+        <text encoding="base64">ICAgICAgICBlbmRfaGlzdG9yeV93aXRoX2ZhdWx0KGhpc3RvcnlfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbGVhc2VfaXRlbSA9IFJlbGVhc2VJdGVtUXVlcnkuZ2V0X2J5X2lkKHJlbGVhc2VfaWQsIHVzZXIpCiAgICBpZiBub3QgcmVsZWFzZV9pdGVtOgogICAgICAgIGVuZF9oaXN0b3J5X3dpdGhfZmF1bHQoaGlzdG9yeV9pZCkKICAgICAgICByZXR1cm4gRmFsc2UsICfmnKrmib7liLDlj5HluIPpobknCg==</text>
+        <text encoding="base64">ICAgIGJwID0gVGVtcGxhdGVRdWVyeS5zZWxlY3RfdGVtcGxhdGVfYnlfaWQocmVsZWFzZV9pdGVtLmlkLCAiYnVpbGQiLCB0cGxfaWQpCiAgICBpZiBub3QgYnA6CiAgICAgICAgZW5kX2hpc3Rvcnlfd2l0aF9mYXVsdChoaXN0b3J5X2lkKQogICAgICAgIHJldHVybiBGYWxzZSwgIuacquaJvuWIsOaehOW7uuaooeadvyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdzLmNvbmZpZyBpbXBvcnQgRQo=</text>
+        <text encoding="base64">ICAgICAgICAjIOacquaJvuWIsOWPkeW4g+mhue+8jOS4jeeUqOWIm+W7umhpc3RvcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBhZGQgbGlicmFyeSBgYAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhdGgocGF0aCkudG91Y2goKQo=</text>
+        <text encoding="base64">ICAgIHJlbF9vYmogPSBUZW1wbGF0ZVF1ZXJ5LmdldF9yZWxfYnVpbGRfYW5kX2RlcGxveV9vYmooZGVwbG95X2lkPXRwbF9pZCkKICAgIGlmIG5vdCByZWxfb2JqOgogICAgICAgIHJldHVybiBGYWxzZSwgIuacquaJvuWIsOWPkeW4g+aooeadvyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eG1sdG9kaWN0PT0wLjExLjAK</text>
+        <text encoding="base64">ICAgIHJlbGVhc2VfaXRlbSA9IFJlbGVhc2VJdGVtUXVlcnkuZ2V0X2J5X2lkKHJlbGVhc2VfaWQsIHVzZXIpCiAgICBpZiBub3QgcmVsZWFzZV9pdGVtOgogICAgICAgIHJldHVybiBGYWxzZSwgJ+acquaJvuWIsOWPkeW4g+mhuScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amVua2luc2FwaT09MC4zLjYK</text>
+        <text encoding="base64">ICAgICAgICBlbmRfaGlzdG9yeV93aXRoX2ZhdWx0KGhpc3Rvcnlfb2JqLmlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzZWxmLnByb2plY3QuaW52b2tlKGJ1aWxkX3BhcmFtcz1idWlsZF9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBqZW5raW5zYXBpLmplbmtpbnMgaW1wb3J0IEplbmtpbnMK</text>
+        <text encoding="base64">ICAgIGVudiA9IGpzb25fZGF0YS5nZXQoImVudiIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</text>
+        <text>123</text>
       </register>
     </registers>
     <search>
@@ -952,7 +951,6 @@
         <entry>end_time</entry>
       </history-search>
       <history-cmd>
-        <entry>69</entry>
         <entry>68</entry>
         <entry>240</entry>
         <entry>319</entry>
@@ -972,6 +970,7 @@
         <entry>439</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1fZGljdF9saXN0L3JpX2xpc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</entry>
+        <entry>123</entry>
       </history-cmd>
       <history-expr />
       <history-input />
