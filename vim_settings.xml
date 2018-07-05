@@ -563,12 +563,12 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530772092839">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" timestamp="1530773034817">
         <mark key="'" line="254" column="0" />
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="57" column="57" />
-        <mark key="." line="57" column="57" />
-        <mark key="^" line="57" column="57" />
+        <mark key="[" line="148" column="36" />
+        <mark key="]" line="148" column="38" />
+        <mark key="." line="148" column="38" />
+        <mark key="^" line="148" column="38" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" timestamp="1530506011952">
         <mark key="[" line="12" column="46" />
@@ -876,10 +876,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_console_output</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>get_console_output</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>end_time</text>
@@ -888,31 +888,31 @@
         <text encoding="base64">ICAgICAgICBIaXN0b3J5UXVlcnkudXBkYXRlKGhpc3RvcnlfaWQsIHN0YXR1cz1Db25zdGFudHMuRkFVTFQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QgPSBnZXRfamVua2luc19wcm9qZWN0KHJlbGVhc2VfaXRlbS5pZCkK</text>
+        <text encoding="base64">ICAgICAgICAjIOWPkeW4g+WOhuWPsuaWh+S7tuWfuuS6jmhpc3RvcnlfaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZW5raW5zX3Byb2plY3QgPSBzZWxmLl9qZW5raW5zX2NsYXNzKHByb2plY3QpCg==</text>
+        <text encoding="base64">ICAgIHByb2plY3QgPSBnZXRfamVua2luc19wcm9qZWN0KHJlbGVhc2VfaXRlbS5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqZW5raW5zX3Byb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICBqZW5raW5zX3Byb2plY3QgPSBzZWxmLl9qZW5raW5zX2NsYXNzKHByb2plY3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBQYXRoKHBhdGgpLmV4aXN0cygpOgogICAgICAgIFBhdGgocGF0aCkubWtkaXIocGFyZW50cz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBqZW5raW5zX3Byb2plY3QK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG5vdCBQYXRoKHBhdGgpLmV4aXN0cygpOgogICAgICAgIFBhdGgocGF0aCkubWtkaXIocGFyZW50cz1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmRfaGlzdG9yeV93aXRoX2ZhdWx0KGhpc3RvcnlfaWQpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBQYXRoKHBhdGgpLmV4aXN0cygpOgogICAgICAgIFBhdGgocGF0aCkubWtkaXIocGFyZW50cz1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJwID0gVGVtcGxhdGVRdWVyeS5zZWxlY3RfdGVtcGxhdGVfYnlfaWQocmVsZWFzZV9pdGVtLmlkLCAiYnVpbGQiLCB0cGxfaWQpCiAgICBpZiBub3QgYnA6CiAgICAgICAgZW5kX2hpc3Rvcnlfd2l0aF9mYXVsdChoaXN0b3J5X2lkKQogICAgICAgIHJldHVybiBGYWxzZSwgIuacquaJvuWIsOaehOW7uuaooeadvyIK</text>
+        <text encoding="base64">ICAgICAgICBlbmRfaGlzdG9yeV93aXRoX2ZhdWx0KGhpc3RvcnlfaWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIOacquaJvuWIsOWPkeW4g+mhue+8jOS4jeeUqOWIm+W7umhpc3RvcnkK</text>
+        <text encoding="base64">ICAgIGJwID0gVGVtcGxhdGVRdWVyeS5zZWxlY3RfdGVtcGxhdGVfYnlfaWQocmVsZWFzZV9pdGVtLmlkLCAiYnVpbGQiLCB0cGxfaWQpCiAgICBpZiBub3QgYnA6CiAgICAgICAgZW5kX2hpc3Rvcnlfd2l0aF9mYXVsdChoaXN0b3J5X2lkKQogICAgICAgIHJldHVybiBGYWxzZSwgIuacquaJvuWIsOaehOW7uuaooeadvyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIOacquaJvuWIsOWPkeW4g+mhue+8jOS4jeeUqOWIm+W7umhpc3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>123</text>
