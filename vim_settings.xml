@@ -17,11 +17,12 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1530867055083">
-        <mark key="'" line="113" column="19" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="8" />
-        <mark key="." line="254" column="8" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" timestamp="1530869337973">
+        <mark key="'" line="114" column="19" />
+        <mark key="[" line="69" column="65" />
+        <mark key="]" line="69" column="66" />
+        <mark key="." line="69" column="66" />
+        <mark key="^" line="69" column="66" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/tasks/supervisord/supervisord.conf" timestamp="1528190094695">
         <mark key="'" line="20" column="16" />
@@ -437,12 +438,12 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" timestamp="1530868471440">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" timestamp="1530869272434">
         <mark key="'" line="15" column="66" />
-        <mark key="[" line="185" column="36" />
-        <mark key="]" line="186" column="81" />
-        <mark key="." line="186" column="81" />
-        <mark key="^" line="186" column="81" />
+        <mark key="[" line="164" column="41" />
+        <mark key="]" line="164" column="54" />
+        <mark key="." line="164" column="54" />
+        <mark key="^" line="164" column="54" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/perm_views.py" timestamp="1526471889775">
         <mark key="'" line="26" column="7" />
@@ -928,11 +929,11 @@
       <jump line="15" column="66" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpdGggcGx1c19hcGkuYXBwX2NvbnRleHQoKToK</text>
+      <register name="&quot;" type="4">
+        <text>controllers</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>controllers</text>
       </register>
       <register name="/" type="4">
         <text>queue_info</text>
