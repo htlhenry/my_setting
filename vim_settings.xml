@@ -125,12 +125,12 @@
         <mark key="." line="143" column="10" />
         <mark key="^" line="148" column="37" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1530845755890">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1530847401384">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="8" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1530761262568">
         <mark key="'" line="6" column="0" />
@@ -567,11 +567,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530846005747">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-        <mark key="." line="14" column="31" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530847040582">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="25" column="6" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/requirements.txt" timestamp="1529061295274">
         <mark key="[" line="9" column="13" />
@@ -795,7 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
       <jump line="6" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
       <jump line="31" column="12" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
       <jump line="17" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
@@ -894,14 +893,15 @@
       <jump line="159" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/build.py" />
       <jump line="6" column="10" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/build.py" />
       <jump line="14" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
+      <jump line="22" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnlfYXBwLnRhc2tzIGltcG9ydCBidWlsZF9hbmRfZGVwbG95Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>plus_api</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>queue_info</text>
