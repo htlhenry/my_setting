@@ -150,10 +150,11 @@
         <mark key="^" line="167" column="31" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530784438665">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+        <mark key="^" line="2" column="69" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/qcloud.py" timestamp="1528860302521">
         <mark key="'" line="59" column="0" />
@@ -756,8 +757,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530867150221">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1530872629990">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -795,11 +795,6 @@
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="25" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" timestamp="1530851425196">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1530761849244">
         <mark key="[" line="21" column="47" />
@@ -943,11 +938,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5oZWxwZXJzIGltcG9ydCBzaWxlbnRfcmVzdHJpY3QK</text>
+      <register name="&quot;" type="4">
+        <text>修改build_and_deploy参数</text>
       </register>
       <register name="-" type="4">
-        <text>deploy_factor</text>
+        <text>修改build_and_deploy参数</text>
       </register>
       <register name="/" type="4">
         <text>queue_info</text>
