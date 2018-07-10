@@ -610,12 +610,12 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" timestamp="1531209251429">
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" timestamp="1531209749716">
         <mark key="'" line="10" column="37" />
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="12" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="39" />
         <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530863923357">
         <mark key="[" line="4" column="25" />
@@ -769,7 +769,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531209057531">
+      <file name="/Dummy.txt" timestamp="1531209801943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -952,10 +952,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>ticket</text>
