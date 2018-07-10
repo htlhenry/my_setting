@@ -138,6 +138,10 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/yt_ticket" timestamp="1531208994121">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="58" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1531134392975">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="70" column="19" />
@@ -606,6 +610,13 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" timestamp="1531209006687">
+        <mark key="'" line="10" column="37" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="59" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530863923357">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="5" column="0" />
@@ -838,7 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="249" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/task.py" />
       <jump line="14" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/after_build.py" />
       <jump line="15" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/after_build.py" />
@@ -938,19 +948,20 @@
       <jump line="42" column="6" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" />
       <jump line="73" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" />
       <jump line="63" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" />
+      <jump line="10" column="37" filename="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIG11dGVfY29ubmVjdGlvbl9lcnJvcihtZXRob2QpOgogICAgZGVmIGlubmVyKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXMgPSBtZXRob2QoKmFyZ3MsICoqa3dhcmdzKQogICAgICAgICAgICByZXR1cm4gcmVzCiAgICAgICAgZXhjZXB0IENvbm5lY3Rpb25FcnJvcjoKICAgICAgICAgICAgZXhjZXB0aW9uX2xvZygiY29ubmVjdCB0byBhcHAgdHJlZSBlcnJvciIpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIGlubmVyCg==</text>
+        <text encoding="base64">cmVzdGFydD0ic2ggL2RhdGEvc2NyaXB0cy9yZXN0YXJ0X3l0LXRpY2tldC5zaCByZXN0YXJ0IgpjaGVja19zdGF0dXM9InNoIC9kYXRhL3NjcmlwdHMvcmVzdGFydF95dC10aWNrZXQuc2ggc3RhdHVzIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>queue_info</text>
+        <text>ticket</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXMuc3RhdHVzX2NvZGUgIT0gMjAwOgogICAgICAgICAgICBlcnJvcl9sb2coInJlcXVlc3QgZXJyb3JvIHVybD0+e30sdGV4dD0+e30iLmZvcm1hdCgKICAgICAgICAgICAgICAgIHJlcy5yZXF1ZXN0LnVybCwgcmVzLnRleHQpKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICByX2QgPSByZXMuanNvbigpCiAgICAgICAgICAgIGlmIHJfZFsiY29kZSJdICE9IDIwMDA6CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">cmVzdGFydD0ic2ggL2RhdGEvc2NyaXB0cy9yZXN0YXJ0X3l0LXRpY2tldC5zaCByZXN0YXJ0IgpjaGVja19zdGF0dXM9InNoIC9kYXRhL3NjcmlwdHMvcmVzdGFydF95dC10aWNrZXQuc2ggc3RhdHVzIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIG11dGVfY29ubmVjdGlvbl9lcnJvcihtZXRob2QpOgogICAgZGVmIGlubmVyKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXMgPSBtZXRob2QoKmFyZ3MsICoqa3dhcmdzKQogICAgICAgICAgICByZXR1cm4gcmVzCiAgICAgICAgZXhjZXB0IENvbm5lY3Rpb25FcnJvcjoKICAgICAgICAgICAgZXhjZXB0aW9uX2xvZygiY29ubmVjdCB0byBhcHAgdHJlZSBlcnJvciIpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgcmV0dXJuIGlubmVyCg==</text>
@@ -980,21 +991,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>175</text>
+        <text encoding="base64">JzwsJz5zL3RpY2tldC92cnNlcnZlci9n</text>
       </register>
     </registers>
     <search>
-      <last-search>queue_info</last-search>
+      <last-search>ticket</last-search>
       <last-offset />
-      <last-pattern>queue_info</last-pattern>
-      <last-replace>build_info</last-replace>
-      <last-substitute>queue_info</last-substitute>
+      <last-pattern>ticket</last-pattern>
+      <last-replace>vrserver</last-replace>
+      <last-substitute>ticket</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>%}</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>logout</entry>
         <entry>deploy</entry>
@@ -1014,9 +1024,9 @@
         <entry>item_dict_list</entry>
         <entry>end_time</entry>
         <entry>queue_info</entry>
+        <entry>ticket</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvcF9pZHgvY29wL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zha2VfZGF0YS9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZXAvb2Zmc2V0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</entry>
@@ -1036,6 +1046,7 @@
         <entry>450</entry>
         <entry>117</entry>
         <entry>175</entry>
+        <entry encoding="base64">JzwsJz5zL3RpY2tldC92cnNlcnZlci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />

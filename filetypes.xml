@@ -2,35 +2,36 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.gradle;.hg;.idea;.myeclipse;.mymetadata;.project;.settings;.sonar;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="vrserver" type="PLAIN_TEXT" />
       <mapping pattern="plus_api" type="PLAIN_TEXT" />
       <mapping pattern="goods_frontend" type="PLAIN_TEXT" />
       <mapping pattern="ldapm_js" type="PLAIN_TEXT" />
       <mapping pattern="media_api" type="PLAIN_TEXT" />
       <mapping pattern="falcon-dashboard" type="PLAIN_TEXT" />
-      <mapping pattern="yt_app" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="sc_home" type="PLAIN_TEXT" />
       <mapping pattern="sc_customer" type="PLAIN_TEXT" />
       <mapping pattern="bak" type="PLAIN_TEXT" />
       <mapping pattern="apptree_js" type="PLAIN_TEXT" />
       <mapping pattern="kafa_2_es" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".plus_git_version" type="PLAIN_TEXT" />
+      <mapping pattern="yt_app" type="PLAIN_TEXT" />
       <mapping pattern="gateway" type="PLAIN_TEXT" />
+      <mapping pattern="sc_share" type="PLAIN_TEXT" />
+      <mapping pattern="order_api" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="kdm_api" type="PLAIN_TEXT" />
-      <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="java_gateway" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="aabbccddeeff" type="PLAIN_TEXT" />
       <mapping pattern=".version" type="PLAIN_TEXT" />
       <mapping pattern="order_backend" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="gulp使用说明" type="PLAIN_TEXT" />
       <mapping pattern="pay_api" type="PLAIN_TEXT" />
-      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ticket" type="PLAIN_TEXT" />
-      <mapping pattern="proxy2" type="PLAIN_TEXT" />
       <mapping pattern="ldap_api" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
       <mapping pattern="jenkins_hosts" type="PLAIN_TEXT" />
@@ -39,28 +40,28 @@
       <mapping pattern="iplist" type="PLAIN_TEXT" />
       <mapping pattern="falcon-plus" type="PLAIN_TEXT" />
       <mapping pattern="abc123" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pay_backend" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq" type="PLAIN_TEXT" />
       <mapping pattern="php_service" type="PLAIN_TEXT" />
-      <mapping pattern="plus_js" type="PLAIN_TEXT" />
       <mapping pattern="qcloud_api" type="PLAIN_TEXT" />
       <mapping pattern="cms_frontend" type="PLAIN_TEXT" />
       <mapping pattern="sc_crontab" type="PLAIN_TEXT" />
       <mapping pattern="cms_backend" type="PLAIN_TEXT" />
       <mapping pattern="oam" type="PLAIN_TEXT" />
       <mapping pattern="media_frontend" type="PLAIN_TEXT" />
-      <mapping pattern="goods_backend" type="PLAIN_TEXT" />
       <mapping pattern="yt_customer" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="order_api" type="PLAIN_TEXT" />
+      <mapping pattern="proxy2" type="PLAIN_TEXT" />
       <mapping pattern="proxy1" type="PLAIN_TEXT" />
       <mapping pattern="apptree_api" type="PLAIN_TEXT" />
       <mapping pattern="kdm_backend" type="PLAIN_TEXT" />
       <mapping pattern="es_schedule" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
-      <mapping pattern="sc_share" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="goods_backend" type="PLAIN_TEXT" />
+      <mapping pattern="yt_ticket" type="PLAIN_TEXT" />
       <mapping pattern="media_backend" type="PLAIN_TEXT" />
+      <mapping pattern="plus_js" type="PLAIN_TEXT" />
       <mapping pattern="MongoDBConnectionTest" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="cms_api" type="PLAIN_TEXT" />
