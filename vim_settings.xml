@@ -124,12 +124,12 @@
         <mark key="^" line="123" column="43" />
         <mark key="." line="123" column="43" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531388974564">
-        <mark key="'" line="4" column="33" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531390196996">
+        <mark key="'" line="37" column="49" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_deploy_task.py" timestamp="1531108805997">
         <mark key="[" line="19" column="25" />
@@ -155,12 +155,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531388922353">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531390183245">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="149" column="53" />
-        <mark key="]" line="149" column="52" />
-        <mark key="^" line="149" column="52" />
-        <mark key="." line="149" column="52" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="152" column="40" />
+        <mark key="^" line="151" column="34" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
         <mark key="[" line="2" column="63" />
@@ -842,8 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="26" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/exc.py" />
       <jump line="162" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="28" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/build_and_deploy.py" />
@@ -872,7 +870,6 @@
       <jump line="37" column="4" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
       <jump line="1" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
       <jump line="30" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="114" column="19" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="4" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="189" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" />
@@ -942,10 +939,13 @@
       <jump line="45" column="63" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="201" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
       <jump line="17" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
+      <jump line="36" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
+      <jump line="37" column="49" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix releaseItem obj id erro</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBwcm9qZWN0OgogICAgICAgIGVuZF9oaXN0b3J5X3dpdGhfZmF1bHQoaGlzdG9yeV9pZCkKICAgICAgICByZXR1cm4gRmFsc2UsICLmnKrmib7liLBqZW5raW5z5p6E5bu657uR5a6a5qih5p2/Igo=</text>
       </register>
       <register name="-" type="4">
         <text>fix releaseItem obj id erro</text>
@@ -957,31 +957,31 @@
         <text encoding="base64">VEVNUExBVEVfSk9CID0gJ3RlbXBsYXRlLWF1dG8tZ2VuZXJhdGUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIjogc2VsZi5pZCwK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwcm9qZWN0OgogICAgICAgIGVuZF9oaXN0b3J5X3dpdGhfZmF1bHQoaGlzdG9yeV9pZCkKICAgICAgICByZXR1cm4gRmFsc2UsICLmnKrmib7liLBqZW5raW5z5p6E5bu657uR5a6a5qih5p2/Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gYXBwLm1vZGVscyBpbXBvcnQgVXNlcgogICAgdXNlciA9IFVzZXIucXVlcnkuZmlsdGVyX2J5KG5hbWU9ImhhbnRlbmdsZWkiKS5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwcm9qZWN0OgogICAgICAgIHJldHVybiBGYWxzZSwgIuacquaJvuWIsGplbmtpbnPmnoTlu7oiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgICMgVE9ETyDlvILmraXku7vliqHlj5HnlJ/lvILluLjvvIznu5PmnZ/lj5HluIPljoblj7IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgZGF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImlkIjogc2VsZi5pZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGljdHRveG1sPT0xLjcuNAo=</text>
+        <text encoding="base64">ICAgIGZyb20gYXBwLm1vZGVscyBpbXBvcnQgVXNlcgogICAgdXNlciA9IFVzZXIucXVlcnkuZmlsdGVyX2J5KG5hbWU9ImhhbnRlbmdsZWkiKS5maXJzdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgZGF0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInt9IGpvYiBjb25maWcgPT4ge30iLmZvcm1hdChzZWxmLnByb2plY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganNvbi5kdW1wcyhjb25maWcpKSkK</text>
+        <text encoding="base64">ZGljdHRveG1sPT0xLjcuNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImNvbmZpZyB0eXBlID0+IHt9Ii5mb3JtYXQodHlwZShjb25maWcpKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21zZy9tc2dfb3JfZGF0YS9n</text>
