@@ -155,12 +155,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531379395694">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531381531760">
         <mark key="'" line="90" column="22" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="212" column="24" />
-        <mark key="^" line="212" column="24" />
-        <mark key="." line="212" column="24" />
+        <mark key="[" line="212" column="28" />
+        <mark key="]" line="212" column="37" />
+        <mark key="^" line="212" column="37" />
+        <mark key="." line="212" column="37" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
         <mark key="[" line="2" column="63" />
@@ -268,12 +268,12 @@
         <mark key="." line="161" column="22" />
         <mark key="^" line="161" column="22" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" timestamp="1531379846953">
-        <mark key="'" line="9" column="36" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="49" column="42" />
-        <mark key="." line="49" column="42" />
-        <mark key="^" line="49" column="42" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" timestamp="1531381149407">
+        <mark key="'" line="45" column="63" />
+        <mark key="[" line="45" column="64" />
+        <mark key="]" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+        <mark key="^" line="45" column="22" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/func.py" timestamp="1526008886646">
         <mark key="'" line="15" column="61" />
@@ -681,12 +681,12 @@
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1531379513663">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1531381097244">
         <mark key="'" line="54" column="6" />
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="56" column="34" />
-        <mark key="." line="56" column="34" />
-        <mark key="^" line="56" column="34" />
+        <mark key="[" line="877" column="31" />
+        <mark key="]" line="878" column="25" />
+        <mark key="." line="878" column="25" />
+        <mark key="^" line="878" column="25" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_release_item_desc_order.py" timestamp="1529571988022">
         <mark key="[" line="13" column="13" />
@@ -846,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="22" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="11" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
@@ -946,63 +945,63 @@
       <jump line="51" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" />
       <jump line="8" column="65" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="9" column="36" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
+      <jump line="45" column="63" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgZGF0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>suc</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>suc</text>
       </register>
       <register name="/" type="4">
-        <text>ticket</text>
+        <text>msg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VEVNUExBVEVfSk9CID0gJ3RlbXBsYXRlLWF1dG8tZ2VuZXJhdGUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgZGF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGljdHRveG1sPT0xLjcuNAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgZGF0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGljdHRveG1sPT0xLjcuNAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInt9IGpvYiBjb25maWcgPT4ge30iLmZvcm1hdChzZWxmLnByb2plY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganNvbi5kdW1wcyhjb25maWcpKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImNvbmZpZyB0eXBlID0+IHt9Ii5mb3JtYXQodHlwZShjb25maWcpKSkK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInt9IGpvYiBjb25maWcgPT4ge30iLmZvcm1hdChzZWxmLnByb2plY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAganNvbi5kdW1wcyhjb25maWcpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5a6M5oiQ5Yib5bu6amVua2lucyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coImNvbmZpZyB0eXBlID0+IHt9Ii5mb3JtYXQodHlwZShjb25maWcpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8g5a6M5oiQ5Yib5bu6amVua2lucyBwcm9qZWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5qZW5raW5zLnJlY29uZmlnX2pvYihzZWxmLnByb2plY3QsIGRpY3R0b3htbC5kaWN0dG94bWwoY29uZmlnKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RpY2tldC92cnNlcnZlci9n</text>
+        <text encoding="base64">JzwsJz5zL21zZy9tc2dfb3JfZGF0YS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>ticket</last-search>
+      <last-search>msg</last-search>
       <last-offset />
-      <last-pattern>ticket</last-pattern>
-      <last-replace>vrserver</last-replace>
-      <last-substitute>ticket</last-substitute>
+      <last-pattern>msg</last-pattern>
+      <last-replace>msg_or_data</last-replace>
+      <last-substitute>msg</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>logout</entry>
         <entry>deploy</entry>
         <entry>app</entry>
@@ -1022,9 +1021,9 @@
         <entry>end_time</entry>
         <entry>queue_info</entry>
         <entry>ticket</entry>
+        <entry>msg</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zha2VfZGF0YS9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0ZXAvb2Zmc2V0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwcHRyZWVfYXBpL3FjbG91ZF9hcGkvZw==</entry>
@@ -1044,6 +1043,7 @@
         <entry>117</entry>
         <entry>175</entry>
         <entry encoding="base64">JzwsJz5zL3RpY2tldC92cnNlcnZlci9n</entry>
+        <entry encoding="base64">JzwsJz5zL21zZy9tc2dfb3JfZGF0YS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
