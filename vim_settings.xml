@@ -124,12 +124,12 @@
         <mark key="^" line="123" column="43" />
         <mark key="." line="123" column="43" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531107631629">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531388974564">
         <mark key="'" line="4" column="33" />
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
-        <mark key="^" line="28" column="58" />
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_deploy_task.py" timestamp="1531108805997">
         <mark key="[" line="19" column="25" />
@@ -155,12 +155,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531388617697">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531388922353">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="89" column="78" />
-        <mark key="]" line="90" column="48" />
-        <mark key="^" line="90" column="48" />
-        <mark key="." line="90" column="48" />
+        <mark key="[" line="149" column="53" />
+        <mark key="]" line="149" column="52" />
+        <mark key="^" line="149" column="52" />
+        <mark key="." line="149" column="52" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
         <mark key="[" line="2" column="63" />
@@ -207,12 +207,6 @@
         <mark key="]" line="9" column="32" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" timestamp="1531206091252">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1529483684100">
         <mark key="'" line="369" column="16" />
@@ -768,7 +762,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531387986157">
+      <file name="/Dummy.txt" timestamp="1531388907853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -951,10 +945,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>delete hard code user, debug release_item when create jenkins project</text>
+        <text>fix releaseItem obj id erro</text>
       </register>
       <register name="-" type="4">
-        <text>delete hard code user, debug release_item when create jenkins project</text>
+        <text>fix releaseItem obj id erro</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
