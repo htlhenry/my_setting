@@ -256,7 +256,7 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" timestamp="1530872432433">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tag.py" timestamp="1531216000592">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -656,10 +656,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1531204637742">
-        <mark key="[" line="264" column="51" />
-        <mark key="]" line="264" column="51" />
-        <mark key="." line="264" column="51" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1531364587415">
+        <mark key="[" line="182" column="54" />
+        <mark key="]" line="182" column="58" />
+        <mark key="." line="182" column="58" />
+        <mark key="^" line="182" column="58" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524893710711">
         <mark key="'" line="4" column="11" />
@@ -769,7 +770,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531211790246">
+      <file name="/Dummy.txt" timestamp="1531364519692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -952,10 +953,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>分离 根据tag获取绑定的主机接口，get无权限认证，post有权限认证</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>分离 根据tag获取绑定的主机接口，get无权限认证，post有权限认证</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>ticket</text>
