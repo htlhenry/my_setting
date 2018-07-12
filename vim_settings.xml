@@ -155,12 +155,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531387185945">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531388617697">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="201" column="4" />
-        <mark key="]" line="201" column="61" />
-        <mark key="^" line="201" column="61" />
-        <mark key="." line="201" column="61" />
+        <mark key="[" line="89" column="78" />
+        <mark key="]" line="90" column="48" />
+        <mark key="^" line="90" column="48" />
+        <mark key="." line="90" column="48" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
         <mark key="[" line="2" column="63" />
@@ -768,7 +768,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531387880109">
+      <file name="/Dummy.txt" timestamp="1531387986157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -950,11 +950,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlkIjogc2VsZi5pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>delete hard code user, debug release_item when create jenkins project</text>
       </register>
       <register name="-" type="4">
-        <text>add create auto_generate jenkins projec</text>
+        <text>delete hard code user, debug release_item when create jenkins project</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
