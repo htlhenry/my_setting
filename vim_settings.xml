@@ -127,12 +127,12 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" timestamp="1531474114137">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" timestamp="1531481884886">
         <mark key="'" line="270" column="19" />
-        <mark key="[" line="270" column="39" />
-        <mark key="]" line="270" column="57" />
-        <mark key="^" line="270" column="57" />
-        <mark key="." line="270" column="57" />
+        <mark key="[" line="294" column="50" />
+        <mark key="]" line="302" column="64" />
+        <mark key="^" line="302" column="64" />
+        <mark key="." line="302" column="64" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531390196996">
         <mark key="'" line="37" column="49" />
@@ -147,7 +147,7 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1531469179145">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/schema/plus.sql" timestamp="1531481362092">
         <mark key="'" line="58" column="17" />
         <mark key="[" line="194" column="63" />
         <mark key="]" line="202" column="53" />
@@ -684,12 +684,12 @@
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1531473796462">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1531481918772">
         <mark key="'" line="838" column="1" />
-        <mark key="[" line="900" column="12" />
-        <mark key="]" line="904" column="22" />
-        <mark key="." line="904" column="22" />
-        <mark key="^" line="904" column="22" />
+        <mark key="[" line="624" column="110" />
+        <mark key="]" line="626" column="28" />
+        <mark key="." line="626" column="28" />
+        <mark key="^" line="626" column="28" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_release_item_desc_order.py" timestamp="1529571988022">
         <mark key="[" line="13" column="13" />
@@ -771,7 +771,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531481017791">
+      <file name="/Dummy.txt" timestamp="1531481044546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -953,11 +953,11 @@
       <jump line="24" column="26" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHN1YzoKICAgICAgICAgICAgICAgIGVycm9yX2xvZygiY3JlYXRlIHJlbGVhc2UgdHlwZSBmYWlsZWQiKQogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCAi5Yib5bu65Y+R5biD57G75Z6L5aSx6LSlIgo=</text>
+      <register name="&quot;" type="4">
+        <text>修改发布项申请流</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>修改发布项申请流</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
