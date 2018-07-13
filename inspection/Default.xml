@@ -88,7 +88,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="15">
+        <list size="16">
           <item index="0" class="java.lang.String" itemvalue="python-ldap" />
           <item index="1" class="java.lang.String" itemvalue="Flask-Script" />
           <item index="2" class="java.lang.String" itemvalue="celery[redis]" />
@@ -104,6 +104,7 @@
           <item index="12" class="java.lang.String" itemvalue="PyYAML" />
           <item index="13" class="java.lang.String" itemvalue="yaml" />
           <item index="14" class="java.lang.String" itemvalue="jenkinsapi" />
+          <item index="15" class="java.lang.String" itemvalue="PyJWT-1.6.4" />
         </list>
       </value>
     </option>
