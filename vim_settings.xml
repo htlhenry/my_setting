@@ -788,10 +788,10 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531726281138">
+      <file name="/Dummy.txt" timestamp="1531726392697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="121" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/modules/cdn.py" timestamp="1528270183573">
         <mark key="'" line="21" column="0" />
@@ -834,11 +834,11 @@
         <mark key="." line="26" column="9" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/requirements.txt" timestamp="1529388865148">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/requirements.txt" timestamp="1531726561362">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/schema/schema.sql" timestamp="1528442645725">
         <mark key="'" line="5" column="38" />
@@ -971,7 +971,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>update vrserver test1 en</text>
+        <text>fix pip_install before restart service
+and change pip install method</text>
       </register>
       <register name="-" type="4">
         <text>update vrserver test1 en</text>
@@ -982,26 +983,27 @@
       <register name="0" type="2">
         <text encoding="base64">IyBNYWlsCk1BSUxfU0VSVkVSID0gJ3NtdHAuZXhtYWlsLnFxLmNvbScKTUFJTF9QT1JUID0gNDY1Ck1BSUxfVVNFX1NTTCA9IFRydWUKTUFJTF9VU0VSTkFNRSA9ICdvcHNAc21hcnRjaW5lbWEuY29tLmNuJwpNQUlMX1BBU1NXT1JEID0gJ21zczhpUVpWWHl1eTVFeTknCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzQHNtYXJ0Y2luZW1hLmNvbS5jbicKTUFJTF9TVUZGSVggPSAnQHNtYXJ0Y2luZW1hLmNvbS5jbicK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LSBuYW1lOiBwaXAgaW5zdGFsbAogIHNoZWxsOiAie3sgcGlwX2luc3RhbGwgfX0iCiAgd2hlbjogcGlwX2luc3RhbGwgaXMgZGVmaW5lZAo=</text>
+      <register name="1" type="4">
+        <text>fix pip_install before restart service
+and change pip install method</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWIm+W7umplbmtpbnPmnoTlu7rpobnnm64K</text>
+        <text encoding="base64">LSBuYW1lOiBwaXAgaW5zdGFsbAogIHNoZWxsOiAie3sgcGlwX2luc3RhbGwgfX0iCiAgd2hlbjogcGlwX2luc3RhbGwgaXMgZGVmaW5lZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWkhOeQhuWIm+W7uuWksei0peaXtueahOWBmuazlQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWIm+W7umplbmtpbnPmnoTlu7rpobnnm64K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOiwg+aOpeWPo+WOu+acjeWKoeagkeWIm+W7uuiKgueCuQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWkhOeQhuWIm+W7uuWksei0peaXtueahOWBmuazlQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbmRfbm90aWZ5X21haWxfdG9fYWRtaW4oIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOiwg+aOpeWPo+WOu+acjeWKoeagkeWIm+W7uuiKgueCuQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBzZW5kIG5vdGlmeSBtYWlsIG9yIG1ha2UgZXJyb3IgZXZlbnQK</text>
+        <text encoding="base64">ICAgIHNlbmRfbm90aWZ5X21haWxfdG9fYWRtaW4oIiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyBzZW5kIG5vdGlmeSBtYWlsIG9yIG1ha2UgZXJyb3IgZXZlbnQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
