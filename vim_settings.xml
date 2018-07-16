@@ -10,6 +10,7 @@
         <mark key="^" line="68" column="7" />
         <mark key="." line="68" column="7" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/funcs.py" timestamp="1531734189375" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/supervisord/celerybeat.conf" timestamp="1527748292428">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="2" column="53" />
@@ -37,12 +38,12 @@
         <mark key="^" line="73" column="24" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/tag.py" timestamp="1530266071600">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/tag.py" timestamp="1531732727373">
         <mark key="'" line="26" column="7" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="40" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" timestamp="1527749171194">
         <mark key="'" line="5" column="0" />
@@ -612,11 +613,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/requirements.txt" timestamp="1531723554413">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" timestamp="1531468502096">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="0" column="1" />
@@ -696,10 +692,6 @@
         <mark key="]" line="83" column="40" />
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
-      </file>
-      <file name="$USER_HOME$/lingsi/code/python/qcloud_api/configs/config.py" timestamp="1531723093110">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1531732435153">
         <mark key="'" line="838" column="1" />
@@ -788,7 +780,13 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531732425749">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/ldapm/api/views.py" timestamp="1531734249445">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="196" column="7" />
+        <mark key="^" line="196" column="7" />
+        <mark key="." line="196" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531732450564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -976,11 +974,11 @@
       <jump line="39" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fix create default srv call send mai</text>
       </register>
       <register name="-" type="4">
-        <text>release_id</text>
+        <text>fix create default srv call send mai</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
