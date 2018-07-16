@@ -225,12 +225,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1531475291033">
-        <mark key="'" line="385" column="16" />
-        <mark key="[" line="123" column="19" />
-        <mark key="]" line="124" column="15" />
-        <mark key="." line="124" column="15" />
-        <mark key="^" line="124" column="15" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1531730112854">
+        <mark key="[" line="125" column="21" />
+        <mark key="]" line="125" column="28" />
+        <mark key="." line="125" column="28" />
+        <mark key="^" line="125" column="28" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -307,18 +306,19 @@
         <mark key="." line="192" column="64" />
         <mark key="^" line="192" column="64" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1531475062267">
-        <mark key="'" line="662" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="634" column="68" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1531729537549">
+        <mark key="'" line="378" column="15" />
+        <mark key="[" line="446" column="11" />
+        <mark key="]" line="447" column="45" />
+        <mark key="." line="447" column="45" />
+        <mark key="^" line="447" column="45" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1531725941826">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1531728126304">
         <mark key="'" line="16" column="74" />
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="16" column="58" />
-        <mark key="." line="16" column="58" />
+        <mark key="[" line="150" column="83" />
+        <mark key="]" line="150" column="62" />
+        <mark key="." line="150" column="62" />
+        <mark key="^" line="150" column="62" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/example.xml" timestamp="1530695705530">
         <mark key="[" line="2" column="20" />
@@ -788,7 +788,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531726568329">
+      <file name="/Dummy.txt" timestamp="1531726968648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -827,6 +827,12 @@
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" timestamp="1531469486002">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1531382654602">
         <mark key="[" line="26" column="9" />
@@ -868,9 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
-      <jump line="138" column="28" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
       <jump line="390" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="40" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
       <jump line="18" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
@@ -968,47 +971,49 @@
       <jump line="39" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
       <jump line="11" column="43" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
       <jump line="68" column="26" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" />
+      <jump line="149" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="160" column="34" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="377" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZV9kaWN0ID0gc2VhcmNoX3Nydih0YWdfZGljdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>add create default srv ap</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coInJlcXVlc3QgZXJyb3IgdXJsPT57fSx0ZXh0PT57fSIuZm9ybWF0KAogICAgICAgICAgICByZXMucmVxdWVzdC51cmwsIHJlcy50ZXh0KSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZV9kaWN0ID0gc2VhcmNoX3Nydih0YWdfZGljdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>fix pip_install before restart service
-and change pip install method</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5vZGVfbGlzdCA9IFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBwaXAgaW5zdGFsbAogIHNoZWxsOiAie3sgcGlwX2luc3RhbGwgfX0iCiAgd2hlbjogcGlwX2luc3RhbGwgaXMgZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBkYi5zZXNzaW9uLmJ1bGtfc2F2ZV9vYmplY3RzKG5vZGVfbGlzdCkKICAgICAgICByZXR1cm4gVHJ1ZQogICAgZXhjZXB0IEludGVncml0eUVycm9yOgogICAgICAgIGV4Y2VwdGlvbl9sb2coImJhdCBhZGQgdHJlZSBub2RlIGV4Y2VwdGlvbiIpCiAgICAgICAgZGIuc2Vzc2lvbi5yb2xsYmFjaygpCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWIm+W7umplbmtpbnPmnoTlu7rpobnnm64K</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2xpc3QuYXBwZW5kKFRyZWVOb2RlKG5vZGVfaWQ9bm9kZV9pZCwgbmFtZT1uYW1lLCBwYXJlbnRfaWQ9cGFyZW50X2lkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWkhOeQhuWIm+W7uuWksei0peaXtueahOWBmuazlQo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2lkID0gc3RyKHV1aWQudXVpZDQoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOiwg+aOpeWPo+WOu+acjeWKoeagkeWIm+W7uuiKgueCuQo=</text>
+        <text encoding="base64">ICAgICAgICBzcnZfbm9kZV9pZCA9IHBhcnNlX2RpY3QuZ2V0KCdzcnZfbm9kZV9pZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbmRfbm90aWZ5X21haWxfdG9fYWRtaW4oIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBzZW5kIG5vdGlmeSBtYWlsIG9yIG1ha2UgZXJyb3IgZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ3JwX3RhZ19vYmoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21zZy9tc2dfb3JfZGF0YS9n</text>
