@@ -253,12 +253,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" timestamp="1531480701271">
-        <mark key="'" line="83" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="25" />
-        <mark key="^" line="58" column="25" />
-        <mark key="." line="58" column="25" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/extra_api.py" timestamp="1531726957177">
+        <mark key="'" line="85" column="12" />
+        <mark key="[" line="63" column="68" />
+        <mark key="]" line="64" column="11" />
+        <mark key="." line="64" column="11" />
+        <mark key="^" line="64" column="11" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/falcon_agent/tasks/main.yml" timestamp="1529465811971">
         <mark key="[" line="4" column="23" />
@@ -788,7 +788,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531726392697">
+      <file name="/Dummy.txt" timestamp="1531726568329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -970,43 +970,42 @@
       <jump line="68" column="26" filename="$USER_HOME$/devops/jenkins/roles/jenkins/tasks/env.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fix pip_install before restart service
-and change pip install method</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>update vrserver test1 en</text>
+        <text>add create default srv ap</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBNYWlsCk1BSUxfU0VSVkVSID0gJ3NtdHAuZXhtYWlsLnFxLmNvbScKTUFJTF9QT1JUID0gNDY1Ck1BSUxfVVNFX1NTTCA9IFRydWUKTUFJTF9VU0VSTkFNRSA9ICdvcHNAc21hcnRjaW5lbWEuY29tLmNuJwpNQUlMX1BBU1NXT1JEID0gJ21zczhpUVpWWHl1eTVFeTknCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzQHNtYXJ0Y2luZW1hLmNvbS5jbicKTUFJTF9TVUZGSVggPSAnQHNtYXJ0Y2luZW1hLmNvbS5jbicK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coInJlcXVlc3QgZXJyb3IgdXJsPT57fSx0ZXh0PT57fSIuZm9ybWF0KAogICAgICAgICAgICByZXMucmVxdWVzdC51cmwsIHJlcy50ZXh0KSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfbG9nKCIiKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>fix pip_install before restart service
 and change pip install method</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LSBuYW1lOiBwaXAgaW5zdGFsbAogIHNoZWxsOiAie3sgcGlwX2luc3RhbGwgfX0iCiAgd2hlbjogcGlwX2luc3RhbGwgaXMgZGVmaW5lZAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWIm+W7umplbmtpbnPmnoTlu7rpobnnm64K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOWkhOeQhuWIm+W7uuWksei0peaXtueahOWBmuazlQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOiwg+aOpeWPo+WOu+acjeWKoeagkeWIm+W7uuiKgueCuQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHNlbmRfbm90aWZ5X21haWxfdG9fYWRtaW4oIiIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyBzZW5kIG5vdGlmeSBtYWlsIG9yIG1ha2UgZXJyb3IgZXZlbnQK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyBzZW5kIG5vdGlmeSBtYWlsIG9yIG1ha2UgZXJyb3IgZXZlbnQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
