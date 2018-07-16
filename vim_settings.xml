@@ -161,12 +161,12 @@
         <mark key="^" line="48" column="54" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531710949547">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="166" column="12" />
-        <mark key="]" line="166" column="7" />
-        <mark key="." line="166" column="7" />
-        <mark key="^" line="166" column="7" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" timestamp="1531712089291">
+        <mark key="'" line="111" column="13" />
+        <mark key="[" line="112" column="29" />
+        <mark key="]" line="112" column="51" />
+        <mark key="." line="112" column="51" />
+        <mark key="^" line="112" column="51" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/conf.d/celeryd.conf" timestamp="1530872971770">
         <mark key="[" line="2" column="63" />
@@ -771,7 +771,7 @@
         <mark key="." line="34" column="73" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531481948042">
+      <file name="/Dummy.txt" timestamp="1531711122915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -851,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
       <jump line="30" column="22" filename="$USER_HOME$/lingsi/code/python/plus_api/app/__init__.py" />
       <jump line="37" column="4" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
       <jump line="1" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" />
@@ -951,13 +950,14 @@
       <jump line="180" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="16" column="74" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="24" column="26" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
+      <jump line="110" column="13" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluZm9fbG9nKCJxdWV1ZV9udW1iZXIgPT4ge30iLmZvcm1hdChxdWV1ZV9udW1iZXIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>add 创建发布项时，去服务树创建节</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
