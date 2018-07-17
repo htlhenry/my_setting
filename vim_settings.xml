@@ -164,12 +164,12 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" timestamp="1531818671278">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/build_and_deploy.py" timestamp="1531818709997">
         <mark key="'" line="46" column="24" />
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="45" column="52" />
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="23" />
+        <mark key="." line="42" column="23" />
+        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/send_mail.py" timestamp="1531725296465">
         <mark key="'" line="19" column="9" />
@@ -816,7 +816,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531818665291">
+      <file name="/Dummy.txt" timestamp="1531818713632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1010,11 +1010,11 @@
       <jump line="239" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhpc3RvcnlfaXBfbGlzdCA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>fix history host with cdn_ip_lis</text>
       </register>
       <register name="-" type="4">
-        <text>fix KeyErro</text>
+        <text>fix history host with cdn_ip_lis</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
