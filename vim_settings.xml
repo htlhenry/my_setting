@@ -137,12 +137,12 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" timestamp="1531886736960">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" timestamp="1531894596234">
         <mark key="'" line="269" column="19" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="115" column="61" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="113" column="71" />
+        <mark key="]" line="115" column="84" />
+        <mark key="^" line="115" column="84" />
+        <mark key="." line="115" column="84" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1531808632554">
         <mark key="'" line="37" column="49" />
@@ -808,7 +808,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531886521850">
+      <file name="/Dummy.txt" timestamp="1531886887763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1002,11 +1002,11 @@
       <jump line="57" column="8" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5LyY5YyWCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix up order host list by cd</text>
       </register>
       <register name="-" type="4">
-        <text>get_rollback_host_by_id</text>
+        <text>fix up order host list by cd</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
