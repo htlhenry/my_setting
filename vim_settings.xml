@@ -816,7 +816,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531911231749">
+      <file name="/Dummy.txt" timestamp="1531912394959">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1016,11 +1016,11 @@
       <jump line="48" column="30" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHBlcm1pc3Npb25fcmVxdWlyZWQocGVybT0icmVhZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix check_read permissio</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>fix check_read permissio</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
