@@ -237,12 +237,12 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1532314622565">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1532328263188">
         <mark key="'" line="278" column="37" />
-        <mark key="[" line="951" column="33" />
-        <mark key="]" line="951" column="41" />
-        <mark key="." line="951" column="41" />
-        <mark key="^" line="951" column="41" />
+        <mark key="[" line="956" column="35" />
+        <mark key="]" line="957" column="56" />
+        <mark key="." line="957" column="56" />
+        <mark key="^" line="957" column="56" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views.py" timestamp="1526542154766">
         <mark key="'" line="101" column="20" />
@@ -318,12 +318,12 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="191" column="64" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1532086314720">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1532328409435">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-        <mark key="^" line="23" column="0" />
+        <mark key="[" line="949" column="43" />
+        <mark key="]" line="949" column="69" />
+        <mark key="." line="949" column="69" />
+        <mark key="^" line="949" column="69" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1531730522242">
         <mark key="'" line="16" column="74" />
@@ -893,12 +893,12 @@
         <mark key="." line="76" column="44" />
         <mark key="^" line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1532087818807">
-        <mark key="'" line="67" column="27" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1532328510132">
+        <mark key="'" line="79" column="27" />
+        <mark key="[" line="60" column="69" />
+        <mark key="]" line="61" column="59" />
+        <mark key="^" line="61" column="59" />
+        <mark key="." line="61" column="59" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/restart.sh" timestamp="1530872615324">
         <mark key="[" line="51" column="0" />
@@ -1029,8 +1029,8 @@
       <jump line="156" column="43" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1045,28 +1045,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHJldHJ5CmRlZiBnZXRfcmVsZWFzZV9pdGVtKGlkLCB1c2VyKToKICAgIGlmIHVzZXIuaXNfYWRtaW4oKToKICAgICAgICBpdGVtID0gUmVsZWFzZUl0ZW0ucXVlcnkuZmlsdGVyX2J5KGlkPWlkKS5maXJzdCgpCiAgICAgICAgaWYgbm90IGl0ZW06CiAgICAgICAgICAgIHJldHVybiB7fQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAqKml0ZW0udG9fZGljdCgpLAogICAgICAgICAgICAgICAgInBlcm1zIjogWyJ3cml0ZSJdCiAgICAgICAgICAgIH0KICAgIGVsc2U6CiAgICAgICAgdGFnX29iaiA9IFJlbFJlbGVhc2VJdGVtVGFnUXVlcnkucXVlcnlfYnlfcmVsZWFzZV9pZChpZCkKICAgICAgICBpZiBub3QgdGFnX29iajoKICAgICAgICAgICAgcmV0dXJuIHt9CiAgICAgICAgcGVybXMgPSBnZXRfYWxsX2N1cnJlbnRfdXNlcl90YWdfcGVybXModGFnPXRhZ19vYmoudGFnKQogICAgICAgIGRlYnVnX2xvZygicGVybXMgPT4ge30iLmZvcm1hdChwZXJtcykpCiAgICAgICAgaWYgcGVybXM6CiAgICAgICAgICAgIGl0ZW0gPSBSZWxlYXNlSXRlbS5xdWVyeS5maWx0ZXIoUmVsZWFzZUl0ZW0uaWQgPT0gaWQpLmZpcnN0KCkKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICoqaXRlbS50b19kaWN0KCksCiAgICAgICAgICAgICAgICAicGVybXMiOiBwZXJtcwogICAgICAgICAgICB9CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHVzZXIuaXNfYWRtaW4oKToKICAgICAgICAgICAgICAgIGl0ZW0gPSBSZWxlYXNlSXRlbS5xdWVyeS5maWx0ZXJfYnkoaWQ9cmVsZWFzZV9pZCkuZmlyc3QoKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaXRlbSA9IFJlbGVhc2VJdGVtLnF1ZXJ5LmZpbHRlcihSZWxlYXNlSXRlbS5pZCA9PSByZWxlYXNlX2lkKS5maWx0ZXIoUmVsZWFzZUl0ZW0uaWQuaW5fKAogICAgICAgICAgICAgICAgICAgIFVzZXJSZWxlYXNlLnF1ZXJ5LndpdGhfZW50aXRpZXMoVXNlclJlbGVhc2UucmVsZWFzZV9pZCkuZmlsdGVyX2J5KHVzZXJfaWQ9dXNlci5pZCkKICAgICAgICAgICAgICAgICkpLmZpcnN0KCkKICAgICAgICAgICAgcmV0dXJuIGl0ZW0KICAgICAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3I6CiAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coImdldCByZWxlYXNlSXRlbSBlcnJvciIpCiAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpdGVtOgogICAgICAgICAgICByZXR1cm4gaXRlbS50b19kaWN0KCkK</text>
+        <text encoding="base64">QHJldHJ5CmRlZiBnZXRfcmVsZWFzZV9pdGVtKGlkLCB1c2VyKToKICAgIGlmIHVzZXIuaXNfYWRtaW4oKToKICAgICAgICBpdGVtID0gUmVsZWFzZUl0ZW0ucXVlcnkuZmlsdGVyX2J5KGlkPWlkKS5maXJzdCgpCiAgICAgICAgaWYgbm90IGl0ZW06CiAgICAgICAgICAgIHJldHVybiB7fQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAqKml0ZW0udG9fZGljdCgpLAogICAgICAgICAgICAgICAgInBlcm1zIjogWyJ3cml0ZSJdCiAgICAgICAgICAgIH0KICAgIGVsc2U6CiAgICAgICAgdGFnX29iaiA9IFJlbFJlbGVhc2VJdGVtVGFnUXVlcnkucXVlcnlfYnlfcmVsZWFzZV9pZChpZCkKICAgICAgICBpZiBub3QgdGFnX29iajoKICAgICAgICAgICAgcmV0dXJuIHt9CiAgICAgICAgcGVybXMgPSBnZXRfYWxsX2N1cnJlbnRfdXNlcl90YWdfcGVybXModGFnPXRhZ19vYmoudGFnKQogICAgICAgIGRlYnVnX2xvZygicGVybXMgPT4ge30iLmZvcm1hdChwZXJtcykpCiAgICAgICAgaWYgcGVybXM6CiAgICAgICAgICAgIGl0ZW0gPSBSZWxlYXNlSXRlbS5xdWVyeS5maWx0ZXIoUmVsZWFzZUl0ZW0uaWQgPT0gaWQpLmZpcnN0KCkKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICoqaXRlbS50b19kaWN0KCksCiAgICAgICAgICAgICAgICAicGVybXMiOiBwZXJtcwogICAgICAgICAgICB9CiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFwcF90cmVlX2FwaSA9IEFwcFRyZWVBcGkoKQogICAgICAgICMgcGVybXMgPSBhcHBfdHJlZV9hcGkuZ2V0X3VzZXJfc3lzdGVtX3Blcm1zKHVzZXIubmFtZSwgdGFnPXRhZ19vYmoudGFnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGlmIHVzZXIuaXNfYWRtaW4oKToKICAgICAgICAgICAgICAgIGl0ZW0gPSBSZWxlYXNlSXRlbS5xdWVyeS5maWx0ZXJfYnkoaWQ9cmVsZWFzZV9pZCkuZmlyc3QoKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgaXRlbSA9IFJlbGVhc2VJdGVtLnF1ZXJ5LmZpbHRlcihSZWxlYXNlSXRlbS5pZCA9PSByZWxlYXNlX2lkKS5maWx0ZXIoUmVsZWFzZUl0ZW0uaWQuaW5fKAogICAgICAgICAgICAgICAgICAgIFVzZXJSZWxlYXNlLnF1ZXJ5LndpdGhfZW50aXRpZXMoVXNlclJlbGVhc2UucmVsZWFzZV9pZCkuZmlsdGVyX2J5KHVzZXJfaWQ9dXNlci5pZCkKICAgICAgICAgICAgICAgICkpLmZpcnN0KCkKICAgICAgICAgICAgcmV0dXJuIGl0ZW0KICAgICAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3I6CiAgICAgICAgICAgIGV4Y2VwdGlvbl9sb2coImdldCByZWxlYXNlSXRlbSBlcnJvciIpCiAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpdGVtOgogICAgICAgICAgICByZXR1cm4gaXRlbS50b19kaWN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5a6M5oiQ6L+Z6YeM77yM6Z2eYWRtaW7nlKjmiLfmoLnmja7mnI3liqHmoJHkuK3nmoR0YWfmnaXnnIvliLDlj5HluIPpobkK</text>
+        <text encoding="base64">ICAgICAgICAjIGFwcF90cmVlX2FwaSA9IEFwcFRyZWVBcGkoKQogICAgICAgICMgcGVybXMgPSBhcHBfdHJlZV9hcGkuZ2V0X3VzZXJfc3lzdGVtX3Blcm1zKHVzZXIubmFtZSwgdGFnPXRhZ19vYmoudGFnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtyZWxlYXNlX3RhZy5yZWxlYXNlX2lkIGZvciByZWxlYXNlX3RhZyBpbiB1c2VyX3JlbGVhc2VfdGFnX2xpc3RdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpdGVtCg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
