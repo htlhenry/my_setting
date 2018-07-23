@@ -98,12 +98,12 @@
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" timestamp="1532081452479">
-        <mark key="'" line="56" column="7" />
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="44" column="65" />
-        <mark key="." line="44" column="65" />
-        <mark key="^" line="44" column="65" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" timestamp="1532316871621">
+        <mark key="'" line="54" column="7" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" timestamp="1529488141564">
         <mark key="[" line="11" column="30" />
@@ -237,7 +237,7 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1532088067721">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" timestamp="1532314622565">
         <mark key="'" line="278" column="37" />
         <mark key="[" line="951" column="33" />
         <mark key="]" line="951" column="41" />
@@ -723,12 +723,11 @@
         <mark key="." line="77" column="34" />
         <mark key="^" line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532088492328">
-        <mark key="'" line="15" column="39" />
-        <mark key="[" line="145" column="13" />
-        <mark key="]" line="146" column="43" />
-        <mark key="." line="146" column="43" />
-        <mark key="^" line="146" column="43" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532316767656">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="135" column="20" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_release_item_desc_order.py" timestamp="1529571988022">
         <mark key="[" line="13" column="13" />
@@ -736,12 +735,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1531825506376">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/func.py" timestamp="1532316855362">
         <mark key="'" line="164" column="8" />
-        <mark key="[" line="164" column="91" />
-        <mark key="]" line="188" column="45" />
-        <mark key="." line="188" column="45" />
-        <mark key="^" line="188" column="45" />
+        <mark key="[" line="164" column="59" />
+        <mark key="]" line="182" column="62" />
+        <mark key="." line="182" column="62" />
+        <mark key="^" line="182" column="62" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" timestamp="1531886766770">
         <mark key="'" line="57" column="8" />
@@ -928,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="40" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
       <jump line="183" column="11" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
       <jump line="11" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/helpers.py" />
       <jump line="180" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
@@ -1028,10 +1026,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" />
       <jump line="290" column="6" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
       <jump line="278" column="37" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/controller.py" />
+      <jump line="136" column="54" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpdGVtOgogICAgICAgICAgICByZXR1cm4gaXRlbS50b19kaWN0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -1043,28 +1042,28 @@
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBkZXBsb3lfdGVtcGxhdGVgICgKICBgaWRgIGludCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiAgYHV1aWRgIHZhcmNoYXIoNjQpIE5PVCBOVUxMIENPTU1FTlQgJ+aooeadv3V1aWQnLAogIGBuYW1lYCB2YXJjaGFyKDEyKSBOT1QgTlVMTCBDT01NRU5UICflj5HluIPmqKHmnb/lkI3lrZcnLAogIGByZWxlYXNlX2lkYCBpbnQgTk9UIE5VTEwgQ09NTUVOVCAn5Y+R5biD6aG5aWQnLAogIGBkZXNjYCB2YXJjaGFyKDY0KSBOT1QgTlVMTCBERUZBVUxUICfns7vnu5/oh6rliqjliJvlu7onIENPTU1FTlQgJ+aooeadv+eugOi/sCcsCiAgYGVudmAgdmFyY2hhcigxMikgTk9UIE5VTEwgQ09NTUVOVCAn546v5aKDJywKICBgZGVwbG95X2RpcmAgdmFyY2hhcigxMjgpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn6YOo572y55uu5b2VJywKICBgc2hgIHZhcmNoYXIoMTI4KSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ+WQr+WBnOiEmuacrCcsCiAgUFJJTUFSWSBLRVkgKGBpZGApLAogIFVOSVFVRSBLRVkgYGlkeF9yZWxlYXNlX3V1aWRgIChgcmVsZWFzZV9pZGAsIGB1dWlkYCksCiAgVU5JUVVFIEtFWSBgaWR4X3V1aWRfdGFnYCAoYHV1aWRgLCBgZW52YCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQ9J+WPkeW4g+aooeadv+ihqCc7CgpDUkVBVEUgVEFCTEUgYGJ1aWxkX3RlbXBsYXRlYCAoCiAgYGlkYCBpbnQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQgQ09NTUVOVCAn6Ieq5aKeaWQnLAogIGB1dWlkYCB2YXJjaGFyKDY0KSBOT1QgTlVMTCBDT01NRU5UICfmqKHmnb91dWlkJywKICBgcmVsZWFzZV9pZGAgaW50IE5PVCBOVUxMIENPTU1FTlQgJ+WPkeW4g+mhuWlkJywKICBgbmFtZWAgdmFyY2hhcigxMikgTk9UIE5VTEwgQ09NTUVOVCAn5p6E5bu65qih5p2/5ZCN5a2XJywKICBgZGVzY2AgdmFyY2hhcig2NCkgTk9UIE5VTEwgREVGQVVMVCAn57O757uf6Ieq5Yqo5Yib5bu6JyBDT01NRU5UICfmqKHmnb/nroDov7AnLAogIGBlbnZgIHZhcmNoYXIoMTIpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn546v5aKDJywKICBgcmV2ZXJzaW9uYCB2YXJjaGFyKDY0KSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ+aehOW7uueJiOacrCcsCiAgYGNvbW1hbmRgIHZhcmNoYXIoMTI4KSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ+aehOW7uuWRveS7pCcsCiAgYHNyY2AgdmFyY2hhcigxMjgpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn6YOo572y5rqQJywKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgVU5JUVVFIEtFWSBgaWR4X3V1aWRfbmFtZWAgKGB1dWlkYCwgYG5hbWVgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0n5p6E5bu65qih5p2/6KGoJzsKCkNSRUFURSBUQUJMRSBgcmVsX2J1aWxkX2RlcGxveWAgKAogIGBpZGAgaW50IE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5UIENPTU1FTlQgJ+iHquWinmlkJywKICBgYnBfaWRgIHZhcmNoYXIoNjQpIE5PVCBOVUxMIENPTU1FTlQgJ+aehOW7uuaooeadv2lkJywKICBgZHBfaWRgIHZhcmNoYXIoNjQpIE5PVCBOVUxMIENPTU1FTlQgJ+mDqOe9suaooeadv2lkJywKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgVU5JUVVFIEtFWSBgaWR4X2JwX2RwYCAoYGJwX2lkYCwgYGRwX2lkYCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQ9J+aehOW7uuaooeadv+WSjOWPkeW4g+aooeadv+WFs+iBlOihqCc7CgpDUkVBVEUgVEFCTEUgYHJlbF9qZW5raW5zX3Byb2plY3RgICgKICBgaWRgIGludCBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop5pZCcsCiAgYHByb2plY3RgIHZhcmNoYXIoMzIpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAnamVua2luc+mhueebricsCiAgYHJlbGVhc2VfaWRgIGludCBOT1QgTlVMTCBERUZBVUxUIDAgQ09NTUVOVCAn5Y+R5biD6aG5aWQnLAogIFBSSU1BUlkgS0VZIChgaWRgKSwKICBVTklRVUUgS0VZIGBpZHhfcmVsZWFzZV9qZW5raW5zX2pvYmAgKGBwcm9qZWN0YCwgYHJlbGVhc2VfaWRgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09NTUVOVD0namVua2luc+mhueebruWSjOWPkeW4g+mhueWFs+iBlOihqCc7CgpDUkVBVEUgVEFCTEUgYHJlbGVhc2VfdHlwZWAgKAogIGBpZGAgaW50IE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5UIENPTU1FTlQgJ+iHquWinmlkJywKICBgcmVsZWFzZV9pZGAgaW50IE5PVCBOVUxMIERFRkFVTFQgMCBDT01NRU5UICflj5HluIPpoblpZCcsCiAgYGRlcGxveV90eXBlYCBpbnQgTk9UIE5VTEwgREVGQVVMVCAwIENPTU1FTlQgJ+WPkeW4g+mhueexu+Wei++8jDA65pmu6YCa5Y+R5biD6aG5LDE6TWF2ZW7lj5HluIPpobknLAogIFBSSU1BUlkgS0VZIChgaWRgKSwKICBVTklRVUUgS0VZIGBpZHhfcmVsZWFzZV9kZXBsb3lfdHlwZWAgKGByZWxlYXNlX2lkYCwgYGRlcGxveV90eXBlYCkKKSBFTkdJTkU9SW5ub0RCIERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTU1FTlQ9J+WPkeW4g+mhueexu+Wei+WFs+iBlOihqCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpdGVtOgogICAgICAgICAgICByZXR1cm4gaXRlbS50b19kaWN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRhZyI6IHRhZywK</text>
+        <text encoding="base64">ICAgICAgICAjIGFwcF90cmVlX2FwaSA9IEFwcFRyZWVBcGkoKQogICAgICAgICMgcGVybXMgPSBhcHBfdHJlZV9hcGkuZ2V0X3VzZXJfc3lzdGVtX3Blcm1zKHVzZXIubmFtZSwgdGFnPXRhZ19vYmoudGFnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcnlfbGlzdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpdGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBub2RlWyJ0YWciXSBpbiBtZW1vcnlfbGlzdDoKICAgICAgICAgICAgICAgICAgICBtZW1vcnlfbGlzdC5hcHBlbmQobm9kZVsidGFnIl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8g5a6M5oiQ6L+Z6YeM77yM6Z2eYWRtaW7nlKjmiLfmoLnmja7mnI3liqHmoJHkuK3nmoR0YWfmnaXnnIvliLDlj5HluIPpobkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWdfbGlzdC5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHRhZ19saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtyZWxlYXNlX3RhZy5yZWxlYXNlX2lkIGZvciByZWxlYXNlX3RhZyBpbiB1c2VyX3JlbGVhc2VfdGFnX2xpc3RdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBlcm1zIjogW25vZGVfcGVybVsicGVybV9uYW1lIl1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3JlbGVhc2VfdGFnLnJlbGVhc2VfaWQgZm9yIHJlbGVhc2VfdGFnIGluIHVzZXJfcmVsZWFzZV90YWdfbGlzdF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInRhZyI6IG5vZGVbInRhZyJdLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnX2xvZygiYWxsX3RhZ19wZXJtcz0+e30iLmZvcm1hdChhbGxfdGFnX3Blcm1zKSkKICAgIHVzZXJfcmVsZWFzZV90YWdfbGlzdCA9IFsKICAgICAgICBSZWxSZWxlYXNlSXRlbVRhZ1F1ZXJ5LnF1ZXJ5X2J5X3RhZyh0YWcpLnJlbGVhc2VfaWQKICAgICAgICBmb3IgdGFnIGluIGFsbF90YWdfcGVybXMua2V5cygpCiAgICBdCiAgICBkZWJ1Z19sb2coInVzZXJfcmVsZWFzZV90YWdfbGlzdCA9PiB7fSIuZm9ybWF0KHVzZXJfcmVsZWFzZV90YWdfbGlzdCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGFsbF9nZXRfYWxsX3RhZ19wZXJtcygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
