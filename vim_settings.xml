@@ -284,12 +284,12 @@
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" timestamp="1532505593731">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="128" column="4" />
-        <mark key="]" line="128" column="30" />
-        <mark key="." line="128" column="30" />
-        <mark key="^" line="128" column="30" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" timestamp="1532506130528">
+        <mark key="'" line="73" column="32" />
+        <mark key="[" line="128" column="6" />
+        <mark key="]" line="130" column="64" />
+        <mark key="." line="130" column="64" />
+        <mark key="^" line="130" column="64" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/index.py" timestamp="1528964318547">
         <mark key="[" line="161" column="23" />
@@ -697,12 +697,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1532338222615">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1532505990064">
         <mark key="'" line="145" column="41" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="228" column="34" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="118" column="69" />
+        <mark key="." line="118" column="69" />
+        <mark key="^" line="118" column="69" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524893710711">
         <mark key="'" line="4" column="11" />
@@ -731,12 +731,12 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532503936983">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532505887896">
         <mark key="'" line="806" column="6" />
-        <mark key="[" line="239" column="12" />
-        <mark key="]" line="239" column="32" />
-        <mark key="^" line="239" column="32" />
-        <mark key="." line="239" column="32" />
+        <mark key="[" line="238" column="31" />
+        <mark key="]" line="239" column="22" />
+        <mark key="^" line="239" column="22" />
+        <mark key="." line="239" column="22" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_release_item_desc_order.py" timestamp="1529571988022">
         <mark key="[" line="13" column="13" />
@@ -831,7 +831,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532504445053">
+      <file name="/Dummy.txt" timestamp="1532505602684">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -931,7 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
       <jump line="7" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
       <jump line="48" column="52" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
       <jump line="57" column="8" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/history.py" />
@@ -1031,13 +1030,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
       <jump line="45" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
       <jump line="9" column="65" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
+      <jump line="73" column="32" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auto_create_jenkins_project</text>
+        <text>update release config scrip</text>
       </register>
       <register name="-" type="4">
-        <text>auto_create_jenkins_project</text>
+        <text>update release config scrip</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
