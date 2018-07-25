@@ -284,12 +284,12 @@
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" timestamp="1532503991745">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" timestamp="1532504398316">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="78" column="35" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="35" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="162" column="9" />
+        <mark key="." line="162" column="9" />
+        <mark key="^" line="162" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/rrd/view/index.py" timestamp="1528964318547">
         <mark key="[" line="161" column="23" />
@@ -831,7 +831,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532498455407">
+      <file name="/Dummy.txt" timestamp="1532504075930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1033,11 +1033,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhdF9yZWxhdGVfcmVsZWFzZV9pdGVtX3RhZyhhbGxfaXRlbSkK</text>
+      <register name="&quot;" type="4">
+        <text>add prod env write permission chec</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>add prod env write permission chec</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
