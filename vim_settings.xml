@@ -716,12 +716,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1532591376289">
-        <mark key="'" line="421" column="0" />
-        <mark key="[" line="433" column="33" />
-        <mark key="]" line="434" column="36" />
-        <mark key="." line="434" column="36" />
-        <mark key="^" line="434" column="36" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1532592123862">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/cms/oam" timestamp="1524893710711">
         <mark key="'" line="4" column="11" />
@@ -750,12 +750,12 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532589845783">
-        <mark key="'" line="261" column="16" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="^" line="224" column="14" />
-        <mark key="." line="232" column="0" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532592456229">
+        <mark key="'" line="838" column="0" />
+        <mark key="[" line="1053" column="75" />
+        <mark key="]" line="1059" column="32" />
+        <mark key="^" line="1059" column="32" />
+        <mark key="." line="1059" column="32" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/tests/test_release_item_desc_order.py" timestamp="1529571988022">
         <mark key="[" line="13" column="13" />
@@ -950,9 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" />
-      <jump line="48" column="30" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
-      <jump line="53" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="21" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="620" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="20" column="9" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/tag.py" />
@@ -1050,10 +1047,13 @@
       <jump line="33" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="14" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="11" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/silent.py" />
+      <jump line="1019" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
+      <jump line="838" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhOgogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgZGF0YS50b19kaWN0KCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1065,31 +1065,31 @@
         <text encoding="base64">IyByZWRpcwpSRURJU19IT1NUID0gIjE3Mi4yMS4xNi40OSIKUkVESVNfUE9SVCA9IDYzNzkKUkVESVNfUEFTU1dPUkQgPSAnbFRaMTJEWmxLMmhIbGdZZicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhOgogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgZGF0YS50b19kaWN0KCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInNlYXJjaCA9IikK</text>
+        <text encoding="base64">Y2xhc3MgU2lsZW50Q29uZmlnUXVlcnk6CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYganVkZ2VfcmVsZWFzZV9pbl9zaWxlbnQocmVsZWFzZV9pZCk6CiAgICAgICAgIyDlnKjooajkuK3nmoTmlbDmja7pg73mmK/mjpLlh7rlj6/ku6Xlj5HluIPnmoTvvIwg5ZCO57ut6ICD6JmR5Yqg5YWl5pe26Ze06ZmQ5Yi277yM6Kej56aB6ZmQ5Yi2562JCiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uID0gcmVxdWVzdC5hcmdzLmdldCgicGFnaW5hdGlvbiIsIFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkYXRhOgogICAgICAgICAgICByZXR1cm4gVHJ1ZSwgZGF0YS50b19kaWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGEudG9fZGljdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInNlYXJjaCA9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uID0gcmVxdWVzdC5hcmdzLmdldCgicGFnaW5hdGlvbiIsIFRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGEudG9fZGljdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbGVhc2VfaWQgPSByZXF1ZXN0LmEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUT0RPIOWujOaIkOino+emgeeUs+ivt+ebuOWFs+aOpeWPowo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlbGVhc2VJdGVtUS4K</text>
+        <text encoding="base64">ICAgIHJlbGVhc2VfaWQgPSByZXF1ZXN0LmEK</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
