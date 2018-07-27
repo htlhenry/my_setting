@@ -510,11 +510,11 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/HISTORY.rst" timestamp="1532683288330">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/HISTORY.rst" timestamp="1532683381859">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/exc.py" timestamp="1532338085145">
         <mark key="[" line="69" column="16" />
@@ -845,7 +845,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532678277315">
+      <file name="/Dummy.txt" timestamp="1532683309471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1047,11 +1047,11 @@
       <jump line="40" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBjcmVhdGUgbmV3IHRhYmxlIGBkZXBsb3lfdGVtcGxhdGVgIGBidWlsZF90ZW1wbGF0ZWAgYHJlbF9idWlsZF9kZXBsb3lgIGByZWxfcmVsZWFzZV90YWdgCi0gYWRkIGNvbHVtbiAiZW52IiAidHlwZSIgInRwbF9pZCIgImJ1aWxkX2xvZyIgdG8gdGFibGUgYGhpc3RvcnlgCi0gY2hhbmdlIHRhYmxlIGBoaXN0b3J5YCBjb2x1bW4gImxvZ19wYXRoIiAiYmFja3VwX2RpciIgZGVmYXVsdCAnJwotIGNoYW5nZSB0YWJsZSBgaGlzdG9yeWAgY29sdW1ucyAic3RhdHVzIiBhZGQgY29tbWVudCAiU1RBUklORywgQlVJTERJTkciCi0gY2hhbmdlIHRhYmxlIGBoaXN0b3J5YCBgaGlzdG9yeV9ob3N0YCBgcm9sbGJhY2tgIGByb2xsYmFja19ob3N0YCBjb2x1bW4gYHN0YXR1c2AgbGVuZ3RoIDEwIHRvIDIwLgotIGFkZCBjb2x1bW4gYGNkbl90YWdgIHRvIGByZWxlYXNlX2l0ZW1gCi0gYWRkIGNvbHVtbiBgY2RuYCB0byBgaGlzdG9yeV9ob3N0YCwgYHJvbGxiYWNrX2hvc3RgCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix release_id erro</text>
       </register>
       <register name="-" type="4">
-        <text>fix session.delete erro</text>
+        <text>fix release_id erro</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
