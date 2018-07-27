@@ -746,7 +746,7 @@
         <mark key="^" line="49" column="26" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532677436705">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532678097942">
         <mark key="'" line="6" column="10" />
         <mark key="[" line="1077" column="0" />
         <mark key="]" line="1077" column="16" />
@@ -846,7 +846,7 @@
         <mark key="." line="219" column="11" />
         <mark key="^" line="219" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532677323942">
+      <file name="/Dummy.txt" timestamp="1532677448657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -886,12 +886,12 @@
         <mark key="." line="36" column="25" />
         <mark key="^" line="36" column="25" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" timestamp="1532598121166">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" timestamp="1532678238472">
         <mark key="'" line="8" column="37" />
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="48" column="13" />
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="54" />
+        <mark key="." line="38" column="54" />
+        <mark key="^" line="38" column="54" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1532499400517">
         <mark key="[" line="4" column="0" />
@@ -1049,10 +1049,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add send mai</text>
+        <text>release_id</text>
       </register>
       <register name="-" type="4">
-        <text>add send mai</text>
+        <text>release_id</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1088,7 +1088,7 @@
         <text encoding="base64">ZnJvbSB1dGlscwo=</text>
       </register>
       <register name=":" type="4">
-        <text>43</text>
+        <text>1070</text>
       </register>
     </registers>
     <search>
@@ -1124,7 +1124,6 @@
         <entry>msg</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvbmZpZy9ob3N0bmFtZV9wbGF5Ym9vay9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwcHRyZWVfYXBpL3FjbG91ZF9hcGkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JfcC9wYXJhbXMvZw==</entry>
         <entry>w</entry>
@@ -1144,6 +1143,7 @@
         <entry encoding="base64">JzwsJz5zL3RpY2tldC92cnNlcnZlci9n</entry>
         <entry encoding="base64">JzwsJz5zL21zZy9tc2dfb3JfZGF0YS9n</entry>
         <entry>43</entry>
+        <entry>1070</entry>
       </history-cmd>
       <history-expr />
       <history-input />
