@@ -322,12 +322,12 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="191" column="64" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1533203898921">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/dao.py" timestamp="1533207176309">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="409" column="43" />
-        <mark key="]" line="409" column="46" />
-        <mark key="^" line="409" column="46" />
-        <mark key="." line="409" column="46" />
+        <mark key="[" line="961" column="66" />
+        <mark key="]" line="963" column="30" />
+        <mark key="." line="963" column="30" />
+        <mark key="^" line="963" column="30" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1531730522242">
         <mark key="'" line="16" column="74" />
@@ -929,12 +929,12 @@
         <mark key="." line="70" column="9" />
         <mark key="^" line="76" column="44" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1533204476662">
-        <mark key="'" line="79" column="27" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="15" />
-        <mark key="." line="64" column="15" />
-        <mark key="^" line="64" column="15" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/perm.py" timestamp="1533207211662">
+        <mark key="'" line="80" column="27" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/restart.sh" timestamp="1530872615324">
         <mark key="[" line="51" column="0" />
@@ -1065,10 +1065,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>delete whitespac</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1077,31 +1077,31 @@
         <text encoding="base64">ICAgICAgICAgICAgVGlwczog5p+l55yLY2VsZXJ55pel5b+XCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgiL3N5c3RlbV9wZXJtcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZF9tYWlsX3RvX3VzZXJzKFt1c2VybmFtZV0sICJQbHVz5Y+R5biD5oiQ5Yqf6YCa55+lIiwgIiIiCiAgICAgICAgICAgIOWPkeW4g+mhuToge30KICAgICAgICAgICAgCiAgICAgICAgICAgICIiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZSwgTm9uZQo=</text>
+        <text encoding="base64">QGFwaS5yb3V0ZSgiL3N5c3RlbV9wZXJtcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXBkYXRlIHJlZGlzIGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZF9tYWlsX3RvX3VzZXJzKFt1c2VybmFtZV0sICJQbHVz5Y+R5biD5oiQ5Yqf6YCa55+lIiwgIiIiCiAgICAgICAgICAgIOWPkeW4g+mhuToge30KICAgICAgICAgICAgCiAgICAgICAgICAgICIiIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g5Y+R6YCB6YKu5Lu257uZ5Y+R6LW36ICF77yM5aSx6LSl5oqE6YCB57uZ5byA5Y+R6ICFCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZF9tYWlsX3RvX3VzZXJzKFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZSwgTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
