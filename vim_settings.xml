@@ -436,7 +436,6 @@
         <mark key="." line="43" column="85" />
         <mark key="^" line="43" column="85" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/falcon-dashboard/configs/prod_config.py" timestamp="1533625897305" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" timestamp="1528354667348">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="37" column="13" />
@@ -493,12 +492,12 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" timestamp="1533096342446">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="182" column="27" />
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" timestamp="1533633371025">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/perm_views.py" timestamp="1526471889775">
         <mark key="'" line="26" column="7" />
@@ -855,7 +854,7 @@
         <mark key="." line="109" column="41" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533628709208">
+      <file name="/Dummy.txt" timestamp="1533633406828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -955,7 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="66" column="15" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="67" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="45" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/bat_add_release_item_host.py" />
@@ -1055,13 +1053,14 @@
       <jump line="44" column="11" filename="$USER_HOME$/lingsi/code/python/ldapm/ldapm/models.py" />
       <jump line="47" column="11" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
       <jump line="11" column="72" filename="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" />
+      <jump line="41" column="20" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/deploy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix confirmed user logi</text>
+        <text>change sentry addres</text>
       </register>
       <register name="-" type="4">
-        <text>fix confirmed user logi</text>
+        <text>change sentry addres</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1070,31 +1069,31 @@
         <text encoding="base64">ICAgICAgICAgICAganNvbl9tZXRob2RzID0gWyJQT1NUIiwgIlBVVCJdCiAgICAgICAgICAgIHF1ZXJ5X21ldGhvZHMgPSBbIkdFVCIsICJERUxFVEUiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUT0RPICDlrozmiJDliKDpmaTmnYPpmZDmjqXlj6MK</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8g5YaZ5YWl5Y+R5biD5pel5b+XCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBUT0RPICDlrozmiJDliKDpmaTmnYPpmZDmjqXlj6MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlbE5vZGVVc2VyU3lzdGVtLnVzZXJuYW1lCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgiL3N5c3RlbV9wZXJtcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
