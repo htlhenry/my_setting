@@ -376,6 +376,7 @@
         <mark key="." line="72" column="59" />
         <mark key="^" line="72" column="59" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_crontab" timestamp="1533797694991" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1525430785965">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -442,12 +443,12 @@
         <mark key="." line="43" column="85" />
         <mark key="^" line="43" column="85" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/blockchain/service" timestamp="1533797168920">
+      <file name="$USER_HOME$/devops/jenkins/hosts/blockchain/service" timestamp="1533797862556">
         <mark key="'" line="17" column="31" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" timestamp="1528354667348">
         <mark key="'" line="87" column="0" />
@@ -707,6 +708,12 @@
         <mark key="." line="103" column="14" />
         <mark key="^" line="103" column="14" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1533797971693">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="46" column="5" />
+        <mark key="^" line="47" column="33" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/utils/QcloudApi/common/request.py" timestamp="1525260709304">
         <mark key="'" line="30" column="13" />
         <mark key="[" line="31" column="0" />
@@ -867,7 +874,7 @@
         <mark key="." line="109" column="41" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533796395261">
+      <file name="/Dummy.txt" timestamp="1533797285769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1070,43 +1077,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blockchain_fabric_service</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>blockchain_fabric_service</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbl9tZXRob2RzID0gWyJQT1NUIiwgIlBVVCJdCiAgICAgICAgICAgIHF1ZXJ5X21ldGhvZHMgPSBbIkdFVCIsICJERUxFVEUiXQo=</text>
+        <text encoding="base64">Y29tbWFuZD1qYXZhIC1qYXIge3sgcHJvZ3JhbSB9fS0wLjAuMS1TTkFQU0hPVC57eyBqYXJfb3Jfd2FyfGRlZmF1bHQoImphciIpIH19IC0tc3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT17eyBhY3RpdmVbZW52XSB9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjE1Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">MTcyLjIxLjE3LjEzNwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">MTcyLjIxLjE3LjE1Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">MTcyLjIxLjE3LjEzNwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9ImNtcy1vYW0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJlCg==</text>
+        <text encoding="base64">W3BsdXNdCmxvY2FsaG9zdCByZWxlYXNlX25hbWU9ImNtcy1vYW0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvZAo=</text>
+        <text encoding="base64">cHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOajgOafpeWPguaVsOWQiOazlQo=</text>
+        <text encoding="base64">cHJvZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPIOajgOafpeWPguaVsOWQiOazlQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZGF0YS5nZXQoImRlcGxveV9kaXIiKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
