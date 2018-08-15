@@ -891,7 +891,7 @@
         <mark key="." line="109" column="41" />
         <mark key="^" line="109" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533885577685">
+      <file name="/Dummy.txt" timestamp="1534314615939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1096,11 +1096,11 @@
       <jump line="7" column="30" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJjb21tYW5kIGNoZWNrIGRhbmdlciBzaGVsbCB7fSIuZm9ybWF0KGRhdGEuZ2V0KCJjb21tYW5kIikpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>command</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
