@@ -124,12 +124,12 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" timestamp="1533872613403">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/apply.py" timestamp="1534305088574">
         <mark key="'" line="9" column="65" />
-        <mark key="[" line="140" column="20" />
-        <mark key="]" line="140" column="22" />
-        <mark key="." line="140" column="22" />
-        <mark key="^" line="140" column="22" />
+        <mark key="[" line="184" column="38" />
+        <mark key="]" line="185" column="29" />
+        <mark key="." line="185" column="29" />
+        <mark key="^" line="185" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" timestamp="1533872728685">
         <mark key="'" line="136" column="0" />
@@ -316,7 +316,6 @@
         <mark key="^" line="11" column="134" />
         <mark key="." line="11" column="134" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/python/requests/requests/adapters.py" timestamp="1534159724589" />
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/ticket_customer.conf" timestamp="1526542368448">
         <mark key="'" line="27" column="28" />
         <mark key="[" line="0" column="0" />
@@ -713,12 +712,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" timestamp="1533872879092">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/template.py" timestamp="1534304706653">
         <mark key="'" line="21" column="3" />
-        <mark key="[" line="81" column="41" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
-        <mark key="^" line="81" column="40" />
+        <mark key="[" line="77" column="9" />
+        <mark key="]" line="80" column="39" />
+        <mark key="." line="80" column="39" />
+        <mark key="^" line="80" column="39" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/supervisord.j2" timestamp="1533797971693">
         <mark key="[" line="46" column="5" />
@@ -792,7 +791,6 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="31" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/python/requests/requests/sessions.py" timestamp="1534160069219" />
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" timestamp="1532678097942">
         <mark key="'" line="6" column="10" />
         <mark key="[" line="1077" column="0" />
@@ -1098,11 +1096,11 @@
       <jump line="142" column="15" filename="$USER_HOME$/lingsi/code/python/app_tree/tests/test_tree_data_struct.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>command</text>
       </register>
       <register name="-" type="4">
-        <text>change sentry addres</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1114,28 +1112,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9zdHNfcXVlcnkgPSBIb3N0LnF1ZXJ5LmZpbHRlcihIb3N0Lmluc3RhbmNlX2lkLmluXygKICAgICAgICAgICAgICAgIFJlbE5vZGVIb3N0LnF1ZXJ5LndpdGhfZW50aXRpZXMoUmVsTm9kZUhvc3QuaW5zdGFuY2VfaWQpLmZpbHRlcigKICAgICAgICAgICAgICAgICAgICBSZWxOb2RlSG9zdC5ub2RlX2lkLmluXyhub2RlX2lkX2xpc3QpKQogICAgICAgICAgICApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFnZSBhbmQgcGFnZV9zaXplOgogICAgICAgICAgICBob3N0cyA9IEhvc3QucXVlcnkuZmlsdGVyKEhvc3QuaW5zdGFuY2VfaWQuaW5fKAo=</text>
+        <text encoding="base64">ZGVmIGNoZWNrX3Jlc3RhcnRfc2gocmVzdGFydF9zaCk6CiAgICBpZiBub3QgcmVzdGFydF9zaDoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgaWYgInJtIiBvciAiIiBpbiByZXN0YXJ0X3NoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3RzID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIOiOt+WPlnRhZ+WSjOWtkHRhZ+WvueW6lOeahOaJgOaciW5vZGVfaWTvvIzku6Xlrp7njrDnu6fmib/lhbPns7sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9zdHNfcXVlcnkgPSBIb3N0LnF1ZXJ5LmZpbHRlcihIb3N0Lmluc3RhbmNlX2lkLmluXygKICAgICAgICAgICAgICAgIFJlbE5vZGVIb3N0LnF1ZXJ5LndpdGhfZW50aXRpZXMoUmVsTm9kZUhvc3QuaW5zdGFuY2VfaWQpLmZpbHRlcigKICAgICAgICAgICAgICAgICAgICBSZWxOb2RlSG9zdC5ub2RlX2lkLmluXyhub2RlX2lkX2xpc3QpKQogICAgICAgICAgICApKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHBhZ2UgYW5kIHBhZ2Vfc2l6ZToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcGFnZSBhbmQgcGFnZV9zaXplOgogICAgICAgICAgICBob3N0cyA9IEhvc3QucXVlcnkuZmlsdGVyKEhvc3QuaW5zdGFuY2VfaWQuaW5fKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSB0YWc6IEEgc3RyaW5nIG9mIHNlcnZpY2UgbmFtZSwgYGBzdHJgYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3RzID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAjIOiOt+WPlnRhZ+WSjOWtkHRhZ+WvueW6lOeahOaJgOaciW5vZGVfaWTvvIzku6Xlrp7njrDnu6fmib/lhbPns7sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHBhZ2UgYW5kIHBhZ2Vfc2l6ZToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
