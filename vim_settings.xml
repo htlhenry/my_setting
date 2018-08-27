@@ -58,7 +58,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort.py" timestamp="1535208635383">
+      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort.py" timestamp="1535341006559">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="32" column="38" />
         <mark key="^" line="32" column="38" />
@@ -534,6 +534,13 @@
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" timestamp="1535341688856">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1526542673450">
         <mark key="'" line="10" column="0" />
@@ -1094,7 +1101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="9" column="35" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="73" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="10" column="34" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
@@ -1194,13 +1200,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/isvalid_string.py" />
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/problem_3.1.4.py" />
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/binary_search.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIG51bXM6CiAgICAgICAgIyAgICAgaWYgaSBpbiBudW1zW2M6XToKICAgICAgICAjICAgICAgICAgbnVtcy5yZW1vdmUoaSkKICAgICAgICAjICAgICBjICs9IDEK</text>
+      <register name="&quot;" type="4">
+        <text>pivot</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>pivot</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1209,31 +1216,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJjb21tYW5kIGNoZWNrIGRhbmdlciBzaGVsbCB7fSIuZm9ybWF0KGRhdGEuZ2V0KCJjb21tYW5kIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIG51bXM6CiAgICAgICAgIyAgICAgaWYgaSBpbiBudW1zW2M6XToKICAgICAgICAjICAgICAgICAgbnVtcy5yZW1vdmUoaSkKICAgICAgICAjICAgICBjICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbFtib3VuZGFyeV0gPSBsW2lkeF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaWR4LCBpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm91bmRhcnkgKz0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWR4ID0gbnVtcy5pbmRleChpKQo=</text>
+        <text encoding="base64">ICAgIGxbcmlnaHRdID0gcG9pdnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIG51bXM6CiAgICAgICAgIyAgICAgaWYgaSBpbiBudW1zW2M6XToKICAgICAgICAjICAgICAgICAgbnVtcy5yZW1vdmUoaSkKICAgICAgICAjICAgICBjICs9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgibWlkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaWR4LCBpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pZCA9IGxlbihscykgLy8gMgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWR4ID0gbnVtcy5pbmRleChpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaWQgPSBsZW4obHMpIC8vIDIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGIgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibWlkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0ID0gMAogICAgICAgIHJpZ2h0ID0gbGVuKGxzKSAtIDEK</text>
+        <text encoding="base64">ICAgIG1pZCA9IGxlbihscykgLy8gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
