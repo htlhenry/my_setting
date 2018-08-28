@@ -535,12 +535,11 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" timestamp="1535341688856">
+      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" timestamp="1535431360814">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/sc_customer" timestamp="1526542673450">
         <mark key="'" line="10" column="0" />
@@ -770,11 +769,11 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" timestamp="1535428060889">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-        <mark key="^" line="15" column="55" />
+      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" timestamp="1535436983863">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="54" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530863923357">
         <mark key="[" line="4" column="25" />
@@ -1214,11 +1213,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbnVtc1tpXSA+IG51bXNbYm91bmRhcnldOgogICAgICAgICAgICAgICAgc2VsZi5zd2FwKG51bXMsIGksIGJvdW5kYXJ5ICsgMSkKICAgICAgICAgICAgZWxzZToK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>pivot</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1227,31 +1226,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJjb21tYW5kIGNoZWNrIGRhbmdlciBzaGVsbCB7fSIuZm9ybWF0KGRhdGEuZ2V0KCJjb21tYW5kIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbnVtc1tpXSA+IG51bXNbYm91bmRhcnldOgogICAgICAgICAgICAgICAgc2VsZi5zd2FwKG51bXMsIGksIGJvdW5kYXJ5ICsgMSkKICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FIHBpdm90ICE9IGluZGV4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXNbYm91bmRhcnldID0gbnVtc1tpXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXNbYm91bmRhcnkrMV0gPSBudW1zW2ldCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBudW1zW2xlZnRdID0gbWlkW10K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maW5kS3RoSGVscGVyKG51bXMsIHBpdm90ICsgMSwgcmlnaHQsIGspCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByaWdodCAtIHBpdm90ID4gazoKICAgICAgICBlbGlmIHJpZ2h0IC0gcGl2b3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbnVtc1tpXSA+IG51bXNbYm91bmRhcnldOgogICAgICAgICAgICAgICAgc2VsZi5zd2FwKG51bXMsIGksIGJvdW5kYXJ5ICsgMSkKICAgICAgICAgICAgZWxzZToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXNbYm91bmRhcnldID0gbnVtc1tpXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bXNbYm91bmRhcnkrMV0gPSBudW1zW2ldCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
