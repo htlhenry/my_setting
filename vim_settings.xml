@@ -246,6 +246,13 @@
       <file name="$USER_HOME$/project/learning_example/leetcode/code/find_num_100_pair.py" timestamp="1534994275268">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/design_pattern/singleton/import_from.py" timestamp="1535524773902">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/app/api/views.py" timestamp="1528860134628">
         <mark key="'" line="4" column="33" />
         <mark key="[" line="9" column="0" />
@@ -313,6 +320,7 @@
         <mark key="." line="79" column="30" />
         <mark key="^" line="79" column="30" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/python/requests/env/lib/python2.7/site-packages/tornado/options.py" timestamp="1535524238828" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/falcon_agent/tasks/main.yml" timestamp="1529465811971">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="25" />
@@ -660,6 +668,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/design_pattern/singleton/import_there.py" timestamp="1535524786891">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/manage.py" timestamp="1533883136777">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="14" column="21" />
@@ -933,6 +947,9 @@
         <mark key="^" line="82" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/requests_learning/HISTORY.rst" timestamp="1535523986031">
+        <mark key="'" line="1191" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/app/api/views.py" timestamp="1529553326073">
         <mark key="'" line="47" column="35" />
         <mark key="[" line="467" column="28" />
@@ -1045,6 +1062,13 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/learning/python/python_example/design_pattern/import_there.py" timestamp="1535525589268">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/manage.py" timestamp="1533628479786">
         <mark key="'" line="19" column="10" />
         <mark key="[" line="13" column="27" />
@@ -1124,9 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="36" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
-      <jump line="674" column="10" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
-      <jump line="65" column="36" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="64" column="24" filename="$USER_HOME$/lingsi/code/python/plus_api/manage.py" />
       <jump line="15" column="39" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="806" column="6" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
@@ -1224,13 +1245,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/find_max_sub_num_sum.py" />
       <jump line="12" column="7" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/find_max_sub_num_sum.py" />
       <jump line="8" column="0" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" />
+      <jump line="1191" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/requests_learning/HISTORY.rst" />
+      <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/design_pattern/singleton/import_from.py" />
+      <jump line="9" column="17" filename="$USER_HOME$/learning/python/python_example/design_pattern/import_there.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>import_from</text>
       </register>
       <register name="/" type="4">
         <text>msg</text>
@@ -1239,31 +1263,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJjb21tYW5kIGNoZWNrIGRhbmdlciBzaGVsbCB7fSIuZm9ybWF0KGRhdGEuZ2V0KCJjb21tYW5kIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoeCwgeSwgc1t4XS5sb3dlcigpLCBzW3ldKQo=</text>
+        <text encoding="base64">ICAgIF9faW1wb3J0X18oc2luZ2xldG9uLikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4ocykpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGlkKHMyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgeCBub3QgaW4gc3RycyBvciB4IG5vdCBpbiBudW1zOgogICAgICAgICAgICAgICAgeCArPSAxCiAgICAgICAgICAgICAgICB3aGlsZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGlkKHNpbmdsZXRvbikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSB4IDwgeToKICAgICAgICAgICAgaWYgc1t4XS5sb3dlcigpIGluIHN0cnMgb3Igc1t4XS5sb3dlcigpIGluIG51bXM6CiAgICAgICAgICAgICAgICB2YWxpZF94ID0gc1t4XQogICAgICAgICAgICBpZiBzCiAgICAgICAgICAgICAgICB4ICs9IDEKICAgICAgICAgICAgeSAtPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucy5hYmMgaW1wb3J0IAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
