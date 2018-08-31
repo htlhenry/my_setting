@@ -246,6 +246,12 @@
       <file name="$USER_HOME$/project/learning_example/leetcode/code/find_num_100_pair.py" timestamp="1534994275268">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/lcs.py" timestamp="1535603313913">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/learning/python/python_example/design_pattern/singleton/import_from.py" timestamp="1535524773902">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="23" />
@@ -802,12 +808,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" timestamp="1535514817289">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" timestamp="1535602732089">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/__init__.py" timestamp="1530863923357">
         <mark key="[" line="4" column="25" />
@@ -1161,8 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
-      <jump line="806" column="6" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="49" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="38" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="147" column="41" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
@@ -1261,10 +1265,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/design_pattern/singleton/import_from.py" />
       <jump line="9" column="17" filename="$USER_HOME$/learning/python/python_example/design_pattern/import_there.py" />
       <jump line="0" column="0" filename="$USER_HOME$/learning/python/python_example/fluent_python/18/spinner_thread.py" />
+      <jump line="18" column="16" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/project/learning_example/leetcode/python_struct/find_kth_number.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>import_from</text>
@@ -1276,31 +1282,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJjb21tYW5kIGNoZWNrIGRhbmdlciBzaGVsbCB7fSIuZm9ybWF0KGRhdGEuZ2V0KCJjb21tYW5kIikpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIF9faW1wb3J0X18oc2luZ2xldG9uLikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlkKHMyKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlkKHNpbmdsZXRvbikpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IwojIGNsYXNzIFNvbHV0aW9uOgojICAgICBkZWYgZmluZEt0aExhcmdlc3Qoc2VsZiwgbnVtcywgayk6CiMgICAgICAgICBwaXZvdCA9IHJhbmRvbS5jaG9pY2UobnVtcykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlbG9hZCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIF9faW1wb3J0X18oc2luZ2xldG9uLikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+        <text encoding="base64">ICAgIHByaW50KGlkKHMyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGlkKHNpbmdsZXRvbikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1070</text>
