@@ -51,6 +51,7 @@
         <mark key="." line="58" column="36" />
         <mark key="^" line="58" column="36" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/env/lib/python3.6/site-packages/raven/contrib/flask.py" timestamp="1536205410195" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/tasks/celery_config.py" timestamp="1527749171194">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="18" column="11" />
@@ -235,6 +236,11 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/max_product_subarray.py" timestamp="1536217048777">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/perms.py" timestamp="1531912302855">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -280,11 +286,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/find_max_sub_num_sum.py" timestamp="1535467819844">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/find_max_sub_num_sum.py" timestamp="1536217053349">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/host_config.py" timestamp="1533208624965">
         <mark key="[" line="17" column="33" />
@@ -767,6 +773,7 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/ansible_playbook/roles/user_login/tasks/main.yml" timestamp="1536205025113" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/celery_config.py" timestamp="1533201673947">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1060,7 +1067,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536204419958">
+      <file name="/Dummy.txt" timestamp="1536204587613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1288,10 +1295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2coIj4+PiBvbGQgPT4ge30gbmV3ID0+IHt9IG5ldyByYXcgcGFzc3dvcmQgPT4ge30iLmZvcm1hdChvLCBuLCBwYXNzd29yZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9jYWwsIG1heF9zdW0pZGQK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>fix IndexError when ldap_user_data eq [</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
@@ -1300,31 +1307,31 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnOiBBcHBUcmVlJ3Mgc2VydmljZSB0YWcsIGBgc3RyYGAKICAgICAgICA6cGFyYW0gY2RuX3RhZzogQXBwVHJlZSdzIHNlcnZpY2UgY2RuIHRhZywgYGBzdHJgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mb19sb2coIj4+PiBvbGQgPT4ge30gbmV3ID0+IHt9IG5ldyByYXcgcGFzc3dvcmQgPT4ge30iLmZvcm1hdChvLCBuLCBwYXNzd29yZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9jYWwsIG1heF9zdW0pZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBoYW5kbGVycyBpbXBvcnQgTWFpbkhhbmRsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgTWFpbkhhbmRsZXIoUmVxdWVzdEhhbmRsZXIpOgogICAgZGVmIGdldChzZWxmKToKICAgICAgICBzZWxmLndyaXRlKCJoZWxsbywgaW5kZXgiKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obnVtc1sxOl0pKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIKIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgIG1heF9zdW0gPSAwCiAgICAgICAgdGhpc19zdW0gPSAwCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKG51bXMpKToKICAgICAgICAgICAgdGhpc19zdW0gKz0gbnVtc1tpXQogICAgICAgICAgICBpZiB0aGlzX3N1bSA+IG1heF9zdW06CiAgICAgICAgICAgICAgICBtYXhfc3VtID0gdGhpc19zdW0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHRoaXNfc3VtID0gMAogICAgICAgIHJldHVybiBtYXhfc3Vt</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</text>
