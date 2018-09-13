@@ -465,7 +465,6 @@
         <mark key="." line="72" column="59" />
         <mark key="^" line="72" column="59" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/env/lib/python3.6/site-packages/flask/globals.py" timestamp="1536647318841" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/goods_backend" timestamp="1525430785965">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -1034,6 +1033,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/length_of_last_word.py" timestamp="1536821137284">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/env/lib/python3.6/site-packages/tencentcloud/common/http/request.py" timestamp="1525259456479">
         <mark key="'" line="45" column="37" />
         <mark key="[" line="2" column="0" />
@@ -1062,7 +1067,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536647338097">
+      <file name="/Dummy.txt" timestamp="1536753235671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1292,11 +1297,11 @@
       <jump line="26" column="47" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>add sentr</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
@@ -1305,31 +1310,31 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnOiBBcHBUcmVlJ3Mgc2VydmljZSB0YWcsIGBgc3RyYGAKICAgICAgICA6cGFyYW0gY2RuX3RhZzogQXBwVHJlZSdzIHNlcnZpY2UgY2RuIHRhZywgYGBzdHJgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGksIGxpc3QpOgogICAgICAgICAgICBmb3IgdXJsIGluIGk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoanNvbl9kYXRhLmdldCgiZGF0YSIpLCBkaWN0KToKICAgICAgICB1cmxfbGlzdCA9IGpzb25fZGF0YVsiZGF0YSJdLnZhbHVlcygpCiAgICBlbHNlOgogICAgICAgIHVybF9saXN0ID0ganNvbl9kYXRhWyJkYXRhIl0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBzIGFuZCBzWy0xXSA9PSAiICI6CiAgICAgICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy5lbmRzd2l0aCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGksIGxpc3QpOgogICAgICAgICAgICBmb3IgdXJsIGluIGk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9kYXRhX2Zyb21fZGljdCgpOgo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoanNvbl9kYXRhLmdldCgiZGF0YSIpLCBkaWN0KToKICAgICAgICB1cmxfbGlzdCA9IGpzb25fZGF0YVsiZGF0YSJdLnZhbHVlcygpCiAgICBlbHNlOgogICAgICAgIHVybF9saXN0ID0ganNvbl9kYXRhWyJkYXRhIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlLCAi5pON5L2c5aSx6LSlIgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZSwgIumHjeWkjeaVsOaNriIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwaS5yb3V0ZSgiL3NpbGVudEFwcGx5Q29uZmlybSIsIG1ldGhvZHM9WyJERUxFVEUiXSkKQGxvZ2luX3JlcXVpcmVkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</text>
