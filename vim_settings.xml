@@ -446,11 +446,19 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/add_binary.py" timestamp="1536825961387">
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/add_binary.py" timestamp="1537179852786">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="29" column="52" />
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
         <mark key="^" line="30" column="41" />
+      </file>
+      <file name="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" timestamp="1537185223863">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/remove_duplicate.py" timestamp="1535210149927">
         <mark key="[" line="15" column="36" />
@@ -1208,8 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="23" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
-      <jump line="151" column="47" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
       <jump line="14" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
       <jump line="46" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
@@ -1308,10 +1314,12 @@
       <jump line="531" column="37" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="26" column="47" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" />
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/plus_one.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/add_binary.py" />
+      <jump line="8" column="3" filename="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnQsIG4sIGFbc3RlcF0sIGJbc3RlcF0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>add sentr</text>
@@ -1323,31 +1331,31 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnOiBBcHBUcmVlJ3Mgc2VydmljZSB0YWcsIGBgc3RyYGAKICAgICAgICA6cGFyYW0gY2RuX3RhZzogQXBwVHJlZSdzIHNlcnZpY2UgY2RuIHRhZywgYGBzdHJgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnQsIG4sIGFbc3RlcF0sIGJbc3RlcF0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RyKHJ0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocnQsIG4sIGFbc3RlcF0sIGJbc3RlcF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgoW2xlbihhKV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RyKHJ0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhLCBiID0gYmluKGEpLCBiaW4oYikKICAgICAgICByZXR1cm4gc3RyKGEgKyBiKQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXgoW2xlbihhKV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhLCBiID0gYmluKGEpLCBiaW4oYikKICAgICAgICByZXR1cm4gc3RyKGEgKyBiKQogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0c1tzdGVwXSArPSAxCiAgICAgICAgICAgICAgICByZXR1cm4gZGlnaXRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgICAgICAgICBkaWdpdHNbc3RlcF0gPSAxCiAgICAgICAgICAgICAgICByZXR1cm4gZGlnaXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRpZ2l0c1tzdGVwXSArPSAxCiAgICAgICAgICAgICAgICByZXR1cm4gZGlnaXRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgICAgICAgICBkaWdpdHNbc3RlcF0gPSAxCiAgICAgICAgICAgICAgICByZXR1cm4gZGlnaXRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHQgPSBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</text>
