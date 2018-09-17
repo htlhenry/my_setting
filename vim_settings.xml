@@ -453,12 +453,12 @@
         <mark key="." line="30" column="41" />
         <mark key="^" line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" timestamp="1537185223863">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-        <mark key="^" line="25" column="9" />
+      <file name="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" timestamp="1537187011376">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/remove_duplicate.py" timestamp="1535210149927">
         <mark key="[" line="15" column="36" />
@@ -1216,9 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/scripts/config_release_item.py" />
-      <jump line="46" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/tasks.py" />
       <jump line="66" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" />
       <jump line="200" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
       <jump line="19" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/lib/build.py" />
@@ -1316,13 +1313,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/plus_one.py" />
       <jump line="6" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/easy/add_binary.py" />
       <jump line="8" column="3" filename="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" />
+      <jump line="24" column="48" filename="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" />
+      <jump line="15" column="17" filename="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" />
+      <jump line="17" column="28" filename="$USER_HOME$/project/learning_example/leetcode/coroutine/threading_count.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>add sentr</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
