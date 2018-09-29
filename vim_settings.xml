@@ -677,12 +677,12 @@
         <mark key="^" line="83" column="60" />
         <mark key="." line="83" column="60" />
       </file>
-      <file name="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" timestamp="1538194408158">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" timestamp="1538195079961">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/tasks.py" timestamp="1534737485462">
         <mark key="'" line="11" column="72" />
@@ -1271,8 +1271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="33" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
-      <jump line="33" column="3" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="14" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="11" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/silent.py" />
       <jump line="1019" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
@@ -1371,13 +1369,15 @@
       <jump line="8" column="33" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="25" column="23" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="39" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
+      <jump line="12" column="24" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kth_element</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBqID0gaSAtIGxvdwo=</text>
       </register>
       <register name="-" type="4">
-        <text>kth_element</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
@@ -1386,19 +1386,19 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnOiBBcHBUcmVlJ3Mgc2VydmljZSB0YWcsIGBgc3RyYGAKICAgICAgICA6cGFyYW0gY2RuX3RhZzogQXBwVHJlZSdzIHNlcnZpY2UgY2RuIHRhZywgYGBzdHJgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBpdm90ID0gbnVtW2xdCiAgICAgICAgIyBpID0gbAogICAgICAgICMgaiA9IHIKICAgICAgICAjIHdoaWxlIGkgPCBqOgogICAgICAgICMgICAgIHdoaWxlIHBpdm90IDwgbnVtW2pdIGFuZCBpIDwgajoKICAgICAgICAjICAgICAgICAgaiAtPSAxCiAgICAgICAgIyAgICAgaWYgaSA8IGo6CiAgICAgICAgIyAgICAgICAgIG51bVtpXSA9IG51bVtqXQogICAgICAgICMgICAgICAgICBpICs9IDEKICAgICAgICAjICAgICB3aGlsZSBwaXZvdCA+IG51bVtpXSBhbmQgaSA8IGo6CiAgICAgICAgIyAgICAgICAgIGkgKz0gMQogICAgICAgICMgICAgIGlmIGkgPCBqOgogICAgICAgICMgICAgICAgICBudW1bal0gPSBudW1baV0KICAgICAgICAjICAgICAgICAgaSAtPSAxCiAgICAgICAgIyBudW1baV0gPSBwaXZvdAogICAgICAgICMgcmV0dXJuIGkK</text>
+        <text encoding="base64">ICAgICAgICBqID0gaSAtIGxvdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogY2hlY2sgZ29sYW5nIHByb2dyYW0gcHJvY2VzcyBhbmQgdGhyZWFkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFzdGVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHBpdm90ID0gbnVtW2xdCiAgICAgICAgIyBpID0gbAogICAgICAgICMgaiA9IHIKICAgICAgICAjIHdoaWxlIGkgPCBqOgogICAgICAgICMgICAgIHdoaWxlIHBpdm90IDwgbnVtW2pdIGFuZCBpIDwgajoKICAgICAgICAjICAgICAgICAgaiAtPSAxCiAgICAgICAgIyAgICAgaWYgaSA8IGo6CiAgICAgICAgIyAgICAgICAgIG51bVtpXSA9IG51bVtqXQogICAgICAgICMgICAgICAgICBpICs9IDEKICAgICAgICAjICAgICB3aGlsZSBwaXZvdCA+IG51bVtpXSBhbmQgaSA8IGo6CiAgICAgICAgIyAgICAgICAgIGkgKz0gMQogICAgICAgICMgICAgIGlmIGkgPCBqOgogICAgICAgICMgICAgICAgICBudW1bal0gPSBudW1baV0KICAgICAgICAjICAgICAgICAgaSAtPSAxCiAgICAgICAgIyBudW1baV0gPSBwaXZvdAogICAgICAgICMgcmV0dXJuIGkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgVE9ETzogY2hlY2sgZ29sYW5nIHByb2dyYW0gcHJvY2VzcyBhbmQgdGhyZWFkCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBxY2xvdWQKc2VjdXJlX2lkID0gJ0FLSUR6WEN4a2RUWnRLb0x1WHJGSVJYYWt4Z1ZSUEpITE9VaScKc2VjdXJlX2tleSA9ICdWOGtJT1lvTzd0T3pnUkUydncxN2xROXFXU1NWU1RldScK</text>
+        <text encoding="base64">bWFzdGVyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
