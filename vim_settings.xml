@@ -535,7 +535,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538991106646">
+      <file name="/Dummy.txt" timestamp="1539160758537">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -748,6 +748,9 @@
         <mark key="]" line="46" column="6" />
         <mark key="^" line="46" column="6" />
         <mark key="." line="46" column="6" />
+      </file>
+      <file name="$USER_HOME$/zhonghuan/kubeasz/roles/helm/tasks/main.yml" timestamp="1539255423064">
+        <mark key="'" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/lcs.py" timestamp="1535603313913">
         <mark key="[" line="18" column="1" />
@@ -1280,9 +1283,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/app_with_local_proxy.py" timestamp="1539341317842">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="11" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/silent.py" />
       <jump line="1019" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="314" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
@@ -1382,10 +1389,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="12" column="24" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="10" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/zhonghuan/kubeasz/roles/helm/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -1397,31 +1405,31 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gdGFnOiBBcHBUcmVlJ3Mgc2VydmljZSB0YWcsIGBgc3RyYGAKICAgICAgICA6cGFyYW0gY2RuX3RhZzogQXBwVHJlZSdzIHNlcnZpY2UgY2RuIHRhZywgYGBzdHJgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZCA9IG9zLnBhdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5yZW1vdmUoKQo=</text>
+        <text encoding="base64">dGhyZWFkaW5nLlRocmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpIDwgazoK</text>
+        <text encoding="base64">ICAgICAgICBhZCA9IG9zLnBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bVtpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5yZW1vdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobnVtKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqID0gaSAtIGxvdwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpIDwgazoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bVtpXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</text>
