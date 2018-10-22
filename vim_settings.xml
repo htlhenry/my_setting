@@ -196,6 +196,12 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/k8s_api/start.py" timestamp="1540204775805">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" timestamp="1533885040616">
         <mark key="'" line="16" column="74" />
         <mark key="[" line="119" column="44" />
@@ -538,7 +544,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539160758537">
+      <file name="/Dummy.txt" timestamp="1540196899465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -832,6 +838,13 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/k8s_api/config" timestamp="1540204594143">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="2260" />
+        <mark key="^" line="18" column="2260" />
+        <mark key="." line="18" column="2260" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/logstash/templates/ticket_customer.conf" timestamp="1526542368448">
         <mark key="'" line="27" column="28" />
         <mark key="[" line="0" column="0" />
@@ -984,6 +997,7 @@
         <mark key="." line="13" column="9" />
         <mark key="^" line="13" column="9" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/kubeasz/docs/release-notes/kubeasz-0.3.1.md" timestamp="1539857774532" />
       <file name="$USER_HOME$/devops/jenkins/hosts/phpservice/cms_backend" timestamp="1525430770987">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="8" column="5" />
@@ -1299,7 +1313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1019" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="314" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" />
       <jump line="838" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/dao.py" />
       <jump line="52" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/silent.py" />
@@ -1399,13 +1412,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="23" column="15" filename="$USER_HOME$/zhonghuan/kubeasz/roles/helm/tasks/main.yml" />
       <jump line="133" column="0" filename="$USER_HOME$/project/learning_example/python/howdoi/howdoi/howdoi.py" />
+      <jump line="18" column="21" filename="$USER_HOME$/zhonghuan/code/k8s_api/config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
