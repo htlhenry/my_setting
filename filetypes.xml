@@ -16,6 +16,7 @@
       <mapping pattern="jenkins_hosts" type="PLAIN_TEXT" />
       <mapping pattern="es_schedule" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="java_dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="pay_api" type="PLAIN_TEXT" />
       <mapping pattern="goods_api" type="PLAIN_TEXT" />
       <mapping pattern="order_api" type="PLAIN_TEXT" />
