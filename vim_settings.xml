@@ -285,7 +285,7 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1540449998321">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1540451377634">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="61" column="50" />
         <mark key="]" line="61" column="30" />
@@ -440,12 +440,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1534405946002">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1540451424154">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="79" column="40" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="0" />
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="74" column="59" />
+        <mark key="." line="74" column="59" />
+        <mark key="^" line="74" column="59" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ticket/vrserver" timestamp="1531908959150">
         <mark key="'" line="23" column="37" />
@@ -559,7 +559,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540451017604">
+      <file name="/Dummy.txt" timestamp="1540451800959">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -945,12 +945,12 @@
         <mark key="^" line="22" column="55" />
         <mark key="." line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" timestamp="1537424422025">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="39" column="20" />
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" timestamp="1540451896325">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
         <mark key="^" line="39" column="20" />
-        <mark key="." line="39" column="20" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/restart.sh" timestamp="1531798135465">
         <mark key="'" line="63" column="23" />
@@ -978,11 +978,6 @@
         <mark key="]" line="47" column="9" />
         <mark key="^" line="47" column="9" />
         <mark key="." line="47" column="9" />
-      </file>
-      <file name="$USER_HOME$/devops/jenkins/.gitignore" timestamp="1540372565659">
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/ops/qcloud_api" timestamp="1528272890518">
         <mark key="'" line="13" column="20" />
@@ -1238,6 +1233,11 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/celery_app/supervisord/restart.sh" timestamp="1540451878132">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/merge_two_sorted_ListNode.py" timestamp="1535123012781">
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="11" />
@@ -1349,7 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/views.py" />
       <jump line="56" column="17" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="8" column="37" filename="$USER_HOME$/lingsi/code/python/plus_api/utils/helpers.py" />
       <jump line="56" column="19" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" />
@@ -1449,13 +1448,14 @@
       <jump line="93" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" />
       <jump line="57" column="25" filename="$USER_HOME$/lingsi/code/python/plus_api/supervisord.conf" />
       <jump line="3" column="23" filename="$USER_HOME$/lingsi/code/python/plus_api/restart.sh" />
+      <jump line="58" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error_log</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>error_log</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
@@ -1463,32 +1463,44 @@
       <register name="0" type="2">
         <text encoding="base64">IyBMREFQCkxEQVBfVVJMID0gJ2xkYXA6Ly8xOTIuMTQ0LjIwMy4yMjY6Mzg5JwpMREFQX0FETUlOID0gJ2NuPU1hbmFnZXIsZGM9YWVyb2h1YW55b3UsZGM9Y29tJwpMREFQX0FETUlOX1BBU1NXT1JEID0gJ2RjY2FyVFdKazhtYm1aQmknCkxEQVBfQkFTRV9ETiA9ICdkYz1hZXJvaHVhbnlvdSxkYz1jb20nCkxEQVBfVVNFUl9ETiA9ICdjbj17fSxvdT1wZW9wbGUsZGM9YWVyb2h1YW55b3UsZGM9Y29tJwoKIyBkb21haW4KIyBET01BSU4gPSAnbGRhcG0uc21hcnRjaW5lbWEuY29tLmNuJwpET01BSU4gPSAnMTI3LjAuMC4xOjgwMDAnCgojIE1haWwKTUFJTF9TRVJWRVIgPSAnc210cC5leG1haWwucXEuY29tJwpNQUlMX1BPUlQgPSA0NjUKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wcy1ub3JlcGx5QGFlcm96aG9uZ2h1YW4uY29tJwpNQUlMX1BBU1NXT1JEID0gJ21zczhpUVpWWHl1eTVFeTknCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzLW5vcmVwbHlAYWVyb3pob25naHVhbi5jb20nCk1BSUxfU1VGRklYID0gJ0BhZXJvemhvbmdodWFuLmNvbScK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>REDIS_HOST = &quot;172.21.16.5&quot;
+REDIS_PORT = 6379
+REDIS_PASSWORD = 'e8s3!DE732%df'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aHR0cDovL3Qtd2lraS5zbWFydGNpbmVtYS5jb20uY24vcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD00NTkxNDEyCg==</text>
+      <register name="2" type="4">
+        <text>MAIL_SERVER = 'smtp.exmail.qq.com'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USERNAME = 'ops@smartcinema.com.cn'
+MAIL_PASSWORD = 'mss8iQZVXyuy5Ey9'
+MAIL_DEFAULT_SENDER = 'ops@smartcinema.com.cn'
+MAIL_SUFFIX = '@smartcinema.com.cn'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT09PT09PT09PmFwcD0+e30sY2VsZXJ5PT57fSIuZm9ybWF0KGFwcC5hcHBfY29udGV4dCgpLCBjZWxlcnkpKQo=</text>
+        <text encoding="base64">IyBMREFQCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>LDAP_URL = 'ldap://t-ldapuser.smartcinema.com.cn:389'
+LDAP_ADMIN = 'cn=admin,dc=smartcinema,dc=com,dc=cn'
+LDAP_ADMIN_PASSWORD = 'enW0K5516Ta'
+LDAP_BASE_DN = 'dc=smartcinema,dc=com,dc=cn'
+LDAP_USER_DN = 'cn={},ou=技术部,dc=smartcinema,dc=com,dc=cn'</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGNlbGVyeV9hcHAudGFzayhuYW1lPSJhZGQiKQpkZWYgYWRkKHgsIHkpOgogICAgcmV0dXJuIHggKyB5Cg==</text>
+        <text encoding="base64">aHR0cDovL3Qtd2lraS5zbWFydGNpbmVtYS5jb20uY24vcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD00NTkxNDEyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUFJTF9TRVJWRVIgPSAnc210cC5leG1haWwucXEuY29tJwpNQUlMX1BPUlQgPSA0NjUKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wc0BzbWFydGNpbmVtYS5jb20uY24nCk1BSUxfUEFTU1dPUkQgPSAnbXNzOGlRWlZYeXV5NUV5OScKTUFJTF9ERUZBVUxUX1NFTkRFUiA9ICdvcHNAc21hcnRjaW5lbWEuY29tLmNuJwpNQUlMX1NVRkZJWCA9ICdAc21hcnRjaW5lbWEuY29tLmNuJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCI9PT09PT09PT09PmFwcD0+e30sY2VsZXJ5PT57fSIuZm9ybWF0KGFwcC5hcHBfY29udGV4dCgpLCBjZWxlcnkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TERBUF9VUkwgPSAnbGRhcDovL3QtbGRhcHVzZXIuc21hcnRjaW5lbWEuY29tLmNuOjM4OScKTERBUF9BRE1JTiA9ICdjbj1hZG1pbixkYz1zbWFydGNpbmVtYSxkYz1jb20sZGM9Y24nCkxEQVBfQURNSU5fUEFTU1dPUkQgPSAnZW5XMEs1NTE2VGEnCkxEQVBfQkFTRV9ETiA9ICdkYz1zbWFydGNpbmVtYSxkYz1jb20sZGM9Y24nCkxEQVBfVVNFUl9ETiA9ICdjbj17fSxvdT3mioDmnK/pg6gsZGM9c21hcnRjaW5lbWEsZGM9Y29tLGRjPWNuJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByYXZlbi5jb250cmliLmZsYXNrIGltcG9ydCBTZW50cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</text>
