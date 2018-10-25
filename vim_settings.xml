@@ -82,6 +82,12 @@
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/devops/plus_api" timestamp="1540461527437">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="77" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="11" column="77" />
+      </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/scripts/dev/ansible_playbook/roles/falcon_agent/tasks/main.yml" timestamp="1529465811971">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="25" />
@@ -173,11 +179,11 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/devops/plus_js" timestamp="1540461019336">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/devops/plus_js" timestamp="1540461573525">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/python_struct/quick_sort_copy.py" timestamp="1538966076655">
         <mark key="[" line="8" column="34" />
@@ -300,7 +306,7 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540458914901">
+      <file name="/Dummy.txt" timestamp="1540461124753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -340,11 +346,11 @@
         <mark key="." line="180" column="70" />
         <mark key="^" line="180" column="70" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/devops/apptree_api" timestamp="1540461043843">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
+      <file name="$USER_HOME$/devops/jenkins/hosts/devops/apptree_api" timestamp="1540461548039">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="114" />
+        <mark key="." line="11" column="114" />
+        <mark key="^" line="11" column="114" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/README.md" timestamp="1540450806259">
         <mark key="[" line="3" column="0" />
@@ -376,6 +382,7 @@
         <mark key="." line="5" column="30" />
         <mark key="^" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/.old/ops/apptree_api" timestamp="1540461542798" />
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/perms.py" timestamp="1531912302855">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -467,6 +474,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/.old/ops/apptree_js" timestamp="1540461564474" />
       <file name="$USER_HOME$/zhonghuan/kubeasz/Note.md" timestamp="1539068199788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="69" />
@@ -625,17 +633,18 @@
         <mark key="." line="12" column="60" />
         <mark key="^" line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/devops/jenkins/hosts/.old/ops/plus_api" timestamp="1540461520999" />
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1532499400517">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="28" />
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/hosts/devops/apptree_js" timestamp="1540461093315">
+      <file name="$USER_HOME$/devops/jenkins/hosts/devops/apptree_js" timestamp="1540461567971">
         <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/java_conf/templates/restart.j2" timestamp="1533798650853">
         <mark key="[" line="49" column="4" />
@@ -760,10 +769,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plus_js</text>
+        <text>fix falcon-plus config templat</text>
       </register>
       <register name="-" type="4">
-        <text>plus_js</text>
+        <text>fix falcon-plus config templat</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
