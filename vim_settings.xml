@@ -352,11 +352,11 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/defaults/main.yml" timestamp="1540456610404">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/defaults/main.yml" timestamp="1540524333284">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/HISTORY.rst" timestamp="1532683418358">
         <mark key="[" line="11" column="7" />
@@ -593,7 +593,7 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540524059292">
+      <file name="/Dummy.txt" timestamp="1540524231226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -768,8 +768,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2xvZygiPj4+IHNlYXJjaF91c2VyIHJlc3VsdF90eXBlID0+IHt9LCByZXN1bHRfZGF0YSA9PiB7fSIuZm9ybWF0KHJlc3VsdF90eXBlLCByZXN1bHRfZGF0YSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix redis passwor</text>
       </register>
       <register name="-" type="4">
         <text>fix redis passwor</text>
