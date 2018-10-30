@@ -451,12 +451,12 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1540533011326">
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/configs/prod_config.py" timestamp="1540886570784">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="21" column="25" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/aggregator.json" timestamp="1540456669955">
         <mark key="[" line="7" column="18" />
@@ -512,7 +512,8 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1540886499836">
+      <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" timestamp="1540886510577">
+        <mark key="'" line="36" column="4" />
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="27" />
         <mark key="." line="18" column="27" />
@@ -695,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="19" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" />
       <jump line="58" column="27" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/controllers/release_item.py" />
       <jump line="76" column="7" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
       <jump line="15" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/views/silent.py" />
@@ -795,6 +795,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/restart.sh" />
       <jump line="24" column="55" filename="$USER_HOME$/devops/jenkins/hosts/vmc/gateway" />
       <jump line="76" column="9" filename="$USER_HOME$/devops/jenkins/roles/rabbitmq-monitor/files/rabbitmq_monitor.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/lingsi/code/python/ldapm/configs/prod_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
