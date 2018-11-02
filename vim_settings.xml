@@ -208,6 +208,12 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/kubeasz/manifests/prometheus/prom-alertrules.yaml" timestamp="1541150363513">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="33" column="54" />
+        <mark key="^" line="33" column="54" />
+        <mark key="." line="33" column="54" />
+      </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/file_wapper.py" timestamp="1534907467766">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="31" />
@@ -633,7 +639,7 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541041893874">
+      <file name="/Dummy.txt" timestamp="1541130442116">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -808,16 +814,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MAIL_SERVER = 'smtp.163.com'
-MAIL_PORT = 25
-MAIL_USE_SSL = False
-MAIL_USERNAME = 'ops-noreply@aerozhonghuan.com'
-MAIL_PASSWORD = '3jEN59nhD9NhYx5J'
-MAIL_DEFAULT_SENDER = 'ops-noreply@aerozhonghuan.com'
-MAIL_SUFFIX = '@aerozhonghuan.com'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Lxumu5ClWLfQJpCG</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
