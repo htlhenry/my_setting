@@ -306,12 +306,12 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1541128632829">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/prod_config.py" timestamp="1541130425399">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="12" column="74" />
-        <mark key="]" line="12" column="74" />
-        <mark key="^" line="12" column="78" />
-        <mark key="." line="12" column="74" />
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="88" column="18" />
+        <mark key="^" line="88" column="18" />
+        <mark key="." line="88" column="18" />
       </file>
       <file name="$USER_HOME$/zhonghuan/kubeasz/Note.md" timestamp="1539068199788">
         <mark key="[" line="0" column="0" />
@@ -615,7 +615,7 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1541128645596">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1541130430952">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="90" column="33" />
         <mark key="." line="90" column="33" />
@@ -808,16 +808,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MAIL_SERVER = 'smtp.exmail.qq.com'
-MAIL_PORT = 465
-MAIL_USE_SSL = True
-MAIL_USERNAME = 'ops@smartcinema.com.cn'
-MAIL_PASSWORD = 'mss8iQZVXyuy5Ey9'
-MAIL_DEFAULT_SENDER = 'ops@smartcinema.com.cn'
-MAIL_SUFFIX = '@smartcinema.com.cn'</text>
+        <text>MAIL_SERVER = 'smtp.163.com'
+MAIL_PORT = 25
+MAIL_USE_SSL = False
+MAIL_USERNAME = 'ops-noreply@aerozhonghuan.com'
+MAIL_PASSWORD = '3jEN59nhD9NhYx5J'
+MAIL_DEFAULT_SENDER = 'ops-noreply@aerozhonghuan.com'
+MAIL_SUFFIX = '@aerozhonghuan.com'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Lxumu5ClWLfQJpCG</text>
       </register>
       <register name="/" type="4">
         <text>hasattr</text>
@@ -826,6 +826,15 @@ MAIL_SUFFIX = '@smartcinema.com.cn'</text>
         <text encoding="base64">IyBMREFQCkxEQVBfVVJMID0gJ2xkYXA6Ly8xOTIuMTQ0LjIwMy4yMjY6Mzg5JwpMREFQX0FETUlOID0gJ2NuPU1hbmFnZXIsZGM9YWVyb2h1YW55b3UsZGM9Y29tJwpMREFQX0FETUlOX1BBU1NXT1JEID0gJ2RjY2FyVFdKazhtYm1aQmknCkxEQVBfQkFTRV9ETiA9ICdkYz1hZXJvaHVhbnlvdSxkYz1jb20nCkxEQVBfVVNFUl9ETiA9ICdjbj17fSxvdT1wZW9wbGUsZGM9YWVyb2h1YW55b3UsZGM9Y29tJwoKIyBkb21haW4KIyBET01BSU4gPSAnbGRhcG0uc21hcnRjaW5lbWEuY29tLmNuJwpET01BSU4gPSAnMTI3LjAuMC4xOjgwMDAnCgojIE1haWwKTUFJTF9TRVJWRVIgPSAnc210cC5leG1haWwucXEuY29tJwpNQUlMX1BPUlQgPSA0NjUKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wcy1ub3JlcGx5QGFlcm96aG9uZ2h1YW4uY29tJwpNQUlMX1BBU1NXT1JEID0gJ21zczhpUVpWWHl1eTVFeTknCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzLW5vcmVwbHlAYWVyb3pob25naHVhbi5jb20nCk1BSUxfU1VGRklYID0gJ0BhZXJvemhvbmdodWFuLmNvbScK</text>
       </register>
       <register name="1" type="4">
+        <text>MAIL_SERVER = 'smtp.163.com'
+MAIL_PORT = 25
+MAIL_USE_SSL = False
+MAIL_USERNAME = 'ops-noreply@aerozhonghuan.com'
+MAIL_PASSWORD = '3jEN59nhD9NhYx5J'
+MAIL_DEFAULT_SENDER = 'ops-noreply@aerozhonghuan.com'
+MAIL_SUFFIX = '@aerozhonghuan.com'</text>
+      </register>
+      <register name="2" type="4">
         <text>MAIL_SERVER = 'smtp.exmail.qq.com'
 MAIL_PORT = 465
 MAIL_USE_SSL = True
@@ -834,29 +843,26 @@ MAIL_PASSWORD = 'mss8iQZVXyuy5Ey9'
 MAIL_DEFAULT_SENDER = 'ops@smartcinema.com.cn'
 MAIL_SUFFIX = '@smartcinema.com.cn'</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CgoKCgoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y2QgJHtXT1JLU1BBQ0V9CmxzIC1saApjcCAtZnIgY29uZmlncy8ke2Vudn1fY29uZmlnLnB5IGNvbmZpZ3MvY29uZmlnLnB5CmFuc2libGUtcGxheWJvb2sgLWkgL2RhdGEvb3BzL2plbmtpbnNfcGxheWJvb2svaG9zdHMvb3BzL2ZhbGNvbi1kYXNoYm9hcmQgL2RhdGEvb3BzL2plbmtpbnNfcGxheWJvb2svc2l0ZS55bWwgLWUgImVudj0ke2Vudn0gc3JjPSR7V09SS1NQQUNFfS8iCgoKCgpjZCAke1dPUktTUEFDRX0Kc291cmNlIC9ldGMvcHJvZmlsZQpudm0gdXNlIHY4LjExLjEKY25wbSBpbnN0YWxsCmNucG0gcnVuIGJ1aWxkCmxzIC1saCBkaXN0CiMgcnN5bmMgLWF2eiAtLWRlbGV0ZSBkaXN0LyAvZGF0YS93d3cvYXBwdHJlZV9qcy8KYW5zaWJsZS1wbGF5Ym9vayAtaSAvZGF0YS9vcHMvamVua2luc19wbGF5Ym9vay9ob3N0cy9vcHMvYXBwdHJlZV9qcyAvZGF0YS9vcHMvamVua2luc19wbGF5Ym9vay9zaXRlLnltbCAtZSAiZW52PSR7ZW52fSBzcmM9JHtXT1JLU1BBQ0V9L2Rpc3QvIgoKCiNjZCAke1dPUktTUEFDRX0Kc291cmNlIC9ldGMvcHJvZmlsZQpscyAke1dPUktTUEFDRX0KbHMgLWxoIHNyYwpleHBvcnQgR09QQVRIPSR7V09SS1NQQUNFfQpjZCBzcmMvZmFsY29uLXBsdXMKbWFrZSAke21vZHVsZX0KbHMgLWxoIGJpbi8ke21vZHVsZX0KYW5zaWJsZS1wbGF5Ym9vayAtaSAvZGF0YS9vcHMvamVua2luc19wbGF5Ym9vay9ob3N0cy9vcHMvZmFsY29uLXBsdXMgL2RhdGEvb3BzL2plbmtpbnNfcGxheWJvb2svZmFsY29uLXBsdXMueW1sIC1lICJlbnY9JHtlbnZ9IHNyYz0ke1dPUktTUEFDRX0vc3JjL2ZhbGNvbi1wbHVzL2Jpbi8ke21vZHVsZX0vZmFsY29uLSR7bW9kdWxlfSBtb2R1bGU9JHttb2R1bGV9IHR5cGU9Y29kZSIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">MTcyLjIxLjE2LjE1IGhvc3RuYW1lPSIiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">MTcyLjIxLjE3LjE3Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">MTcyLjIxLjE3LjEyOAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">MTcyLjIxLjAuODggaG9zdG5hbWU9ImJqMy1wcmUtdGlja2V0LWdhdGV3YXkwMSIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">MTcyLjIxLjAuNDggaG9zdG5hbWU9ImJqMy1wcm9kLXRpY2tldC1nYXRld2F5MDEiCjE3Mi4yMS4wLjI3IGhvc3RuYW1lPSJiajMtcHJvZC10aWNrZXQtZ2F0ZXdheTAyIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImluc3RhbmNlID0+IHt9Ii5mb3JtYXQoaW5zdGFuY2UpKQo=</text>
+        <text encoding="base64">MTcyLjIxLjAuNDggaG9zdG5hbWU9ImJqMy1wcm9kLXRpY2tldC1nYXRld2F5MDEiCjE3Mi4yMS4wLjI3IGhvc3RuYW1lPSJiajMtcHJvZC10aWNrZXQtZ2F0ZXdheTAyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
