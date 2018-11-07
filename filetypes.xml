@@ -80,6 +80,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="applicationContext-yop-session" type="XML" />
       <mapping pattern="KeyStoreRepo" type="XML" />
+      <mapping pattern="k8s_config" type="YAML" />
       <mapping pattern="EewntRestIt" type="CLASS" />
     </extensionMap>
   </component>

@@ -57,6 +57,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" timestamp="1541576273827">
+        <mark key="'" line="49" column="19" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/config.yml" timestamp="1540457956031">
         <mark key="[" line="22" column="2" />
         <mark key="]" line="22" column="9" />
@@ -340,6 +346,13 @@
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/k8s_config" timestamp="1541575865534">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/devops/falcon-dashboard" timestamp="1540893539534">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="8" />
@@ -453,6 +466,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/requirements.txt" timestamp="1541576083436">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/coroutine/spinner_asyncio.py" timestamp="1535533370948">
         <mark key="[" line="3" column="3" />
@@ -863,10 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="39" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask/config.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/learning_flask/test_itsdangerous.py" />
-      <jump line="211" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
-      <jump line="206" column="19" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="50" column="30" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="208" column="26" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="212" column="25" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
@@ -963,10 +978,14 @@
       <jump line="74" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="17" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="87" column="17" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/k8s_config" />
+      <jump line="52" column="28" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="51" column="19" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInRvIGRpY3QgcmV0ID0+IHt9Ii5mb3JtYXQocmV0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -978,31 +997,31 @@
         <text encoding="base64">IyBPUFMKT1BTID0gWyJoYW50ZW5nbGVpIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInRvIGRpY3QgcmV0ID0+IHt9Ii5mb3JtYXQocmV0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBkaWN0KChrLCB2KSBpZiBub3Qgay5zdGFydHN3aXRoKCJfIikgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKSBmb3IgaywgdiBpbiBzZWxmLl9fZGljdF9fLml0ZW1zKCkpCg==</text>
+        <text encoding="base64">ZnJvbSB5YW1sIGltcG9ydCBsb2FkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiMgazhzIGNvbmZpZwpLOFNfQ09ORklHID0gbG9hZCJrOHNfY29uZmlnIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInRvIGRpY3QgcmV0ID0+IHt9Ii5mb3JtYXQocmV0KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW2FwcC50b19kaWN0KCkgZm9yIGFwcCBpbiBhcHBfb2Jqc10K</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBkaWN0KChrLCB2KSBpZiBub3Qgay5zdGFydHN3aXRoKCJfIikgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKSBmb3IgaywgdiBpbiBzZWxmLl9fZGljdF9fLml0ZW1zKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBhcHBfaWQ6CiAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcF9pZCA9IHJlcXVlc3QuYXJncy5nZXQoImFwcElkIiwgdHlwZT1zdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICJHRVQiOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW2FwcC50b19kaWN0KCkgZm9yIGFwcCBpbiBhcHBfb2Jqc10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYgcmVxdWVzdC5tZXRob2QgPT0gIlBPU1QiOgogICAgICAgIGpzb24gPSByZXF1ZXN0LmdldF9qc29uKCkKICAgICAgICBBcHBRdWVyeS5jcmVhdGUoKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBhcHBfaWQ6CiAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bhc3NfYXBpL3BhYXNfYXBpL2c=</text>
