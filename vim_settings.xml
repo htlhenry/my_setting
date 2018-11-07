@@ -91,12 +91,10 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" timestamp="1541579720049">
-        <mark key="'" line="33" column="82" />
-        <mark key="[" line="33" column="84" />
-        <mark key="]" line="33" column="100" />
-        <mark key="." line="33" column="100" />
-        <mark key="^" line="33" column="100" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" timestamp="1541579980197">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/project/learning_example/python/howdoi/test_howdoi.py" timestamp="1539342791323">
         <mark key="[" line="6" column="0" />
@@ -882,8 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" />
-      <jump line="8" column="33" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="25" column="23" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="39" column="0" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
       <jump line="12" column="24" filename="$USER_HOME$/project/learning_example/leetcode/code/find_max_k_number.py" />
@@ -982,13 +978,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
       <jump line="31" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
       <jump line="32" column="82" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
+      <jump line="36" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
+      <jump line="35" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzIGltcG9ydCBjb25maWcsIGNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZF9kaXIK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
@@ -997,28 +995,28 @@
         <text encoding="base64">IyBPUFMKT1BTID0gWyJoYW50ZW5nbGVpIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzIGltcG9ydCBjb25maWcsIGNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZF9kaXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnaXRfYWRkciA9IHNlbGYuZ2l0X2FkZHIK</text>
+        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzIGltcG9ydCBjb25maWcsIGNsaWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXRfYWRkciA9IHNlbGYuZ2l0X2FkZHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmt1YmVfY2xpZW50ID0gY2xpZW50X3YxCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmt1YmVfY2xpZW50ID0gY2xpZW50X3YxCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
