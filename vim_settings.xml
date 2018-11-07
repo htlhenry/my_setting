@@ -57,11 +57,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" timestamp="1541576273827">
-        <mark key="'" line="49" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" timestamp="1541577618267">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/tasks/config.yml" timestamp="1540457956031">
         <mark key="[" line="22" column="2" />
@@ -90,11 +90,11 @@
         <mark key="^" line="97" column="3" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" timestamp="1541576511010">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" timestamp="1541577857071">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="$USER_HOME$/project/learning_example/python/howdoi/test_howdoi.py" timestamp="1539342791323">
         <mark key="[" line="6" column="0" />
@@ -342,10 +342,6 @@
         <mark key="." line="145" column="59" />
         <mark key="^" line="145" column="59" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/scripts/build.py" timestamp="1541488616102">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="3" />
-      </file>
       <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/k8s_config" timestamp="1541575865534">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="0" column="0" />
@@ -371,6 +367,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/config.py" timestamp="1541577305517" />
       <file name="$USER_HOME$/lingsi/code/python/ldapm/configs/config.py" timestamp="1540437857748">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="32" />
@@ -767,7 +764,8 @@
         <mark key="." line="34" column="11" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1541130430952">
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" timestamp="1541577288367">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="90" column="33" />
         <mark key="." line="90" column="33" />
@@ -882,10 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="30" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
-      <jump line="208" column="26" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
-      <jump line="212" column="25" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="712" column="31" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" />
       <jump line="584" column="10" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
       <jump line="339" column="27" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/itsdangerous.py" />
@@ -979,9 +973,13 @@
       <jump line="17" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="87" column="17" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="9" column="14" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/k8s_config" />
-      <jump line="52" column="28" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
-      <jump line="4" column="20" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
-      <jump line="51" column="19" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/lingsi/code/python/plus_api/configs/dev_config.py" />
+      <jump line="51" column="38" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
+      <jump line="4" column="23" filename="$USER_HOME$/zhonghuan/code/python/paas_api/configs/dev_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1000,28 +998,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB5YW1sIGltcG9ydCBsb2FkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgazhzIGNvbmZpZwpLOFNfQ09ORklHID0gbG9hZCJrOHNfY29uZmlnIgo=</text>
+        <text encoding="base64">aW1wb3J0IHBhdGhsaWIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInRvIGRpY3QgcmV0ID0+IHt9Ii5mb3JtYXQocmV0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBkaWN0KChrLCB2KSBpZiBub3Qgay5zdGFydHN3aXRoKCJfIikgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKSBmb3IgaywgdiBpbiBzZWxmLl9fZGljdF9fLml0ZW1zKCkpCg==</text>
+        <text encoding="base64">ZnJvbSB5YW1sIGltcG9ydCBsb2FkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiMgazhzIGNvbmZpZwpLOFNfQ09ORklHID0gbG9hZCJrOHNfY29uZmlnIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z19sb2coInRvIGRpY3QgcmV0ID0+IHt9Ii5mb3JtYXQocmV0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW2FwcC50b19kaWN0KCkgZm9yIGFwcCBpbiBhcHBfb2Jqc10K</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBkaWN0KChrLCB2KSBpZiBub3Qgay5zdGFydHN3aXRoKCJfIikgYW5kIG5vdCBrLnN0YXJ0c3dpdGgoIl8iKSBmb3IgaywgdiBpbiBzZWxmLl9fZGljdF9fLml0ZW1zKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBhcHBfaWQ6CiAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bhc3NfYXBpL3BhYXNfYXBpL2c=</text>
