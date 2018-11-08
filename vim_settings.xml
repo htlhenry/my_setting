@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541670758722">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541672474778">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="138" column="22" />
-        <mark key="]" line="138" column="31" />
-        <mark key="." line="138" column="31" />
-        <mark key="^" line="138" column="31" />
+        <mark key="[" line="57" column="78" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/judge.json" timestamp="1540457128042">
         <mark key="[" line="24" column="25" />
@@ -743,12 +743,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541668620920">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541672461569">
         <mark key="'" line="109" column="31" />
-        <mark key="[" line="102" column="24" />
-        <mark key="]" line="102" column="38" />
-        <mark key="." line="102" column="38" />
-        <mark key="^" line="102" column="38" />
+        <mark key="[" line="110" column="42" />
+        <mark key="]" line="116" column="59" />
+        <mark key="." line="116" column="59" />
+        <mark key="^" line="116" column="59" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/settings.py" timestamp="1529478645439">
         <mark key="[" line="5" column="0" />
@@ -1069,10 +1069,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>read_namespaced_pod</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>read_namespaced_pod</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
@@ -1081,19 +1081,19 @@
         <text encoding="base64">aW1wb3J0IHVybGxpYgoKUE9SVCA9IDgwMDAKClNFQ1JFVF9LRVkgPSAnSUZCNE5ENnBwT2NRSjI0b2xLZXM3TG1HVmh6SnBMaUI1TzNEbGFydFlwQUQzTFczR2knClNFQ1JFVF9JRCA9ICdNd3hvbG1KZE9RVFZJeU5mS2g4T3NzRUJLVE81amRaY2pNWkJXS1Y0eEljRkVHM0tRbScKClNRTEFMQ0hFTVlfVFJBQ0tfTU9ESUZJQ0FUSU9OUyA9IFRydWUKU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6aXpIcmtDczQyQVNuQ2V6SUAxMC4wLjMuNDkvcGFhcz9jaGFyc2V0PXV0ZjgiClNRTEFMQ0hFTVlfQ09NTUlUX09OX1RFQVJET1dOID0gVHJ1ZQoKREVCVUcgPSBUcnVlCgojIGxvZwpMT0dfRElSID0gJy9kYXRhL2xvZ3MvcGFhc19hcGknCkxPR19GT1JNQVQgPSAnJShhc2N0aW1lKXMgLSAlKGxldmVsbmFtZSlzIC0gJShmaWxlbmFtZSlzLWxpbmU6JShsaW5lbm8pZC1mdW5jOiUoZnVuY05hbWUpcyAtIG1zZzogJShtZXNzYWdlKXMnCgojIExEQVAKTERBUF9VUkwgPSAnbGRhcDovLzEwLjAuMy40NTozODknCkxEQVBfQURNSU4gPSAnY249TWFuYWdlcixkYz1hZXJvaHVhbnlvdSxkYz1jb20nCkxEQVBfQURNSU5fUEFTU1dPUkQgPSAnZGNjYXJUV0prOG1ibVpCaScKTERBUF9CQVNFX0ROID0gJ2RjPWFlcm9odWFueW91LGRjPWNvbScKTERBUF9VU0VSX0ROID0gJ2NuPXt9LG91PXBlb3BsZSxkYz1hZXJvaHVhbnlvdSxkYz1jb20nCgojIHN5bmMgZXhjbHVkZQpTWU5DX0VYQ0xVREUgPSAiLS1leGNsdWRlPS5naXQgLS1leGNsdWRlPS5wbHVzX2dpdF92ZXJzaW9uIgpERVBMT1lfQ09ORklHID0gIi5wbHVzX2RlcGxveS55bWwiCgojIGFwcHRyZWUKQVBQX1RSRUVfRE9NQUlOID0gJ2h0dHA6Ly9hcHB0cmVlLmFlcm9odWFueW91LmNvbScKCiMgcmVkaXMKUkVESVNfSE9TVCA9ICIxMC4wLjMuMzIiClJFRElTX1BPUlQgPSA2Mzc5ClJFRElTX1BBU1NXT1JEID0gJ2Nycy1lYjk0cmt5czpROXZuU0JxYnFYRjNPRWozJwoKIyBjZWxlcnkKQ0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly86e3Bhc3N3b3JkfUB7aG9zdG5hbWV9Ontwb3J0fS8yIi5mb3JtYXQoKip7CiAgICAicGFzc3dvcmQiOiB1cmxsaWIucGFyc2UucXVvdGUoUkVESVNfUEFTU1dPUkQpLAogICAgImhvc3RuYW1lIjogUkVESVNfSE9TVCwKICAgICJwb3J0IjogUkVESVNfUE9SVCwKfSkKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gQ0VMRVJZX0JST0tFUl9VUkwKCiMgTWFpbApNQUlMX1NFUlZFUiA9ICJod3NtdHAucWl5ZS4xNjMuY29tIgpNQUlMX1BPUlQgPSA5OTQKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wcy1ub3JlcGx5QGFlcm96aG9uZ2h1YW4uY29tJwpNQUlMX1BBU1NXT1JEID0gJzNqRU41OW5oRDlOaFl4NUonCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzLW5vcmVwbHlAYWVyb3pob25naHVhbi5jb20nCk1BSUxfU1VGRklYID0gJ0BhZXJvemhvbmdodWFuLmNvbScKCiMgT1BTCk9QUyA9IFsiaGFudGVuZ2xlaSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRfY29tbWFuZCA9IENvbW1hbmQoImRvY2tlciBidWlsZCAtdCB7fSAtLWJ1aWxkLWFyZyBKQVJfRklMRTp7fS4iLmZvcm1hdChzZWxmLmJ1aWxkX2ltYWdlLCBzZWxmLnRhcmdldCkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcl9jbGllbnQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcGk6CiAgICAgICAgICAgIHNlbGYuYXBpID0gYXBpCg==</text>
+        <text encoding="base64">ICAgIGRvY2tlcl9jbGllbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcGk6CiAgICAgICAgICAgIHNlbGYuYXBpID0gYXBpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1102,10 +1102,10 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIERvY2tlckNsaWVudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCgogICAgZGVmIGJ1aWxkKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgRG9ja2VyQ2xpZW50Q2xpKCphcmdzLCAqKmt3YXJncykuYnVpbGQoKQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihEb2NrZXJDbGllbnRDbGksIHNlbGYpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">CmNsYXNzIERvY2tlckNsaWVudDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCgogICAgZGVmIGJ1aWxkKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgRG9ja2VyQ2xpZW50Q2xpKCphcmdzLCAqKmt3YXJncykuYnVpbGQoKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
