@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541663973101">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541665748297">
         <mark key="'" line="73" column="16" />
-        <mark key="[" line="74" column="0" />
+        <mark key="[" line="83" column="38" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
         <mark key="^" line="40" column="51" />
@@ -694,12 +694,12 @@
         <mark key="." line="46" column="5" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/config.py" timestamp="1541658397604">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/config.py" timestamp="1541666243587">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="53" />
-        <mark key="^" line="12" column="53" />
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="61" column="36" />
+        <mark key="." line="61" column="36" />
+        <mark key="^" line="61" column="36" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/devops/plus" timestamp="1540372713240">
         <mark key="[" line="3" column="0" />
@@ -857,7 +857,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541660543742">
+      <file name="/Dummy.txt" timestamp="1541663978322">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1056,11 +1056,11 @@
       <jump line="73" column="16" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoZWNrIGN1cnJlbnQgZGlyZWN0b3J5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>ini</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
