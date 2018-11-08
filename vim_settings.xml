@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541650344427">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541650927928">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/judge.json" timestamp="1540457128042">
         <mark key="[" line="24" column="25" />
@@ -357,6 +357,11 @@
         <mark key="." line="145" column="59" />
         <mark key="^" line="145" column="59" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/__init__.py" timestamp="1541651190520">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/k8s_config" timestamp="1541575865534">
         <mark key="'" line="9" column="14" />
         <mark key="[" line="0" column="0" />
@@ -577,9 +582,6 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/sync.py" timestamp="1541647739143">
-        <mark key="'" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/agent.json" timestamp="1540456456290">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="19" column="19" />
@@ -623,11 +625,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541649487791">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541651536973">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/aggregator.json" timestamp="1540456669955">
         <mark key="[" line="7" column="18" />
@@ -733,12 +735,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541648702282">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="60" column="6" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541651461526">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="91" column="74" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="92" column="21" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/settings.py" timestamp="1529478645439">
         <mark key="[" line="5" column="0" />
@@ -769,9 +771,6 @@
         <mark key="]" line="14" column="11" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
-      </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/flask_login.py" timestamp="1541645084431">
-        <mark key="'" line="945" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/qcloud_api/celery_app/supervisord/conf.d/celerybeat.conf" timestamp="1531798667624">
         <mark key="[" line="2" column="117" />
@@ -820,9 +819,6 @@
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/urls.py" timestamp="1541645110850">
-        <mark key="'" line="765" column="24" />
       </file>
       <file name="$USER_HOME$/project/learning_example/leetcode/code/easy/merge_two_sorted_ListNode.py" timestamp="1535123012781">
         <mark key="[" line="34" column="36" />
@@ -957,9 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="13" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="18" column="11" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="39" column="12" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="4" column="46" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="44" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="25" column="15" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
@@ -1057,13 +1050,16 @@
       <jump line="8" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
       <jump line="45" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
       <jump line="167" column="40" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_compat.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="77" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>text_type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
