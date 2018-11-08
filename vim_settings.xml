@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541649555076">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541650344427">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/judge.json" timestamp="1540457128042">
         <mark key="[" line="24" column="25" />
@@ -318,8 +318,8 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_compat.py" timestamp="1541645371050">
-        <mark key="'" line="189" column="37" />
+      <file name="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_compat.py" timestamp="1541650535357">
+        <mark key="'" line="167" column="40" />
       </file>
       <file name="$USER_HOME$/zhonghuan/code/k8s_api/start.py" timestamp="1540204775805">
         <mark key="[" line="14" column="90" />
@@ -853,12 +853,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" timestamp="1541648393981">
-        <mark key="'" line="60" column="8" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" timestamp="1541650572546">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1541648735496">
         <mark key="a" line="0" column="2" />
@@ -957,12 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/schema/plus.sql" />
-      <jump line="23" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/schema/plus.sql" />
-      <jump line="41" column="15" filename="$USER_HOME$/zhonghuan/code/python/pass_api/utils/helpers.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="6" column="24" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/views/main.py" />
       <jump line="38" column="13" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="18" column="11" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="39" column="12" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
@@ -1057,13 +1051,19 @@
       <jump line="92" column="4" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="76" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/manage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="14" column="23" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
+      <jump line="167" column="40" filename="$USER_HOME$/opt/virtualenv/flask_source_code/env/lib/python2.7/site-packages/werkzeug/_compat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>text_type</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
@@ -1075,25 +1075,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsKICAgICJVc2VyIgogICAgICAgICAgIF0K</text>
+        <text encoding="base64">ZGVmIHBhcnNlX3RhZyh0YWcpOgogICAgdGFnX2RpY3QgPSB1cmxsaWIucGFyc2UucGFyc2VfcXModGFnKQogICAgaWYgdGFnX2RpY3Q6CiAgICAgICAgY29wID0gdGFnX2RpY3QuZ2V0KCJjb3AiKQogICAgICAgIGdycCA9IHRhZ19kaWN0LmdldCgiZ3JwIikKICAgICAgICBzcnYgPSB0YWdfZGljdC5nZXQoInNydiIpCiAgICAgICAgZW52ID0gdGFnX2RpY3QuZ2V0KCJlbnYiKQogICAgICAgIGZvciBub2RlIGluIFtjb3AsIGdycCwgc3J2LCBlbnZdOgogICAgICAgICAgICBpZiBub3Qgbm9kZToKICAgICAgICAgICAgICAgIHJldHVybiB7fQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB0YWdfZGljdAogICAgZWxzZToKICAgICAgICByZXR1cm4ge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXR1cyBub3QgaW4gKCJOb3RTdGF0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
