@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541672995827">
-        <mark key="'" line="17" column="34" />
-        <mark key="[" line="126" column="16" />
-        <mark key="]" line="126" column="10" />
-        <mark key="." line="126" column="10" />
-        <mark key="^" line="126" column="10" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541673425175">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="150" column="16" />
+        <mark key="." line="150" column="16" />
+        <mark key="^" line="150" column="16" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/judge.json" timestamp="1540457128042">
         <mark key="[" line="24" column="25" />
@@ -644,11 +644,11 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541651536973">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="26" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541673291683">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="56" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/aggregator.json" timestamp="1540456669955">
         <mark key="[" line="7" column="18" />
@@ -978,8 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="15" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/controllers/dao.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/controllers/dao.py" />
       <jump line="97" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="4" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="74" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
@@ -1040,7 +1038,6 @@
       <jump line="60" column="23" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="92" column="4" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="76" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/manage.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
       <jump line="14" column="23" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
       <jump line="41" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
       <jump line="8" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/utils/helpers.py" />
@@ -1078,13 +1075,16 @@
       <jump line="8" column="24" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
       <jump line="116" column="21" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
       <jump line="17" column="34" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="150" column="16" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
