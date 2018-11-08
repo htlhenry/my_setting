@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541656538229">
-        <mark key="'" line="37" column="11" />
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="67" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" timestamp="1541658301231">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/judge.json" timestamp="1540457128042">
         <mark key="[" line="24" column="25" />
@@ -327,6 +326,7 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/utils/exc.py" timestamp="1541656640639" />
       <file name="$USER_HOME$/lingsi/code/python/plus_api/celery_app/supervisord/supervisord.conf" timestamp="1540450428409">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
@@ -427,12 +427,12 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" timestamp="1541649027635">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" timestamp="1541658431107">
         <mark key="'" line="97" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="25" column="17" />
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="89" column="30" />
+        <mark key="." line="89" column="30" />
+        <mark key="^" line="89" column="30" />
       </file>
       <file name="$USER_HOME$/zhonghuan/kubeasz/Note.md" timestamp="1539068199788">
         <mark key="[" line="0" column="0" />
@@ -693,12 +693,12 @@
         <mark key="." line="46" column="5" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/config.py" timestamp="1541648688633">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/configs/config.py" timestamp="1541658397604">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="58" column="33" />
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/hosts/devops/plus" timestamp="1540372713240">
         <mark key="[" line="3" column="0" />
@@ -856,17 +856,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541648735496">
+      <file name="/Dummy.txt" timestamp="1541658472654">
         <mark key="a" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/views/views.py" timestamp="1541647786646">
-        <mark key="'" line="66" column="23" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/__init__.py" timestamp="1541647982403" />
       <file name="$USER_HOME$/zhonghuan/docker/dockerfiles/java_dockerfile" timestamp="1540288650744">
@@ -884,6 +878,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/README.md" timestamp="1541658505394">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/plus_api/scripts/create_default_template.py" timestamp="1532499400517">
         <mark key="[" line="4" column="0" />
@@ -953,12 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="46" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="58" column="23" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="7" column="0" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
       <jump line="68" column="23" filename="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/api/v1/views/views.py" />
@@ -1053,13 +1047,19 @@
       <jump line="30" column="11" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
       <jump line="77" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="16" column="24" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
+      <jump line="47" column="93" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="6" column="13" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="59" column="17" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="60" column="17" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/k8s_deploy.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">5ZCM5pyN5Yqh5qCRQVBJCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>modify email confi</text>
       </register>
       <register name="/" type="4">
         <text>pass_api</text>
@@ -1068,34 +1068,34 @@
         <text encoding="base64">aW1wb3J0IHVybGxpYgoKUE9SVCA9IDgwMDAKClNFQ1JFVF9LRVkgPSAnSUZCNE5ENnBwT2NRSjI0b2xLZXM3TG1HVmh6SnBMaUI1TzNEbGFydFlwQUQzTFczR2knClNFQ1JFVF9JRCA9ICdNd3hvbG1KZE9RVFZJeU5mS2g4T3NzRUJLVE81amRaY2pNWkJXS1Y0eEljRkVHM0tRbScKClNRTEFMQ0hFTVlfVFJBQ0tfTU9ESUZJQ0FUSU9OUyA9IFRydWUKU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6aXpIcmtDczQyQVNuQ2V6SUAxMC4wLjMuNDkvcGFhcz9jaGFyc2V0PXV0ZjgiClNRTEFMQ0hFTVlfQ09NTUlUX09OX1RFQVJET1dOID0gVHJ1ZQoKREVCVUcgPSBUcnVlCgojIGxvZwpMT0dfRElSID0gJy9kYXRhL2xvZ3MvcGFhc19hcGknCkxPR19GT1JNQVQgPSAnJShhc2N0aW1lKXMgLSAlKGxldmVsbmFtZSlzIC0gJShmaWxlbmFtZSlzLWxpbmU6JShsaW5lbm8pZC1mdW5jOiUoZnVuY05hbWUpcyAtIG1zZzogJShtZXNzYWdlKXMnCgojIExEQVAKTERBUF9VUkwgPSAnbGRhcDovLzEwLjAuMy40NTozODknCkxEQVBfQURNSU4gPSAnY249TWFuYWdlcixkYz1hZXJvaHVhbnlvdSxkYz1jb20nCkxEQVBfQURNSU5fUEFTU1dPUkQgPSAnZGNjYXJUV0prOG1ibVpCaScKTERBUF9CQVNFX0ROID0gJ2RjPWFlcm9odWFueW91LGRjPWNvbScKTERBUF9VU0VSX0ROID0gJ2NuPXt9LG91PXBlb3BsZSxkYz1hZXJvaHVhbnlvdSxkYz1jb20nCgojIHN5bmMgZXhjbHVkZQpTWU5DX0VYQ0xVREUgPSAiLS1leGNsdWRlPS5naXQgLS1leGNsdWRlPS5wbHVzX2dpdF92ZXJzaW9uIgpERVBMT1lfQ09ORklHID0gIi5wbHVzX2RlcGxveS55bWwiCgojIGFwcHRyZWUKQVBQX1RSRUVfRE9NQUlOID0gJ2h0dHA6Ly9hcHB0cmVlLmFlcm9odWFueW91LmNvbScKCiMgcmVkaXMKUkVESVNfSE9TVCA9ICIxMC4wLjMuMzIiClJFRElTX1BPUlQgPSA2Mzc5ClJFRElTX1BBU1NXT1JEID0gJ2Nycy1lYjk0cmt5czpROXZuU0JxYnFYRjNPRWozJwoKIyBjZWxlcnkKQ0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly86e3Bhc3N3b3JkfUB7aG9zdG5hbWV9Ontwb3J0fS8yIi5mb3JtYXQoKip7CiAgICAicGFzc3dvcmQiOiB1cmxsaWIucGFyc2UucXVvdGUoUkVESVNfUEFTU1dPUkQpLAogICAgImhvc3RuYW1lIjogUkVESVNfSE9TVCwKICAgICJwb3J0IjogUkVESVNfUE9SVCwKfSkKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gQ0VMRVJZX0JST0tFUl9VUkwKCiMgTWFpbApNQUlMX1NFUlZFUiA9ICJod3NtdHAucWl5ZS4xNjMuY29tIgpNQUlMX1BPUlQgPSA5OTQKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wcy1ub3JlcGx5QGFlcm96aG9uZ2h1YW4uY29tJwpNQUlMX1BBU1NXT1JEID0gJzNqRU41OW5oRDlOaFl4NUonCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzLW5vcmVwbHlAYWVyb3pob25naHVhbi5jb20nCk1BSUxfU1VGRklYID0gJ0BhZXJvemhvbmdodWFuLmNvbScKCiMgT1BTCk9QUyA9IFsiaGFudGVuZ2xlaSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5ZCM5pyN5Yqh5qCRQVBJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRGVwbG95RXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX3RhZyh0YWcpOgogICAgdGFnX2RpY3QgPSB1cmxsaWIucGFyc2UucGFyc2VfcXModGFnKQogICAgaWYgdGFnX2RpY3Q6CiAgICAgICAgY29wID0gdGFnX2RpY3QuZ2V0KCJjb3AiKQogICAgICAgIGdycCA9IHRhZ19kaWN0LmdldCgiZ3JwIikKICAgICAgICBzcnYgPSB0YWdfZGljdC5nZXQoInNydiIpCiAgICAgICAgZW52ID0gdGFnX2RpY3QuZ2V0KCJlbnYiKQogICAgICAgIGZvciBub2RlIGluIFtjb3AsIGdycCwgc3J2LCBlbnZdOgogICAgICAgICAgICBpZiBub3Qgbm9kZToKICAgICAgICAgICAgICAgIHJldHVybiB7fQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB0YWdfZGljdAogICAgZWxzZToKICAgICAgICByZXR1cm4ge30K</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQ29tbWFuZFJ1bkVycm9yOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXR1cyBub3QgaW4gKCJOb3RTdGF0IikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwcCA9IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2l0X2NoZWNrb3V0ID0gQ29tbWFuZCgiZ2l0IGNoZWNrb3V0IC1mIHt9IikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2l0X3JlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Bhc3NfYXBpL3BhYXNfYXBpL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1131,7 +1131,6 @@
         <entry>pass_api</entry>
       </history-search>
       <history-cmd>
-        <entry>439</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW1fZGljdF9saXN0L3JpX2xpc3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2VuZF90aW1lL3N0YXJ0X3RpbWUvZw==</entry>
         <entry>123</entry>
@@ -1151,6 +1150,7 @@
         <entry encoding="base64">JzwsJz5zL2hhc2F0dHIvaGFza2V5L2c=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3Bhc3NfYXBpL3BhYXNfYXBpL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
