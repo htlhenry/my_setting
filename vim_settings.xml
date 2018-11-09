@@ -404,6 +404,9 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" timestamp="1541751046874">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/zhonghuan/code/python/paas_api/schema/plus.sql" timestamp="1541648099046">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -649,12 +652,12 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541751008100">
-        <mark key="'" line="51" column="7" />
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="56" column="32" />
-        <mark key="." line="56" column="32" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" timestamp="1541751487778">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="110" column="63" />
+        <mark key="]" line="110" column="62" />
+        <mark key="." line="110" column="62" />
+        <mark key="^" line="110" column="62" />
       </file>
       <file name="$USER_HOME$/devops/jenkins/roles/falcon-plus/templates/prod/aggregator.json" timestamp="1540456669955">
         <mark key="[" line="7" column="18" />
@@ -761,12 +764,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541750986955">
+      <file name="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" timestamp="1541751578382">
         <mark key="'" line="110" column="14" />
-        <mark key="[" line="125" column="14" />
-        <mark key="]" line="125" column="14" />
-        <mark key="." line="125" column="14" />
-        <mark key="^" line="130" column="39" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="129" column="39" />
       </file>
       <file name="$USER_HOME$/lingsi/code/python/app_tree/app/api/v1/settings.py" timestamp="1529478645439">
         <mark key="[" line="5" column="0" />
@@ -774,6 +777,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/lingsi/code/python/plus_api/app/models.py" timestamp="1541751090887" />
       <file name="$USER_HOME$/zhonghuan/code/python/pass_api/pass_api/models.py" timestamp="1541401171546">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="21" />
@@ -984,8 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
-      <jump line="32" column="82" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
       <jump line="36" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
       <jump line="35" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/lib/deploy_to_k8s.py" />
       <jump line="24" column="18" filename="$USER_HOME$/lingsi/code/python/plus_api/app/api/sync.py" />
@@ -1084,13 +1086,15 @@
       <jump line="110" column="14" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/views.py" />
       <jump line="101" column="38" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/models.py" />
       <jump line="51" column="7" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/lingsi/code/python/app_tree/app/models.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/zhonghuan/code/python/paas_api/paas_api/api/v1/views/dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJhcHBfc2Z0ZXJfc2F2YSA9PiB7fSIuZm9ybWF0KGFwcCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
@@ -1099,31 +1103,31 @@
         <text encoding="base64">aW1wb3J0IHVybGxpYgoKUE9SVCA9IDgwMDAKClNFQ1JFVF9LRVkgPSAnSUZCNE5ENnBwT2NRSjI0b2xLZXM3TG1HVmh6SnBMaUI1TzNEbGFydFlwQUQzTFczR2knClNFQ1JFVF9JRCA9ICdNd3hvbG1KZE9RVFZJeU5mS2g4T3NzRUJLVE81amRaY2pNWkJXS1Y0eEljRkVHM0tRbScKClNRTEFMQ0hFTVlfVFJBQ0tfTU9ESUZJQ0FUSU9OUyA9IFRydWUKU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6aXpIcmtDczQyQVNuQ2V6SUAxMC4wLjMuNDkvcGFhcz9jaGFyc2V0PXV0ZjgiClNRTEFMQ0hFTVlfQ09NTUlUX09OX1RFQVJET1dOID0gVHJ1ZQoKREVCVUcgPSBUcnVlCgojIGxvZwpMT0dfRElSID0gJy9kYXRhL2xvZ3MvcGFhc19hcGknCkxPR19GT1JNQVQgPSAnJShhc2N0aW1lKXMgLSAlKGxldmVsbmFtZSlzIC0gJShmaWxlbmFtZSlzLWxpbmU6JShsaW5lbm8pZC1mdW5jOiUoZnVuY05hbWUpcyAtIG1zZzogJShtZXNzYWdlKXMnCgojIExEQVAKTERBUF9VUkwgPSAnbGRhcDovLzEwLjAuMy40NTozODknCkxEQVBfQURNSU4gPSAnY249TWFuYWdlcixkYz1hZXJvaHVhbnlvdSxkYz1jb20nCkxEQVBfQURNSU5fUEFTU1dPUkQgPSAnZGNjYXJUV0prOG1ibVpCaScKTERBUF9CQVNFX0ROID0gJ2RjPWFlcm9odWFueW91LGRjPWNvbScKTERBUF9VU0VSX0ROID0gJ2NuPXt9LG91PXBlb3BsZSxkYz1hZXJvaHVhbnlvdSxkYz1jb20nCgojIHN5bmMgZXhjbHVkZQpTWU5DX0VYQ0xVREUgPSAiLS1leGNsdWRlPS5naXQgLS1leGNsdWRlPS5wbHVzX2dpdF92ZXJzaW9uIgpERVBMT1lfQ09ORklHID0gIi5wbHVzX2RlcGxveS55bWwiCgojIGFwcHRyZWUKQVBQX1RSRUVfRE9NQUlOID0gJ2h0dHA6Ly9hcHB0cmVlLmFlcm9odWFueW91LmNvbScKCiMgcmVkaXMKUkVESVNfSE9TVCA9ICIxMC4wLjMuMzIiClJFRElTX1BPUlQgPSA2Mzc5ClJFRElTX1BBU1NXT1JEID0gJ2Nycy1lYjk0cmt5czpROXZuU0JxYnFYRjNPRWozJwoKIyBjZWxlcnkKQ0VMRVJZX0JST0tFUl9VUkwgPSAicmVkaXM6Ly86e3Bhc3N3b3JkfUB7aG9zdG5hbWV9Ontwb3J0fS8yIi5mb3JtYXQoKip7CiAgICAicGFzc3dvcmQiOiB1cmxsaWIucGFyc2UucXVvdGUoUkVESVNfUEFTU1dPUkQpLAogICAgImhvc3RuYW1lIjogUkVESVNfSE9TVCwKICAgICJwb3J0IjogUkVESVNfUE9SVCwKfSkKQ0VMRVJZX1JFU1VMVF9CQUNLRU5EID0gQ0VMRVJZX0JST0tFUl9VUkwKCiMgTWFpbApNQUlMX1NFUlZFUiA9ICJod3NtdHAucWl5ZS4xNjMuY29tIgpNQUlMX1BPUlQgPSA5OTQKTUFJTF9VU0VfU1NMID0gVHJ1ZQpNQUlMX1VTRVJOQU1FID0gJ29wcy1ub3JlcGx5QGFlcm96aG9uZ2h1YW4uY29tJwpNQUlMX1BBU1NXT1JEID0gJzNqRU41OW5oRDlOaFl4NUonCk1BSUxfREVGQVVMVF9TRU5ERVIgPSAnb3BzLW5vcmVwbHlAYWVyb3pob25naHVhbi5jb20nCk1BSUxfU1VGRklYID0gJ0BhZXJvemhvbmdodWFuLmNvbScKCiMgT1BTCk9QUyA9IFsiaGFudGVuZ2xlaSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IGRhby5BcHBRdWVyeS5xdWVyeV9vbmUoYXBwX2lkKQogICAgaWYgbm90IGFwcDoKICAgICAgICByYWlzZSBJbnZhbGlkVXNhZ2UK</text>
+        <text encoding="base64">ICAgIHByaW50KCJhcHBfc2Z0ZXJfc2F2YSA9PiB7fSIuZm9ybWF0KGFwcCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQoYXBwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQoZW52X29iaikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHBhcmFtc19ub25lX2NoZWNrKFsiYXBwX2lkIiwgImdpdF9hZGRyIiwgImJ1aWxkX2NvbW1hbmQiLCAiaW1hZ2VfdmVyc2lvbiIsICJ0YXJnZXQiLCAiZW52X2NvbmZpZyJdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdfbG9nKCJhZnRlciBjb21taXQgYXBwIHRvIGRpY3QgPT4ge30iLmZvcm1hdChhcHAudG9fZGljdCgpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETyDmm7TmlrBjb25maWfmjqXlj6MK</text>
+        <text encoding="base64">ICAgIGFwcCA9IGRhby5BcHBRdWVyeS5xdWVyeV9vbmUoYXBwX2lkKQogICAgaWYgbm90IGFwcDoKICAgICAgICByYWlzZSBJbnZhbGlkVXNhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGIuc2Vzc2lvbi5hZGQoYXBwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudl9jb25maWdfYWZ0ZXJfdXBkYXRlCg==</text>
+        <text encoding="base64">QHBhcmFtc19ub25lX2NoZWNrKFsiYXBwX2lkIiwgImdpdF9hZGRyIiwgImJ1aWxkX2NvbW1hbmQiLCAiaW1hZ2VfdmVyc2lvbiIsICJ0YXJnZXQiLCAiZW52X2NvbmZpZyJdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBzdWM6CiAgICAgICAgcmFpc2UgSW52YWxpZFVzYWdlCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyDmm7TmlrBjb25maWfmjqXlj6MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGVudl9jb25maWdfYWZ0ZXJfdXBkYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xpc3QvZGljdC9n</text>
